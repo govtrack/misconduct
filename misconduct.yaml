@@ -75,10 +75,9 @@
     to Congress.
   allegation: arrested during a protest outside of the White House
   consequences:
-  - date: 2017-09-14
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
-  - date: ~
+  - date: 2017-09-14
     body: House Committee on Ethics
     action: recommended no action as the fine was paid
     link: https://www.gpo.gov/fdsys/pkg/CRPT-115hrpt310/pdf/CRPT-115hrpt310.pdf
@@ -92,11 +91,10 @@
   allegation: receiving profit from a foreign government; excess gifts; use of official
     funds for personal travel; used congressional staff for personal services
   consequences:
-  - date: 2017-09-11
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: referred the case to the House Committee on Ethics
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-madeleine-z-bordallo
-  - date: ~
+  - date: 2017-09-11
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-delegate-madelein-0
@@ -108,11 +106,10 @@
   allegation: compensating staff for work in 2016 not commensurate with pay with House
     of Representatives funds
   consequences:
-  - date: 2017-08-09
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: referred the case to the House Committee on Ethics
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-john-conyers
-  - date: ~
+  - date: 2017-08-09
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jo-0
@@ -126,11 +123,10 @@
     including requests for donations, using images of him in a “sit-in” demonstration
     in the House
   consequences:
-  - date: 2017-08-01
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-ben-ray-luj-n
-  - date: ~
+  - date: 2017-08-01
     body: House Committee on Ethics
     action: concluded that no action was needed
     link: http://ethics.house.gov/sites/ethics.house.gov/files/20170801%20Rep.%20Lujan%20Report%20-%20FINAL_1.pdf
@@ -145,11 +141,10 @@
   allegation: improperly taking official action in 2015 on a matter in which he had
     a personal financial interest
   consequences:
-  - date: 2017-08-01
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-roger-williams
-  - date: ~
+  - date: 2017-08-01
     body: House Committee on Ethics
     action: concluded that the Williams Amendment could have affected Representative
       Williams’ personal financial interests, however the totality of the circumstances
@@ -183,11 +178,10 @@
   allegation: converting funds from his congressional campaign committee for personal
     use
   consequences:
-  - date: 2017-03-23
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: referred the case to the House Committee on Ethics
     link: https://oce.house.gov/reports/investigations/oce-report-regarding-rep-duncan-d-hunter
-  - date: ~
+  - date: 2017-03-23
     body: House Committee on Ethics
     action: deferred to the Department of Justice
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative
@@ -200,11 +194,10 @@
   allegation: using campaign funds for a 2015 family trip which included some campaign
     activity
   consequences:
-  - date: 2017-01-03
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-marlin-stutzman
-  - date: ~
+  - date: 2017-01-03
     body: House Committee on Ethics
     action: recommended further review; however after Stutzman's loss in the 2016
       election, the investigation was ended
@@ -221,11 +214,10 @@
     and ownership of a hedge fund and law firms, omissions from his annual financial
     disclosure forms, and the use of official resources for unofficial purposes
   consequences:
-  - date: 2017-01-03
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-alan-grayson
-  - date: ~
+  - date: 2017-01-03
     body: House Committee on Ethics
     action: recommended further review; however due to a loss in the 2016 election,
       the investigation was ended
@@ -237,11 +229,10 @@
     Honda lost his 2016 election.
   allegation: using official resources for campaign purposes
   consequences:
-  - date: 2017-01-03
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-mike-honda
-  - date: ~
+  - date: 2017-01-03
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-14
@@ -259,10 +250,6 @@
     charges
   consequences:
   - date: 2016-03-23
-    body: House Office of Congressional Ethics
-    action: resolved
-    link: ''
-  - date: ~
     body: House Committee on Ethics
     action: has deferred to the Department of Justice
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-15
@@ -280,10 +267,6 @@
     to Congress
   consequences:
   - date: 2016-09-27
-    body: House Office of Congressional Ethics
-    action: resolved
-    link: ''
-  - date: ~
     body: House Committee on Ethics
     action: concluded McKinley violated House rules and issued a letter of reproval
     link: https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt795/pdf/CRPT-114hrpt795.pdf
@@ -295,11 +278,10 @@
   allegation: retaining an employee through 2015 who did not perform duties after
     2014 commensurate with the compensation the employee received
   consequences:
-  - date: 2016-08-16
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: referred the case to the House Committee on Ethics
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-mark-meadows
-  - date: ~
+  - date: 2016-08-16
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-mark-0
@@ -311,11 +293,10 @@
   allegation: permitting his spouse to lobby him and/or his congressional staff from
     2011 to 2014
   consequences:
-  - date: 2016-07-04
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-ed-whitfield
-  - date: ~
+  - date: 2016-07-04
     body: House Committee on Ethics
     action: found the violation occured & that the report would be the reproval
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ed-2
@@ -329,11 +310,10 @@
   allegation: improperly influencing a witness before the FEC and illegally reimbursing
     campaign contributors
   consequences:
-  - date: 2016-06-24
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-vern-buchanan-0
-  - date: ~
+  - date: 2016-06-24
     body: House Committee on Ethics
     action: concluded that there was insufficient evidence on the allegation of witness
       tampering, but that the illegal reimbursements did occur, albeit without the
@@ -352,10 +332,6 @@
     had been launched
   consequences:
   - date: 2016-06-24
-    body: House Office of Congressional Ethics
-    action: resolved
-    link: ''
-  - date: ~
     body: House Committee on Ethics
     action: ended the investigation when Fattah resigned
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-chak-0
@@ -380,11 +356,10 @@
     The House Committee on Ethics [concluded that no action was needed](https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt381/pdf/CRPT-114hrpt381.pdf).
   allegation: official endorsement of commercial products
   consequences:
-  - date: 2015-12-14
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-jared-polis
-  - date: ~
+  - date: 2015-12-14
     body: House Committee on Ethics
     action: concluded that no action was needed
     link: https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt381/pdf/CRPT-114hrpt381.pdf
@@ -418,11 +393,10 @@
   allegation: sexual harassment on the basis of a 2014 lawsuit filed against him alleging
     sexual harassment
   consequences:
-  - date: 2015-09-28
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-blake
-  - date: ~
+  - date: 2015-09-28
     body: House Committee on Ethics
     action: recommended further review, but to postphone that review until the lawsuit
       was resolved
@@ -440,11 +414,10 @@
   allegation: travel funded or organized by one or more entities prohibited from providing
     congressional travel
   consequences:
-  - date: 2015-07-31
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-michelle-lujan-grisham
-  - date: ~
+  - date: 2015-07-31
     body: House Committee on Ethics
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
@@ -458,11 +431,10 @@
   allegation: travel funded or organized by one or more entities prohibited from providing
     congressional travel
   consequences:
-  - date: 2015-07-31
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-gregory-meeks
-  - date: ~
+  - date: 2015-07-31
     body: House Committee on Ethics
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
@@ -476,11 +448,10 @@
   allegation: travel funded or organized by one or more entities prohibited from providing
     congressional travel
   consequences:
-  - date: 2015-07-31
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-ted-poe
-  - date: ~
+  - date: 2015-07-31
     body: House Committee on Ethics
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
@@ -494,11 +465,10 @@
   allegation: travel funded or organized by one or more entities prohibited from providing
     congressional travel
   consequences:
-  - date: 2015-07-31
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-james-bridenstine
-  - date: ~
+  - date: 2015-07-31
     body: House Committee on Ethics
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
@@ -512,11 +482,10 @@
   allegation: travel funded or organized by one or more entities prohibited from providing
     congressional travel
   consequences:
-  - date: 2015-07-31
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-yvette-clarke
-  - date: ~
+  - date: 2015-07-31
     body: House Committee on Ethics
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
@@ -530,11 +499,10 @@
   allegation: travel funded or organized by one or more entities prohibited from providing
     congressional travel
   consequences:
-  - date: 2015-07-31
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-danny-k-davis
-  - date: ~
+  - date: 2015-07-31
     body: House Committee on Ethics
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
@@ -548,11 +516,10 @@
   allegation: travel funded or organized by one or more entities prohibited from providing
     congressional travel
   consequences:
-  - date: 2015-07-31
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-sheila-jackson-lee
-  - date: ~
+  - date: 2015-07-31
     body: House Committee on Ethics
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
@@ -566,11 +533,10 @@
   allegation: travel funded or organized by one or more entities prohibited from providing
     congressional travel
   consequences:
-  - date: 2015-07-31
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-leonard-lance
-  - date: ~
+  - date: 2015-07-31
     body: House Committee on Ethics
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
@@ -585,11 +551,10 @@
   allegation: travel funded or organized by one or more entities prohibited from providing
     congressional travel
   consequences:
-  - date: 2015-07-31
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-ruben-hinojosa
-  - date: ~
+  - date: 2015-07-31
     body: House Committee on Ethics
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
@@ -605,11 +570,10 @@
     of improper use of campaign funds. His trial is set to begin in January 2018.
   allegation: soliciting campaign contributions in excess of legally allowed amounts
   consequences:
-  - date: 2015-03-31
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-aaron-schock
-  - date: ~
+  - date: 2015-03-31
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-aaro-0
@@ -622,11 +586,10 @@
     Broun lost his 2014 election.
   allegation: using official resources for campaign purposes
   consequences:
-  - date: 2015-01-02
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-paul-broun
-  - date: ~
+  - date: 2015-01-02
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-paul-0
@@ -639,11 +602,10 @@
     Bachmann did not seek reelection in 2014.
   allegation: campaign finance violations
   consequences:
-  - date: 2015-01-02
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-michele-bachmann
-  - date: ~
+  - date: 2015-01-02
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-6
@@ -658,11 +620,10 @@
   allegation: soliciting campaign contributions in exchange for constituent services
     in 2012
   consequences:
-  - date: 2015-01-02
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-tim-bishop
-  - date: ~
+  - date: 2015-01-02
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tim-1
@@ -677,11 +638,10 @@
   allegation: performing official work on behalf of companies in which he had a financial
     interest from 2008 to 2013
   consequences:
-  - date: 2014-12-11
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-thomas-petri
-  - date: ~
+  - date: 2014-12-11
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tom-1
@@ -695,11 +655,10 @@
     behavior"](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-alce-1).
   allegation: sexual harassment and employment retaliation
   consequences:
-  - date: 2014-12-11
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-alcee-hastings-0
-  - date: ~
+  - date: 2014-12-11
     body: House Committee on Ethics
     action: concluded that there was insufficient evidence to act further even though
       the representative admitted to "less than professional behavior"
@@ -715,10 +674,6 @@
   allegation: 2011 compensation from banks on whose behalf he advocated
   consequences:
   - date: 2014-12-11
-    body: House Office of Congressional Ethics
-    action: resolved
-    link: ''
-  - date: ~
     body: House Committee on Ethics
     action: concluded that Gingrey did advocate for banks in which he had a financial
       interest and issued a letter of reproval
@@ -736,10 +691,6 @@
     the investigation
   consequences:
   - date: 2014-12-11
-    body: House Office of Congressional Ethics
-    action: resolved
-    link: ''
-  - date: ~
     body: House Committee on Ethics
     action: concluded that the campaign work occured without her knowledge but because
       Chu attempted to obstruct the investigation, a letter of reproval was issued
@@ -763,10 +714,6 @@
     allegations
   consequences:
   - date: 2014-11-26
-    body: House Office of Congressional Ethics
-    action: resolved
-    link: ''
-  - date: ~
     body: House Committee on Ethics
     action: deferred to the Department of Justice
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-12
@@ -781,11 +728,10 @@
     review](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-bobb-0).
   allegation: allowing state and federal campaign committees to accept in-kind contributions
   consequences:
-  - date: 2014-11-10
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: referred the case to the House Committee on Ethics
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-bobby-rush
-  - date: ~
+  - date: 2014-11-10
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-bobb-0
@@ -797,10 +743,6 @@
   allegation: an arrest at a 2014 protest in Wisconsin
   consequences:
   - date: 2014-09-11
-    body: House Office of Congressional Ethics
-    action: resolved
-    link: ''
-  - date: ~
     body: House Committee on Ethics
     action: concluded that the fines would be paid and no further investigation was
       required
@@ -812,13 +754,7 @@
     accepted travel gifts and issued a letter of reproval](https://ethics.house.gov/committee-report/matter-representative-don-young).
   allegation: improper travel gifts and failure to disclose them
   consequences:
-  - date: '2014'
-    text: received a letter of reproval for
   - date: 2014-06-20
-    body: House Office of Congressional Ethics
-    action: resolved
-    link: ''
-  - date: ~
     body: House Committee on Ethics
     action: concluded Young had improperly accepted travel gifts and issued a letter
       of reproval
@@ -833,11 +769,10 @@
   allegation: conspiring to accept contributions to his congressional campaign committee
     from individuals who were employed by his congressional office
   consequences:
-  - date: 2014-06-11
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-steve-stockman
-  - date: ~
+  - date: 2014-06-11
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-stev-0
@@ -857,11 +792,10 @@
     to his congressional office that more closely resemble those provided by an employee
     or consultant, rather than a contractor'
   consequences:
-  - date: 2014-05-05
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: referred the case to the House Committee on Ethics
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-luis-gutierrez
-  - date: ~
+  - date: 2014-05-05
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-luis-0
@@ -879,11 +813,10 @@
     combining official resources and campaign resources in furtherance of a campaign
     for a House leadership office from 2010 to 2012
   consequences:
-  - date: 2014-03-24
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: referred the case to the House Committee on Ethics
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-cathy-mcmorris-rodgers
-  - date: ~
+  - date: 2014-03-24
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-cath-0
@@ -897,11 +830,10 @@
     as part of outside employment and serving as a board member or officer for outside
     companies
   consequences:
-  - date: 2014-03-24
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: referred the case to the House Committee on Ethics
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-markwayne-mullin
-  - date: ~
+  - date: 2014-03-24
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-9
@@ -912,10 +844,9 @@
     In 2014, Andrews resigned from Congress.
   allegation: improper use of campaign funds for personal use
   consequences:
-  - date: 2014-02-18
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
-  - date: ~
+  - date: 2014-02-18
     body: House Committee on Ethics
     action: established an independent subcommittee
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-robe-1
@@ -930,10 +861,9 @@
   consequences:
   - date: '2013'
     text: Pleaded guilty.
-  - date: 2014-01-29
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
-  - date: ~
+  - date: 2014-01-29
     body: House Committee on Ethics
     action: ended the investigation when Radel resigned
     link: https://ethics.house.gov/press-release/statement-regarding-investigative-subcommittee-matter-representative-henry-j-%E2%80%9Ctrey%E2%80%9D
@@ -946,11 +876,10 @@
     to show that the travel was improper](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-allegations-relatin-0).
   allegation: accepting impermissible travel gifts in 2011
   consequences:
-  - date: 2013-11-15
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-peter-roskam
-  - date: ~
+  - date: 2013-11-15
     body: House Committee on Ethics
     action: concluded that there was insufficient evidence to show that the travel
       was improper
@@ -963,11 +892,10 @@
     Owens did not seek reelection in 2014.
   allegation: accepting impermissible travel gifts in 2011
   consequences:
-  - date: 2013-11-15
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-bill-owens
-  - date: ~
+  - date: 2013-11-15
     body: House Committee on Ethics
     action: concluded that the gift was impermissible, but since Owens repaid the
       funds, the investigation was closed
@@ -988,11 +916,10 @@
     to Congress and to the IRS because Tierney claimed it was actually a gift from
     his brother-in-law
   consequences:
-  - date: 2013-09-11
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-john-tierney
-  - date: ~
+  - date: 2013-09-11
     body: House Committee on Ethics
     action: concluded that there was insufficient evidence to show that the funds
       were income and not gifts and that no further action was needed
@@ -1009,11 +936,10 @@
     Reyes lost the 2012 election.
   allegation: improper use of campaign funds for personal use
   consequences:
-  - date: 2013-01-03
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-silvestre-reyes
-  - date: ~
+  - date: 2013-01-03
     body: House Committee on Ethics
     action: published the OCE findings
     link: https://ethics.house.gov/press-release/statement-ot-chairman-and-ranking-member-committee-ethics-regarding-representative
@@ -1028,11 +954,10 @@
     In 2012, Representative Berkley lost reelection.
   allegation: advocating for programs in which she had a financial interest from 2008-2010
   consequences:
-  - date: 2012-12-20
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-shelley-berkley
-  - date: ~
+  - date: 2012-12-20
     body: House Committee on Ethics
     action: found that the representative had indeed advocated for some programs in
       which she had a financial interest
@@ -1048,11 +973,10 @@
   allegation: failing to disclose a gift in 2007 and receiving a loan on terms not
     available to the general public in 2010
   consequences:
-  - date: 2012-12-20
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-gregory-meeks-0
-  - date: ~
+  - date: 2012-12-20
     body: House Committee on Ethics
     action: dismissed the loan allegation, but found the representative unknowingly
       failed to properly disclose the gifts
@@ -1065,10 +989,6 @@
   allegation: charges of public intoxication in 2012
   consequences:
   - date: 2012-12-20
-    body: House Office of Congressional Ethics
-    action: resolved
-    link: ''
-  - date: ~
     body: House Committee on Ethics
     action: concluded no action was required as the charges in VA were dismissed
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tim
@@ -1082,11 +1002,10 @@
     Congressional Ethics had investigated allegations that he had bought his appointment
     to Congress from Rod Blagojevich
   consequences:
-  - date: 2012-11-21
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-jesse-jackson-jr
-  - date: ~
+  - date: 2012-11-21
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jess-0
@@ -1103,11 +1022,10 @@
   allegation: a conflict of interest with respect to meetings with a bank in which
     she had a financial interest
   consequences:
-  - date: 2012-09-21
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-waters
-  - date: ~
+  - date: 2012-09-21
     body: House Committee on Ethics
     action: concluded that Representative Waters' chief of state was at fault for
       creating the appearance of conflict, but Waters was not
@@ -1122,11 +1040,10 @@
   allegation: failing to report positions he held with outside companies and to report
     unearned income from 2007 to 2010
   consequences:
-  - date: 2012-07-10
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-vern-buchanan
-  - date: ~
+  - date: 2012-07-10
     body: House Committee on Ethics
     action: concluded that the representative unknowingly failed to disclose positions
       in outside companies and unearned income They were satisfied when the representative
@@ -1148,10 +1065,9 @@
   consequences:
   - date: '2012'
     text: received a qualified admonishment for
-  - date: 2012-05-25
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
-  - date: ~
+  - date: 2012-05-25
     body: Senate Select Committee on Ethics
     action: issued a qualified admonishment because the senator acknowledged his error
       and it was only a single meeting
@@ -1169,10 +1085,9 @@
     of the Interior in exchange for dropping his block on a proposed salary increase
     for the Secretary
   consequences:
-  - date: 2012-03-30
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
-  - date: ~
+  - date: 2012-03-30
     body: Senate Select Committee on Ethics
     action: dismissed the charges because there did not appear to be any Senate rule
       or any law in place prohibiting Vitter's actions
@@ -1188,11 +1103,10 @@
     be a problem going forward](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-don).
   allegation: accepting campaign contributions in excess of legal limits
   consequences:
-  - date: 2011-12-20
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-don-young
-  - date: ~
+  - date: 2011-12-20
     body: House Committee on Ethics
     action: dismissed the allegations, but also changed House rules to indicate that
       the activites in the allegations would be a problem going forward
@@ -1207,10 +1121,9 @@
   allegation: having been arrested during a protest outside of the White House in
     2011
   consequences:
-  - date: 2011-08-05
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
-  - date: ~
+  - date: 2011-08-05
     body: House Committee on Ethics
     action: recommended no action as the fine has been paid
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-regarding-representative-luis-v-gutierrez
@@ -1229,11 +1142,10 @@
   allegation: receiving over $500,000 in gifts as legal services without having established
     a legal services fund as required and for failing to properly disclose the gifts
   consequences:
-  - date: 2011-08-05
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-schmidt
-  - date: ~
+  - date: 2011-08-05
     body: House Committee on Ethics
     action: found the legal services were impermissble and that the representative
       was unaware of this, but that the committee would be satisfied if the representative
@@ -1254,10 +1166,6 @@
   allegation: '[sexual harassment](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/13/AR2010041302257.html)'
   consequences:
   - date: 2011-07-15
-    body: House Office of Congressional Ethics
-    action: unknown
-    link: ''
-  - date: ~
     body: House Committee on Ethics
     action: reauthorized an investigative subcommittee
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-regarding-former-representative-eric-massa
@@ -1278,10 +1186,6 @@
   allegation: violating lobbying rules in order to cover up an affair
   consequences:
   - date: 2011-05-03
-    body: House Office of Congressional Ethics
-    action: resolved
-    link: ''
-  - date: ~
     body: Senate Select Committee on Ethics
     action: referred the matter to the Department of Justice and the Federal Election
       Commission
@@ -1298,11 +1202,10 @@
   allegation: soliciting campaign contributions from entities affected by legislation
     then under consideration in 2009
   consequences:
-  - date: 2011-01-26
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-crowley
-  - date: ~
+  - date: 2011-01-26
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-member-regarding-representatives-john-campbell
@@ -1317,11 +1220,10 @@
   allegation: soliciting campaign contributions from entities affected by legislation
     then under consideration in 2009
   consequences:
-  - date: 2011-01-26
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-tom-price
-  - date: ~
+  - date: 2011-01-26
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-member-regarding-representatives-john-campbell
@@ -1338,11 +1240,10 @@
   allegation: soliciting campaign contributions from entities affected by legislation
     then under consideration in 2009
   consequences:
-  - date: 2011-01-26
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-campbell
-  - date: ~
+  - date: 2011-01-26
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-member-regarding-representatives-john-campbell
@@ -1356,11 +1257,10 @@
   allegation: keeping the difference between his requested travel per diems and the
     amount he actually spent
   consequences:
-  - date: 2010-12-31
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-butterfield
-  - date: ~
+  - date: 2010-12-31
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives
@@ -1372,11 +1272,10 @@
   allegation: keeping the difference between his requested travel per diems and the
     amount he actually spent
   consequences:
-  - date: 2010-12-31
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-alcee-hastings
-  - date: ~
+  - date: 2010-12-31
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives
@@ -1389,11 +1288,10 @@
   allegation: keeping the difference between his requested travel per diems and the
     amount he actually spent
   consequences:
-  - date: 2010-12-31
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-ortiz
-  - date: ~
+  - date: 2010-12-31
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives
@@ -1407,11 +1305,10 @@
   allegation: keeping the difference between his requested travel per diems and the
     amount he actually spent
   consequences:
-  - date: 2010-12-31
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-wilson
-  - date: ~
+  - date: 2010-12-31
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives
@@ -1423,11 +1320,10 @@
   allegation: keeping the difference between his requested travel per diems and the
     amount he actually spent
   consequences:
-  - date: 2010-12-31
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-aderholt
-  - date: ~
+  - date: 2010-12-31
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives
@@ -1439,11 +1335,10 @@
   allegation: keeping the difference between his requested travel per diems and the
     amount he actually spent
   consequences:
-  - date: 2010-12-31
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-engel
-  - date: ~
+  - date: 2010-12-31
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives
@@ -1454,10 +1349,9 @@
     In 2016, Representative Rangel did not seek reelection.
   allegation: ethics violations and tax evasion
   consequences:
-  - date: 2010-11-29
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
-  - date: ~
+  - date: 2010-11-29
     body: House Committee on Ethics
     action: recommended censure
     link: https://ethics.house.gov/committee-report/matter-representative-charles-b-rangel
@@ -1477,11 +1371,10 @@
   allegation: violating gift and financial disclosure rules with respect to her home,
     its foreclosure and yard work from 2007 to 2008
   consequences:
-  - date: 2010-06-30
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-richardson
-  - date: ~
+  - date: 2010-06-30
     body: House Committee on Ethics
     action: concluded that Representative Richardson did not knowingly receive and/or
       fail to disclose gifts with respect to her home, its foreclosure or yard work
@@ -1512,11 +1405,10 @@
     In 2014, Christensen did not seek reelection.
   allegation: receiving impermissible gifts of travel
   consequences:
-  - date: 2010-02-26
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-del-christensen
-  - date: ~
+  - date: 2010-02-26
     body: House Committee on Ethics
     action: concluded Representative Christensen did not knowingly accept impermissble
       travel gifts
@@ -1531,11 +1423,10 @@
     In 2010, Representative Kilpatrick lost the Democratic primary.
   allegation: receiving impermissible gifts of travel
   consequences:
-  - date: 2010-02-26
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-kilpatrick
-  - date: ~
+  - date: 2010-02-26
     body: House Committee on Ethics
     action: concluded Representative Kilpatrick did not knowingly accept impermissble
       travel gifts
@@ -1549,11 +1440,10 @@
     accept impermissble travel gifts](https://ethics.house.gov/committee-report/matter-carib-news-foundation).
   allegation: receiving impermissible gifts of travel
   consequences:
-  - date: 2010-02-26
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-payne
-  - date: ~
+  - date: 2010-02-26
     body: House Committee on Ethics
     action: concluded Representative Payne did not knowingly accept impermissble travel
       gifts
@@ -1565,11 +1455,10 @@
     travel gifts and ordered him to repay them](https://ethics.house.gov/committee-report/matter-carib-news-foundation).
   allegation: receiving impermissible gifts of travel
   consequences:
-  - date: 2010-02-26
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-rangel
-  - date: ~
+  - date: 2010-02-26
     body: House Committee on Ethics
     action: concluded Representative Rangel did knowingly accept impermissble travel
       gifts and ordered him to repay them
@@ -1581,11 +1470,10 @@
     travel gifts](https://ethics.house.gov/committee-report/matter-carib-news-foundation).
   allegation: receiving impermissible gifts of travel
   consequences:
-  - date: 2010-02-26
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-bennie-thompson
-  - date: ~
+  - date: 2010-02-26
     body: House Committee on Ethics
     action: concluded Representative Thompson did not knowingly accept impermissble
       travel gifts
@@ -1597,11 +1485,10 @@
     In 2010, Representative Tiahrt ran for the Senate and lost.
   allegation: soliciting campaign contributions in exchange for legislative outcomes
   consequences:
-  - date: 2010-02-26
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-tiahrt
-  - date: ~
+  - date: 2010-02-26
     body: House Committee on Ethics
     action: dismissed the charges
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
@@ -1614,11 +1501,10 @@
     charges](https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates).
   allegation: soliciting campaign contributions in exchange for legislative outcomes
   consequences:
-  - date: 2010-02-26
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-visclosky
-  - date: ~
+  - date: 2010-02-26
     body: House Committee on Ethics
     action: dismissed the charges on the OCE's recommendation
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
@@ -1629,11 +1515,10 @@
     In 2012, Dicks did not seek reelection.
   allegation: soliciting campaign contributions in exchange for legislative outcomes
   consequences:
-  - date: 2010-02-26
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-for-dismissal-regarding-rep-dicks
-  - date: ~
+  - date: 2010-02-26
     body: House Committee on Ethics
     action: dismissed the charges on the OCE's recommendation
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
@@ -1645,11 +1530,10 @@
     for legislative outcomes. The House Committee on Ethics [dismissed the charges](https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates).
   allegation: soliciting campaign contributions in exchange for legislative outcomes
   consequences:
-  - date: 2010-02-26
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-for-dismissal-regarding-rep-kaptur
-  - date: ~
+  - date: 2010-02-26
     body: House Committee on Ethics
     action: dismissed the charges on the OCE's recommendation
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
@@ -1660,11 +1544,10 @@
     In 2014, Representative Moran announced he would not seek reelection.
   allegation: soliciting campaign contributions in exchange for legislative outcomes
   consequences:
-  - date: 2010-02-26
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-for-dismissal-regarding-rep-moran
-  - date: ~
+  - date: 2010-02-26
     body: House Committee on Ethics
     action: dismissed the charges on the OCE's recommendation
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
@@ -1677,11 +1560,10 @@
     On February 8, 2010, Representative Murtha died.
   allegation: soliciting campaign contributions in exchange for legislative outcomes
   consequences:
-  - date: 2010-02-26
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-for-dismissal-regarding-rep-murtha
-  - date: ~
+  - date: 2010-02-26
     body: House Committee on Ethics
     action: dismissed the charges on the OCE's recommendation
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
@@ -1694,11 +1576,10 @@
     On October 18, 2013, Representative Young died.
   allegation: soliciting campaign contributions in exchange for legislative outcomes
   consequences:
-  - date: 2010-02-26
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-for-dismissal-regarding-rep-young
-  - date: ~
+  - date: 2010-02-26
     body: House Committee on Ethics
     action: dismissed the charges on the OCE's recommendation
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
@@ -1712,11 +1593,10 @@
     In 2012, Representative Stark announced his retirement from Congress.
   allegation: claiming tax credits for a residence which was not his primary residence
   consequences:
-  - date: 2010-01-28
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-representative-stark
-  - date: ~
+  - date: 2010-01-28
     body: House Committee on Ethics
     action: dismissed the charges as Representative Stark neither sought credits improperly
       nor did he receive them
@@ -1737,10 +1617,6 @@
     to Blagojevich's brother's campaign and Burris's senate appointment
   consequences:
   - date: 2009-11-20
-    body: House Office of Congressional Ethics
-    action: resolved
-    link: ''
-  - date: '2009'
     body: Senate Select Committee on Ethics
     action: issued a qualified admonishment because while they did not find evidence
       of crimes, Burris' own comments were misleading with respect to what he promised
@@ -1756,11 +1632,10 @@
     not act improperly](https://ethics.house.gov/committee-report/matter-representative-sam-graves).
   allegation: inviting improper hearing witnesses
   consequences:
-  - date: 2009-10-29
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-representative-graves
-  - date: ~
+  - date: 2009-10-29
     body: House Committee on Ethics
     action: dismissed the charges as Representative Graves did not act improperly
     link: https://ethics.house.gov/committee-report/matter-representative-sam-graves
@@ -1774,10 +1649,9 @@
   allegation: receiving mortgages from Countrywide Financial in violation of Senate
     gift rules
   consequences:
-  - date: 2009-08-07
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
-  - date: ~
+  - date: 2009-08-07
     body: Senate Select Committee on Ethics
     action: dismssed the charges because the loans were not part of a program specifically
       benefiting senators
@@ -1794,10 +1668,9 @@
   allegation: receiving mortgages from Countrywide Financial in violation of Senate
     gift rules
   consequences:
-  - date: 2009-08-07
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
-  - date: ~
+  - date: 2009-08-07
     body: Senate Select Committee on Ethics
     action: dismssed the charges because the loans were not part of a program specifically
       benefiting senators
@@ -1814,10 +1687,9 @@
   consequences:
   - date: '2013'
     text: Convicted.
-  - date: 2008-05-22
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
-  - date: ~
+  - date: 2008-05-22
     body: House Committee on Ethics
     action: deferred to the Department of Justice
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Press%20Statement%20Renzi.pdf
@@ -1834,10 +1706,9 @@
     again for the Senate.
   allegation: hiring prostitutes
   consequences:
-  - date: 2008-05-08
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
-  - date: ~
+  - date: 2008-05-08
     body: Senate Select Committee on Ethics
     action: dismissed the charges because the solicitation happened before his Senate
       term, did not involve public funds and did not result in criminal charges
@@ -1855,10 +1726,9 @@
     the end of his term.
   allegation: accused of attempting to influence a federal investigation
   consequences:
-  - date: 2008-04-24
-    body: House Office of Congressional Ethics
+  - body: House Office of Congressional Ethics
     action: resolved
-  - date: ~
+  - date: 2008-04-24
     body: Senate Select Committee on Ethics
     action: issued a qualified admonishment because while they found no evidence of
       wrongdoing, the senator should have known how it would look
@@ -1871,7 +1741,7 @@
   text: In 2007 Craig pleaded guilty to using his status to receive special treatment
     and using campaign funds to pay legal expenses stemming from an arrest and guilty
     plea on disorderly conduct at the Minneapolis-St. Paul airport. The Senate Select
-    Committee on Ethics [admonished the Senator on both counts](https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=ED41D9EA-3E36-4D89-9FAC-8CABA610D07A).
+    Committee on Ethics [admonished the senator on both counts](https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=ED41D9EA-3E36-4D89-9FAC-8CABA610D07A).
     In 2007, Senator Craig was arrested for lewd conduct pleaded to disorderly conduct
     and subsequently attempted to withdraw his guilty plea. He retired at the end
     of his term in 2008 and [as of 2016](https://en.wikipedia.org/wiki/Larry_Craig#2007_arrest_and_consequences)
@@ -1884,12 +1754,8 @@
   - date: '2007'
     text: pleaded guilty
   - date: 2008-02-13
-    body: House Office of Congressional Ethics
-    action: resolved
-    link: ''
-  - date: ~
     body: Senate Select Committee on Ethics
-    action: admonished the Senator on both counts
+    action: admonished the senator on both counts
     link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=ED41D9EA-3E36-4D89-9FAC-8CABA610D07A
   - date: '2007'
     text: Senator Craig was arrested for lewd conduct pleaded to disorderly conduct
@@ -1905,8 +1771,8 @@
   allegation: making false statements
   consequences:
   - date: '2008'
-    text: convicted
-  - date: ~
+    text: Stevens was convicted and lost reelection.
+  - date: '2009'
     text: Prior to sentencing in 2009, the indictment was dismissed.
-  - date: ~
-    text: Stevens lost the 2008 election and died in 2010.
+  - date: '2010'
+    text: Stevens died.
