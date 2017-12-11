@@ -1,10 +1,14 @@
 - person: 400141
   name: Trent Franks
   text: In 2017, Franks resigned due to reports that he had asked staff members to carry his surrogate child and had offered one staffer $5 million dollars to impregnate her via intercourse.
-  allegation: sexual harassment
+  allegation: reports that he had asked staff members to carry his surrogate child and had offered one staffer $5 million dollars to impregnate her via intercourse
   consequences:
+  - date: 2017-12-07
+    body: House Committee on Ethics
+    action: opened an investigation
+    link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-4
   - date: 2017-12-09
-    action: resigned before an investigation could begin
+    text: resigned before an investigation could begin
     link: https://www.politico.com/story/2017/12/08/trent-franks-sex-surrogacy-impregnate-287808
 - person: 412378
   name: Al Franken
@@ -396,8 +400,7 @@
     lawsuit was resolved](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-blake).
     The [lawsuit was resolved in 2015](http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court)
     with a [taxpayer-funded settlement](https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458)
-    that was revealed in 2017, but the investigation does not appear to have been
-    formally concluded.
+    that was revealed in 2017, and the investigation was re-opened.
   allegation: sexual harassment on the basis of a 2014 lawsuit filed against him alleging
     sexual harassment
   consequences:
@@ -413,6 +416,10 @@
     text: The [lawsuit was resolved](http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court)
       with a [taxpayer-funded settlement](https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458)
       that was revealed in 2017.
+  - date: 2017-12-07
+    body: House Committee on Ethics
+    action: re-opened the investigation
+    link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-5
 - person: 412558
   name: Michelle Lujan Grisham
   text: In 2015 Grisham was investigated for travel funded or organized by one or
