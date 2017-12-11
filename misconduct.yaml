@@ -173,15 +173,17 @@
     text: pleaded guilty
 - person: 400297
   name: Devin Nunes
-  text: In 2017 Nunes was investigated for unauthorized disclosures of classified
-    information. The current status of the investigation is active as of 4/6/2017.
-    The House Committee on Ethics [is still conducting its initial review](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-0).
+  text: In 2017 Nunes was investigated for unauthorized disclosures of classified information. The [investigation is closed](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-6) as of 12/07/2017.
   allegation: unauthorized disclosures of classified information
   consequences:
   - date: 2017-04-06
     body: House Committee on Ethics
     action: is conducting its initial review
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-0
+  - date: 2017-12-07
+    body: House Committee on Ethics
+    action: closed the investigation
+    link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-6
 - person: 412283
   name: Duncan Hunter
   text: In 2016 Hunter was investigated for converting funds from his congressional
@@ -1714,7 +1716,7 @@
     text: Renzi was convicted and sentenced to serve three years in prison.
 - person: 400418
   name: David Vitter
-  text: In 2008 VItter was investigated for hiring prostitutes. The Senate Select
+  text: In 2008 Vitter was investigated for hiring prostitutes. The Senate Select
     Committee on Ethics [dismissed the charges because the solicitation happened before
     his Senate term, did not involve public funds and did not result in criminal charges](https://www.ethics.senate.gov/public/index.cfm/letterstomembers?ID=4609ED24-76A6-40DD-AF03-33131E8A284C).
     In 2014, Senator Vitter lost the election for Louisiana Governor and did not run
