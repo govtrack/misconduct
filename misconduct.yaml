@@ -1,3 +1,11 @@
+- person: 400141
+  name: Trent Franks
+  text: In 2017, Franks resigned due to reports that he had asked staff members to carry his surrogate child and had offered one staffer $5 million dollars to impregnate her via intercourse.
+  allegation: sexual harassment
+  consequences:
+  - date: 2017-12-09
+    action: resigned before an investigation could begin
+    link: https://www.politico.com/story/2017/12/08/trent-franks-sex-surrogacy-impregnate-287808
 - person: 412378
   name: Al Franken
   text: In 2017 Franken announced his resignation due to allegations of sexual harassment.
