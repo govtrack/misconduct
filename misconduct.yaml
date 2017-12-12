@@ -1,7 +1,10 @@
 - person: 400141
   name: Trent Franks
-  text: In 2017, Franks resigned due to reports that he had asked staff members to carry his surrogate child and had offered one staffer $5 million dollars to impregnate her via intercourse.
-  allegation: reports that he had asked staff members to carry his surrogate child and had offered one staffer $5 million dollars to impregnate her via intercourse
+  text: In 2017, Franks resigned due to reports that he had asked staff members to
+    carry his surrogate child and had offered one staffer $5 million dollars to impregnate
+    her via intercourse.
+  allegation: reports that he had asked staff members to carry his surrogate child
+    and had offered one staffer $5 million dollars to impregnate her via intercourse
   consequences:
   - date: 2017-12-07
     body: House Committee on Ethics
@@ -173,7 +176,9 @@
     text: pleaded guilty
 - person: 400297
   name: Devin Nunes
-  text: In 2017 Nunes was investigated for unauthorized disclosures of classified information. The [investigation is closed](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-6) as of 12/07/2017.
+  text: In 2017 Nunes was investigated for unauthorized disclosures of classified
+    information. The [investigation is closed](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-6)
+    as of 12/07/2017.
   allegation: unauthorized disclosures of classified information
   consequences:
   - date: 2017-04-06
