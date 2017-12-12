@@ -31,14 +31,12 @@ for incident in misconduct:
 		error("incident '{}' is missing or has invalid 'person', should be an integer.".format(debug_id))
 	# TODO: Check ID is a real GovTrack person ID.
 
-	#if not isinstance(incident.get("name"), str):
-	#	error("incident '{}' is missing or has invalid 'name', should be a string.".format(debug_id))
+	if not isinstance(incident.get("name"), str):
+		error("incident '{}' is missing or has invalid 'name', should be a string.".format(debug_id))
 
 	if not isinstance(incident.get("text"), str):
 		error("incident '{}' is missing or has invalid 'text', should be a string.".format(debug_id))
 		continue
-
-	continue
 
 	debug_id = "<{}> <{}>".format(incident.get("name"), incident["text"][0:40]+"...")
 
@@ -54,6 +52,8 @@ for incident in misconduct:
 
 		if not isinstance(cons, dict):
 			error("consequence {} should be a dict.".format(debug_id2))
+
+		continue
 
 		if isinstance(cons.get("date"), date):
 			pass # good
