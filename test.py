@@ -12,7 +12,11 @@ def error(message):
 	print(message, file=sys.stderr)
 	print(file=sys.stderr)
 
-misconduct = rtyaml.load(open("misconduct.yaml"))
+try:
+	misconduct = rtyaml.load(open("misconduct.yaml"))
+except Exception as e:
+	error(str(e))
+	sys.exit(1)
 
 if not isinstance(misconduct, list):
 	error("misconduct.yaml is not a list.")
@@ -33,6 +37,8 @@ for incident in misconduct:
 	if not isinstance(incident.get("text"), str):
 		error("incident '{}' is missing or has invalid 'text', should be a string.".format(debug_id))
 		continue
+
+	continue
 
 	debug_id = "<{}> <{}>".format(incident.get("name"), incident["text"][0:40]+"...")
 

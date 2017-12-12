@@ -1,0 +1,9 @@
+version: 2
+jobs:
+   build:
+     docker:
+       - image: circleci/python:3
+     steps:
+       - checkout
+       - run: pip install --user rtyaml
+       - run: python test.py
