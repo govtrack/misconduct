@@ -1,3 +1,13 @@
+- person: 412716
+  name: Ruben Kihuen
+  text: On Dec. 15, 2017, the House Committee on Ethics announced that it had begun
+    an investigation into allegations of sexual harassment by Kihuen.
+  allegation: sexual harassment
+  consequences:
+  - date: 2017-12-15
+    body: House Committee on Ethics
+    action: announced that it had begun an investigation
+    link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-8
 - person: 400141
   name: Trent Franks
   text: In 2017, Franks resigned due to reports that he had asked staff members to
