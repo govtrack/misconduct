@@ -401,18 +401,30 @@
       without making any charges.
 - person: 412482
   name: Blake Farenthold
-  text: In 2015 Farenthold was investigated for sexual harassment on the basis of a 2014 lawsuit filed against him alleging sexual harassment. The House Committee on Ethics [recommended further review, but to postphone that review until the lawsuit was resolved](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-blake). The [lawsuit was resolved in 2015](http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court) with a [taxpayer-funded settlement](https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458) that was revealed in 2017, and the investigation was re-opened. In light of further revelations of inappropriate behavior, Farenthold announced on 12/13/2017 that [he would not seek reelection](https://www.dallasnews.com/news/politics/2017/12/14/farenthold-drops-reelection-bid-amid-complaints-lewdness-hostile-workplace-congress).
-  allegation: sexual harassment on the basis of a 2014 lawsuit filed against him alleging sexual harassment
+  text: In 2015 Farenthold was investigated for sexual harassment on the basis of
+    a 2014 lawsuit filed against him alleging sexual harassment. The House Committee
+    on Ethics [recommended further review, but to postphone that review until the
+    lawsuit was resolved](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-blake).
+    The [lawsuit was resolved in 2015](http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court)
+    with a [taxpayer-funded settlement](https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458)
+    that was revealed in 2017, and the investigation was re-opened. In light of further
+    revelations of inappropriate behavior, Farenthold announced on 12/13/2017 that
+    [he would not seek reelection](https://www.dallasnews.com/news/politics/2017/12/14/farenthold-drops-reelection-bid-amid-complaints-lewdness-hostile-workplace-congress).
+  allegation: sexual harassment on the basis of a 2014 lawsuit filed against him alleging
+    sexual harassment
   consequences:
   - body: House Office of Congressional Ethics
     action: resolved
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-blake
   - date: 2015-09-28
     body: House Committee on Ethics
-    action: recommended further review, but to postphone that review until the lawsuit was resolved
+    action: recommended further review, but to postphone that review until the lawsuit
+      was resolved
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-blake
   - date: '2015'
-    text: The [lawsuit was resolved](http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court) with a [taxpayer-funded settlement](https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458) that was revealed in 2017.
+    text: The [lawsuit was resolved](http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court)
+      with a [taxpayer-funded settlement](https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458)
+      that was revealed in 2017.
   - date: 2017-12-07
     body: House Committee on Ethics
     action: re-opened the investigation
