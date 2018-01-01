@@ -4,16 +4,15 @@ Congressional Misconduct
 This repository contains a single YAML file documenting instances of misconduct
 by Members of the United States Congress, created by GovTrack.us.
 
-For the purposes of this project, misconduct is any act (and only an act) that:
+For the purposes of this project, misconduct is any alleged act (and only those) that:
 
-* is investigated by the House Office of Congressional Ethics, the House Committee on Ethics, or the Senate Select Committee on Ethics, or
+* is investigated by the House Office of Congressional Ethics, the House Committee on Ethics, or the Senate Select Committee on Ethics, or results in a settlement (e.g. from Congress's Office of Compliance), or
 * results in a letter of reproval, censure, or expulsion from Congress, or
 * results in a resignation from Congress (typically to head-off a Congressional investigation), or
 * is investigated by any law enforcement agency _and_ the act occurred while the member was in Congress, during a congressional campaign, or was related to their service in Congress, or
 * results in a conviction or guilty plea to a felony (whether or not related to service in Congress)
 
-We note that an investigation does not imply guilt. The data file indicates, where possible,
-whether an investigation ended favorably or unfavorably.
+We note that investigations, settlements, and resignations do not imply guilt, and an investigation that ends without a guilty determination does not imply innocence.
 
 Temporal coverage:
 
