@@ -30,7 +30,7 @@
   name: Al Franken
   text: In 2017 Franken announced his resignation due to allegations of sexual harassment.
     Select Committee on Ethics [has began investigating Senator Franken](https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=A7DC53D9-3BB6-4C9C-81A9-EA983132193E)
-    on November 30, 2017. On December 7, 2017, Senator Franken announced his resignation.
+    on November 30, 2017. On December 7, 2017, Senator Franken announced his resignation which was effective January 2, 2018.
   allegation: sexual harassment
   consequences:
   - date: ~
@@ -38,7 +38,7 @@
     action: began investigating Senator Franken
     link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=A7DC53D9-3BB6-4C9C-81A9-EA983132193E
   - date: 2017-12-07
-    text: Franken announced his resignation.
+    text: Franken announced his resignation, which was effective January 2, 2018.
 - person: 400080
   name: John Conyers, Jr.
   text: On December 5, 2017, Conyers resigned from office at the start of an investigation
