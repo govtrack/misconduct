@@ -1,3 +1,11 @@
+- person: 412466
+  name: Meehan
+  allegation: while serving on the House Committee on Ethics, did not step aside and have an investigation into sexual harassment charges against him opened, but rather used taxpayer funds to settle the complaint privately
+  consequences:
+  - date: 2018-01-20
+    body: House of Representatives
+    text: Meehan was removed from his position on the House Committee on Ethics
+    link: https://www.nytimes.com/2018/01/20/us/politics/patrick-meehan-sexual-harassment.html
 - person: 412716
   name: Ruben Kihuen
   text: On Dec. 15, 2017, the House Committee on Ethics announced that it had begun
