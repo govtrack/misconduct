@@ -1,6 +1,9 @@
 - person: 412466
   name: Meehan
-  allegation: while serving on the House Committee on Ethics, did not step aside and have an investigation into sexual harassment charges against him opened, but rather used taxpayer funds to settle the complaint privately
+  text: While serving on the House Committee on Ethics, Meehan used taxpayer funds
+    to settle a 2017 sexual harassment complaint privately, heading off an investigation.
+    He was subsequently removed from the House Committee on Ethics.
+  allegation: sexual harassment
   consequences:
   - date: 2018-01-20
     body: House of Representatives
@@ -38,7 +41,8 @@
   name: Al Franken
   text: In 2017 Franken announced his resignation due to allegations of sexual harassment.
     Select Committee on Ethics [has began investigating Senator Franken](https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=A7DC53D9-3BB6-4C9C-81A9-EA983132193E)
-    on November 30, 2017. On December 7, 2017, Senator Franken announced his resignation which was effective January 2, 2018.
+    on November 30, 2017. On December 7, 2017, Senator Franken announced his resignation
+    which was effective January 2, 2018.
   allegation: sexual harassment
   consequences:
   - date: ~
