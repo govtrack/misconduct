@@ -2,27 +2,41 @@ Congressional Misconduct
 ========================
 
 This repository contains a single YAML file documenting instances of misconduct
-by Members of the United States Congress, created by GovTrack.us.
+and alleged misconduct by Members of the United States Congress, created by GovTrack.us,
+covering 1789 to the present.
 
 For the purposes of this project, misconduct is any alleged act (and only those) that:
 
-* is investigated by the House Office of Congressional Ethics, the House Committee on Ethics, or the Senate Select Committee on Ethics, or results in a settlement (e.g. from Congress's Office of Compliance), or
+* is investigated by the House Office of Congressional Ethics, the House Committee on Ethics, the Senate Select Committee on Ethics, or other investigative committee of Congress, or resulted in a monetary settlement (e.g. from Congress's Office of Compliance), or
 * results in a letter of reproval, censure, or expulsion from Congress, or
 * results in a resignation from Congress (typically to head-off a Congressional investigation), or
 * is investigated by any law enforcement agency _and_ the act occurred while the member was in Congress, during a congressional campaign, or was related to their service in Congress, or
-* results in a conviction or guilty plea to a felony (whether or not related to service in Congress)
+* results in a conviction or guilty plea (whether or not related to service in Congress)
 
-We note that investigations, settlements, and resignations do not imply guilt, and an investigation that ends without a guilty determination does not imply innocence.
+Investigations, settlements, and resignations do not imply guilt, and an investigation that ends without a guilty determination does not imply innocence.
 
-Temporal coverage:
+In terms of coverage, this database contains
 
-* This database is intended to be comprehensive going back 10 years from the date we began working
-  on it, i.e. the start of 2007.
-* We plan to add data going back to 1789 soon, but it will likely only cover ethics investigations, censure, expulsion.
+* all instances of letters of reproval, censures, and expulsions from Congress from 1789 to the present
+* all investigations by a body of Congress from 1789 to the present that involved alleged personal misconduct
+* some election-related investigations by the Senate on whether to allow a senator-elect to be seated stemming from allegations of personal misconduct
+* some monetary settlements that we are aware of (many are not publicly known)
+* some resignations that we believe to be likely relevant to an allegation of misconduct
+* some instances of law enforcement investigations, convictions, and pleas that we are aware of
 
 This database can be viewed at:
 
 * https://www.govtrack.us/misconduct
+
+Sources
+-------
+
+* The House’s [Office of Congressional Ethics (OCE)](https://oce.house.gov/)
+* The [House Committee on Ethics (HCE)](https://ethics.house.gov/)
+* The [Senate Select Committee on Ethics](https://www.ethics.senate.gov/public/)
+* [Wikipedia’s list of convictions of American politicians](https://en.wikipedia.org/wiki/List_of_American_federal_politicians_convicted_of_crimes), as of Jan 23, 2018
+* [The Washington Post’s list of indictments](https://www.washingtonpost.com/news/the-fix/wp/2015/07/29/more-than-two-dozen-members-of-congress-have-been-indicted-since-1980/)
+* [United States Senate Election, Expulsion, and Censure Cases](https://babel.hathitrust.org/cgi/pt?id=umn.31951p00933065r;view=1up;seq=7)
 
 How Congress Deals With Misconduct
 ----------------------------------
@@ -31,7 +45,6 @@ Congressional ethics investigations, censure, and expulsion have a complex proce
 
 * [Expulsion and Censure Actions Taken by the Full Senate Against Members](https://www.everycrsreport.com/reports/93-875.html) (CRS report)
 * [Enforcement of Congressional Rules of Conduct: A Historical Overview](https://www.everycrsreport.com/reports/RL30764.html) (CRS report)
-* [United States Senate Election, Expulsion, and Censure Cases](https://babel.hathitrust.org/cgi/pt?id=umn.31951p00933065r;view=1up;seq=7)
 
 Data Dictionary
 ---------------
