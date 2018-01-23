@@ -36,9 +36,10 @@ for incident in misconduct:
 
 	if not isinstance(incident.get("text"), str):
 		error("incident '{}' is missing or has invalid 'text', should be a string.".format(debug_id))
-		continue
+		if not isinstance(incident.get("text", ""), str):
+			continue
 
-	debug_id = "<{}> <{}>".format(incident.get("name"), incident["text"][0:40]+"...")
+	debug_id = "<{}> <{}>".format(incident.get("name"), incident.get("text", "")[0:40]+"...")
 
 	if not isinstance(incident.get("allegation"), str):
 		error("incident {} is missing or has invalid 'text', should be a string.".format(debug_id))
@@ -53,14 +54,21 @@ for incident in misconduct:
 		if not isinstance(cons, dict):
 			error("consequence {} should be a dict.".format(debug_id2))
 
-		continue
-
 		if isinstance(cons.get("date"), date):
-			pass # good
-		elif not isinstance(cons.get("date"), str):
+			pass # good, a full date or a year
+		elif not isinstance(cons.get("date"), (int, str)):
 			error("consequence {} is missing or has an invalid date.".format(debug_id2))
-		elif not re.match(r"(\d\d\d\d)(-(\d\d)(-(\d\d))?)?", cons["date"]):
+		elif not re.match(r"(\d\d\d\d)(-(\d\d)(-(\d\d))?)?", str(cons["date"])):
 			error("consequence {} has an invalid date.".format(debug_id2))
+
+		if "body" not in cons and not isinstance(cons.get("text"), str):
+			error("consequence {} is missing or has invalid 'text', should be a string, or should have body & action.".format(debug_id2))
+
+		if "body" in cons and not isinstance(cons["body"], str):
+			error("consequence {} 'body' should be a string if set.".format(debug_id2))
+
+		if "body" in cons and not isinstance(cons.get("action"), str):
+			error("consequence {}, with body, 'action' should be a string if set.".format(debug_id2))
 
 if has_error:
 	sys.exit(1)
