@@ -2020,8 +2020,8 @@
   allegation: violating Senate gift rules and creating the appearance of impropriety
   consequences:
   - date: 2002-07-30
-    text: Senate Select Committee on Ethics admonished the Senator for creating the
-      appearance of impropriety
+    body: Senate Select Committee on Ethics
+    action: admonished the Senator for creating the appearance of impropriety
     link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=F8304FEE-EEC4-4CC4-8564-1C0807F47CAD
   - date: 2002
     text: Torricelli did not run for reelection.
