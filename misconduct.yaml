@@ -1914,6 +1914,10 @@
 - person: 400293
   name: Ney
   allegation: involvement in the Jack Abramoff influence-peddling investigation
+  text: Ney faced an allegation of involvement in the Jack Abramoff influence-peddling
+    investigation. On Aug. 14, 2006, he/she [withdrew from election](https://en.wikipedia.org/wiki/Bob_Ney#Electoral_history).
+    On Oct. 3, 2006, he/she [pleaded guilty](http://www.washingtonpost.com/wp-dyn/content/article/2006/11/04/AR2006110400194.html).
+    On Nov. 3, 2006, he/she [resigned](http://www.washingtonpost.com/wp-dyn/content/article/2006/11/04/AR2006110400194.html).
   consequences:
   - date: 2006-08-14
     text: Withdrew from election.
@@ -1927,6 +1931,10 @@
 - person: 400091
   name: Cunningham
   allegation: tax evasion, conspiracy to commit bribery, mail fraud and wire fraud
+  text: Cunningham faced an allegation of tax evasion, conspiracy to commit bribery,
+    mail fraud and wire fraud. On Jul. 14, 2005, [announced he would not run for re-election](https://en.wikipedia.org/wiki/Duke_Cunningham#Scandals_and_corruption).
+    On Nov. 28, 2005, he/she [pleaded guilty](https://en.wikipedia.org/wiki/Duke_Cunningham#Plea_agreement).
+    On Nov. 28, 2005, he/she [resigned](https://en.wikipedia.org/wiki/Duke_Cunningham#Resignation).
   consequences:
   - date: 2005-07-14
     text: Announced he would not run for re-election.
@@ -1941,6 +1949,12 @@
   name: McDermott
   allegation: improperly disclosing the contents of an intercepted cell-phone conversation
     to the news media
+  text: On Dec. 28, 2004, the House Committee on Standards of Official Conduct investigated
+    McDermott for improperly disclosing the contents of an intercepted cell-phone
+    conversation to the news media and established investigative subcommittee. On
+    Dec. 8, 2006, the House Committee on Standards of Official Conduct [concluded
+    that Representative McDermott’s conduct was inconsistent with the spirit of the
+    applicable rules.](https://ethics.house.gov/sites/ethics.house.gov/files/2006_McDermott.pdf).
   consequences:
   - date: 2004-12-28
     body: House Committee on Standards of Official Conduct
@@ -1954,6 +1968,11 @@
   name: Bell
   allegation: filing a complaint against Rep. DeLay which contained innuendo, speculative
     assertions, or conclusory statements in violation of Committee Rule 15(a)(4)
+  text: On Nov. 18, 2004, the House Committee on Standards of Official Conduct investigated
+    Bell for filing a complaint against Rep. DeLay which contained innuendo, speculative
+    assertions, or conclusory statements in violation of Committee Rule 15(a)(4) and
+    resolved the matter by a public letter transmitted to Rep. Bell. In 2004, bell
+    lost in the primary election.
   consequences:
   - date: 2004-11-18
     body: House Committee on Standards of Official Conduct
@@ -1964,6 +1983,11 @@
 - person: 400258
   name: McCarthy
   allegation: conversion of campaign funds to personal use
+  text: On Nov. 18, 2004, the House Committee on Standards of Official Conduct investigated
+    McCarthy for conversion of campaign funds to personal use and issued public statement
+    finding McCarthy to be at fault, but did not pursue further when she resigned.
+    In 2004, [mcCarthy did not seek reelection after acknowledging that she had untreated
+    alcoholism](http://www.washingtonpost.com/wp-dyn/content/article/2010/10/06/AR2010100606919.html).
   consequences:
   - date: 2004-11-18
     body: House Committee on Standards of Official Conduct
@@ -1979,6 +2003,14 @@
   allegation: solicitation and receipt of campaign contributions in return for legislative
     assistance, use of corporate political contributions in violation of state law,
     and improper use of official resources for political purposes
+  text: On Oct. 6, 2004, the House Committee on Standards of Official Conduct investigated
+    DeLay for solicitation and receipt of campaign contributions in return for legislative
+    assistance, use of corporate political contributions in violation of state law,
+    and improper use of official resources for political purposes and resolved first
+    and third allegations by public letter and second allegation deferred due to state
+    grand jury investigation.. In 2005, [convicted of conspiring to influence Texas
+    legislative races via a PAC using illegal corporate contributions](https://www.washingtonpost.com/news/the-fix/wp/2015/07/29/more-than-two-dozen-members-of-congress-have-been-indicted-since-1980/?utm_term=.49772980fe0c).
+    In 2013, conviction overturned.
   consequences:
   - date: 2004-10-06
     body: House Committee on Standards of Official Conduct
@@ -1995,6 +2027,9 @@
   name: DeLay
   allegation: improperly linking personal interest of a member with effort achieve
     a legislative goal
+  text: On Oct. 4, 2004, the House Committee on Standards of Official Conduct investigated
+    DeLay for improperly linking personal interest of a member with effort achieve
+    a legislative goal and issued a report finding DeLay's behavior inappropriate.
   consequences:
   - date: 2004-10-04
     body: House Committee on Standards of Official Conduct
@@ -2003,6 +2038,9 @@
 - person: 400276
   name: Miller
   allegation: threatening to retaliate against a member for a particular vote
+  text: On Oct. 4, 2004, the House Committee on Standards of Official Conduct investigated
+    Miller for threatening to retaliate against a member for a particular vote and
+    issued a report finding Miller's behavior inappropriate.
   consequences:
   - date: 2004-10-04
     body: House Committee on Standards of Official Conduct
@@ -2012,6 +2050,9 @@
   name: Smith
   allegation: public statements impugning reputation of the House and failed to cooperate
     with Comm. investigation
+  text: On Oct. 4, 2004, the House Committee on Standards of Official Conduct investigated
+    Smith for public statements impugning reputation of the House and failed to cooperate
+    with Comm. investigation and issued a report finding Smith's behavior inappropriate.
   consequences:
   - date: 2004-10-04
     body: House Committee on Standards of Official Conduct
@@ -2020,6 +2061,10 @@
 - person: 300156
   name: Torricelli
   allegation: violating Senate gift rules and creating the appearance of impropriety
+  text: On Jul. 30, 2002, the Senate Select Committee on Ethics investigated Torricelli
+    for violating Senate gift rules and creating the appearance of impropriety and
+    admonished the Senator for creating the appearance of impropriety. In 2002, torricelli
+    did not run for reelection.
   consequences:
   - date: 2002-07-30
     body: Senate Select Committee on Ethics
@@ -2032,6 +2077,12 @@
   allegation: conspiracy to violate federal bribery and gratuity statutes, receipt
     of illegal gratuity, obstruction of justice, defrauding the government, racketeering,
     and tax evasion on April 11, 2002, for which he was convicted
+  text: On Jul. 18, 2002, the House Committee on Standards of Official Conduct investigated
+    Traficant, Jr. for conspiracy to violate federal bribery and gratuity statutes,
+    receipt of illegal gratuity, obstruction of justice, defrauding the government,
+    racketeering, and tax evasion on April 11, 2002, for which he was convicted and
+    unanimously recommended expulsion. On Jul. 24, 2002, the House of Representatives
+    [expelled Trafficant, 420-1](https://www.govtrack.us/congress/votes/107-2002/h346).
   consequences:
   - date: 2002-07-18
     body: House Committee on Standards of Official Conduct
@@ -2044,6 +2095,9 @@
 - person: 400056
   name: Buyer
   allegation: improper use of official resources for political purpose
+  text: On Aug. 1, 2001, the House Committee on Standards of Official Conduct investigated
+    Buyer for improper use of official resources for political purpose and dismissed
+    complaint unanimously and public letter sent to Rep. Buyer.
   consequences:
   - date: 2001-08-01
     body: House Committee on Standards of Official Conduct
@@ -2053,6 +2107,11 @@
   name: Hilliard
   allegation: improper loans made by campaign committee, improper campaign expenditures,
     and improper financial disclosure
+  text: On Jun. 20, 2001, the House Committee on Standards of Official Conduct investigated
+    Hilliard for improper loans made by campaign committee, improper campaign expenditures,
+    and improper financial disclosure and isseud letter of reproval citing “serious
+    official misconduct” unanimously adopted. In 2002, defeated in primary in June
+    2002.
   consequences:
   - date: 2001-06-20
     body: House Committee on Standards of Official Conduct
@@ -2065,6 +2124,10 @@
   name: Shuster
   allegation: relationship with lobbyist (former chief of staff) and intervention
     with federal agencies on behalf of constituent
+  text: On Oct. 4, 2000, the House Committee on Standards of Official Conduct investigated
+    Shuster for relationship with lobbyist (former chief of staff) and intervention
+    with federal agencies on behalf of constituent and issued letter of reproval citing
+    “serious official misconduct” unanimously adopted.
   consequences:
   - date: 2000-10-04
     body: House Committee on Standards of Official Conduct
@@ -2075,6 +2138,12 @@
   name: Brown
   allegation: lodging for member provided at premises owned or controlled by an imprisoned
     foreign national and gift of an automobile to Rep. Brown’s adult daughter in 1997.
+  text: On Sep. 21, 2000, the House Committee on Standards of Official Conduct investigated
+    Brown for lodging for member provided at premises owned or controlled by an imprisoned
+    foreign national and gift of an automobile to Rep. Brown’s adult daughter in 1997.
+    and established investigative subcommittee (June 9, 1999); Subcommittee recommended
+    no further action, Comm. accepted recommendation (Sept. 20, 2000); press statement
+    released (Sept. 21, 2000).
   consequences:
   - date: 2000-09-21
     body: House Committee on Standards of Official Conduct
@@ -2087,6 +2156,16 @@
   allegation: violation of laws governing tax-exempt organizations, improper intervention
     with government agencies, receipt of improper personal benefits from a PAC and
     violation of campaign finance rules
+  text: On Oct. 10, 1998, the House Committee on Standards of Official Conduct investigated
+    Gingrich for violation of laws governing tax-exempt organizations, improper intervention
+    with government agencies, receipt of improper personal benefits from a PAC and
+    violation of campaign finance rules and member complaint attempting to amend second
+    Jones complaint (Dec. 14, 1995); Comm. notified members that complaint had to
+    be re-filed (Jan. 25, 1996); new member complaint filed (Jan. 31, 1996) (“Bonior,
+    DeLauro, Lewis, Miller & Schroeder Complaint”); Comm. referred first allegation
+    to Investigative Subcommittee handling “First Jones Complaint” (Aug. 1, 1996);
+    dismissed second allegation (Sept. 26, 1996); dismissed remaining allegations,
+    letter released publicly (Oct. 10, 1998).
   consequences:
   - date: 1998-10-10
     body: House Committee on Standards of Official Conduct
@@ -2101,6 +2180,12 @@
 - person: 406343
   name: Kim
   allegation: accepting illegal corporate and foreign contributions
+  text: On Oct. 6, 1998, the House Committee on Standards of Official Conduct investigated
+    Kim for accepting illegal corporate and foreign contributions and adopted six
+    count SAV and recommended no further action due to impending loss of jurisdiction
+    (Oct. 2, 1998); Comm. unanimously adopted recommendation (Oct. 6, 1998). On Aug.
+    11, 1997, he/she pleaded guilty in federal court. On Jun. 2, 1998, defeated in
+    primary in June 1998.
   consequences:
   - date: 1998-10-06
     body: House Committee on Standards of Official Conduct
@@ -2116,6 +2201,10 @@
   name: DeLay
   allegation: improperly linking campaign contributions to official actions and improper
     political favors for Rep. DeLay’s brother, a registered lobbyist
+  text: On Nov. 7, 1997, the House Committee on Standards of Official Conduct investigated
+    DeLay for improperly linking campaign contributions to official actions and improper
+    political favors for Rep. DeLay’s brother, a registered lobbyist and dismissed
+    complaint; private letter sent to Rep. DeLay; press statement released.
   consequences:
   - date: 1997-11-07
     body: House Committee on Standards of Official Conduct
@@ -2125,6 +2214,10 @@
 - person: 402858
   name: Cooley
   allegation: lying to voters about his military service in official state voter guides
+  text: Cooley faced an allegation of lying to voters about his military service in
+    official state voter guides. On Mar. 19, 1997, [convicted and ordered to pay a
+    fine and placed on two years' probation](http://www.nytimes.com/1997/03/19/us/former-congressman-is-convicted-of-lying.html).
+    On Aug. 7, 1996, [did not run for re-election](https://news.google.com/newspapers?id=zHMVAAAAIBAJ&sjid=NesDAAAAIBAJ&pg=5860%2C1623774).
   consequences:
   - date: 1997-03-19
     text: Convicted and ordered to pay a fine and placed on two years' probation.
@@ -2135,6 +2228,10 @@
 - person: 407282
   name: Mavroules
   allegation: accepting illegal gifts and misusing his office for private gain
+  text: Mavroules faced an allegation of accepting illegal gifts and misusing his
+    office for private gain. On Apr. 3, 1993, he/she [pleaded guilty and 15 months
+    in prison](http://www.nytimes.com/1993/08/03/us/ex-congressman-to-go-to-prison.html).
+    In 1992, lost the election.
   consequences:
   - date: 1993-04-03
     text: Pleaded guilty and 15 months in prison.
@@ -2149,6 +2246,19 @@
     relationship with foundation/course in violation of foundation’s tax-exempt status
     under Section 501(c)3 of the IRS Code, 3) use of unofficial resources for official
     purposes, and 4) activities and relationship with another foundation
+  text: On Jan. 17, 1997, the House Committee on Standards of Official Conduct investigated
+    Gingrich for improper use of official resources in preparation of a college course,
+    conflict of interest, and improper use of tax-exempt entities in support of college
+    course; investigation expanded to 1) false statements to Comm. on Standards, 2)
+    relationship with foundation/course in violation of foundation’s tax-exempt status
+    under Section 501(c)3 of the IRS Code, 3) use of unofficial resources for official
+    purposes, and 4) activities and relationship with another foundation and investigated
+    and dismissed the first two allegations (Rep. Gingrich made restitution to pay
+    for the use of the official resources); initiated a preliminary inquiry regarding
+    the third allegation and hired a Special Counsel (Dec. 6, 1995); recommended reprimand
+    and reimbursement of $300,000 to House for investigative expenses, 7-1; report
+    filed on Jan. 17, 1997 acting as Select Comm. on Ethics. On Jan. 21, 1997, the
+    House of Representatives [reprimanded and directed to reimburse $300,000, 395-28](https://www.govtrack.us/congress/votes/105-1997/h8).
   consequences:
   - date: 1997-01-17
     body: House Committee on Standards of Official Conduct
@@ -2165,6 +2275,12 @@
 - person: 402762
   name: Rose-Collins
   allegation: misuse official resources, campaign resources and scholarship funds
+  text: On Jan. 2, 1997, the House Committee on Standards of Official Conduct investigated
+    Rose-Collins for misuse official resources, campaign resources and scholarship
+    funds and preliminary inquiry voted (Dec. 5, 1995); 11-count SAV adopted (Sept.
+    12, 1996); Subcommittee recommended that no further action be taken due to pending
+    loss of jurisdiction on Oct. 25, 1996; Comm. took no further action and filed
+    report. On Aug. 6, 1996, defeated in primary.
   consequences:
   - date: 1997-01-02
     body: House Committee on Standards of Official Conduct
@@ -2179,6 +2295,10 @@
   name: Gephardt
   allegation: inadequate financial disclosure on a series of land sales and financial
     agreements regarding property purchased and exchanged in North Carolina
+  text: On Sep. 28, 1997, the House Committee on Standards of Official Conduct investigated
+    Gephardt for inadequate financial disclosure on a series of land sales and financial
+    agreements regarding property purchased and exchanged in North Carolina and dismissed
+    complaint.
   consequences:
   - date: 1997-09-28
     body: House Committee on Standards of Official Conduct
@@ -2189,6 +2309,11 @@
   allegation: conflict of interest (participated in Comm. deliberations involving
     complaints filed with the substantial assistance of a - person affiliated with
     his political action committee) and violation of Comm. confidentiality rules
+  text: On Jul. 24, 1996, the House Committee on Standards of Official Conduct investigated
+    McDermott for conflict of interest (participated in Comm. deliberations involving
+    complaints filed with the substantial assistance of a - person affiliated with
+    his political action committee) and violation of Comm. confidentiality rules and
+    dismissed complaint.
   consequences:
   - date: 1996-07-24
     body: House Committee on Standards of Official Conduct
@@ -2197,6 +2322,10 @@
 - person: 404587
   name: Gringrich
   allegation: improper use of services of volunteer in congressional office
+  text: On Sep. 19, 1996, the House Committee on Standards of Official Conduct investigated
+    Gringrich for improper use of services of volunteer in congressional office and
+    member complaint filed on behalf of outside organization (Apr. 22, 1996) (“Third
+    Miller Complaint”); complaint dismissed.
   consequences:
   - date: 1996-09-19
     body: House Committee on Standards of Official Conduct
@@ -2207,6 +2336,11 @@
   name: Solomon
   allegation: press release and letter sent to New York state assemblyman included
     language that implied possible retaliation for political disagreement
+  text: On May. 8, 1996, the House Committee on Standards of Official Conduct investigated
+    Solomon for press release and letter sent to New York state assemblyman included
+    language that implied possible retaliation for political disagreement and complaint
+    dismissed after Rep. Solomon indicated he had not retaliated and had never intended
+    to retaliate.
   consequences:
   - date: 1996-05-08
     body: House Committee on Standards of Official Conduct
@@ -2218,6 +2352,12 @@
   allegation: improper use of congressional employees with regard to book published
     by Rep. Bonior in 1984 and improper salary payments to member of staff prior to
     her marriage to Rep. Bonior
+  text: On May. 9, 1996, the House Committee on Standards of Official Conduct investigated
+    Bonior for improper use of congressional employees with regard to book published
+    by Rep. Bonior in 1984 and improper salary payments to member of staff prior to
+    her marriage to Rep. Bonior and returned complaint because violations occurred
+    before the third previous Congress. On May. 8, 1996, the House Committee on Standards
+    of Official Conduct [dismissed second complaint](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf).
   consequences:
   - date: 1996-05-09
     body: House Committee on Standards of Official Conduct
@@ -2230,6 +2370,10 @@
 - person: 404587
   name: Gingrich
   allegation: improper use of services of volunteer in congressional offices
+  text: On Mar. 29, 1996, the House Committee on Standards of Official Conduct investigated
+    Gingrich for improper use of services of volunteer in congressional offices and
+    concluded that the volunteer service, which had terminated by the time of the
+    complaint, did not comply with the applicable guidelines.
   consequences:
   - date: 1996-03-29
     body: House Committee on Standards of Official Conduct
@@ -2240,6 +2384,12 @@
   name: Torricelli
   allegation: using congressional fax machine to send a press release having a political
     purpose (accusation made by Rep. Zimmer)
+  text: On Mar. 29, 1996, the House Committee on Standards of Official Conduct investigated
+    Torricelli for using congressional fax machine to send a press release having
+    a political purpose (accusation made by Rep. Zimmer) and determined use of the
+    fax machine violated applicable rules on use of official resources; member reimbursed
+    use of the fax. On Nov. 5, 1996, rep. Zimmer lost his bid for a New Jersey Senate
+    seat to Rep. Torricelli
   consequences:
   - date: 1996-03-29
     body: House Committee on Standards of Official Conduct
@@ -2254,6 +2404,15 @@
     to send a press release entitled "Zimmer Wallops Torricelli in N.J. Congressional
     Softball Tourney" which was a personal attack and therefore violated usage rules
     (accusation made by Rep. Torricelli)
+  text: On Mar. 29, 1996, the House Committee on Standards of Official Conduct investigated
+    Zimmer for using congressional fax machine for non-official purpose, specifically
+    to send a press release entitled "Zimmer Wallops Torricelli in N.J. Congressional
+    Softball Tourney" which was a personal attack and therefore violated usage rules
+    (accusation made by Rep. Torricelli) and complaint filed on Dec. 21, 1995; complaint
+    returned on Jan. 5, 1996 for failing to meet standards of committee procedures;
+    complaint re-submitted on Jan. 19, 1996; complaint dismissed on March 29, 1996
+    for lack of merit.. On Nov. 5, 1996, rep. Zimmer lost his bid for a New Jersey
+    Senate seat to Rep. Torricelli
   consequences:
   - date: 1996-03-29
     body: House Committee on Standards of Official Conduct
@@ -2269,6 +2428,16 @@
     document attributed to an outside group that was created by representative's staff
     and allowed subcommittee staff to improperly question a witness regarding their
     observance of a religious holiday
+  text: On Mar. 14, 1996, the House Committee on Standards of Official Conduct investigated
+    McIntosh for distributing at a committee meeting and displaying on House floor
+    a document attributed to an outside group that was created by representative's
+    staff and allowed subcommittee staff to improperly question a witness regarding
+    their observance of a religious holiday and sent a letter to Rep. McIntosh on
+    March 14, 1996 indicating that forging outside organization's letterhead for staff-created
+    documents was inappropriate as was any questioning of a witness's religious observances;
+    Committee voted not to make letter public, 5-4 on March 20, 1996. On Mar. 14,
+    1996, mcIntosh apologized and formalized a written policy for his staff regarding
+    harassing, insensitive or discriminatory behavior
   consequences:
   - date: 1996-03-14
     body: House Committee on Standards of Official Conduct
@@ -2285,6 +2454,12 @@
   allegation: seven counts of extortion and two counts of tax evasion for extorting
     $30,000 from a local businessman while he was mayor of Compton, CA and failing
     to report payments on his taxes, for which he was convicted on December 8, 1995
+  text: Tucker faced an allegation of seven counts of extortion and two counts of
+    tax evasion for extorting $30,000 from a local businessman while he was mayor
+    of Compton, CA and failing to report payments on his taxes, for which he was convicted
+    on December 8, 1995. On Dec. 12, 1995, the House of Representatives [See Congressional
+    Record.](https://www.congress.gov/crec/1995/12/12/CREC-1995-12-12.pdf). On Dec.
+    12, 1995, announced resignation effective Dec. 15, 1995
   consequences:
   - date: 1995-12-12
     body: House of Representatives
@@ -2296,6 +2471,11 @@
   name: Gingrich
   allegation: improper statements on House floor for political reasons; official resources
     used for political purposes
+  text: On Dec. 12, 1995, the House Committee on Standards of Official Conduct investigated
+    Gingrich for improper statements on House floor for political reasons; official
+    resources used for political purposes and investigated two member complaints filed
+    (Mar. 8, 1995) and (May 15, 1995)(“Bonior Complaints”); Comm.; complaints dismissed
+    in a public letter on Dec. 6, 1995 and a public report issued on Dec. 12, 1995.
   consequences:
   - date: 1995-12-12
     body: House Committee on Standards of Official Conduct
@@ -2307,6 +2487,11 @@
   name: Gingrich
   allegation: accepting free cable television coverage of college lectures (improper
     gifts/solicitation)
+  text: On Dec. 12, 1995, the House Committee on Standards of Official Conduct investigated
+    Gingrich for accepting free cable television coverage of college lectures (improper
+    gifts/solicitation) and member complaint filed (Feb. 23, 1995) (“Schroeder, Johnston
+    and McKinney Complaint”); Comm. investigated; complaint dismissed in a public
+    letter on Dec. 6, 1995 and a public report issued on Dec. 12, 1995.
   consequences:
   - date: 1995-12-12
     body: House Committee on Standards of Official Conduct
@@ -2317,6 +2502,11 @@
 - person: 404587
   name: Gingrich
   allegation: improperly using services of volunteer for official purposes
+  text: On Dec. 12, 1995, the House Committee on Standards of Official Conduct investigated
+    Gingrich for improperly using services of volunteer for official purposes and
+    member complaint filed (Feb. 13, 1995)(“First Miller Complaint”); Comm. investigated;
+    found violations and sent a public letter to Rep. Gingrich but took no further
+    action on Dec. 6, 1995; published report on Dec. 12, 1995.
   consequences:
   - date: 1995-12-12
     body: House Committee on Standards of Official Conduct
@@ -2330,6 +2520,15 @@
     royalties for To Renew America, improper book auction, conflict of interest, improper
     solicitation, improper use of official resources, and improper intervention with
     federal authorities
+  text: Gingrich faced an allegation of the allegations in “First Jones Complaint”
+    and improper receipt of book royalties for To Renew America, improper book auction,
+    conflict of interest, improper solicitation, improper use of official resources,
+    and improper intervention with federal authorities. On Dec. 6, 1995, complaint
+    dismissed. On Dec. 12, 1995, the House Committee on Standards of Official Conduct
+    [recommended changes regarding book contracts](https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt104-401.pdf).
+    On Dec. 22, 1995, the House of Representatives [adopted committee resolution on
+    restricting advances from book contracts but not subjecting royalty income to
+    outside earned income limit, 259-128](https://www.govtrack.us/congress/votes/104-1995/h883).
   consequences:
   - date: 1995-12-06
     text: Complaint dismissed.
@@ -2345,6 +2544,9 @@
 - person: 408420
   name: Packwood
   allegation: sexual misconduct and abuse of power
+  text: On Sep. 5, 1995, the Senate Select Committee on Ethics investigated Packwood
+    for sexual misconduct and abuse of power and recommended expulsion from the Senate.
+    On Sep. 8, 1995, he/she [resigned](http://articles.latimes.com/1995-09-08/news/mn-43532_1_senator-packwood-resigns).
   consequences:
   - date: 1995-09-05
     body: Senate Select Committee on Ethics
@@ -2356,6 +2558,12 @@
 - person: 411725
   name: Wilson
   allegation: improper use of campaign funds and inadequate financial disclosure
+  text: Wilson faced an allegation of improper use of campaign funds and inadequate
+    financial disclosure. On Aug. 25, 1995, the Federal Elections Commission (FEC)
+    transmitted information to the Comm. on Standards developed during an investigation
+    On Dec. 7, 1995, the House Committee on Standards of Official Conduct [dismissed
+    the complaint and a letter released publicly after Rep. Wilson admitted his error
+    and paid a $90,000 fine](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf).
   consequences:
   - date: 1995-08-25
     body: Federal Elections Commission (FEC)
@@ -2372,6 +2580,15 @@
     resources, failure to repay personal debts and obstruction of justice; later convicted
     in state court of criminal sexual assault, aggravated sexual abuse, solicitation
     of child pornography and obstruction of justice (Aug. 22, 1995)
+  text: On Jun. 28, 1995, the House Committee on Standards of Official Conduct investigated
+    Reynolds for misuse of congressional staff for personal purposes, misuse of official
+    resources, failure to repay personal debts and obstruction of justice; later convicted
+    in state court of criminal sexual assault, aggravated sexual abuse, solicitation
+    of child pornography and obstruction of justice (Aug. 22, 1995) and preliminary
+    inquiry voted, but no public would be made until the conclusion of the state trial.
+    On Sep. 1, 1995, he/she resigned. On Sep. 28, 2017, the U.S. District Court [convicted
+    on four misdemeanor counts alleging he failed to file a federal income tax return
+    for four consecutive years](https://en.wikipedia.org/wiki/Mel_Reynolds#Later_career).
   consequences:
   - date: 1995-06-28
     body: House Committee on Standards of Official Conduct
@@ -2388,6 +2605,11 @@
 - person: 400551
   name: Armey
   allegation: improper use of congressional stationery
+  text: Armey faced an allegation of improper use of congressional stationery. On
+    Jun. 14, 1995, [rep. Guitierrez filed a complaint on behalf of the Congressional
+    Accountability Project on June 2, 1995; Rep. Armey admitted violation and the
+    complaint was dismissed on June 13, 1995; a public letter to Rep. Armey and press
+    statement were released on June 14, 1995](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf).
   consequences:
   - date: 1995-06-14
     text: Rep. Guitierrez filed a complaint on behalf of the Congressional Accountability
@@ -2399,6 +2621,11 @@
   name: Frost
   allegation: using congressional staff for redistricting work [R. 45]; campaign contributions
     by congressional staff (18 U.S.C. § 603)
+  text: On Nov. 29, 1994, the House Committee on Standards of Official Conduct investigated
+    Frost for using congressional staff for redistricting work [R. 45]; campaign contributions
+    by congressional staff (18 U.S.C. § 603) and complaint dismissed; public letter
+    released indicating that the committee found technical violation of campaign regulations;
+    Rep. Frost agreed to appropriate reimbursement.
   consequences:
   - date: 1994-11-29
     body: House Committee on Standards of Official Conduct
@@ -2409,6 +2636,9 @@
 - person: 403669
   name: Durenberger
   allegation: misuse of public funds while in office
+  text: Durenberger faced an allegation of misuse of public funds while in office.
+    On Aug. 22, 1995, he/she [pleaded guilty to five misdemeanor charges of abuse
+    of a Congressional expense account](http://www.nytimes.com/1995/08/23/us/ex-senator-is-guilty-of-expense-abuses.html).
   consequences:
   - date: 1995-08-22
     text: Pleaded guilty to five misdemeanor charges of abuse of a Congressional expense
@@ -2418,6 +2648,14 @@
   name: Rostenkowski
   allegation: mail fraud, wire fraud, witness tampering, concealing a material fact,
     false statements, embezzlement, and conspiracy, for which he was indicted
+  text: Rostenkowski faced an allegation of mail fraud, wire fraud, witness tampering,
+    concealing a material fact, false statements, embezzlement, and conspiracy, for
+    which he was indicted. On Jun. 30, 1994, member complaint filed. On Aug. 17, 1994,
+    the House Committee on Standards of Official Conduct deferred action at request
+    of U.S. Attorney On Nov. 8, 1994, defeated for reelection. On Apr. 10, 1996, he/she
+    [pleaded guilty to mail fraud](http://www.nytimes.com/1996/04/10/us/rostenkowski-pleads-guilty-to-mail-fraud.html).
+    On Dec. 23, 2000, [pardoned by President Clinton having already served 15 months
+    in prison and two months in a halfway house in addition to paying a $100,000 fine](http://www.nytimes.com/2000/12/23/us/clinton-issues-a-pardon-to-ex-rep-rostenkowski.html).
   consequences:
   - date: 1994-06-30
     text: Member complaint filed.
@@ -2436,6 +2674,9 @@
 - person: 406461
   name: Kolter
   allegation: stealing money from the House Post Office
+  text: Kolter faced an allegation of stealing money from the House Post Office. On
+    May. 8, 1996, he/she [pleaded guilty to one count of conspiring with the former
+    House postmaster and others to steal from the office](https://www.washingtonpost.com/archive/politics/1996/05/08/kolter-guilty-in-post-office-scandal/a712baa5-36e1-4bb8-8255-7bb7ebb373a7/?utm_term=.207492fec1cd).
   consequences:
   - date: 1996-05-08
     text: Pleaded guilty to one count of conspiring with the former House postmaster
@@ -2445,6 +2686,10 @@
   name: Kay Bailey Hutchison
   allegation: using state employees and time to conduct political and personal business
     while Texas State Treasurer
+  text: Kay Bailey Hutchison faced an allegation of using state employees and time
+    to conduct political and personal business while Texas State Treasurer. On Feb.
+    12, 1994, [acquitted on all charges in state court after prosecuters refused to
+    present their case against Hutchison due to concerns over admissability of evidence](http://www.nytimes.com/1994/02/12/us/fight-over-evidence-results-in-acquittal-of-senator-in-texas.html).
   consequences:
   - date: 1994-02-12
     text: Acquitted on all charges in state court after prosecuters refused to present
@@ -2453,6 +2698,9 @@
 - person: 404006
   name: Fauntroy
   allegation: stealing from the House Bank
+  text: Fauntroy faced an allegation of stealing from the House Bank. On Mar. 25,
+    1995, he/she [pleaded guilty to one count of violating the false statements statute
+    regarding a charitable contribution](https://www.justice.gov/archive/opa/pr/Pre_96/March95/153.txt.html).
   consequences:
   - date: 1995-03-25
     text: Pleaded guilty to one count of violating the false statements statute regarding
@@ -2461,6 +2709,9 @@
 - person: 402114
   name: Bustamante
   allegation: racketeering and bribery
+  text: Bustamante faced an allegation of racketeering and bribery. On Jul. 22, 1993,
+    [convicted](http://www.nytimes.com/1993/07/22/us/federal-jury-convicts-ex-texas-congressman.html).
+    In 1992, lost bid for re-election.
   consequences:
   - date: 1993-07-22
     text: Convicted.
@@ -2470,6 +2721,10 @@
 - person: 408632
   name: Perkins
   allegation: bank fraud and lying to investigators
+  text: Perkins faced an allegation of bank fraud and lying to investigators. On Dec.
+    13, 1994, he/she [pleaded guilty](https://www.justice.gov/archive/opa/pr/Pre_96/December94/697.txt.html).
+    In 1992, [perkins' district, the Kentucky 7th was eliminated by redistricting
+    and Perkins did not seek re-election in the newly created 5th district in 1992](https://en.wikipedia.org/wiki/Carl_C._Perkins#Biography).
   consequences:
   - date: 1994-12-13
     text: Pleaded guilty.
@@ -2482,6 +2737,9 @@
   name: Hubbard
   allegation: obstruction of justice, misappropriation of campaign funds involving
     the House Bank
+  text: Hubbard faced an allegation of obstruction of justice, misappropriation of
+    campaign funds involving the House Bank. On Apr. 6, 1994, he/she [pleaded guilty](https://www.washingtonpost.com/archive/politics/1994/04/06/guilty-plea-entered-in-bank-scandal/0b98374f-4133-4e78-af07-c47a4b6bfdcb/?utm_term=.5417f6473e72).
+    In 1992, lost election.
   consequences:
   - date: 1994-04-06
     text: Pleaded guilty.
@@ -2492,6 +2750,9 @@
   name: Oakar
   allegation: lying to the FBI, using the House Bank to convert public money to her
     own use
+  text: Oakar faced an allegation of lying to the FBI, using the House Bank to convert
+    public money to her own use. On Sep. 30, 1997, he/she [pleaded guitly to two misdemeanors](http://articles.chicagotribune.com/1997-09-30/news/9709300278_1_plead-rep-mary-rose-oakar-false-names).
+    In 1992, was not re-elected.
   consequences:
   - date: 1997-09-30
     text: Pleaded guitly to two misdemeanors.
@@ -2501,6 +2762,9 @@
 - person: 403696
   name: Dyson
   allegation: misuse of office funds and sex discrimination in hiring
+  text: On Jan. 31, 1990, the House Committee on Standards of Official Conduct investigated
+    Dyson for misuse of office funds and sex discrimination in hiring and declined
+    to consider allegations due to proximity to election day in 1988.
   consequences:
   - date: 1990-01-31
     body: House Committee on Standards of Official Conduct
@@ -2509,6 +2773,8 @@
 - person: 409901
   name: Sikorksi
   allegation: misuse of staff for personal errands
+  text: On Jan. 31, 1990, the House Committee on Standards of Official Conduct investigated
+    Sikorksi for misuse of staff for personal errands and complaint dismissed.
   consequences:
   - date: 1990-01-31
     body: House Committee on Standards of Official Conduct
@@ -2519,6 +2785,12 @@
   allegation: contributing to the unruliness of a female minor, e.g. sex with an underage
     girl on May 26, 1989, for which he was convicted as a misdemeanor; improper sexual
     advances to Capitol elevator operator on Oct. 17, 1990
+  text: Lukens faced an allegation of contributing to the unruliness of a female minor,
+    e.g. sex with an underage girl on May 26, 1989, for which he was convicted as
+    a misdemeanor; improper sexual advances to Capitol elevator operator on Oct. 17,
+    1990. On Oct. 24, 1990, [preliminary inquiry resolution amended to include assertion
+    of additional charges on Oct. 22, 1990; staff report published on Oct. 24, 1990](https://ethics.house.gov/sites/ethics.house.gov/files/comm_print_10241990.pdf).
+    On Oct. 4, 1990, he/she resigned
   consequences:
   - date: 1990-10-24
     text: Preliminary inquiry resolution amended to include assertion of additional
@@ -2529,6 +2801,9 @@
 - person: 403669
   name: Durenberger
   allegation: a wide range of financial misconduct
+  text: Durenberger faced an allegation of a wide range of financial misconduct. On
+    Jul. 25, 1990, [senate vote on denouncement, which appears to have been intended
+    as a type of censure which acknowledges no ill intent](https://www.senate.gov/artandhistory/history/common/censure_cases/141DavidDurenberger.htm).
   consequences:
   - date: 1990-07-25
     text: Senate vote on denouncement, which appears to have been intended as a type
@@ -2537,6 +2812,10 @@
 - person: 410574
   name: Swindall
   allegation: money laundering and lying to the FBI
+  text: Swindall faced an allegation of money laundering and lying to the FBI. In
+    1989, [convicted](http://articles.latimes.com/1994-02-12/news/mn-21903_1_pat-swindall).
+    On Feb. 12, 1994, [started serving a one year prison sentence in a minimum-security
+    federal prison after remaining free on bond while his appeals were active](http://articles.latimes.com/1994-02-12/news/mn-21903_1_pat-swindall).
   consequences:
   - date: 1989
     text: Convicted.
@@ -2550,6 +2829,16 @@
   allegation: 1) use of personal residence for prostitution by third parties, 2) improper
     contacts with probation office on behalf of personal assistant, 3) improper dismissal
     of assistant’s parking tickets, and 4) sexual activity in the House gymnasium
+  text: Frank faced an allegation of 1) use of personal residence for prostitution
+    by third parties, 2) improper contacts with probation office on behalf of personal
+    assistant, 3) improper dismissal of assistant’s parking tickets, and 4) sexual
+    activity in the House gymnasium. On Jul. 20, 1990, [preliminary inquiry voted
+    (Sept. 12, 1989); Rep. Frank admitted preparing memo containing misleading statements
+    that could be perceived as an attempt to use political influence in a judicial
+    matter and arranged improper dismissal of parking tickets for personal assistant,
+    both in violation of R. 43 (1); Comm. recommended reprimand and restitution of
+    parking tickets, 12-0 (July 20, 1990)](https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt101-610.pdf).
+    On Jul. 26, 1990, [reprimanded, 408-18](https://www.govtrack.us/congress/votes/101-1990/h271).
   consequences:
   - date: 1990-07-20
     text: Preliminary inquiry voted (Sept. 12, 1989); Rep. Frank admitted preparing
@@ -2566,6 +2855,10 @@
   allegation: using book partnership to avoid outside income limits or to obtain impermissible
     gifts or contributions, improper use of official resources to prepare book, and
     inadequate financial disclosure
+  text: On Mar. 8, 1990, the House Committee on Standards of Official Conduct investigated
+    Gringrich for using book partnership to avoid outside income limits or to obtain
+    impermissible gifts or contributions, improper use of official resources to prepare
+    book, and inadequate financial disclosure and issued statement, 11-0.
   consequences:
   - date: 1990-03-08
     body: House Committee on Standards of Official Conduct
@@ -2575,6 +2868,10 @@
   name: Savage
   allegation: improper sexual advances toward a female Peace Corps volunteer (March
     1989)
+  text: Savage faced an allegation of improper sexual advances toward a female Peace
+    Corps volunteer (March 1989). On Nov. 20, 1989, rep. Savage apologized. On Jan.
+    31, 1990, the House Committee on Standards of Official Conduct [issued public
+    report disapproving of conduct, 12- 0 on Jan. 31, 1990](https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt101-397_0.pdf).
   consequences:
   - date: 1989-11-20
     text: Rep. Savage apologized.
@@ -2588,6 +2885,12 @@
     loan, and a diamond necklace from defense contractor), for which Garcia and his
     wife were convicted on Oct. 20, 1989, four counts of bribery and receipt of illegal
     gratuities, for which he was acquitted
+  text: On Oct. 31, 1989, the House Committee on Standards of Official Conduct investigated
+    Garcia for conspiracy and Travel Act violations (receipt of $170,000 in payments,
+    loan, and a diamond necklace from defense contractor), for which Garcia and his
+    wife were convicted on Oct. 20, 1989, four counts of bribery and receipt of illegal
+    gratuities, for which he was acquitted and preliminary inquiry voted. On Jan.
+    7, 1990, he/she [resigned](http://articles.latimes.com/1990-01-03/news/mn-190_1_robert-garcia).
   consequences:
   - date: 1989-10-31
     body: House Committee on Standards of Official Conduct
@@ -2598,6 +2901,10 @@
 - person: 401231
   name: Bates
   allegation: sexual harassment and improper campaign activity in congressional office
+  text: On Oct. 18, 1989, the House Committee on Standards of Official Conduct investigated
+    Bates for sexual harassment and improper campaign activity in congressional office
+    and adopted public letter of reproval. In 1989, [admitted to violations and wrote
+    personal letter of apology](https://www.rollcall.com/news/politics/congress-took-three-decades-come-far-sexual-harassment-victim-says).
   consequences:
   - date: 1989-10-18
     body: House Committee on Standards of Official Conduct
@@ -2617,6 +2924,19 @@
     market housing from real estate developer George Mallick) and 6) exercise of undue
     influence with officials of the Federal Home Loan Bank Board on behalf of four
     Texas businessmen regarding the savings and loan crisis
+  text: On Apr. 17, 1989, the House Committee on Standards of Official Conduct investigated
+    Wright, Jr. for improper lobbying efforts on behalf of a constituent with whom
+    Rep. Wright had an interest in a private gas well, 2) intervention in a matter
+    before the Department of the Interior on behalf of Texas Oil and Gas Company,
+    3) improper use of campaign funds to pay for publication of a book for which Rep.
+    Wright received a 55% royalty (Reflections of a Public Man), 4) improper use of
+    government resources on the book, 5) improper use of a condominium in Fort Worth,
+    TX (free and below market housing from real estate developer George Mallick) and
+    6) exercise of undue influence with officials of the Federal Home Loan Bank Board
+    on behalf of four Texas businessmen regarding the savings and loan crisis and
+    report of Special Outside Counsel made public. On Jun. 30, 1989, [rep. Wright
+    resigned as Speaker on House floor after having announced his intent to do so
+    in May](https://www.washingtonpost.com/wp-srv/politics/special/clinton/frenzy/wright.htm).
   consequences:
   - date: 1989-04-17
     body: House Committee on Standards of Official Conduct
@@ -2631,6 +2951,11 @@
   allegation: accepting illegal gratuities, obstruction of justice and violation of
     the Travel Act on Sept. 22, 1987 because he accepted free vacations in exchange
     for using influence, for which he was convicted
+  text: On Feb. 17, 1988, the House Committee on Standards of Official Conduct investigated
+    Biaggi for accepting illegal gratuities, obstruction of justice and violation
+    of the Travel Act on Sept. 22, 1987 because he accepted free vacations in exchange
+    for using influence, for which he was convicted and recommended expulsion, 12-0.
+    On Aug. 5, 1988, he/she [resigned after additional conviction](http://articles.latimes.com/1988-08-05/news/mn-8579_1_mario-biaggi).
   consequences:
   - date: 1988-02-17
     body: House Committee on Standards of Official Conduct
@@ -2642,6 +2967,10 @@
 - person: 409400
   name: Rose III
   allegation: borrowing campaign funds for personal use and inadequate financial disclosure
+  text: On Mar. 23, 1988, the House Committee on Standards of Official Conduct investigated
+    Rose III for borrowing campaign funds for personal use and inadequate financial
+    disclosure and adopted public letter of reproval, 9-3. In 1994, [paid civil fine
+    of $12,500](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1988-03-23
     body: House Committee on Standards of Official Conduct
@@ -2654,6 +2983,10 @@
   name: Murphy
   allegation: improper use of official resources and violation of House rules regarding
     voting
+  text: On Dec. 16, 1987, the House Committee on Standards of Official Conduct investigated
+    Murphy for improper use of official resources and violation of House rules regarding
+    voting and recommended reprimand, 11-0. On Dec. 18, 1987, the House of Representatives
+    [reprimanded, 324-68](https://www.govtrack.us/congress/votes/100-1987/h472).
   consequences:
   - date: 1987-12-16
     body: House Committee on Standards of Official Conduct
@@ -2667,6 +3000,13 @@
   name: Boner
   allegation: violations of the gift rule, improper use of campaign funds, conflict
     of interest, and improper use of official resources
+  text: On Feb. 5, 1986, the House Committee on Standards of Official Conduct investigated
+    Boner for violations of the gift rule, improper use of campaign funds, conflict
+    of interest, and improper use of official resources and preliminary inquiry authorized.
+    On Apr. 23, 1987, the House Committee on Standards of Official Conduct deferred
+    at DOJ request On Sep. 23, 1987, [boner elected mayor of Nashville](http://www.nytimes.com/1987/09/23/us/congressman-elected-mayor.html).
+    On Oct. 5, 1987, he/she resigned from Congress. On Dec. 14, 1987, the House Committee
+    on Standards of Official Conduct [staff report published (Dec. 14, 1987](https://ethics.house.gov/committee-report/staff-report-matter-representative-william-h-boner).
   consequences:
   - date: 1986-02-05
     body: House Committee on Standards of Official Conduct
@@ -2686,6 +3026,9 @@
 - person: 410251
   name: Stallings
   allegation: improper use of campaign funds (loan to congressional employee)
+  text: On Oct. 15, 1987, the House Committee on Standards of Official Conduct investigated
+    Stallings for improper use of campaign funds (loan to congressional employee)
+    and adopted public letter of reproval, 12-0.
   consequences:
   - date: 1987-10-15
     body: House Committee on Standards of Official Conduct
@@ -2696,6 +3039,10 @@
   allegation: accepted free flights on corporate aircraft, intervened on behalf of
     an organization in which he had a financial interest and inadequate financial
     disclosure
+  text: On Apr. 9, 1987, the House Committee on Standards of Official Conduct investigated
+    St. Germain for accepted free flights on corporate aircraft, intervened on behalf
+    of an organization in which he had a financial interest and inadequate financial
+    disclosure and recommended no sanction, report approved and filed.
   consequences:
   - date: 1987-04-09
     body: House Committee on Standards of Official Conduct
@@ -2705,6 +3052,11 @@
   name: Oakar
   allegation: purchase of a townhouse with a member of her staff and improper salary
     disbursements to an employee
+  text: On Jun. 17, 1987, the House Committee on Standards of Official Conduct investigated
+    Oakar for purchase of a townhouse with a member of her staff and improper salary
+    disbursements to an employee and informal staff review of press allegations; found
+    improper payments but no fraudulent intent; recommended no sanction; letter released
+    publicly.
   consequences:
   - date: 1987-06-17
     body: House Committee on Standards of Official Conduct
@@ -2715,6 +3067,10 @@
   name: Weaver
   allegation: borrowing approximately $82,000 in campaign funds for personal use and
     inadequate financial disclosure of commodity investment transactions
+  text: On Sep. 30, 1986, the House Committee on Standards of Official Conduct investigated
+    Weaver for borrowing approximately $82,000 in campaign funds for personal use
+    and inadequate financial disclosure of commodity investment transactions and recommended
+    no sanction, report approved and filed, 12-0.
   consequences:
   - date: 1986-09-30
     body: House Committee on Standards of Official Conduct
@@ -2724,6 +3080,11 @@
   name: Sweeney
   allegation: use of official resources for political purposes and congressional staff
     required to campaign as a condition of continued employment
+  text: On Sep. 11, 1986, the House Committee on Standards of Official Conduct investigated
+    Sweeney for use of official resources for political purposes and congressional
+    staff required to campaign as a condition of continued employment and determined
+    that campaign activities occurred in district office; no evidence Rep. Sweeney
+    directed or condoned improper activities.
   consequences:
   - date: 1986-09-11
     body: House Committee on Standards of Official Conduct
@@ -2733,6 +3094,9 @@
 - person: 403178
   name: Daniel
   allegation: accepting free flights on corporate aircraft (1983-85)
+  text: On Feb. 5, 1986, the House Committee on Standards of Official Conduct investigated
+    Daniel for accepting free flights on corporate aircraft (1983-85) and member made
+    restitution and amended financial disclosure Statement.
   consequences:
   - date: 1986-02-05
     body: House Committee on Standards of Official Conduct
@@ -2741,6 +3105,11 @@
 - person: 404046
   name: Ferraro
   allegation: inadequate and improper financial disclosure
+  text: On Dec. 4, 1984, the House Committee on Standards of Official Conduct investigated
+    Ferraro for inadequate and improper financial disclosure and complaint filed by
+    outside organization (Aug. 7, 1984); preliminary inquiry voted (Sept. 12, 1984);
+    found technical violations; no sanction recommended, 12-2 (Dec. 3, 1984); report
+    filed (Dec. 4, 1984).
   consequences:
   - date: 1984-12-04
     body: House Committee on Standards of Official Conduct
@@ -2752,6 +3121,12 @@
   name: Hansen
   allegation: making false statements and failing to report nearly $334,000 in loans
     and profits from 1978-81
+  text: On Jun. 20, 1984, the House Committee on Standards of Official Conduct investigated
+    Hansen for making false statements and failing to report nearly $334,000 in loans
+    and profits from 1978-81 and reprimand recommended, 11-1. On Jul. 31, 1984, the
+    House of Representatives [reprimanded, 354-52](https://www.govtrack.us/congress/votes/98-1984/h793).
+    In 1985, [conviction vacated, U.S. v. Hansen, 906 F. Supp. 688 (1995)](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    On Nov. 6, 1984, [defeated in election by Richard Stallings](http://www.nytimes.com/1984/11/09/us/justice-dept-rebuts-rep-hansen-of-idaho.html).
   consequences:
   - date: 1984-06-20
     body: House Committee on Standards of Official Conduct
@@ -2770,6 +3145,9 @@
 - person: 411725
   name: Wilson
   allegation: using cocaine and marijuana
+  text: On Nov. 17, 1983, the House Committee on Standards of Official Conduct investigated
+    Wilson for using cocaine and marijuana and preliminary inquiry voted; Special
+    Counsel investigated and found no basis for SAV; Comm. took no further action.
   consequences:
   - date: 1983-11-17
     body: House Committee on Standards of Official Conduct
@@ -2779,6 +3157,9 @@
 - person: 403364
   name: Dellums
   allegation: using cocaine and marijuana
+  text: On Nov. 17, 1983, the House Committee on Standards of Official Conduct investigated
+    Dellums for using cocaine and marijuana and preliminary inquiry voted; Special
+    Counsel investigated and found no basis for SAV; Comm. took no further action.
   consequences:
   - date: 1983-11-17
     body: House Committee on Standards of Official Conduct
@@ -2789,6 +3170,11 @@
   name: Studds
   allegation: sexual relationship with 17-year old male House page that occurred 10
     years earlier in 1973
+  text: On Jul. 14, 1983, the House Committee on Standards of Official Conduct investigated
+    Studds for sexual relationship with 17-year old male House page that occurred
+    10 years earlier in 1973 and recommended reprimand and filed report, 11-1. On
+    Jul. 20, 1983, the House of Representatives [rejected reprimand recommendation,
+    289-136; censured, 420-3](https://www.govtrack.us/congress/votes/98-1983/h246).
   consequences:
   - date: 1983-07-14
     body: House Committee on Standards of Official Conduct
@@ -2801,6 +3187,11 @@
 - person: 402985
   name: Crane
   allegation: sexual relationship with 17-year old female House page in 1980
+  text: On Jul. 14, 1983, the House Committee on Standards of Official Conduct investigated
+    Crane for sexual relationship with 17-year old female House page in 1980 and recommended
+    reprimand, 11-1. On Jul. 20, 1983, the House of Representatives [rejected reprimand
+    recommendation, 289-136; censured, 421-3](https://www.govtrack.us/congress/votes/98-1983/h244).
+    On Nov. 6, 1984, defeated in election.
   consequences:
   - date: 1983-07-14
     body: House Committee on Standards of Official Conduct
@@ -2817,6 +3208,11 @@
   allegation: evading federal taxes (pleaded guilty to felony charge), two misdemeanors
     involving a government contract, and misdemeanor possession of marijuana (Aug.
     25, 1982)
+  text: On May. 12, 1982, the House Committee on Standards of Official Conduct investigated
+    Richmond for evading federal taxes (pleaded guilty to felony charge), two misdemeanors
+    involving a government contract, and misdemeanor possession of marijuana (Aug.
+    25, 1982) and preliminary inquiry voted and deferred at request of Department
+    of Justice. On Aug. 25, 1982, he/she [resigned](https://www.upi.com/Archives/1982/08/25/Millionaire-Congressman-Fred-Richmond-pleaded-guilty-to-tax-and/6183399096000/).
   consequences:
   - date: 1982-05-12
     body: House Committee on Standards of Official Conduct
@@ -2828,6 +3224,9 @@
 - person: 400286
   name: Murtha
   allegation: bribery and conspiracy as part of ABSCAM investigation
+  text: On Jul. 28, 1981, the House Committee on Standards of Official Conduct investigated
+    Murtha for bribery and conspiracy as part of ABSCAM investigation and preliminary
+    inquiry voted (May 28, 1981); dismissed (July 28, 1981) and Special Counsel resigned.
   consequences:
   - date: 1981-07-28
     body: House Committee on Standards of Official Conduct
@@ -2837,6 +3236,10 @@
 - person: 411659
   name: Williams
   allegation: bribery connected with the ABSCAM sting
+  text: Williams faced an allegation of bribery connected with the ABSCAM sting. On
+    May. 1, 1981, convicted. On May. 1, 1981, the Senate Select Committee on Ethics
+    opened inquiry On Sep. 3, 1981, the Senate Select Committee on Ethics filed report
+    On Mar. 11, 1982, he/she [resigned to avoid an expulsion vote](https://www.senate.gov/artandhistory/history/common/expulsion_cases/140HarrisonWilliams_expulsion.htm).
   consequences:
   - date: 1981-05-01
     text: Convicted.
@@ -2852,6 +3255,8 @@
 - person: 406247
   name: Kelly
   allegation: bribery and conspiracy in the ABSCAM investigation
+  text: Kelly faced an allegation of bribery and conspiracy in the ABSCAM investigation.
+    On Nov. 4, 1980, lost election. On Jan. 26, 1981, [convicted](http://www.nytimes.com/1981/01/27/us/ex-representive-kelly-convicted-of-abscam-bribery.html).
   consequences:
   - date: 1980-11-04
     text: Lost election.
@@ -2861,6 +3266,9 @@
 - person: 408062
   name: Murphy
   allegation: taking an unlawful gratuity as part of ABSCAM investigation
+  text: Murphy faced an allegation of taking an unlawful gratuity as part of ABSCAM
+    investigation. On Nov. 4, 1980, [lost election](https://en.wikipedia.org/wiki/John_M._Murphy).
+    On Dec. 3, 1980, [convicted](http://www.nytimes.com/1982/03/12/nyregion/7-from-congress-guilty-in-abscam.html).
   consequences:
   - date: 1980-11-04
     text: Lost election.
@@ -2872,6 +3280,12 @@
   name: Lederer
   allegation: bribery, acceptance of an unlawful gratuity, conspiracy and Travel Act
     violations (convicted)
+  text: On Apr. 28, 1981, the House Committee on Standards of Official Conduct investigated
+    Lederer for bribery, acceptance of an unlawful gratuity, conspiracy and Travel
+    Act violations (convicted) and expulsion recommended, 10-2. On Apr. 29, 1981,
+    he/she [resigned](http://www.nytimes.com/1981/04/30/us/lederer-quits-congress-over-conviction-in-abscam.html).
+    On May. 20, 1981, the House Committee on Standards of Official Conduct [report
+    filed](https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt97-110.pdf).
   consequences:
   - date: 1981-04-28
     body: House Committee on Standards of Official Conduct
@@ -2887,6 +3301,9 @@
 - person: 410779
   name: Thompson
   allegation: bribery charges in the ABSCAM investigation (convicted)
+  text: Thompson faced an allegation of bribery charges in the ABSCAM investigation
+    (convicted). On Nov. 4, 1980, [lost election](http://bioguide.congress.gov/scripts/biodisplay.pl?index=T000200).
+    On Dec. 29, 1980, he/she [resigned](http://bioguide.congress.gov/scripts/biodisplay.pl?index=T000200).
   consequences:
   - date: 1980-11-04
     text: Lost election.
@@ -2898,6 +3315,11 @@
   name: Jenrette, Jr.
   allegation: bribery and conspiracy for accepting money in return for promising to
     use official influence as part of ABSCAM investigation (convicted)
+  text: Jenrette, Jr. faced an allegation of bribery and conspiracy for accepting
+    money in return for promising to use official influence as part of ABSCAM investigation
+    (convicted). On Nov. 4, 1980, lost election. On Dec. 10, 1980, he/she [resigned](http://bioguide.congress.gov/scripts/biodisplay.pl?index=J000099).
+    On Dec. 16, 1980, the House Committee on Standards of Official Conduct [sanction
+    hearing terminated by resignation and report filed](https://ethics.house.gov/committee-report/matter-representative-john-w-jenrette-jr).
   consequences:
   - date: 1980-11-04
     text: Lost election.
@@ -2912,6 +3334,10 @@
   name: Myers
   allegation: bribery, conspiracy and Travel Act violations as part of ABSCAM investigation
     (convicted)
+  text: On Sep. 24, 1980, the House Committee on Standards of Official Conduct investigated
+    Myers for bribery, conspiracy and Travel Act violations as part of ABSCAM investigation
+    (convicted) and recommended expulsion, 10-2 (Sept. 24, 1980). On Oct. 2, 1980,
+    the House of Representatives [expelled, 376-30](https://www.govtrack.us/congress/votes/96-1980/h1222).
   consequences:
   - date: 1980-09-24
     body: House Committee on Standards of Official Conduct
@@ -2926,6 +3352,13 @@
   allegation: accepting money from person with direct interest in legislation; maintained
     person on payroll not performing duties commensurate with pay; personal use of
     campaign funds
+  text: On Apr. 24, 1980, the House Committee on Standards of Official Conduct investigated
+    Wilson for accepting money from person with direct interest in legislation; maintained
+    person on payroll not performing duties commensurate with pay; personal use of
+    campaign funds and recommended censure and denial of chairmanship, 10-2. On Jun.
+    3, 1980, [defeated in primary](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    On Jun. 10, 1980, the House of Representatives [agreed to amendment deleting denial
+    of chairmanship from sanction, 261-148; censured, voice vote](https://www.govtrack.us/congress/votes/96-1980/h949).
   consequences:
   - date: 1980-04-24
     body: House Committee on Standards of Official Conduct
@@ -2943,6 +3376,14 @@
   name: Flood
   allegation: using official influence on behalf of private parties and foreign governments
     in return for unlawful payments
+  text: On Dec. 12, 1979, the House Committee on Standards of Official Conduct investigated
+    Flood for using official influence on behalf of private parties and foreign governments
+    in return for unlawful payments and Special Counsel appointed, Investigative subcommittee
+    established (April 19, 1978); SAV adopted (June 7, 1979); disciplinary hearing
+    deferred due to hospitalization (Dec. 12, 1979). On Jan. 31, 1980, he/she [resigned](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    On Feb. 26, 1980, he/she pleaded guilty to misdemeanor of conspiracy to defraud
+    government. On Mar. 26, 1980, the House Committee on Standards of Official Conduct
+    [report filed](https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt96-856.pdf).
   consequences:
   - date: 1979-12-12
     body: House Committee on Standards of Official Conduct
@@ -2962,6 +3403,10 @@
 - person: 410624
   name: Talmadge
   allegation: financial misconduct
+  text: On Oct. 3, 1979, the Senate Select Committee on Ethics investigated Talmadge
+    for financial misconduct and recommended that Talmadge be "denounced" (censured).
+    On Oct. 11, 1979, the Senate [censured](https://www.govtrack.us/congress/votes/96-1979/s346).
+    On Nov. 4, 1980, lost election.
   consequences:
   - date: 1979-10-03
     body: Senate Select Committee on Ethics
@@ -2976,6 +3421,11 @@
 - person: 403462
   name: Diggs, Jr.
   allegation: mail fraud and false statements (convicted)
+  text: On Jul. 31, 1979, the House Committee on Standards of Official Conduct investigated
+    Diggs, Jr. for mail fraud and false statements (convicted) and recommended censure,
+    11-0. On Jul. 31, 1979, the House of Representatives [censured, 414-0](https://www.govtrack.us/congress/votes/96-1979/h366).
+    On Nov. 7, 1978, [re-elected after conviction](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    On Jun. 3, 1980, he/she [resigned after losing criminal appeal](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1979-07-31
     body: House Committee on Standards of Official Conduct
@@ -2994,6 +3444,9 @@
 - person: 403787
   name: Eilberg
   allegation: conflict of interest by helping a hospital receive federal grant
+  text: On Sep. 13, 1978, the House Committee on Standards of Official Conduct investigated
+    Eilberg for conflict of interest by helping a hospital receive federal grant and
+    conducted inquiry. On Oct. 24, 1978, indicted. On Nov. 7, 1978, lost election.
   consequences:
   - date: 1978-09-13
     body: House Committee on Standards of Official Conduct
@@ -3007,6 +3460,11 @@
   name: Wilson
   allegation: making a false statement on answer to Standards Committee questionnaire
     regarding Korean Influence Investigation
+  text: On Sep. 27, 1978, the House Committee on Standards of Official Conduct investigated
+    Wilson for making a false statement on answer to Standards Committee questionnaire
+    regarding Korean Influence Investigation and conducted inquiry and recommended
+    reprimand, 8-1 (Sept. 27, 1978). On Oct. 13, 1978, the House of Representatives
+    [reprimanded, 329-41](https://www.govtrack.us/congress/votes/95-1978/h1513).
   consequences:
   - date: 1978-09-27
     body: House Committee on Standards of Official Conduct
@@ -3019,6 +3477,10 @@
 - person: 407436
   name: McFall
   allegation: failing to report $3,000 campaign contribution in 1974
+  text: On Oct. 4, 1978, the House Committee on Standards of Official Conduct investigated
+    McFall for failing to report $3,000 campaign contribution in 1974 and conducted
+    inquiry and recommended reprimand, 8-2. On Oct. 13, 1978, the House of Representatives
+    reprimanded, voice vote On Dec. 31, 1978, he/she [resigned](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1978-10-04
     body: House Committee on Standards of Official Conduct
@@ -3034,6 +3496,11 @@
   name: Roybal
   allegation: failing to report campaign contributions, converting campaign funds
     to personal use, and making false statement to Standards Comm.
+  text: On Sep. 27, 1978, the House Committee on Standards of Official Conduct investigated
+    Roybal for failing to report campaign contributions, converting campaign funds
+    to personal use, and making false statement to Standards Comm. and conducted inquiry
+    and recommended censure. On Oct. 13, 1978, the House of Representatives [rejected
+    censure recommendation, 219-170; reprimanded, voice vote](https://www.govtrack.us/congress/votes/95-1978/h1514).
   consequences:
   - date: 1978-09-27
     body: House Committee on Standards of Official Conduct
@@ -3046,6 +3513,9 @@
 - person: 408514
   name: Patten
   allegation: making political contributions with funds provided by another
+  text: On Oct. 4, 1978, the House Committee on Standards of Official Conduct investigated
+    Patten for making political contributions with funds provided by another and conducted
+    inquiry and dismissed charges, 8-0.
   consequences:
   - date: 1978-10-04
     body: House Committee on Standards of Official Conduct
@@ -3054,6 +3524,11 @@
 - person: 405493
   name: Hinshaw
   allegation: state bribery charges for conduct prior to election (convicted)
+  text: On Sep. 1, 1976, the House Committee on Standards of Official Conduct investigated
+    Hinshaw for state bribery charges for conduct prior to election (convicted) and
+    recommended against expulsion due to lack of jurisdiction for actions committed
+    prior to service in House, 10-2. On Oct. 1, 1976, the House of Representatives
+    expulsion resolution tabled On Jun. 8, 1976, [lost primary](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1976-09-01
     body: House Committee on Standards of Official Conduct
@@ -3069,6 +3544,10 @@
 - person: 405275
   name: Hayes
   allegation: retaining employee on public payroll for immoral purposes (1974-76)
+  text: On Jun. 2, 1976, the House Committee on Standards of Official Conduct investigated
+    Hayes for retaining employee on public payroll for immoral purposes (1974-76)
+    and ordered investigation after Rep. Hays and other members requested investigation
+    of press allegations. On Sep. 1, 1976, he/she [resigned prior to hearings](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1976-06-02
     body: House Committee on Standards of Official Conduct
@@ -3080,6 +3559,11 @@
 - person: 409900
   name: Sikes
   allegation: improper financial disclosure [R. 44] and conflict of interest
+  text: On Jul. 21, 1976, the House Committee on Standards of Official Conduct investigated
+    Sikes for improper financial disclosure [R. 44] and conflict of interest and recommended
+    reprimand, 10-2. On Jul. 29, 1976, the House of Representatives [reprimanded,
+    381-3](https://www.govtrack.us/congress/votes/94-1976/h1042). In 1978, [did not
+    seek re-election](https://en.wikipedia.org/wiki/Bob_Sikes#Reprimand).
   consequences:
   - date: 1976-07-21
     body: House Committee on Standards of Official Conduct
@@ -3096,6 +3580,10 @@
   name: Harrington
   allegation: public disclosure of executive session testimony by CIA Director to
     House Armed Services Investigations Subcommittee (Apr. 22, 1974);
+  text: On Nov. 6, 1975, the House Committee on Standards of Official Conduct investigated
+    Harrington for public disclosure of executive session testimony by CIA Director
+    to House Armed Services Investigations Subcommittee (Apr. 22, 1974); and complaint
+    dismissed, 7-3 because the information had not been properly classified.
   consequences:
   - date: 1975-11-06
     body: House Committee on Standards of Official Conduct
@@ -3107,6 +3595,15 @@
   allegation: conspiracy to violate bribery statute and obstruction of justice statute,
     interstate travel to facilitate bribery and perjury with respect to receipt of
     $25,000 to hinder a federal investigation of a Maryland company in 1965 (convicted)
+  text: On Mar. 12, 1975, the House Committee on Standards of Official Conduct investigated
+    Dowdy for conspiracy to violate bribery statute and obstruction of justice statute,
+    interstate travel to facilitate bribery and perjury with respect to receipt of
+    $25,000 to hinder a federal investigation of a Maryland company in 1965 (convicted)
+    and unanimously adopted H. Res. 46. On Apr. 16, 1975, the House of Representatives
+    [passed H. Res. 46, 360-37 adding clause 10 to Code of Official Conduct, stating
+    policy of House that member convicted of a serious crime voluntarily refrain from
+    voting](https://www.govtrack.us/congress/votes/94-1975/h82). In 1972, declined
+    to run for re-election.
   consequences:
   - date: 1975-03-12
     body: House Committee on Standards of Official Conduct
@@ -3126,6 +3623,20 @@
     and Labor Comm., improperly authorizing clerk hire payments to his wife and contempt
     of court (failed to comply with four state court orders, including one criminal
     conviction for contempt)
+  text: Powell faced an allegation of using committee travel funds for personal travel
+    while Chairman of Education and Labor Comm., improperly authorizing clerk hire
+    payments to his wife and contempt of court (failed to comply with four state court
+    orders, including one criminal conviction for contempt). On Feb. 23, 1967, [select
+    Committee appointed by House recommended censure, $40,000 restitution and reduction
+    of seniority](https://ethics.house.gov/sites/ethics.house.gov/files/Rep.Powell.pdf).
+    On Mar. 1, 1967, [excluded, 307-116](https://www.govtrack.us/congress/votes/90-1967/h15).
+    On Apr. 11, 1967, [reelected to 90th Congress in special election to fill the
+    vacancy caused by his exclusion but did not take seat](https://en.wikipedia.org/wiki/Adam_Clayton_Powell_Jr.#Political_controversy).
+    On Jan. 3, 1969, [seated after reelection to 91st Cong., fined $25,000 and seniority
+    reduced, 254-158](https://en.wikipedia.org/wiki/Adam_Clayton_Powell_Jr.#Political_controversy).
+    In 1969, [supreme Court held exclusion unconstitutional, see (Powell v. McCormack,
+    395 U.S. 486](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    In 1970, [lost primary to Charles Rangel](https://en.wikipedia.org/wiki/Adam_Clayton_Powell_Jr.#Political_controversy).
   consequences:
   - date: 1967-02-23
     text: Select Committee appointed by House recommended censure, $40,000 restitution
@@ -3152,6 +3663,12 @@
 - person: 403505
   name: Dodd
   allegation: personal use of campaign funds and unbecoming conduct in a senator
+  text: Dodd faced an allegation of personal use of campaign funds and unbecoming
+    conduct in a senator. On Feb. 23, 1966, [request for committee investigation](https://www.senate.gov/artandhistory/history/common/censure_cases/135ThomasDodd.htm).
+    On Apr. 27, 1967, the Senate Select Committee on Standards and Conduct [committee
+    report released with recommendation of censure](https://www.senate.gov/artandhistory/history/common/censure_cases/pdf/135DoddApril27_1967report.pdf).
+    On Jun. 23, 1967, the Senate [censured 92-5](https://www.govtrack.us/congress/votes/90-1967/s112).
+    In 1970, [was not re-elected](https://www.senate.gov/artandhistory/history/common/censure_cases/pdf/135DoddApril27_1967report.pdf).
   consequences:
   - date: 1966-02-23
     text: Request for committee investigation.
@@ -3170,6 +3687,10 @@
 - person: 407327
   name: McCarthy
   allegation: abuse of a Senate committee
+  text: McCarthy faced an allegation of abuse of a Senate committee. On Nov. 8, 1954,
+    the Select Committee to Study Censure Charges [unanimously recommended censure](https://www.senate.gov/artandhistory/history/common/censure_cases/pdf/133McCarthyNov8_1954report.pdf).
+    On Dec. 2, 1954, the Senate [censured, 67-22](https://www.senate.gov/artandhistory/history/resources/pdf/1954McCarthyCensure.pdf).
+    On May. 2, 1957, [died before his term would have ended in 1958](http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000315).
   consequences:
   - date: 1954-11-08
     body: Select Committee to Study Censure Charges
@@ -3185,6 +3706,16 @@
 - person: 407327
   name: McCarthy
   allegation: corruption
+  text: McCarthy faced an allegation of corruption. On Aug. 6, 1951, [senator Benton
+    introduced a resolution calling for an inquiry into McCarthy. Senate referred
+    the resolution to the Committee on Rules and Administration which passed it to
+    the Subcommittee on Privileges and Elections](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=428).
+    On Jan. 2, 1953, the Senate Subcommittee on Privileges and Elections [issued report
+    with no specific recommendations for Senate action and thus the Senate took no
+    action even though the Subcommittee did find evidence of improper behavior by
+    McCarthy](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=431).
+    In 1953, [having received the Subcommittee's report and files, the Department
+    of Justice announced it had found no evidence of wrongdoing and closed the case](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=431).
   consequences:
   - date: 1951-08-06
     text: Senator Benton introduced a resolution calling for an inquiry into McCarthy.
@@ -3205,6 +3736,15 @@
   name: Bilbo
   allegation: campaign irregularities, voter intimidation against African-American
     voters and corruption
+  text: Bilbo faced an allegation of campaign irregularities, voter intimidation against
+    African-American voters and corruption. In 1946, the Senate [established a special
+    committee to investigate election practices in the 1946 MS senate election and
+    separately had the Special Committee to Investigate the National Defense Program
+    also investigate Bilbo](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=410).
+    On Aug. 21, 1947, [while fellow white supremacist senators from Southern states
+    filibustered an attempt to expel Bilbo, the discussion was tabled so Bilbo could
+    receive treatment for cancer of the mouth. He died on August 21, 1947 and no formal
+    action was ever taken](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=413).
   consequences:
   - date: 1946
     body: Senate
@@ -3222,6 +3762,15 @@
   name: Langer
   allegation: bribery, receiving kickbacks, collecting fees for fictitious services
     and converting proceeds from litigation settlements
+  text: Langer faced an allegation of bribery, receiving kickbacks, collecting fees
+    for fictitious services and converting proceeds from litigation settlements. On
+    Jan. 3, 1941, the Senate [referred to the Committee on Privileges and Elections](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=402).
+    On Jan. 29, 1942, the Committee on Privileges and Elections [recommended that
+    Langer was not entitled to his seat due to a lack of moral fitness to be a senator
+    and recommended he be excluded by a majority vote](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=403).
+    On Mar. 27, 1942, the Senate [rejected argument that Langer could not be seated
+    which meant an expulsion and a two-thirds majority; the exclusion vote failed
+    30-52](https://www.govtrack.us/congress/votes/77-1942/s120).
   consequences:
   - date: 1941-01-03
     body: Senate
@@ -3244,6 +3793,24 @@
     for the same and promised immediate release to prisoners in exchange for supporting
     Overton at the polls and thus so corrupted the election that the results were
     invalidated
+  text: Long faced an allegation of using Louisiana state employees and resources
+    for U.S. Senate campaign of John Overton versus Edwin Broussard, coerced campaign
+    contributions from and for the same and promised immediate release to prisoners
+    in exchange for supporting Overton at the polls and thus so corrupted the election
+    that the results were invalidated. On Sep. 21, 1932, the Special Committee to
+    Investigate Campaign Expenditures referred to committee On Mar. 4, 1933, the Senate
+    John Overton seated On Apr. 14, 1933, the Senate Committee on the Judiciary referred
+    to committee On Jan. 10, 1934, the Committee on Privileges and Elections referred
+    to committee On Jan. 16, 1934, the Special Committee to Investigate Campaign Expenditures
+    report presented to Senate On Mar. 19, 1934, the Senate Committee on the Judiciary
+    report presented to Senate On Jun. 16, 1934, the Committee on Privileges and Elections
+    report presented to Senate On Jun. 16, 1934, the Senate [all three committees
+    concluded that no specific action was warranted, partly because many of the contested
+    activities were legal in Louisiana at that time and partly due to a lack of evidence
+    (often resulting from questionable campaign finance recordkeeping practices).
+    Thus, both Long and Overton retained their seats.](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=385).
+    On Sep. 1, 1935, [long was assassinated before he could finish his Senate term
+    or complete his campaign to run for president](https://en.wikipedia.org/wiki/Huey_Long#Assassination_and_aftermath).
   consequences:
   - date: 1932-09-21
     body: Special Committee to Investigate Campaign Expenditures
@@ -3281,6 +3848,21 @@
 - person: 401451
   name: Bingham
   allegation: hiring a lobbyist who was still being paid by a manufacturing organization
+  text: Bingham faced an allegation of hiring a lobbyist who was still being paid
+    by a manufacturing organization. On Oct. 17, 1929, the Subcommittee of the Senate
+    Committee on the Judiciary despite not being named in the investigation, Bingham
+    volunteered to testify before the subcommittee to defend his former staff member,
+    the lobbyist Charles Eyanson. Bingham said he asked the manufacturer's association
+    to loan him Eyanson, but to keep paying Eyanson. Then Bingham temporarily replaced
+    his principal clerk with Eyanson so that Eyanson could attend closed sessions
+    on tariff proposals On Oct. 26, 1929, the Subcommittee of the Senate Committee
+    on the Judiciary condemned the arrangement, but did not recommend censure. Over
+    the next few weeks, Bingham attacked the Judiciary subcommittee as having been
+    unfairly partisan On Nov. 1, 1929, senate Judiciary committee chair Norris introduced
+    a resolution to censure Bingham for his discourteous behavior towards his colleagues.
+    On Nov. 4, 1929, the Senate [censured 54-22 after, over the course of floor debate,
+    the censure resolution was modified to indicate that Bingham had no corrupt motives](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=371).
+    In 1932, lost his bid for re-election.
   consequences:
   - date: 1929-10-17
     body: Subcommittee of the Senate Committee on the Judiciary
@@ -3308,6 +3890,22 @@
   name: Smith
   allegation: corrupt campaign practices in both primary and general election to Senate
     should preclude him from being seated
+  text: Smith faced an allegation of corrupt campaign practices in both primary and
+    general election to Senate should preclude him from being seated. On May. 19,
+    1926, smith's admitted excessive campaign contributions from a utility company
+    he regulated put him under investigation after the primary and during the general
+    election season. Smith won anyway in 1926 and would normally have then been seated
+    in March 1927. On Dec. 7, 1926, senator McKinley (aslo of IL) died On Dec. 9,
+    1926, the Senate resolution introduced to preclude the seating of Smith should
+    he be appointed to fill McKinley's slot On Dec. 16, 1926, governor of Illinois
+    appointed Smith to McKinley's seat to fill the remainder of his term. On Jan.
+    19, 1927, smith presents his credentials for seating in the Senate On Jan. 20,
+    1927, the Senate refused to seat Smith and referred to the Committee on Privileges
+    and Elections On Jan. 17, 1928, the Committee on Privileges and Elections reported
+    that Smith should not be seated due to campaign corruption On Jan. 28, 1928, the
+    Senate voted 61-23 to exclude Smith In 1928, [three weeks later Smith resigned,
+    the IL governor accepted it, announced a vacancy and named Smith to fill the vacancy.
+    Smith did not claim the seat and then lost in the 1928 primaries](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=364).
   consequences:
   - date: 1926-05-19
     text: Smith's admitted excessive campaign contributions from a utility company
@@ -3343,6 +3941,20 @@
 - person: 404696
   name: Gould
   allegation: bribery more than a decade before his time in office
+  text: Gould faced an allegation of bribery more than a decade before his time in
+    office. On Dec. 7, 1926, the Committee on Privileges and Elections Senator Walsh
+    of MT asked for a clear judgment on the Senate's right to exclude members for
+    actions taken long before their election to the Senate and unrelated to the election
+    itself On Mar. 4, 1927, the Committee on Privileges and Elections recommended
+    the Senate dismiss all charges because 14 year old charges did not and should
+    not affect the legality of his election. Further, because the bribe was made on
+    behalf of a board of directors of a company of which Gould was a member and Gould
+    swore that he had personally vehemently opposed that bribe, therefore, he, Gould
+    was not personally responsible for the crime that everyone agreed had in fact
+    taken place. The committee further refused to provide a guideline on how prior
+    actions should affect seating as a Senator because each case should be considered
+    on its merits On Apr. 28, 1928, the Senate reimbursed Gould over $10,000 for his
+    expenses In 1932, [gould declined to run for re-election](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=368).
   consequences:
   - date: 1926-12-07
     body: Committee on Privileges and Elections
@@ -3368,6 +3980,11 @@
 - person: 401733
   name: Bratton
   allegation: election irregularities that changed the outcome of the election
+  text: Bratton faced an allegation of election irregularities that changed the outcome
+    of the election. On Apr. 30, 1926, the Committee on Privileges and Elections unanimously
+    found that the accuser had failed to prove corruption or a change in the election
+    outcome and recommended no further action On Apr. 30, 1926, the Senate [adopted
+    the committee report](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=352).
   consequences:
   - date: 1926-04-30
     body: Committee on Privileges and Elections
@@ -3380,6 +3997,9 @@
 - person: 409621
   name: Schall
   allegation: campaign misconduct
+  text: Schall faced an allegation of campaign misconduct. On Jun. 26, 1926, the Committee
+    on Privileges and Elections recommended unanimously that Schall retain his seat
+    On Jun. 16, 1926, the Senate [adopted committee recommendation](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=350).
   consequences:
   - date: 1926-06-26
     body: Committee on Privileges and Elections
@@ -3391,6 +4011,13 @@
 - person: 406581
   name: Langley
   allegation: violating the National Prohibition Act
+  text: Langley faced an allegation of violating the National Prohibition Act. In
+    1924, convicted of violating the National Prohibition Act in 1924. On Nov. 13,
+    1925, conviction affirmed by appeals court. In Jan. 1926, the Supreme Court declined
+    to review the case On May. 15, 1924, special committee deferred action until conclusion
+    of criminal case and appeals In 1925, re-elected. On Dec. 22, 1925, special Comm.
+    concluded that House could not expel a member for action prior to election; recommended
+    no action until decision by Supreme Court On Jan. 11, 1926, he/she [resigned](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1924
     text: Convicted of violating the National Prohibition Act in 1924.
@@ -3414,6 +4041,9 @@
   name: Zihlman
   allegation: “certain sums of money were paid to two members of Congress” (grand
     jury reported to court in 1924)
+  text: Zihlman faced an allegation of “certain sums of money were paid to two members
+    of Congress” (grand jury reported to court in 1924). On May. 15, 1924, [special
+    Comm. recommended no further action against Rep. Zihlman](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1924-05-15
     text: Special Comm. recommended no further action against Rep. Zihlman
@@ -3422,6 +4052,14 @@
   name: Wheeler
   allegation: representing clients in cases in which the U.S. was an interested party
     (indicted in Montana)
+  text: Wheeler faced an allegation of representing clients in cases in which the
+    U.S. was an interested party (indicted in Montana). On Apr. 9, 1924, the Senate
+    Wheeler requested a special committee to investigate the indictment because Wheeler
+    contended it was retaliation for his investigations into the Justice Department's
+    failure to prosecute government officials implicated in the Teapot Dome scandal
+    On May. 14, 1924, the special committee exonerated Wheeler On May. 23, 1024, the
+    Senate voted to agree with the committee report 56-5 In 1925, [wheeler was acquitted
+    in the Montana case](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=343).
   consequences:
   - date: 1924-04-09
     body: Senate
@@ -3441,6 +4079,10 @@
 - person: 408150
   name: Newberry
   allegation: election fraud
+  text: Newberry faced an allegation of election fraud. On Mar. 20, 1920, the Senate
+    convicted of bribery by the Senate On May. 2, 1921, the Supreme Court overturned
+    Senate conviction On Jan. 12, 1922, the Senate affirmed his election 46-41 On
+    Nov. 18, 1922, he/she [resigned](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=336).
   consequences:
   - date: 1920-03-20
     body: Senate
@@ -3458,6 +4100,10 @@
   name: Blanton
   allegation: inserting a document in Congressional Record containing indecent and
     obscene language on October 22, 1921
+  text: Blanton faced an allegation of inserting a document in Congressional Record
+    containing indecent and obscene language on October 22, 1921. On Oct. 27, 1921,
+    [censured (“resolution of reprimand and censure”), 293-0](https://www.govtrack.us/congress/votes/67-1/h120).
+    On Oct. 28, 1921, [apologized](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1921-10-27
     text: Censured (“resolution of reprimand and censure”), 293-0.
@@ -3469,6 +4115,10 @@
   name: La Follette
   allegation: disloyalty to the United States by speaking against U.S. participation
     in World War I
+  text: La Follette faced an allegation of disloyalty to the United States by speaking
+    against U.S. participation in World War I. On Jan. 16, 1919, the Committee on
+    Privileges and Elections majority report recommending dismissing charges On Jan.
+    16, 1919, the Senate [voted 50-21 to dismss charges](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=333).
   consequences:
   - date: 1919-01-16
     body: Committee on Privileges and Elections
@@ -3480,6 +4130,11 @@
 - person: 408150
   name: Newberry
   allegation: corrupt election spending
+  text: Newberry faced an allegation of corrupt election spending. On Mar. 20, 1920,
+    foud guilty of campaign finance violations. On May. 2, 1921, supreme Court struck
+    down conviction On Sep. 29, 1921, the Committee on Privileges and Elections exonerated
+    Newberry in majority report On Jan. 12, 1922, the Senate [condemned Newberry for
+    excessive expenditures, but did not unseat him](https://www.govtrack.us/congress/votes/67-2/s206).
   consequences:
   - date: 1920-03-20
     text: Foud guilty of campaign finance violations.
@@ -3495,6 +4150,10 @@
 - person: 410534
   name: Sutherland
   allegation: illegal campaign activities
+  text: Sutherland faced an allegation of illegal campaign activities. On Jun. 26,
+    1918, the Committee on Privileges and Elections recommended Sutherland retain
+    his seat due to a lack of evidence On Jun. 28, 1918, the Senate [adopted the committee's
+    recommendation](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=331).
   consequences:
   - date: 1918-06-26
     body: Committee on Privileges and Elections
@@ -3507,6 +4166,12 @@
   name: McDermott
   allegation: bribery by National Association of Manufacturers and other groups in
     June 1913, alleged by newspapers
+  text: McDermott faced an allegation of bribery by National Association of Manufacturers
+    and other groups in June 1913, alleged by newspapers. On Dec. 9, 1913, the Select
+    Committee to Investigate Lobby Charges recommended censure of Rep. McDermott and
+    exonerated six other members (Dec. 9, 1913) On Apr. 24, 1914, the House Committee
+    on the Judiciary recommended resolution “strongly” condemning conduct of Rep.
+    McDermott On Jul. 21, 1914, he/she resigned. On Nov. 3, 1914, [re-elected](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1913-12-09
     body: Select Committee to Investigate Lobby Charges
@@ -3523,6 +4188,9 @@
 - person: 411369
   name: Watson
   allegation: bribery to secure seat
+  text: Watson faced an allegation of bribery to secure seat. On Feb. 11, 1913, the
+    Committee on Privileges and Elections unanimously recommended no further action
+    On Feb. 11, 1913, the Senate [adopted the recommendation](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=322).
   consequences:
   - date: 1913-02-11
     body: Committee on Privileges and Elections
@@ -3534,6 +4202,9 @@
 - person: 402499
   name: Chilton
   allegation: bribery to secure seat
+  text: Chilton faced an allegation of bribery to secure seat. On Feb. 11, 1913, the
+    Committee on Privileges and Elections unanimously recommended no further action
+    On Feb. 11, 1913, the Senate [adopted the recommendation](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=322).
   consequences:
   - date: 1913-02-11
     body: Committee on Privileges and Elections
@@ -3545,6 +4216,10 @@
 - person: 410325
   name: Stephenson
   allegation: electoral misconduct, bribery, and corruption
+  text: Stephenson faced an allegation of electoral misconduct, bribery, and corruption.
+    On Jun. 11, 1911, the Committee on Privileges and Elections divided committee
+    issued a majority report recommending he retain his seat; the minority report
+    disagreed On Mar. 12, 1912, the Senate [voted to allow him to keep his seate 40-34](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=319).
   consequences:
   - date: 1911-06-11
     body: Committee on Privileges and Elections
@@ -3559,6 +4234,18 @@
   allegation: electoral misconduct, bribery, and corruption of a state legislature
     in order to secure election to the Senate (this was immediately before the 17th
     Amendement passed providing for direct election of senators)
+  text: Lorimer faced an allegation of electoral misconduct, bribery, and corruption
+    of a state legislature in order to secure election to the Senate (this was immediately
+    before the 17th Amendement passed providing for direct election of senators).
+    On Jun. 1, 1910, the Senate referred to Committee on Privileges and Elections
+    after Lorimer asked for an investigation after the Chicago Tribune had alleged
+    misconduct on his part On Dec. 21, 1910, the Committee on Privileges and Elections
+    majority report exonerated him; minority reports did not On Mar. 1, 1911, the
+    Senate vote to unseat failed 40-46 On Jun. 7, 1911, the Senate subcomittee created
+    out of Committee on Privileges and Elections On May. 20, 1912, the Committee on
+    Privileges and Elections Subcommittee another majority and minority report, the
+    former recommending he keep the seat and the minority that he not On Jul. 13,
+    1912, the Senate unseated by vote of 55-28
   consequences:
   - date: 1910-06-01
     body: Senate
@@ -3585,6 +4272,13 @@
   name: Lilley
   allegation: contempt of House for making false charges of corruption regarding another
     member
+  text: Lilley faced an allegation of contempt of House for making false charges of
+    corruption regarding another member. On May. 20, 1908, [select Committee adopted
+    report concluding Rep. Lilley made false allegations against another member and
+    acted in contempt of House by disavowing letter reflecting on honor and integrity
+    of other members of the House](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    On May. 20, 1908, the House of Representatives [approved report and conclusions
+    of Select Comm., 159- 82](https://www.govtrack.us/congress/votes/60-1/h191).
   consequences:
   - date: 1908-05-20
     text: Select Committee adopted report concluding Rep. Lilley made false allegations
@@ -3598,6 +4292,10 @@
 - person: 410118
   name: Smoot
   allegation: Mormonism
+  text: Smoot faced an allegation of Mormonism. On Jun. 2, 1906, the Committee on
+    Privileges and Elections with a vote of 7-5, the majority recommended expulsion
+    On Feb. 20, 1907, the Senate [first decided to require a 2/3 majority and then
+    he was not expelled, 27-43 nor was he unseated, 28-42](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=306).
   consequences:
   - date: 1906-06-02
     body: Committee on Privileges and Elections
@@ -3610,6 +4308,11 @@
 - person: 403459
   name: Dietrich
   allegation: improprieties in postal appointments while Nebraska governor
+  text: Dietrich faced an allegation of improprieties in postal appointments while
+    Nebraska governor. On Feb. 1, 1904, the Senate Dietrich requested an investigation
+    into charges he had accepted bribes for postal appointments even though the charges
+    were dismissed in January 1904. On Apr. 14, 1904, [the special committee unanimously
+    exonerated Dietrich and no further action was taken](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=310).
   consequences:
   - date: 1904-02-01
     body: Senate
@@ -3622,6 +4325,12 @@
 - person: 402096
   name: Burton
   allegation: acepting compensation for services before a federal agency (convicted)
+  text: Burton faced an allegation of acepting compensation for services before a
+    federal agency (convicted). On May. 21, 1906, burton's final conviction was upheld
+    after the first had been overturned and he'd been convicted again. From 1904 to
+    this point, Burton had not voted in the Senate to avoid triggering an explusion
+    vote On May. 22, 1906, referred to Committee on Privileges and Elections. On Jun.
+    4, 1906, he/she [resigned](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=309).
   consequences:
   - date: 1906-05-21
     text: Burton's final conviction was upheld after the first had been overturned
@@ -3639,6 +4348,20 @@
     meeting, McLaurin rushed to the Senate floor and accused Tillman of lying, Tillman
     then attacked McLaurin physically, and efforts to separate them resulted in collateral
     punching injuries to other senators on the floor
+  text: McLaurin faced an allegation of an altercation on February 22, 1902 in which
+    Sen. Tillman accused Sen. McLaurin of treachery while McLaurin was off the Senate
+    floor for a committee meeting, McLaurin rushed to the Senate floor and accused
+    Tillman of lying, Tillman then attacked McLaurin physically, and efforts to separate
+    them resulted in collateral punching injuries to other senators on the floor.
+    On Feb. 22, 1902, the Senate referred to Committee on Privileges and Elections
+    and both senators declared in contempt of the Senate and would not be allowed
+    to speak on the floor except at the request of another senator. Another senator
+    did so and both apologized although in such an unpleasant manner the fight almost
+    broke out again On Feb. 28, 1902, the Committee on Privileges and Elections recommended
+    that both should receive the same punishment even though Tillman started it. The
+    punishment was censure and the suspension of duties they'd already been experiencing
+    On Feb. 28, 1902, the Senate [censured 54-12. 22 senators did not vote perhaps
+    suggesting they agreed Tillman was more at fault](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=303).
   consequences:
   - date: 1902-02-22
     body: Senate
@@ -3663,6 +4386,20 @@
     meeting, McLaurin rushed to the Senate floor and accused Tillman of lying, Tillman
     then attacked McLaurin physically, and efforts to separate them resulted in collateral
     punching injuries to other senators on the floor
+  text: Tillman faced an allegation of an altercation on February 22, 1902 in which
+    Sen. Tillman accused Sen. McLaurin of treachery while McLaurin was off the Senate
+    floor for a committee meeting, McLaurin rushed to the Senate floor and accused
+    Tillman of lying, Tillman then attacked McLaurin physically, and efforts to separate
+    them resulted in collateral punching injuries to other senators on the floor.
+    On Feb. 22, 1902, the Senate referred to Committee on Privileges and Elections
+    and both senators declared in contempt of the Senate and would not be allowed
+    to speak on the floor except at the request of another senator. Another senator
+    did so and both apologized although in such an unpleasant manner the fight almost
+    broke out again On Feb. 28, 1902, the Committee on Privileges and Elections recommended
+    that both should receive the same punishment even though Tillman started it. The
+    punishment was censure and the suspension of duties they'd already been experiencing
+    On Feb. 28, 1902, the Senate [censured 54-12. 22 senators did not vote perhaps
+    suggesting they agreed Tillman was more at fault](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=303).
   consequences:
   - date: 1902-02-22
     body: Senate
@@ -3683,6 +4420,13 @@
 - person: 402592
   name: Clark
   allegation: bribery to win seat
+  text: Clark faced an allegation of bribery to win seat. On Apr. 23, 1900, the Committee
+    on Privileges and Elections [unanimously concluded he was not entitled to his
+    seat and recommended a vote to unseat him](https://www.senate.gov/artandhistory/history/common/contested_elections/pdf/89_Apr_23_1900_Clark.pdf).
+    On May. 15, 1900, clark resigned rather than be voted out In 1901, [clark was
+    elected to fill the vacancy he'd just created by a Montana legislature filled
+    with winning candidates he'd financially supported. His prior antagonist had died
+    in 1900 and no new charges challenging his seat were filed](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=297).
   consequences:
   - date: 1900-04-23
     body: Committee on Privileges and Elections
@@ -3699,6 +4443,8 @@
 - person: 405045
   name: Hanna
   allegation: bribery to win seat
+  text: Hanna faced an allegation of bribery to win seat. On Feb. 28, 1899, the Committee
+    on Privileges and Elections [majority report found in favor of Hanna](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=290).
   consequences:
   - date: 1899-02-28
     body: Committee on Privileges and Elections
@@ -3707,6 +4453,8 @@
 - person: 409263
   name: Roach
   allegation: embezzlement
+  text: Roach faced an allegation of embezzlement. In 1893, [was not expelled because
+    the embezzlement had occured 13 years earlier](https://www.senate.gov/artandhistory/history/common/briefing/Expulsion_Censure.htm).
   consequences:
   - date: 1893
     text: Was not expelled because the embezzlement had occured 13 years earlier.
@@ -3714,6 +4462,8 @@
 - person: 402146
   name: Bynum
   allegation: insulted another member during debate on May 17, 1890
+  text: Bynum faced an allegation of insulted another member during debate on May
+    17, 1890. On May. 17, 1890, [censured 126-104](https://www.govtrack.us/congress/votes/51-1/h174).
   consequences:
   - date: 1890-05-17
     text: Censured 126-104.
@@ -3721,6 +4471,11 @@
 - person: 411000
   name: Turpie
   allegation: misconduct by the Indiana Senate to secure Turpie's election
+  text: Turpie faced an allegation of misconduct by the Indiana Senate to secure Turpie's
+    election. On Mar. 4, 1888, the Committee on Privileges and Elections recommended
+    no action since even if the charges were true the US Senate had no jurisdiction
+    over the Indiana Senate On May. 15, 1888, the Senate [voted by voice to discharge
+    the committee from further investigation](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=262).
   consequences:
   - date: 1888-03-04
     body: Committee on Privileges and Elections
@@ -3733,6 +4488,10 @@
 - person: 408555
   name: Payne
   allegation: bribery and corruption in election
+  text: Payne faced an allegation of bribery and corruption in election. On Jul. 15,
+    1886, the Committee on Privileges and Elections submitted multiple reports with
+    no conclusive recommendations On Jul. 23, 1886, the Senate [voted to discharge
+    the committee from further inestigation](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=259).
   consequences:
   - date: 1886-07-15
     body: Committee on Privileges and Elections
@@ -3744,6 +4503,10 @@
 - person: 406239
   name: Kellogg
   allegation: corruption for conduct that occurred prior to election to the House
+  text: Kellogg faced an allegation of corruption for conduct that occurred prior
+    to election to the House. On May. 23, 1884, [rep. Kellogg raised a question of
+    privilege (asked Justice Dept. to investigate); resolution referred to the Judiciary
+    Comm., 82-49; but no report appears to have been made](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1884-05-23
     text: Rep. Kellogg raised a question of privilege (asked Justice Dept. to investigate);
@@ -3753,6 +4516,9 @@
 - person: 411105
   name: Voorhis
   allegation: insulting another member during debate on March 1, 1883
+  text: Voorhis faced an allegation of insulting another member during debate on March
+    1, 1883. On Mar. 1, 1883, the House of Representatives [censure resolution failed,
+    66-78; apologized prior to vote](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1883-03-01
     body: House of Representatives
@@ -3761,6 +4527,10 @@
 - person: 406600
   name: Lapham
   allegation: election corruption
+  text: Lapham faced an allegation of election corruption. On Dec. 3, 1881, the Committee
+    on Privileges and Elections in an oral report, the committee recommended no further
+    action for lack of evidence of wrongdoing On Dec. 13, 1881, the Senate [discharged
+    the committee from further action](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=255).
   consequences:
   - date: 1881-12-03
     body: Committee on Privileges and Elections
@@ -3773,6 +4543,10 @@
 - person: 407738
   name: Miller
   allegation: election corruption
+  text: Miller faced an allegation of election corruption. On Dec. 3, 1881, the Committee
+    on Privileges and Elections in an oral report, the committee recommended no further
+    action for lack of evidence of wrongdoing On Dec. 13, 1881, the Senate [discharged
+    the committee from further action](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=255).
   consequences:
   - date: 1881-12-03
     body: Committee on Privileges and Elections
@@ -3785,6 +4559,10 @@
 - person: 405874
   name: Ingalls
   allegation: bribery and corruption in election
+  text: Ingalls faced an allegation of bribery and corruption in election. On Feb.
+    17, 1880, the Committee on Privileges and Elections concluded that while bribery
+    and corruption were present, there was no evidence tying them to Ingalls or that
+    it had altered election results therefore the charges should be dismissed
   consequences:
   - date: 1880-02-17
     body: Committee on Privileges and Elections
@@ -3794,6 +4572,9 @@
 - person: 407273
   name: Matthews
   allegation: corruption before senate term
+  text: Matthews faced an allegation of corruption before senate term. On Mar. 1,
+    1879, [select Committee unanimously found Matthews had not committed fraud, but
+    had given the appearance of impropriety](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=247).
   consequences:
   - date: 1879-03-01
     text: Select Committee unanimously found Matthews had not committed fraud, but
@@ -3802,6 +4583,8 @@
 - person: 404850
   name: Grover
   allegation: bribery and corruption in election
+  text: Grover faced an allegation of bribery and corruption in election. On Jun.
+    15, 1878, the Committee on Privileges and Elections [dismissed charges](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=245).
   consequences:
   - date: 1878-06-15
     body: Committee on Privileges and Elections
@@ -3810,6 +4593,13 @@
 - person: 409989
   name: Smalls
   allegation: accepting a bribe while a state legislator in 1872
+  text: Smalls faced an allegation of accepting a bribe while a state legislator in
+    1872. On Nov. 11, 1877, convicted and sentenced to three years imprisonment, for
+    which he served three days. On Dec. 3, 1877, released on bail pending appeal On
+    Jan. 25, 1878, the House Committee on the Judiciary investigated circumstances
+    of the conviction and determined that arrest by state authorities for an alleged
+    state crime and detention for trial did not violate any right or privilege of
+    the House On Apr. 23, 1879, [pardoned by governor](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1877-11-11
     text: Convicted and sentenced to three years imprisonment, for which he served
@@ -3827,6 +4617,9 @@
 - person: 401495
   name: Blaine
   allegation: selling worthless bonds to Union Pacific Railroad for $64,000
+  text: Blaine faced an allegation of selling worthless bonds to Union Pacific Railroad
+    for $64,000. On Jun. 6, 1876, the House Committee on the Judiciary report ordered
+    On Jul. 10, 1876, he/she [resigned](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1876-06-06
     body: House Committee on the Judiciary
@@ -3838,6 +4631,12 @@
   name: Hays
   allegation: accepting money to nominate an individual not from his district to military
     academy and making false certification regarding residency of nominee
+  text: Hays faced an allegation of accepting money to nominate an individual not
+    from his district to military academy and making false certification regarding
+    residency of nominee. On Jul. 19, 1876, comm. recommended House take no further
+    action but concluded actions of member “excites grave suspicions, and shows in
+    any possible view a carelessness which ought not to be tolerated”, 4-2 On Aug.
+    6, 1876, [report of Judiciary Comm. tabled](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1876-07-19
     text: Comm. recommended House take no further action but concluded actions of
@@ -3849,6 +4648,10 @@
 - person: 406378
   name: King
   allegation: corruption and false testimony before congressional committee
+  text: King faced an allegation of corruption and false testimony before congressional
+    committee. On Aug. 9, 1876, [majority report of Judiciary Comm. concluded House
+    had no jurisdiction to investigate alleged offense committed in a previous Congress
+    that was being reviewed by the courts, 16-7](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1876-08-09
     text: Majority report of Judiciary Comm. concluded House had no jurisdiction to
@@ -3858,6 +4661,10 @@
 - person: 409655
   name: Schumaker
   allegation: corruption and false testimony before congressional committee
+  text: Schumaker faced an allegation of corruption and false testimony before congressional
+    committee. On Aug. 9, 1876, [majority report of Judiciary Comm. concluded House
+    had no jurisdiction to investigate alleged offense committed in a previous Congress
+    that was being reviewed by the courts, 16-7](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1876-08-09
     text: Majority report of Judiciary Comm. concluded House had no jurisdiction to
@@ -3868,6 +4675,12 @@
   name: Brown
   allegation: insulting a member in debate and lying to the Speaker on February 4,
     1875
+  text: Brown faced an allegation of insulting a member in debate and lying to the
+    Speaker on February 4, 1875. On Feb. 4, 1875, the House of Representatives [censured,
+    161-79](https://www.govtrack.us/congress/votes/43-2/h377). On May. 2, 1876, the
+    House of Representatives [unanimously agreed to resolution rescinding portion
+    of censure regarding comments to Speaker because the former Speaker concluded
+    Rep. Brown “did not in any way intend to prevaricate or deceive the House”](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1875-02-04
     body: House of Representatives
@@ -3882,6 +4695,9 @@
 - person: 401563
   name: Bogy
   allegation: bribery and corruption in election
+  text: Bogy faced an allegation of bribery and corruption in election. On Mar. 25,
+    1873, the Committee on Privileges and Elections recommended no further action
+    On Mar. 25, 1873, the Senate [voted to adopt committee report](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=230).
   consequences:
   - date: 1873-03-25
     body: Committee on Privileges and Elections
@@ -3894,6 +4710,9 @@
   name: Allison
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
     Mobilier of America
+  text: Allison faced an allegation of bribery and corruption in management of Union
+    Pacific Railroad and Credit Mobilier of America. On Feb. 27, 1873, the Morrill
+    Committee no recommendation
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
@@ -3902,6 +4721,9 @@
   name: Bayard
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
     Mobilier of America
+  text: Bayard faced an allegation of bribery and corruption in management of Union
+    Pacific Railroad and Credit Mobilier of America. On Feb. 27, 1873, the Morrill
+    Committee no recommendation
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
@@ -3910,6 +4732,9 @@
   name: Boutwell
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
     Mobilier of America
+  text: Boutwell faced an allegation of bribery and corruption in management of Union
+    Pacific Railroad and Credit Mobilier of America. On Feb. 27, 1873, the Morrill
+    Committee no recommendation
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
@@ -3918,6 +4743,11 @@
   name: Colfax
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
     Mobilier of America
+  text: Colfax faced an allegation of bribery and corruption in management of Union
+    Pacific Railroad and Credit Mobilier of America. On Feb. 27, 1873, the Morrill
+    Committee no recommendation On Feb. 20, 1873, the House of Representatives impeachment
+    resolution introduced On Mar. 4, 1873, [term as Vice President and President of
+    the Senate ended](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=223).
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
@@ -3932,6 +4762,9 @@
   name: Harlan
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
     Mobilier of America
+  text: Harlan faced an allegation of bribery and corruption in management of Union
+    Pacific Railroad and Credit Mobilier of America. On Feb. 27, 1873, the Morrill
+    Committee recommended censure On Mar. 4, 1873, term ended.
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
@@ -3942,6 +4775,9 @@
   name: Logan
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
     Mobilier of America
+  text: Logan faced an allegation of bribery and corruption in management of Union
+    Pacific Railroad and Credit Mobilier of America. On Feb. 27, 1873, the Morrill
+    Committee dismissed charges
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
@@ -3950,6 +4786,9 @@
   name: Conkling
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
     Mobilier of America
+  text: Conkling faced an allegation of bribery and corruption in management of Union
+    Pacific Railroad and Credit Mobilier of America. On Feb. 27, 1873, the Morrill
+    Committee dismissed charges
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
@@ -3958,6 +4797,9 @@
   name: Wilson
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
     Mobilier of America
+  text: Wilson faced an allegation of bribery and corruption in management of Union
+    Pacific Railroad and Credit Mobilier of America. On Feb. 27, 1873, the Morrill
+    Committee no formal recommendation, but reprimanded in report
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
@@ -3965,6 +4807,9 @@
 - person: 408528
   name: Patterson
   allegation: corruption in Credit Mobilier stock share purchases
+  text: Patterson faced an allegation of corruption in Credit Mobilier stock share
+    purchases. On Feb. 27, 1873, the Morrill Committee unanimous recommendation of
+    expulsion In 1873, the Senate [no action due to expiration of Patterson's term](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=223).
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
@@ -3976,6 +4821,11 @@
 - person: 408814
   name: Pomeroy
   allegation: bribery to secure votes
+  text: Pomeroy faced an allegation of bribery to secure votes. On Jun. 3, 1872, the
+    Committee on Privileges and Elections dismissed charges On Mar. 3, 1873, [having
+    lost re-election, Pomeroy requested another investigation and the special committee
+    investigating issued majority and minority reports. However, because the report
+    came on the last day of his term, no further action was taken](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=208).
   consequences:
   - date: 1872-06-03
     body: Committee on Privileges and Elections
@@ -3988,6 +4838,10 @@
 - person: 402188
   name: Caldwell
   allegation: bribery to secure votes
+  text: Caldwell faced an allegation of bribery to secure votes. On Feb. 17, 1873,
+    committee reported unanimously that Caldwell had bribed legislators for their
+    votes and recommending a declaration of a voided election. On Mar. 24, 1873, he/she
+    [resigned before a Senate vote](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=208).
   consequences:
   - date: 1873-02-17
     text: Committee reported unanimously that Caldwell had bribed legislators for
@@ -3998,6 +4852,9 @@
 - person: 402635
   name: Clayton
   allegation: corruption while governor of Arkansas
+  text: Clayton faced an allegation of corruption while governor of Arkansas. On Feb.
+    26, 1873, charges dismissed. On Mar. 25, 1873, the Senate [accepted committe report
+    33-6](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=204).
   consequences:
   - date: 1873-02-26
     text: Charges dismissed.
@@ -4009,6 +4866,9 @@
   name: Brooks
   allegation: soliciting and accepting 50 shares of Credit Mobilier stock at undervalued
     price
+  text: Brooks faced an allegation of soliciting and accepting 50 shares of Credit
+    Mobilier stock at undervalued price. On Feb. 13, 1873, special committee recommended
+    expulsion. On Feb. 27, 1873, the House of Representatives [censured, 174-32](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj07364))).
   consequences:
   - date: 1873-02-13
     text: Special committee recommended expulsion.
@@ -4021,6 +4881,13 @@
   allegation: selling $33 million in Credit Mobilier stock to members of Congress
     and officials of the executive branch at undervalued price with intent to influence
     votes and decisions of the members
+  text: Ames faced an allegation of selling $33 million in Credit Mobilier stock to
+    members of Congress and officials of the executive branch at undervalued price
+    with intent to influence votes and decisions of the members. On Feb. 18, 1873,
+    special committee recommended expulsion but  Judiciary Comm. recommended against
+    expulsion because acts in question occurred three years before election to 42nd
+    Congress On Feb. 27, 1873, the House of Representatives [censured (“House absolutely
+    condemns the conduct”), 182- 36](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj07364))).
   consequences:
   - date: 1873-02-18
     text: Special committee recommended expulsion but  Judiciary Comm. recommended
@@ -4033,6 +4900,9 @@
 - person: 402130
   name: Butler
   allegation: accepting money for recommending appointment to military academy
+  text: Butler faced an allegation of accepting money for recommending appointment
+    to military academy. On Mar. 16, 1870, comm. on Military Affairs recommended censure
+    On Mar. 16, 1870, the House of Representatives [censured, 150-0](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06970))).
   consequences:
   - date: 1870-03-16
     text: Comm. on Military Affairs recommended censure
@@ -4043,6 +4913,10 @@
 - person: 403416
   name: Deweese
   allegation: accepting money for recommending appointment to military academy
+  text: Deweese faced an allegation of accepting money for recommending appointment
+    to military academy. On Mar. 1, 1870, comm. on Military Affairs recommended censure
+    after resignation On Feb. 28, 1870, he/she [resigned](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    On Mar. 1, 1870, the House of Representatives [censured,170-0](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06957))).
   consequences:
   - date: 1870-03-01
     text: Comm. on Military Affairs recommended censure after resignation
@@ -4060,6 +4934,13 @@
     in the Senate, because black people in the United States only became citizens
     with the ratification of the Fourteenth Amendment in 1868 --- but clearly based
     on the racist arguments offered, the allegation was simply that he was black
+  text: Revels faced an allegation of not holding citizenship for the required nine
+    years at the time of presenting his credentials on February 23, 1870 to become
+    the first black American to serve in the Senate, because black people in the United
+    States only became citizens with the ratification of the Fourteenth Amendment
+    in 1868 --- but clearly based on the racist arguments offered, the allegation
+    was simply that he was black. On Feb. 25, 1870, [senate voted to accept his credentials
+    48-8](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=187).
   consequences:
   - date: 1870-02-25
     text: Senate voted to accept his credentials 48-8
@@ -4067,6 +4948,11 @@
 - person: 411586
   name: Whittemore
   allegation: selling appointments to military academies
+  text: Whittemore faced an allegation of selling appointments to military academies.
+    On Feb. 21, 1870, comm. on Military Affairs recommended expulsion On Feb. 24,
+    1870, the House of Representatives [censured (“condemned”),187-0](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06954))).
+    On Jun. 21, 1870, he/she [resigned prior to censure, but then reelected to the
+    same session of the House and then excluded from House after reelection, 130-76](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1870-02-21
     text: Comm. on Military Affairs recommended expulsion
@@ -4081,6 +4967,8 @@
 - person: 405563
   name: Holbrook
   allegation: accusing another member of lying during debate on February 4, 1869
+  text: Holbrook faced an allegation of accusing another member of lying during debate
+    on February 4, 1869. On Feb. 4, 1869, [censured by Speaker with no recorded vote](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06737))).
   consequences:
   - date: 1869-02-04
     text: Censured by Speaker with no recorded vote.
@@ -4089,6 +4977,9 @@
   name: Wood
   allegation: describing Reconstruction legislation as a “monstrosity” on January
     15, 1868
+  text: Wood faced an allegation of describing Reconstruction legislation as a “monstrosity”
+    on January 15, 1868. On Jan. 15, 1868, the House of Representatives [censured,
+    114-39](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06627))).
   consequences:
   - date: 1868-01-15
     body: House of Representatives
@@ -4097,6 +4988,9 @@
 - person: 405826
   name: Hunter
   allegation: accusing another member of lying during debate on January 26, 1867
+  text: Hunter faced an allegation of accusing another member of lying during debate
+    on January 26, 1867. On Jan. 26, 1867, the House of Representatives [censured,
+    77-33](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06436))).
   consequences:
   - date: 1867-01-26
     body: House of Representatives
@@ -4106,6 +5000,12 @@
   name: Rousseau
   allegation: assaulting Rep. Josiah Grinnell (IA) with a cane outside the Capitol
     for alleged insult spoken in debate
+  text: Rousseau faced an allegation of assaulting Rep. Josiah Grinnell (IA) with
+    a cane outside the Capitol for alleged insult spoken in debate. On Jul. 2, 1866,
+    special committee recommended expulsion. On Jul. 17, 1866, the House of Representatives
+    [censured, 89-30](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj063168))).
+    On Jul. 21, 1866, he/she resigned. On Dec. 3, 1866, [re-elected to fill the vacancy
+    his own resignation created](http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000468).
   consequences:
   - date: 1866-07-02
     text: Special committee recommended expulsion.
@@ -4122,6 +5022,9 @@
   name: Chanler
   allegation: “[A]ttempted a gross insult to the House” by proposing a resolution
     supporting vetoes issued by President Johnson on May 14, 1864
+  text: Chanler faced an allegation of “[A]ttempted a gross insult to the House” by
+    proposing a resolution supporting vetoes issued by President Johnson on May 14,
+    1864. On May. 14, 1866, the House of Representatives [censured, 72-30](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj063116))).
   consequences:
   - date: 1866-05-14
     body: House of Representatives
@@ -4131,6 +5034,9 @@
   name: Long
   allegation: supporting recognition of the independence of the Confederacy in speech
     on floor of the House on April 8, 1864
+  text: Long faced an allegation of supporting recognition of the independence of
+    the Confederacy in speech on floor of the House on April 8, 1864. On Apr. 14,
+    1864, the House of Representatives [censured, 80- 70](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06190))).
   consequences:
   - date: 1864-04-14
     body: House of Representatives
@@ -4140,6 +5046,9 @@
   name: Harris
   allegation: encouraging the Confederacy on April 9, 1864 during House debate on
     resolution to expel Rep. Long
+  text: Harris faced an allegation of encouraging the Confederacy on April 9, 1864
+    during House debate on resolution to expel Rep. Long. On Apr. 14, 1864, the House
+    of Representatives [censured, 98-20](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06187))).
   consequences:
   - date: 1864-04-14
     body: House of Representatives
@@ -4148,6 +5057,9 @@
 - person: 402065
   name: Burnett
   allegation: open rebellion against the government of the United States
+  text: Burnett faced an allegation of open rebellion against the government of the
+    United States. On Dec. 3, 1861, the House of Representatives [expelled; no vote
+    recorded](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj0594))).
   consequences:
   - date: 1861-12-03
     body: House of Representatives
@@ -4156,6 +5068,8 @@
 - person: 409126
   name: Reid
   allegation: taking up arms against the government of the United States
+  text: Reid faced an allegation of taking up arms against the government of the United
+    States. On Dec. 2, 1861, the House of Representatives [expelled (no vote recorded)](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj0593))).
   consequences:
   - date: 1861-12-02
     body: House of Representatives
@@ -4164,6 +5078,8 @@
 - person: 402579
   name: Clark
   allegation: taking up arms against the government of the United States
+  text: Clark faced an allegation of taking up arms against the government of the
+    United States. On Jul. 13, 1861, the House of Representatives [expelled, 94-45](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05811))).
   consequences:
   - date: 1861-07-13
     body: House of Representatives
@@ -4172,6 +5088,9 @@
 - person: 409911
   name: Simmons
   allegation: corruption
+  text: Simmons faced an allegation of corruption. On Jul. 14, 1862, the Senate Committee
+    on the Judiciary recommended that Senate take such action as it deemed appropriate,
+    but also the charges were also all true On Aug. 15, 1862, he/she [resigned](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=149).
   consequences:
   - date: 1862-07-14
     body: Senate Committee on the Judiciary
@@ -4183,6 +5102,13 @@
 - person: 410275
   name: Stark
   allegation: disloyalty to the Union
+  text: Stark faced an allegation of disloyalty to the Union. On Feb. 27, 1862, the
+    Senate voted to seat him 26-19 since his public statements came before he was
+    in the Senate On Feb. 28, 1862, stark requested another investigation, presumably
+    to more fully exonerate him On Apr. 22, 1862, committee reported that based on
+    Stark's public statements showed he supported the rebellion and Charles Sumner
+    introduced a resolution to expell him. On Jun. 6, 1862, the Senate expulsion vote
+    defeated 21-16, apparently because Stark had only a few more months to serve
   consequences:
   - date: 1862-02-27
     body: Senate
@@ -4201,6 +5127,9 @@
 - person: 401792
   name: Bright
   allegation: disloyalty to the Union
+  text: Bright faced an allegation of disloyalty to the Union. On Jan. 13, 1862, the
+    Senate Committee on the Judiciary recommended against expulsion On Feb. 5, 1863,
+    the Senate [expelled 32-14](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=140).
   consequences:
   - date: 1862-01-13
     body: Senate Committee on the Judiciary
@@ -4212,6 +5141,10 @@
 - person: 406074
   name: Johnson
   allegation: disloyalty to the Union
+  text: Johnson faced an allegation of disloyalty to the Union. On Jan. 9, 1862, the
+    Senate Committee on the Judiciary recommended expulsion since he had not appeared
+    that session and was rumored to be a Confederate officer On Jan. 10, 1862, the
+    Senate [expelled 35-0](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=138).
   consequences:
   - date: 1862-01-09
     body: Senate Committee on the Judiciary
@@ -4224,6 +5157,10 @@
 - person: 408804
   name: Polk
   allegation: disloyalty to the Union
+  text: Polk faced an allegation of disloyalty to the Union. On Jan. 9, 1862, the
+    Senate Committee on the Judiciary recommended expulsion since he had not appeared
+    that session and had written public letters urging Missouri to secede On Jan.
+    10, 1862, the Senate [expelled 36-0](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=138).
   consequences:
   - date: 1862-01-09
     body: Senate Committee on the Judiciary
@@ -4236,6 +5173,9 @@
 - person: 408866
   name: Powell
   allegation: support for the Confederate rebellion
+  text: Powell faced an allegation of support for the Confederate rebellion. On Mar.
+    12, 1862, the Senate Committee on the Judiciary recommended against expulsion
+    On Mar. 14, 1862, the Senate expulsion defeated, 11-28
   consequences:
   - date: 1862-03-12
     body: Senate Committee on the Judiciary
@@ -4246,6 +5186,8 @@
 - person: 401746
   name: Breckinridge
   allegation: disloyalty to the union
+  text: Breckinridge faced an allegation of disloyalty to the union. On Dec. 4, 1861,
+    the Senate [expelled 36-0](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=136).
   consequences:
   - date: 1861-12-04
     body: Senate
@@ -4254,6 +5196,8 @@
 - person: 407234
   name: Mason
   allegation: disloyalty to the Union
+  text: Mason faced an allegation of disloyalty to the Union. On Jul. 11, 1861, the
+    Senate [expelled 32-10](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129).
   consequences:
   - date: 1861-07-11
     body: Senate
@@ -4262,6 +5206,8 @@
 - person: 405829
   name: Hunter
   allegation: disloyalty to the Union
+  text: Hunter faced an allegation of disloyalty to the Union. On Jul. 11, 1861, the
+    Senate [expelled 32-10](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129).
   consequences:
   - date: 1861-07-11
     body: Senate
@@ -4270,6 +5216,8 @@
 - person: 402658
   name: Clingman
   allegation: disloyalty to the Union
+  text: Clingman faced an allegation of disloyalty to the Union. On Jul. 11, 1861,
+    the Senate [expelled 32-10](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129).
   consequences:
   - date: 1861-07-11
     body: Senate
@@ -4278,6 +5226,8 @@
 - person: 401718
   name: Bragg
   allegation: disloyalty to the Union
+  text: Bragg faced an allegation of disloyalty to the Union. On Jul. 11, 1861, the
+    Senate [expelled 32-10](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129).
   consequences:
   - date: 1861-07-11
     body: Senate
@@ -4286,6 +5236,8 @@
 - person: 402487
   name: Chesnut
   allegation: disloyalty to the Union
+  text: Chesnut faced an allegation of disloyalty to the Union. On Jul. 11, 1861,
+    the Senate [expelled 32-10](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129).
   consequences:
   - date: 1861-07-11
     body: Senate
@@ -4294,6 +5246,8 @@
 - person: 408181
   name: Nicholson
   allegation: disloyalty to the Union
+  text: Nicholson faced an allegation of disloyalty to the Union. On Jul. 11, 1861,
+    the Senate [expelled 32-10](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129).
   consequences:
   - date: 1861-07-11
     body: Senate
@@ -4302,6 +5256,8 @@
 - person: 409721
   name: Sebastian
   allegation: disloyalty to the Union
+  text: Sebastian faced an allegation of disloyalty to the Union. On Jul. 11, 1861,
+    the Senate [expelled 32-10](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129).
   consequences:
   - date: 1861-07-11
     body: Senate
@@ -4310,6 +5266,8 @@
 - person: 407777
   name: Mitchel
   allegation: disloyalty to the Union
+  text: Mitchel faced an allegation of disloyalty to the Union. On Jul. 11, 1861,
+    the Senate [expelled 32-10](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129).
   consequences:
   - date: 1861-07-11
     body: Senate
@@ -4318,6 +5276,8 @@
 - person: 405331
   name: Hemphill
   allegation: disloyalty to the Union
+  text: Hemphill faced an allegation of disloyalty to the Union. On Jul. 11, 1861,
+    the Senate [expelled 32-10](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129).
   consequences:
   - date: 1861-07-11
     body: Senate
@@ -4326,6 +5286,8 @@
 - person: 411604
   name: Wigfall
   allegation: disloyalty to the Union
+  text: Wigfall faced an allegation of disloyalty to the Union. On Jul. 11, 1861,
+    the Senate [expelled 32-10](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129).
   consequences:
   - date: 1861-07-11
     body: Senate
@@ -4334,6 +5296,9 @@
 - person: 402618
   name: Clay
   allegation: disloyalty to the Union
+  text: Clay faced an allegation of disloyalty to the Union. On Mar. 4, 1861, the
+    Senate [voted to pronounce his seat vacant after he withdrew from the Senate in
+    the wake of Secession](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123).
   consequences:
   - date: 1861-03-04
     body: Senate
@@ -4343,6 +5308,9 @@
 - person: 410886
   name: Toombs
   allegation: disloyalty to the Union
+  text: Toombs faced an allegation of disloyalty to the Union. On Mar. 4, 1861, the
+    Senate [voted to pronounce his seat vacant after he withdrew from the Senate in
+    the wake of Secession](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123).
   consequences:
   - date: 1861-03-04
     body: Senate
@@ -4352,6 +5320,9 @@
 - person: 403249
   name: Davis
   allegation: disloyalty to the Union
+  text: Davis faced an allegation of disloyalty to the Union. On Mar. 4, 1861, the
+    Senate [voted to pronounce his seat vacant after he withdrew from the Senate in
+    the wake of Secession](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123).
   consequences:
   - date: 1861-03-04
     body: Senate
@@ -4361,6 +5332,9 @@
 - person: 401857
   name: Brown
   allegation: disloyalty to the Union
+  text: Brown faced an allegation of disloyalty to the Union. On Mar. 4, 1861, the
+    Senate [voted to pronounce his seat vacant after he withdrew from the Senate in
+    the wake of Secession](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123).
   consequences:
   - date: 1861-03-04
     body: Senate
@@ -4370,6 +5344,9 @@
 - person: 412161
   name: Mallory
   allegation: disloyalty to the Union
+  text: Mallory faced an allegation of disloyalty to the Union. On Mar. 4, 1861, the
+    Senate [voted to pronounce his seat vacant after he withdrew from the Senate in
+    the wake of Secession](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123).
   consequences:
   - date: 1861-03-04
     body: Senate
@@ -4379,6 +5356,9 @@
 - person: 401357
   name: Benjamin
   allegation: disloyalty to the Union
+  text: Benjamin faced an allegation of disloyalty to the Union. On Mar. 4, 1861,
+    the Senate [voted to pronounce his seat vacant after he withdrew from the Senate
+    in the wake of Secession](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123).
   consequences:
   - date: 1861-03-04
     body: Senate
@@ -4388,6 +5368,10 @@
 - person: 409174
   name: Rice
   allegation: corruption prior to Senate term
+  text: Rice faced an allegation of corruption prior to Senate term. On Jun. 9, 1858,
+    the Committee on Military Affairs and the Militia [reported that while he did
+    charge more for land he sold as agent than was recorded on receipts, that this
+    was not disqualifying and no further action was taken](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=118).
   consequences:
   - date: 1858-06-09
     body: Committee on Military Affairs and the Militia
@@ -4398,6 +5382,9 @@
 - person: 407269
   name: Matteson
   allegation: corruption during preceding Congress
+  text: Matteson faced an allegation of corruption during preceding Congress. On Mar.
+    22, 1858, [special committee recommended no further action](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05470))).
+    On Mar. 22, 1858, [expulsion resolution tabled, 96-69](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05474))).
   consequences:
   - date: 1858-03-22
     text: Special committee recommended no further action.
@@ -4408,6 +5395,9 @@
 - person: 402226
   name: Cameron
   allegation: election irregularities and electoral misconduct
+  text: Cameron faced an allegation of election irregularities and electoral misconduct.
+    On Mar. 9, 1857, cameron asked for a Judiciary Committee investigation On Mar.
+    13, 1857, the Senate Committee on the Judiciary [dismissed charges](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=114).
   consequences:
   - date: 1857-03-09
     text: Cameron asked for a Judiciary Committee investigation
@@ -4418,6 +5408,10 @@
 - person: 403762
   name: Edwards
   allegation: accepting money for supporting legislation
+  text: Edwards faced an allegation of accepting money for supporting legislation.
+    On Feb. 19, 1857, [special committee recommended expulsion in the majority report](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05363))).
+    On Feb. 28, 1857, the House of Representatives [expulsion resolution tabled after
+    resignation](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))).
   consequences:
   - date: 1857-02-19
     text: Special committee recommended expulsion in the majority report
@@ -4430,6 +5424,13 @@
   name: Matteson
   allegation: “defam[ing] character of House” by accepting money in exchange for supporting
     Minnesota land bill
+  text: Matteson faced an allegation of “defam[ing] character of House” by accepting
+    money in exchange for supporting Minnesota land bill. On Feb. 19, 1857, [special
+    committee recommended expulsion in the majority report, but the minority report
+    found committee lacked jurisdiction](https://digital.library.unt.edu/ark:/67531/metadc30796/m1/280/?q=expulsion).
+    On Feb. 27, 1857, the House of Representatives [censured, 145-17; expulsion resolution
+    tabled](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))).
+    On Feb. 27, 1857, he/she resigned prior to House action; reelected later in 1857.
   consequences:
   - date: 1857-02-19
     text: Special committee recommended expulsion in the majority report, but the
@@ -4444,6 +5445,11 @@
 - person: 404545
   name: Gilbert
   allegation: accepting money for supporting Minnesota land bill
+  text: Gilbert faced an allegation of accepting money for supporting Minnesota land
+    bill. On Feb. 19, 1857, [special committee recommended expulsion in the majority
+    report](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05363))).
+    On Feb. 28, 1857, the House of Representatives [expulsion resolution tabled after
+    resignation](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))).
   consequences:
   - date: 1857-02-19
     text: Special committee recommended expulsion in the majority report
@@ -4455,6 +5461,11 @@
 - person: 411434
   name: Welch
   allegation: accepting money for supporting Minnesota land bill
+  text: Welch faced an allegation of accepting money for supporting Minnesota land
+    bill. On Feb. 19, 1857, [special committee recommended expulsion in the majority
+    report](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05363))).
+    On Feb. 28, 1857, the House of Representatives [found insufficient evidence to
+    expel, 119-42](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))).
   consequences:
   - date: 1857-02-19
     text: Special committee recommended expulsion in the majority report
@@ -4466,6 +5477,10 @@
 - person: 406224
   name: Keitt
   allegation: complicity in assault on Sumner
+  text: Keitt faced an allegation of complicity in assault on Sumner. On Jun. 2, 1856,
+    [select committee recommended censure in a majority report](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05222))).
+    On Jul. 15, 1856, the House of Representatives [censured 106-96](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05255))).
+    On Jul. 16, 1856, he/she resigned after vote On Aug. 6, 1856, reelected.
   consequences:
   - date: 1856-06-02
     text: Select committee recommended censure in a majority report.
@@ -4481,6 +5496,9 @@
 - person: 403753
   name: Edmundson
   allegation: complicity in assault on Sumner
+  text: Edmundson faced an allegation of complicity in assault on Sumner. On Jun.
+    2, 1856, [select committee recommended censure in a majority report](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05222))).
+    On Jul. 15, 1856, the House of Representatives [censure resolution failed, 60-136](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05255))).
   consequences:
   - date: 1856-06-02
     text: Select committee recommended censure in a majority report.
@@ -4493,6 +5511,13 @@
   name: Brooks
   allegation: assaulting Sen. Charles Sumner (MA) on the Senate floor after the Senate
     had adjourned for the day
+  text: Brooks faced an allegation of assaulting Sen. Charles Sumner (MA) on the Senate
+    floor after the Senate had adjourned for the day. On Jun. 2, 1856, [select committee
+    recommended expulsion](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05222))).
+    On Jul. 14, 1856, the House of Representatives [failed to pass expulsion resolution,
+    121-95](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05254))).
+    On Jul. 15, 1856, he/she [resigned after expulsion vote](http://history.house.gov/People/Listing/B/BROOKS,-Preston-Smith-(B000885)/).
+    On Aug. 1, 1856, [re-elected to fill the vacancy he created](http://history.house.gov/People/Listing/B/BROOKS,-Preston-Smith-(B000885)/).
   consequences:
   - date: 1856-06-02
     text: Select committee recommended expulsion.
@@ -4512,6 +5537,12 @@
   allegation: fatally shooting a waiter in a hotel who refused him breakfast service
     because it was too late in the morning for which he was arrested on May 8, 1856
     and imprisoned prior to trial
+  text: Herbert faced an allegation of fatally shooting a waiter in a hotel who refused
+    him breakfast service because it was too late in the morning for which he was
+    arrested on May 8, 1856 and imprisoned prior to trial. On May. 15, 1856, the House
+    of Representatives [resolution to refer the case to Judiciary Committee tabled,
+    79-70](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05211))).
+    In Jan. 1856, [acquitted](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1856-05-15
     body: House of Representatives
@@ -4524,6 +5555,10 @@
   name: Benton
   allegation: breach of comity on April 17, 1850 when, feeling threatened by Benton,
     Foote started brandishing his pistol
+  text: Benton faced an allegation of breach of comity on April 17, 1850 when, feeling
+    threatened by Benton, Foote started brandishing his pistol. On Jun. 30, 1850,
+    [committee recommended no further action against Benton or Foote since Foote had
+    no intention of actually shooting and Benton had been threatening but hadn't acted](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=91).
   consequences:
   - date: 1850-06-30
     text: Committee recommended no further action against Benton or Foote since Foote
@@ -4534,6 +5569,10 @@
   name: Foote
   allegation: breach of comity on April 17, 1850 when, feeling threatened by Benton,
     Foote started brandishing his pistol
+  text: Foote faced an allegation of breach of comity on April 17, 1850 when, feeling
+    threatened by Benton, Foote started brandishing his pistol. On Jun. 30, 1850,
+    [committee recommended no further action against Benton or Foote since Foote had
+    no intention of actually shooting and Benton had been threatening but hadn't acted](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=91).
   consequences:
   - date: 1850-06-30
     text: Committee recommended no further action against Benton or Foote since Foote
@@ -4543,6 +5582,9 @@
 - person: 412130
   name: Shields
   allegation: not yet being a United States citizen
+  text: Shields faced an allegation of not yet being a United States citizen. On Mar.
+    15, 1849, the Senate [declared the election void based on the committee's recommendation
+    since Shields was six months short of the required period for residency and naturalization](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=88).
   consequences:
   - date: 1849-03-15
     body: Senate
@@ -4553,6 +5595,11 @@
   name: Clayton
   allegation: disloyalty to the United States during negotiations on the boundary
     of Oregon Territory in newspaper articles
+  text: Clayton faced an allegation of disloyalty to the United States during negotiations
+    on the boundary of Oregon Territory in newspaper articles. On Mar. 16, 1846, [committee
+    exonerated (and Senate agreed) all senators and expelled the newspaper from the
+    Senate gallery after the publisher admitted he didn't know if what he printed
+    was true or not](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=85).
   consequences:
   - date: 1846-03-16
     text: Committee exonerated (and Senate agreed) all senators and expelled the newspaper
@@ -4563,6 +5610,11 @@
   name: Jarnagin
   allegation: disloyalty to the United States during negotiations on the boundary
     of Oregon Territory in newspaper articles
+  text: Jarnagin faced an allegation of disloyalty to the United States during negotiations
+    on the boundary of Oregon Territory in newspaper articles. On Mar. 16, 1846, [committee
+    exonerated (and Senate agreed) all senators and expelled the newspaper from the
+    Senate gallery after the publisher admitted he didn't know if what he printed
+    was true or not](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=85).
   consequences:
   - date: 1846-03-16
     text: Committee exonerated (and Senate agreed) all senators and expelled the newspaper
@@ -4573,6 +5625,11 @@
   name: Colquitt
   allegation: disloyalty to the United States during negotiations on the boundary
     of Oregon Territory in newspaper articles
+  text: Colquitt faced an allegation of disloyalty to the United States during negotiations
+    on the boundary of Oregon Territory in newspaper articles. On Mar. 16, 1846, [committee
+    exonerated (and Senate agreed) all senators and expelled the newspaper from the
+    Senate gallery after the publisher admitted he didn't know if what he printed
+    was true or not](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=85).
   consequences:
   - date: 1846-03-16
     text: Committee exonerated (and Senate agreed) all senators and expelled the newspaper
@@ -4583,6 +5640,11 @@
   name: Tappan
   allegation: violation of injunction of secrecy regarding President Tyler's terms
     for an agreement on the annexation of Texas
+  text: Tappan faced an allegation of violation of injunction of secrecy regarding
+    President Tyler's terms for an agreement on the annexation of Texas. On May. 8,
+    1844, when a select committee reported to the full Senate, Senator Archer submitted
+    a resolution for expulsion. On Aug. 10, 1844, the Senate [adopted a substitute
+    resolution of censure 38-7](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=81).
   consequences:
   - date: 1844-05-08
     text: When a select committee reported to the full Senate, Senator Archer submitted
@@ -4596,6 +5658,12 @@
   allegation: violating House "gag rule" on slavery discussions by introducing a series
     of resolutions defending a slave rebellion aboard the Creole, a ship that had
     sailed from Virginia carrying 135 persons to be sold in New Orleans
+  text: Giddings faced an allegation of violating House "gag rule" on slavery discussions
+    by introducing a series of resolutions defending a slave rebellion aboard the
+    Creole, a ship that had sailed from Virginia carrying 135 persons to be sold in
+    New Orleans. On Mar. 22, 1842, the House of Representatives [censured, 125-69](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj03788))).
+    On Mar. 22, 1842, he/she [resigned](http://history.house.gov/HistoricalHighlight/Detail/36674?ret=True).
+    On May. 5, 1842, [re-elected to fill the vacancy caused by his own resignation](http://history.house.gov/HistoricalHighlight/Detail/36674?ret=True).
   consequences:
   - date: 1842-03-22
     body: House of Representatives
@@ -4612,6 +5680,10 @@
   allegation: breaching of privileges of the House by presenting a petition to the
     House from his constituents regarding dissolution of the Union on January 24,
     1842
+  text: Adams faced an allegation of breaching of privileges of the House by presenting
+    a petition to the House from his constituents regarding dissolution of the Union
+    on January 24, 1842. On Feb. 7, 1842, the House of Representatives [tabled censure
+    resolution, 106-93](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj03751))).
   consequences:
   - date: 1842-02-07
     body: House of Representatives
@@ -4621,6 +5693,9 @@
   name: Duncan
   allegation: violating privileges of the House by  publishing remarks in a newspaper
     insulting to another member on February 19, 1839
+  text: Duncan faced an allegation of violating privileges of the House by  publishing
+    remarks in a newspaper insulting to another member on February 19, 1839. On Feb.
+    22, 1839, the House of Representatives [tabled censure resolution](https://digital.library.unt.edu/ark:/67531/metadc29275/m1/218/?q=duncan).
   consequences:
   - date: 1839-02-22
     body: House of Representatives
@@ -4630,6 +5705,10 @@
   name: Ruggles
   allegation: corruption in using Senatorial influence to secure positive outcomes
     for a patent application
+  text: Ruggles faced an allegation of corruption in using Senatorial influence to
+    secure positive outcomes for a patent application. On Apr. 12, 1838, ruggles effectively
+    discredited his accuser and the committee reported that the charges should be
+    dismissed On Apr. 25, 1838, the Senate [agreed with committtee](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=76).
   consequences:
   - date: 1838-04-12
     text: Ruggles effectively discredited his accuser and the committee reported that
@@ -4643,6 +5722,11 @@
   allegation: breach of the privileges of the House because on February 24, 1838 Rep.
     Graves killed Rep. Jonathan Cilley (ME) in a duel over words spoken in debate;
     Rep. Wise acted as a second
+  text: Graves faced an allegation of breach of the privileges of the House because
+    on February 24, 1838 Rep. Graves killed Rep. Jonathan Cilley (ME) in a duel over
+    words spoken in debate; Rep. Wise acted as a second. On Apr. 21, 1838, the Select
+    Committee of Investigation recommended expulsion for Graves and censure for Wise
+    On May. 10, 1838, the House of Representatives [expulsion resolution tabled](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj032126))).
   consequences:
   - date: 1838-04-21
     body: Select Committee of Investigation
@@ -4656,6 +5740,11 @@
   allegation: breach of the privileges of the House because on February 24, 1838 Rep.
     Graves killed Rep. Jonathan Cilley (ME) in a duel over words spoken in debate;
     Rep. Wise acted as a second
+  text: Wise faced an allegation of breach of the privileges of the House because
+    on February 24, 1838 Rep. Graves killed Rep. Jonathan Cilley (ME) in a duel over
+    words spoken in debate; Rep. Wise acted as a second. On Apr. 21, 1838, the Select
+    Committee of Investigation recommended expulsion for Graves and censure for Wise
+    On May. 10, 1838, the House of Representatives [censure resolution tabled](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj032126))).
   consequences:
   - date: 1838-04-21
     body: Select Committee of Investigation
@@ -4670,6 +5759,12 @@
     "gag rule" on slavery discussions by requesting to present a petition to the House
     purported to be from slaves. Adams knew a censure resolution would require debate
     for a vote and thus provide an opportunity for extended debate on slavery
+  text: Adams faced an allegation of gross disrespect on February 6, 1837 because
+    Adams violated the House "gag rule" on slavery discussions by requesting to present
+    a petition to the House purported to be from slaves. Adams knew a censure resolution
+    would require debate for a vote and thus provide an opportunity for extended debate
+    on slavery. On Feb. 9, 1837, the House of Representatives [censure withdrawn,
+    21-137](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj029206))).
   consequences:
   - date: 1837-02-09
     body: House of Representatives
@@ -4680,6 +5775,10 @@
   allegation: insulting the chair of the Committee of the Whole during debate by yelling
     "I shalll not take my seat. You take yours!" and "I call you to order!" on July
     2, 1836
+  text: Williams faced an allegation of insulting the chair of the Committee of the
+    Whole during debate by yelling "I shalll not take my seat. You take yours!" and
+    "I call you to order!" on July 2, 1836. On Jul. 4, 1836, the House of Representatives
+    [informally censured, then censure revoked](https://digital.library.unt.edu/ark:/67531/metadc30905/m1/660/?q=williams).
   consequences:
   - date: 1836-07-04
     body: House of Representatives
@@ -4688,6 +5787,10 @@
 - person: 408795
   name: Poindexter
   allegation: conspiracy to assassinate President Andrew Jackson
+  text: Poindexter faced an allegation of conspiracy to assassinate President Andrew
+    Jackson. On Feb. 23, 1835, the Senate Poindexter requested an investigation, and
+    if the charges were proved, to be expelled from the Senate On Mar. 2, 1835, the
+    Senate [voted 41-0 to accept the committee's recommendation to dismiss charges](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=72).
   consequences:
   - date: 1835-02-23
     body: Senate
@@ -4702,6 +5805,10 @@
   allegation: committing a breach of the rules of the House by refusing to vote on
     Stanbery censure after having his application to be excused from the vote rejected
     on July 11, 1832
+  text: Adams faced an allegation of committing a breach of the rules of the House
+    by refusing to vote on Stanbery censure after having his application to be excused
+    from the vote rejected on July 11, 1832. On Jul. 12, 1832, the House of Representatives
+    [censure resolution tabled, 89-63](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj025176))).
   consequences:
   - date: 1832-07-12
     body: House of Representatives
@@ -4711,6 +5818,9 @@
   name: Stanbery
   allegation: insulting the Speaker during floor debate on July 9, 1832 by saying
     the House Speaker was too focused on trying to become Speaker
+  text: Stanbery faced an allegation of insulting the Speaker during floor debate
+    on July 9, 1832 by saying the House Speaker was too focused on trying to become
+    Speaker. On Jul. 11, 1832, the House of Representatives [censured, 92- 44](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj025175))).
   consequences:
   - date: 1832-07-11
     body: House of Representatives
@@ -4720,6 +5830,10 @@
   name: Bateman
   allegation: casting the deciding vote for himself in his election, which it was
     suggested was improper
+  text: Bateman faced an allegation of casting the deciding vote for himself in his
+    election, which it was suggested was improper. On May. 22, 1828, the Senate committee
+    recommended no further action and the Senate agreed On Jan. 12, 1829, he/she [resigned
+    due to ill health and died on the 28th](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=67).
   consequences:
   - date: 1828-05-22
     body: Senate
@@ -4731,6 +5845,10 @@
   name: Pickering
   allegation: reading confidential documents in open Senate session on December 31,
     1810 without realizing the injunction of secrecy had not been removed
+  text: Pickering faced an allegation of reading confidential documents in open Senate
+    session on December 31, 1810 without realizing the injunction of secrecy had not
+    been removed. On Dec. 31, 1810, the Senate resolution of censure introduced On
+    Jan. 2, 1811, the Senate censured, 20-7 In 1811, [lost election](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=60).
   consequences:
   - date: 1810-12-31
     body: Senate
@@ -4745,6 +5863,11 @@
   name: Smith
   allegation: involvement in Aaron Burr's plot to lead the western territories in
     rebellion
+  text: Smith faced an allegation of involvement in Aaron Burr's plot to lead the
+    western territories in rebellion. On Dec. 31, 1807, commitee reported that it
+    looked like Smith was involved, but did not recommend any specific action. On
+    Apr. 9, 1808, the Senate expulsion failed 19-10 (one vote short of the 2/3 majority
+    needed) On Apr. 25, 1808, he/she [resigned](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=52).
   consequences:
   - date: 1807-12-31
     text: Commitee reported that it looked like Smith was involved, but did not recommend
@@ -4760,6 +5883,12 @@
   allegation: violating Sedition Act on October 9, 1798 for accusing President John
     Adams of having a taste for excessive pomp, for which he was convicted and fined
     and served four months in prison while a member of the House
+  text: Lyon faced an allegation of violating Sedition Act on October 9, 1798 for
+    accusing President John Adams of having a taste for excessive pomp, for which
+    he was convicted and fined and served four months in prison while a member of
+    the House. On Feb. 22, 1799, the House of Representatives [expulsion resolution
+    failed, 49-45](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003301))).
+    In 1799, [reelected after conviction and while still in jail](http://history.house.gov/Historical-Highlights/1800-1850/The-life-of-Representative-Matthew-Lyon-of-Vermont-and-Kentucky/).
   consequences:
   - date: 1799-02-22
     body: House of Representatives
@@ -4772,6 +5901,17 @@
   name: Blount
   allegation: disloyalty to the United States by attempting to start a war between
     the Creek and Cherokee and Spain in order to transfer land to Great Britain
+  text: Blount faced an allegation of disloyalty to the United States by attempting
+    to start a war between the Creek and Cherokee and Spain in order to transfer land
+    to Great Britain. On Jul. 3, 1797, president John Adams sent an incriminating
+    letter of Blount's to the Senate and the House demanding Blount's impeachment
+    and conviction On Jul. 6, 1797, committee reported a recommendation that Blount
+    be expelled. On Jul. 8, 1797, the House of Representatives demanded that the Senate
+    suspend Blount from his seat and guarantee his appearance at an impeachment trial
+    On Jul. 8, 1797, the Senate expelled 25-1 and ordered to appear on July 10 for
+    impeachment, which he promised to do and did not On Dec. 17, 1798, the Senate
+    [impeachment trial in the Senate and in absentia; resolution that he was impeachable
+    failed](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=47).
   consequences:
   - date: 1797-07-03
     text: President John Adams sent an incriminating letter of Blount's to the Senate
@@ -4794,6 +5934,11 @@
 - person: 407029
   name: Lyon
   allegation: spitting tobacco juice at Griswold on January 30, 1798
+  text: Lyon faced an allegation of spitting tobacco juice at Griswold on January
+    30, 1798. On Feb. 2, 1798, the Committee on Privileges [recommended expulsion](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003114))).
+    On Feb. 1, 1798, [letter of apology](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003113))).
+    On Feb. 12, 1798, the House of Representatives [censure failed, 44-52; expulsion
+    failed 52-44](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003120))).
   consequences:
   - date: 1798-02-02
     body: Committee on Privileges
@@ -4812,6 +5957,14 @@
     Lyon for spitting tobacco juice at him in January and unsatisfied with Lyon's
     apology, Griswold attacked Lyon on February 15, 1798 with a cane while Lyon defended
     himself with a pair of fireplace tongs.
+  text: Griswold faced an allegation of “disorderly behavior” when, incensed that
+    the House failed to expel Lyon for spitting tobacco juice at him in January and
+    unsatisfied with Lyon's apology, Griswold attacked Lyon on February 15, 1798 with
+    a cane while Lyon defended himself with a pair of fireplace tongs.. On Feb. 16,
+    1798, [both members pledged to keep the peace](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003124))).
+    On Feb. 20, 1798, the Committee on Privileges recommended against expulsion On
+    Feb. 23, 1798, the House of Representatives [motion to censure both members failed,
+    47-48](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003129))).
   consequences:
   - date: 1798-02-16
     text: Both members pledged to keep the peace.
@@ -4829,6 +5982,14 @@
     Lyon for spitting tobacco juice at him in January and unsatisfied with Lyon's
     apology, Griswold attacked Lyon on February 15, 1798 with a cane while Lyon defended
     himself with a pair of fireplace tongs.
+  text: Lyon faced an allegation of “disorderly behavior” when, incensed that the
+    House failed to expel Lyon for spitting tobacco juice at him in January and unsatisfied
+    with Lyon's apology, Griswold attacked Lyon on February 15, 1798 with a cane while
+    Lyon defended himself with a pair of fireplace tongs.. On Feb. 16, 1798, [both
+    members pledged to keep the peace](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003124))).
+    On Feb. 20, 1798, the Committee on Privileges recommended against expulsion On
+    Feb. 23, 1798, the House of Representatives [motion to censure both members failed,
+    47-48](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003129))).
   consequences:
   - date: 1798-02-16
     text: Both members pledged to keep the peace.
@@ -4843,6 +6004,11 @@
 - person: 407176
   name: Marshall
   allegation: misconduct prior to Senate term
+  text: Marshall faced an allegation of misconduct prior to Senate term. On Mar. 11,
+    1796, having requested the investigation in order to clear his name of the informal
+    charges of perjury, the committee reported that since there were no charges, there
+    was nothing to investigate and the Senate should take no further action. On Mar.
+    22, 1796, the Senate [voted 16-7 to investigate no further](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=42).
   consequences:
   - date: 1796-03-11
     text: Having requested the investigation in order to clear his name of the informal
