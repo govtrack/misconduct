@@ -3704,7 +3704,7 @@
 - person: 411105
   name: Voorhis
   allegation: insulting another member during debate on March 1, 1883
-  cosnequences:
+  consequences:
   - date: 1883-03-01
     body: House of Representatives
     text: censure resolution failed, 66-78; apologized prior to vote
@@ -3842,7 +3842,7 @@
   name: Allison
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
     Mobilier of America
-  cosnequences:
+  consequences:
   - date: 1873-02-27
     body: Morrill Committee
     text: no recommendation
@@ -3850,7 +3850,7 @@
   name: Bayard
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
     Mobilier of America
-  cosnequences:
+  consequences:
   - date: 1873-02-27
     body: Morrill Committee
     text: no recommendation
@@ -3858,7 +3858,7 @@
   name: Boutwell
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
     Mobilier of America
-  cosnequences:
+  consequences:
   - date: 1873-02-27
     body: Morrill Committee
     text: no recommendation
@@ -3866,7 +3866,7 @@
   name: Colfax
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
     Mobilier of America
-  cosnequences:
+  consequences:
   - date: 1873-02-27
     body: Morrill Committee
     text: no recommendation
@@ -3880,7 +3880,7 @@
   name: Harlan
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
     Mobilier of America
-  cosnequences:
+  consequences:
   - date: 1873-02-27
     body: Morrill Committee
     text: recommended censure
@@ -3890,7 +3890,7 @@
   name: Logan
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
     Mobilier of America
-  cosnequences:
+  consequences:
   - date: 1873-02-27
     body: Morrill Committee
     text: charges dismissed
@@ -3898,7 +3898,7 @@
   name: Conkling
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
     Mobilier of America
-  cosnequences:
+  consequences:
   - date: 1873-02-27
     body: Morrill Committee
     text: charges dismissed
@@ -3906,7 +3906,7 @@
   name: Wilson
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
     Mobilier of America
-  cosnequences:
+  consequences:
   - date: 1873-02-27
     body: Morrill Committee
     text: no formal recommendation, but reprimanded in report
