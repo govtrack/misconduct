@@ -27,8 +27,8 @@
   text: In 2017, Franks resigned due to reports that he had asked staff members to
     carry his surrogate child and had offered one staffer $5 million dollars to impregnate
     her via intercourse.
-  allegation: reports that he had asked staff members to carry his surrogate child
-    and had offered one staffer $5 million dollars to impregnate her via intercourse
+  allegation: asking staff members to carry his surrogate child and offering one staffer
+    $5 million dollars to impregnate her via intercourse
   consequences:
   - date: 2017-12-07
     body: House Committee on Ethics
@@ -113,7 +113,7 @@
     as the fine has been paid](https://www.gpo.gov/fdsys/pkg/CRPT-115hrpt310/pdf/CRPT-115hrpt310.pdf).
     On November 28, 2017, Representative Gutierrez announced he would not seek reelection
     to Congress.
-  allegation: arrested during a protest outside of the White House
+  allegation: arrest during a protest outside of the White House
   consequences:
   - body: House Office of Congressional Ethics
     action: resolved
@@ -129,7 +129,7 @@
     excess gifts; use of official funds for personal travel; used congressional staff
     for personal services. The House Committee on Ethics [recommended further review](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-delegate-madelein-0).
   allegation: receiving profit from a foreign government; excess gifts; use of official
-    funds for personal travel; used congressional staff for personal services
+    funds for personal travel; using congressional staff for personal services
   consequences:
   - body: House Office of Congressional Ethics
     action: referred the case to the House Committee on Ethics
@@ -307,7 +307,7 @@
   text: In 2016 McKinley received a letter of reproval for for remaining a named partner
     in his prior business after being elected to Congress. The House Committee on
     Ethics [concluded that McKinley violated House rules and issued a letter of reproval](https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt795/pdf/CRPT-114hrpt795.pdf).
-  allegation: for remaining a named partner in his prior business after being elected
+  allegation: remaining a named partner in his prior business after being elected
     to Congress
   consequences:
   - date: 2016-09-27
@@ -386,7 +386,7 @@
   text: In 2016 Hastert pleaded guilty to child molestation, 10 years after leaving
     Congress. In 2006, Hastert declined to run for office again. He was indicted in
     2015, served 13 months in prison and was released in 2017.
-  allegation: child molestation, 10 years after leaving Congress
+  allegation: child molestation
   consequences:
   - date: '2006'
     text: Hastert did not seek reelection.
@@ -398,7 +398,7 @@
   name: Jared Polis
   text: In 2015 Polis was investigated for official endorsement of commercial products.
     The House Committee on Ethics [concluded that no action was needed](https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt381/pdf/CRPT-114hrpt381.pdf).
-  allegation: official endorsement of commercial products
+  allegation: endorsement of commercial products
   consequences:
   - body: House Office of Congressional Ethics
     action: resolved
@@ -727,7 +727,7 @@
     reproval](https://ethics.house.gov/sites/ethics.house.gov/files/In%20the%20Matter%20of%20Allegations%20Relating%20to%20Representative%20Phil%20Gingrey_0.pdf).
     In 2014, Representative Gingrey lost in the primary for one of Georgia's Senate
     seats.
-  allegation: 2011 compensation from banks on whose behalf he advocated
+  allegation: compensation from banks on whose behalf he advocated
   consequences:
   - date: 2014-12-11
     body: House Committee on Ethics
@@ -1042,11 +1042,11 @@
   text: In 2012 Ryan was investigated for charges of public intoxication in 2012.
     The House Committee on Ethics [concluded no action was required as the charges
     were dismissed](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tim).
-  allegation: charges of public intoxication in 2012
+  allegation: public intoxication
   consequences:
   - date: 2012-12-20
     body: House Committee on Ethics
-    action: concluded no action was required as the charges in VA were dismissed
+    action: concluded no action was required as the charges in Virginia were dismissed
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tim
 - person: 400198
   name: Jesse L. Jackson Jr.
@@ -1174,8 +1174,7 @@
     no action as the fine has been paid](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-regarding-representative-luis-v-gutierrez).
     On November 28, 2017, Representative Gutierrez announced he would not seek reelection
     to Congress.
-  allegation: having been arrested during a protest outside of the White House in
-    2011
+  allegation: arrest during a protest outside of the White House in 2011
   consequences:
   - body: House Office of Congressional Ethics
     action: resolved
@@ -1219,7 +1218,7 @@
     a resolution demanding a resumption of the investigation](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/11/AR2010031104907.html?nav=emailpage&sid=ST2010031105001).
     At some point after he resigned, the Congressional [Office of Compliance](http://abcnews.go.com/Politics/congress-secretly-paid-100000-settle-harassment-claims-disgraced/story?id=51494871)
     settled with Massa's victims for $100,000.
-  allegation: '[sexual harassment](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/13/AR2010041302257.html)'
+  allegation: sexual harassment
   consequences:
   - date: 2011-07-15
     body: House Committee on Ethics
@@ -1448,8 +1447,8 @@
   consequences:
   - date: 2010-03-26
     body: House Office of Congressional Ethics
-    action: recommended that the House Committee on Standards of Official Conduct further
-      review
+    action: recommended that the House Committee on Standards of Official Conduct
+      further review
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-former-rep-deal
   - date: 2010-03-21
     text: Deal resigned.
@@ -1669,8 +1668,8 @@
     his senate appointment](https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=75733369-12F4-4A65-B71C-C71276547255).
     [Senator Burris served in the Senate only 9 months](https://en.wikipedia.org/wiki/Roland_Burris#Senate_appointment),
     with Mark Kirk winning the 2010 election.
-  allegation: appearing to agree to a quid pro quo with Rod Blagojevich with respect
-    to Blagojevich's brother's campaign and Burris's senate appointment
+  allegation: quid pro quo with Rod Blagojevich with respect to Blagojevich's brother's
+    campaign and Burris's senate appointment
   consequences:
   - date: 2009-11-20
     body: Senate Select Committee on Ethics
@@ -1780,7 +1779,7 @@
     senator should have known how it would look](https://www.ethics.senate.gov/public/index.cfm/letterstomembers?ID=2AC523B2-7968-4C2F-8221-D6F21187B6E4).
     In 2007, Senator Domenici announced he would retire from the Senate in 2008 at
     the end of his term.
-  allegation: accused of attempting to influence a federal investigation
+  allegation: attempting to influence a federal investigation
   consequences:
   - body: House Office of Congressional Ethics
     action: resolved
@@ -1834,7 +1833,7 @@
     text: Stevens died.
 - person: 400293
   name: Ney
-  allegation: pleaded guilty last month in the Jack Abramoff influence-peddling investigation
+  allegation: involvement in the Jack Abramoff influence-peddling investigation
   consequences:
   - date: 2006-08-14
     text: withdrew from election
@@ -1843,12 +1842,11 @@
     text: pleaded guilty
     link: http://www.washingtonpost.com/wp-dyn/content/article/2006/11/04/AR2006110400194.html
   - date: 2006-11-03
-    text: resigned
+    text: Resigned.
     link: http://www.washingtonpost.com/wp-dyn/content/article/2006/11/04/AR2006110400194.html
 - person: 400091
   name: Cunningham
-  allegation: pleaded guilty to tax evasion, conspiracy to commit bribery, mail fraud
-    and wire fraud
+  allegation: tax evasion, conspiracy to commit bribery, mail fraud and wire fraud
   consequences:
   - date: 2005-07-14
     text: announced he would not run for re-election
@@ -1857,11 +1855,11 @@
     text: pleaded guilty
     link: https://en.wikipedia.org/wiki/Duke_Cunningham#Plea_agreement
   - date: 2005-11-28
-    text: resigned
+    text: Resigned.
     link: https://en.wikipedia.org/wiki/Duke_Cunningham#Resignation
 - person: 400262
   name: McDermott
-  allegation: Improperly disclosed the contents of an intercepted cell-phone conversation
+  allegation: improperly disclosing the contents of an intercepted cell-phone conversation
     to the news media
   consequences:
   - date: 2004-12-28
@@ -1915,7 +1913,7 @@
     text: conviction overturned
 - person: 400104
   name: DeLay
-  allegation: improperly linked personal interest of a member with effort achieve
+  allegation: improperly linking personal interest of a member with effort achieve
     a legislative goal
   consequences:
   - date: 2004-10-04
@@ -1924,7 +1922,7 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/2006_Medicare.pdf
 - person: 400276
   name: Miller
-  allegation: threatened to retaliate against a member for a particular vote
+  allegation: threatening to retaliate against a member for a particular vote
   consequences:
   - date: 2004-10-04
     body: House Committee on Standards of Official Conduct
@@ -1932,8 +1930,8 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/2006_Medicare.pdf
 - person: 400382
   name: Smith
-  allegation: public statements risked impugning reputation of the House and failed
-    to cooperate with Comm. investigation
+  allegation: public statements impugning reputation of the House and failed to cooperate
+    with Comm. investigation
   consequences:
   - date: 2004-10-04
     body: House Committee on Standards of Official Conduct
@@ -1951,9 +1949,9 @@
     text: Torricelli did not run for reelection.
 - person: 400611
   name: Traficant, Jr.
-  allegation: convicted of conspiracy to violate federal bribery and gratuity statutes,
-    receipt of illegal gratuity, obstruction of justice, defrauding the government,
-    racketeering, and tax evasion on April 11, 2002.
+  allegation: conspiracy to violate federal bribery and gratuity statutes, receipt
+    of illegal gratuity, obstruction of justice, defrauding the government, racketeering,
+    and tax evasion on April 11, 2002, for which he was convicted
   consequences:
   - date: 2002-07-18
     body: House Committee on Standards of Official Conduct
@@ -2004,9 +2002,9 @@
     link: https://www.congress.gov/congressional-report/106th-congress/house-report/1044/1?r=13
 - person: 404587
   name: Gingrich
-  allegation: complaint alleged violation of laws governing tax-exempt organizations,
-    improper intervention with government agencies, receipt of improper personal benefits
-    from a PAC and violation of campaign finance rules
+  allegation: violation of laws governing tax-exempt organizations, improper intervention
+    with government agencies, receipt of improper personal benefits from a PAC and
+    violation of campaign finance rules
   consequences:
   - date: 1998-10-10
     body: House Committee on Standards of Official Conduct
@@ -2020,8 +2018,7 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt104-401.pdf
 - person: 406343
   name: Kim
-  allegation: pleaded guilty in federal court to three misdemeanor campaign finance
-    law violations (knowingly accepted illegal corporate and foreign contributions)
+  allegation: accepting illegal corporate and foreign contributions
   consequences:
   - date: 1998-10-06
     body: House Committee on Standards of Official Conduct
@@ -2035,7 +2032,7 @@
     text: defeated in primary in June 1998
 - person: 400104
   name: DeLay
-  allegation: improperly linked campaign contributions to official actions and improper
+  allegation: improperly linking campaign contributions to official actions and improper
     political favors for Rep. DeLay’s brother, a registered lobbyist
   consequences:
   - date: 1997-11-07
@@ -2064,13 +2061,12 @@
     text: lost the election
 - person: 404587
   name: Gingrich
-  allegation: complaint alleged improper use of official resources in preparation
-    of a college course, conflict of interest, and improper use of tax-exempt entities
-    in support of college course; investigation expanded to include allegations that
-    1)Rep. Gingrich made false statements to Comm. on Standards, 2) his relationship
-    with foundation/course violated foundation’s tax-exempt status under Section 501(c)3
-    of the IRS Code, 3) Rep. Gingrich used unofficial resources for official purposes,
-    and 4) Rep. Gingrich’s activities and relationship with another foundation
+  allegation: improper use of official resources in preparation of a college course,
+    conflict of interest, and improper use of tax-exempt entities in support of college
+    course; investigation expanded to 1) false statements to Comm. on Standards, 2)
+    relationship with foundation/course in violation of foundation’s tax-exempt status
+    under Section 501(c)3 of the IRS Code, 3) use of unofficial resources for official
+    purposes, and 4) activities and relationship with another foundation
   consequences:
   - date: 1997-01-17
     body: House Committee on Standards of Official Conduct
@@ -2112,7 +2108,7 @@
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
 - person: 400262
   name: McDermott
-  allegation: alleged conflict of interest (participated in Comm. deliberations involving
+  allegation: conflict of interest (participated in Comm. deliberations involving
     complaints filed with the substantial assistance of a - person affiliated with
     his political action committee) and violation of Comm. confidentiality rules
   consequences:
@@ -2125,7 +2121,7 @@
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
 - person: 404587
   name: Gringrich
-  allegation: Improperly used services of volunteer in congressional office
+  allegation: improper use of services of volunteer in congressional office
   consequences:
   - date: 1996-09-19
     body: House Committee on Standards of Official Conduct
@@ -2135,8 +2131,8 @@
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
 - person: 410147
   name: Solomon
-  allegation: press release and letter sent to N.Y. state assemblyman included language
-    that implied possible retaliation for political disagreement
+  allegation: press release and letter sent to New York state assemblyman included
+    language that implied possible retaliation for political disagreement
   consequences:
   - date: 1996-05-08
     body: House Committee on Standards of Official Conduct
@@ -2148,9 +2144,9 @@
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
 - person: 400527
   name: Bonior
-  allegation: first, improper use of congressional employees with regard to book published
-    by Rep. Bonior in 1984 and second, alleged improper salary payments to member
-    of staff prior to her marriage to Rep. Bonior
+  allegation: improper use of congressional employees with regard to book published
+    by Rep. Bonior in 1984 and improper salary payments to member of staff prior to
+    her marriage to Rep. Bonior
   consequences:
   - date: 1996-05-09
     body: House Committee on Standards of Official Conduct
@@ -2165,7 +2161,7 @@
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
 - person: 404587
   name: Gingrich
-  allegation: Improperly used services of volunteer in congressional offices
+  allegation: improper use of services of volunteer in congressional offices
   consequences:
   - date: 1996-03-29
     body: House Committee on Standards of Official Conduct
@@ -2174,8 +2170,8 @@
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
 - person: 300156
   name: Torricelli
-  allegation: Rep. Zimmer accused Rep. Torricelli of using congressional fax machine
-    to send a press release having a political purpose
+  allegation: using congressional fax machine to send a press release having a political
+    purpose (accusation made by Rep. Zimmer)
   consequences:
   - date: 1996-03-29
     body: House Committee on Standards of Official Conduct
@@ -2189,16 +2185,16 @@
     text: Rep. Zimmer lost his bid for a New Jersey Senate seat to Rep. Torricelli
 - person: 412001
   name: Zimmer
-  allegation: Rep. Torricelli accused Rep. Zimmer of using congressional fax machine
-    for non-official purpose, specifically to send a press release entitled "Zimmer
-    Wallops Torricelli in N.J. Congressional Softball Tourney" which was a personal
-    attack and therefore violated usage rules
+  allegation: using congressional fax machine for non-official purpose, specifically
+    to send a press release entitled "Zimmer Wallops Torricelli in N.J. Congressional
+    Softball Tourney" which was a personal attack and therefore violated usage rules
+    (accusation made by Rep. Torricelli)
   consequences:
   - date: 1996-03-29
     body: House Committee on Standards of Official Conduct
-    text: complaint filed by  on Dec. 21, 1995; complaint returned on Jan. 5, 1996
-      for failing to meet standards of committee procedures; complaint re-submitted
-      on Jan. 19, 1996; complaint dismissed on March 29, 1996 for lack of merit.
+    text: complaint filed on Dec. 21, 1995; complaint returned on Jan. 5, 1996 for
+      failing to meet standards of committee procedures; complaint re-submitted on
+      Jan. 19, 1996; complaint dismissed on March 29, 1996 for lack of merit.
   - date: 1997-01-02
     body: House Committee on Standards of Official Conduct
     text: Summary of Activities, 104th Congress, H.Rpt. 104-886
@@ -2207,10 +2203,10 @@
     text: Rep. Zimmer lost his bid for a New Jersey Senate seat to Rep. Torricelli
 - person: 400597
   name: McIntosh
-  allegation: distributed at a committee meeting and displayed on House floor a document
-    attributed to an outside group that was created by Representative's staff and
-    allowed subcommittee staff to improperly question a witness regarding their observance
-    of a religious holiday
+  allegation: distributing at a committee meeting and displaying on House floor a
+    document attributed to an outside group that was created by representative's staff
+    and allowed subcommittee staff to improperly question a witness regarding their
+    observance of a religious holiday
   consequences:
   - date: 1996-03-14
     body: House Committee on Standards of Official Conduct
@@ -2227,9 +2223,9 @@
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
 - person: 410974
   name: Tucker
-  allegation: convicted on December 8, 1995 on seven counts of extortion and two counts
-    of tax evasion  for extorting $30,000 from a local businessman while he was mayor
-    of Compton, CA and failing to report payments on his taxes
+  allegation: seven counts of extortion and two counts of tax evasion for extorting
+    $30,000 from a local businessman while he was mayor of Compton, CA and failing
+    to report payments on his taxes, for which he was convicted on December 8, 1995
   consequences:
   - date: 1995-12-12
     text: Congressional Record
@@ -2250,8 +2246,8 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt104-401.pdf
 - person: 404587
   name: Gingrich
-  allegation: accepted free cable television coverage of college lectures, alleged
-    to have been improper gifts/solicitation
+  allegation: accepting free cable television coverage of college lectures (improper
+    gifts/solicitation)
   consequences:
   - date: 1995-12-12
     body: House Committee on Standards of Official Conduct
@@ -2261,7 +2257,7 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt104-401.pdf
 - person: 404587
   name: Gingrich
-  allegation: improperly used services of volunteer for official purposes
+  allegation: improperly using services of volunteer for official purposes
   consequences:
   - date: 1995-12-12
     body: House Committee on Standards of Official Conduct
@@ -2271,10 +2267,10 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt104-401.pdf
 - person: 404587
   name: Gingrich
-  allegation: re-alleged charges in “First Jones Complaint” and added charges improper
-    receipt of book royalties for To Renew America, improper book auction, conflict
-    of interest, improper solicitation, improper use of official resources, and improper
-    intervention with federal authorities
+  allegation: the allegations in “First Jones Complaint” and improper receipt of book
+    royalties for To Renew America, improper book auction, conflict of interest, improper
+    solicitation, improper use of official resources, and improper intervention with
+    federal authorities
   consequences:
   - date: 1995-12-06
     text: complaint dismissed
@@ -2296,7 +2292,7 @@
     text: recommended expulsion from the Senate
     link: https://www.congress.gov/congressional-report/104th-congress/senate-report/137/1
   - date: 1995-09-08
-    text: resigned
+    text: Resigned.
     link: http://articles.latimes.com/1995-09-08/news/mn-43532_1_senator-packwood-resigns
 - person: 411725
   name: Wilson
@@ -2326,7 +2322,7 @@
     text: preliminary inquiry voted, but no public would be made until the conclusion
       of the state trial
   - date: 1995-09-01
-    text: resigned
+    text: Resigned.
   - date: 1997-01-02
     body: House Committee on Standards of Official Conduct
     text: Summary of Activities, 104th Congress, H.Rpt. 104-886
@@ -2351,7 +2347,7 @@
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
 - person: 400143
   name: Frost
-  allegation: Used congressional staff for redistricting work [R. 45]; campaign contributions
+  allegation: using congressional staff for redistricting work [R. 45]; campaign contributions
     by congressional staff (18 U.S.C. § 603)
   consequences:
   - date: 1994-11-29
@@ -2370,9 +2366,8 @@
     link: http://www.nytimes.com/1995/08/23/us/ex-senator-is-guilty-of-expense-abuses.html
 - person: 409422
   name: Rostenkowski
-  allegation: alledged to have engaged in and indicted for mail fraud, wire fraud,
-    witness tampering, concealing a material fact, false statements, embezzlement,
-    and conspiracy
+  allegation: mail fraud, wire fraud, witness tampering, concealing a material fact,
+    false statements, embezzlement, and conspiracy, for which he was indicted
   consequences:
   - date: 1994-06-30
     text: member complaint filed
@@ -2398,7 +2393,7 @@
     link: https://www.washingtonpost.com/archive/politics/1996/05/08/kolter-guilty-in-post-office-scandal/a712baa5-36e1-4bb8-8255-7bb7ebb373a7/?utm_term=.207492fec1cd
 - person: 300054
   name: Kay Bailey Hutchison
-  allegation: used state employees and time to conduct political and personal business
+  allegation: using state employees and time to conduct political and personal business
     while Texas State Treasurer
   consequences:
   - date: 1994-02-12
@@ -2455,7 +2450,7 @@
     text: was not re-elected
 - person: 403696
   name: Dyson
-  allegation: misused office funds and sex discrimination in hiring
+  allegation: misuse of office funds and sex discrimination in hiring
   consequences:
   - date: 1990-01-31
     body: House Committee on Standards of Official Conduct
@@ -2471,9 +2466,9 @@
     link: https://www.washingtonpost.com/archive/politics/1990/02/01/dyson-cleared-of-ethics-complaint/25c388ee-3447-48a9-bc10-bf0e6dcccd2b/?utm_term=.dc3eccde50ab
 - person: 406995
   name: Lukens
-  allegation: convicted of misdemeanor offense of contributing to the unruliness of
-    a female minor, e.g. sex with an underage girl on May 26, 1989; also alleged to
-    have made improper sexual advances to Capitol elevator operator on Oct. 17, 1990
+  allegation: contributing to the unruliness of a female minor, e.g. sex with an underage
+    girl on May 26, 1989, for which he was convicted as a misdemeanor; improper sexual
+    advances to Capitol elevator operator on Oct. 17, 1990
   consequences:
   - date: 1990-10-24
     text: preliminary inquiry resolution amended to include assertion of additional
@@ -2502,7 +2497,7 @@
     link: http://articles.latimes.com/1994-02-12/news/mn-21903_1_pat-swindall
 - person: 400140
   name: Frank
-  allegation: 1) Use of personal residence for prostitution by third parties, 2) improper
+  allegation: 1) use of personal residence for prostitution by third parties, 2) improper
     contacts with probation office on behalf of personal assistant, 3) improper dismissal
     of assistant’s parking tickets, and 4) sexual activity in the House gymnasium
   consequences:
@@ -2518,7 +2513,7 @@
     link: https://www.govtrack.us/congress/votes/101-1990/h271
 - person: 404587
   name: Gringrich
-  allegation: Book partnership used to avoid outside income limits or to obtain impermissible
+  allegation: using book partnership to avoid outside income limits or to obtain impermissible
     gifts or contributions, improper use of official resources to prepare book, and
     inadequate financial disclosure
   consequences:
@@ -2528,7 +2523,7 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/CommPrint_19900308.pdf
 - person: 409593
   name: Savage
-  allegation: Improper sexual advances toward a female Peace Corps volunteer (March
+  allegation: improper sexual advances toward a female Peace Corps volunteer (March
     1989)
   consequences:
   - date: 1990-01-31
@@ -2538,20 +2533,20 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt101-397_0.pdf
 - person: 404422
   name: Garcia
-  allegation: Rep. Garcia and wife convicted of conspiracy and Travel Act violations
-    (receipt of $170,000 in payments, loan, and a diamond necklace from defense contractor)
-    on Oct. 20, 1989 and acquitted of four counts of bribery and receipt of illegal
-    gratuities
+  allegation: conspiracy and Travel Act violations (receipt of $170,000 in payments,
+    loan, and a diamond necklace from defense contractor), for which Garcia and his
+    wife were convicted on Oct. 20, 1989, four counts of bribery and receipt of illegal
+    gratuities, for which he was acquitted
   consequences:
   - date: 1989-10-31
     body: House Committee on Standards of Official Conduct
     text: preliminary inquiry voted
   - date: 1990-01-07
-    text: resigned
+    text: Resigned.
     link: http://articles.latimes.com/1990-01-03/news/mn-190_1_robert-garcia
 - person: 401231
   name: Bates
-  allegation: Sexual harassment and improper campaign activity in congressional office
+  allegation: sexual harassment and improper campaign activity in congressional office
   consequences:
   - date: 1989-10-18
     body: House Committee on Standards of Official Conduct
@@ -2582,9 +2577,9 @@
     link: https://www.washingtonpost.com/wp-srv/politics/special/clinton/frenzy/wright.htm
 - person: 401418
   name: Biaggi
-  allegation: convicted of accepting illegal gratuities, obstruction of justice and
-    violation of the Travel Act on Sept. 22, 1987 because he accepted free vacations
-    in exchange for using influence
+  allegation: accepting illegal gratuities, obstruction of justice and violation of
+    the Travel Act on Sept. 22, 1987 because he accepted free vacations in exchange
+    for using influence, for which he was convicted
   consequences:
   - date: 1988-02-17
     body: House Committee on Standards of Official Conduct
@@ -2667,7 +2662,7 @@
     link: http://www.nytimes.com/1987/06/19/us/panel-in-house-bars-disciplining-member-who-violated-rules.html
 - person: 411395
   name: Weaver
-  allegation: borrowed approximately $82,000 in campaign funds for personal use and
+  allegation: borrowing approximately $82,000 in campaign funds for personal use and
     inadequate financial disclosure of commodity investment transactions
   consequences:
   - date: 1986-09-30
@@ -2676,7 +2671,7 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt99-933.pdf
 - person: 410553
   name: Sweeney
-  allegation: used official resources for political purposes and congressional staff
+  allegation: use of official resources for political purposes and congressional staff
     required to campaign as a condition of continued employment
   consequences:
   - date: 1986-09-11
@@ -2686,7 +2681,7 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
 - person: 403178
   name: Daniel
-  allegation: Accepted free flights on corporate aircraft (1983-85)
+  allegation: accepting free flights on corporate aircraft (1983-85)
   consequences:
   - date: 1986-02-05
     body: House Committee on Standards of Official Conduct
@@ -2704,8 +2699,8 @@
     link: https://ethics.house.gov/committee-report/matter-representative-geraldine-ferraro
 - person: 405053
   name: Hansen
-  allegation: convicted of four counts of making false statements and failed to report
-    nearly $334,000 in loans and profits from 1978-81
+  allegation: making false statements and failing to report nearly $334,000 in loans
+    and profits from 1978-81
   consequences:
   - date: 1984-06-20
     body: House Committee on Standards of Official Conduct
@@ -2723,7 +2718,7 @@
     link: http://www.nytimes.com/1984/11/09/us/justice-dept-rebuts-rep-hansen-of-idaho.html
 - person: 411725
   name: Wilson
-  allegation: used cocaine and marijuana
+  allegation: using cocaine and marijuana
   consequences:
   - date: 1983-11-17
     body: House Committee on Standards of Official Conduct
@@ -2732,7 +2727,7 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt98-559%20pt.%201.pdf
 - person: 403364
   name: Dellums
-  allegation: used cocaine and marijuana
+  allegation: using cocaine and marijuana
   consequences:
   - date: 1983-11-17
     body: House Committee on Standards of Official Conduct
@@ -2768,7 +2763,7 @@
     text: defeated in election
 - person: 409208
   name: Richmond
-  allegation: pleaded guilty to felony charge of evading federal taxes, two misdemeanors
+  allegation: evading federal taxes (pleaded guilty to felony charge), two misdemeanors
     involving a government contract, and misdemeanor possession of marijuana (Aug.
     25, 1982)
   consequences:
@@ -2777,7 +2772,7 @@
     text: preliminary inquiry voted and deferred at request of Department of Justice
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   - date: 1982-08-25
-    text: resigned
+    text: Resigned.
     link: https://www.upi.com/Archives/1982/08/25/Millionaire-Congressman-Fred-Richmond-pleaded-guilty-to-tax-and/6183399096000/
 - person: 400286
   name: Murtha
@@ -2805,7 +2800,7 @@
     link: https://www.senate.gov/artandhistory/history/common/expulsion_cases/140HarrisonWilliams_expulsion.htm
 - person: 406247
   name: Kelly
-  allegation: convicted of bribery and conspiracy in the ABSCAM investigation
+  allegation: bribery and conspiracy in the ABSCAM investigation
   consequences:
   - date: 1980-11-04
     text: lost election
@@ -2814,7 +2809,7 @@
     link: http://www.nytimes.com/1981/01/27/us/ex-representive-kelly-convicted-of-abscam-bribery.html
 - person: 408062
   name: Murphy
-  allegation: convicted of taking an unlawful gratuity as part of ABSCAM investigation
+  allegation: taking an unlawful gratuity as part of ABSCAM investigation
   consequences:
   - date: 1980-11-04
     text: lost election
@@ -2824,15 +2819,15 @@
     link: http://www.nytimes.com/1982/03/12/nyregion/7-from-congress-guilty-in-abscam.html
 - person: 406690
   name: Lederer
-  allegation: convicted of bribery, acceptance of an unlawful gratuity, conspiracy
-    and Travel Act violations on Jan. 9, 1981
+  allegation: bribery, acceptance of an unlawful gratuity, conspiracy and Travel Act
+    violations (convicted)
   consequences:
   - date: 1981-04-28
     body: House Committee on Standards of Official Conduct
     text: expulsion recommended, 10-2
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt97-110.pdf
   - date: 1981-04-29
-    text: resigned
+    text: Resigned.
     link: http://www.nytimes.com/1981/04/30/us/lederer-quits-congress-over-conviction-in-abscam.html
   - date: 1981-05-20
     body: House Committee on Standards of Official Conduct
@@ -2840,23 +2835,23 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt97-110.pdf
 - person: 410779
   name: Thompson
-  allegation: convicted of bribery charges in the ABSCAM investigation
+  allegation: bribery charges in the ABSCAM investigation (convicted)
   consequences:
   - date: 1980-11-04
     text: lost election
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=T000200
   - date: 1980-12-29
-    text: resigned
+    text: Resigned.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=T000200
 - person: 406001
   name: Jenrette, Jr.
-  allegation: convicted of bribery and conspiracy  on Oct. 7, 1980 for accepting money
-    in return for promising to use official influence as part of ABSCAM investigation
+  allegation: bribery and conspiracy for accepting money in return for promising to
+    use official influence as part of ABSCAM investigation (convicted)
   consequences:
   - date: 1980-11-04
     text: lost election
   - date: 1980-12-10
-    text: resigned
+    text: Resigned.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=J000099
   - date: 1980-12-16
     body: House Committee on Standards of Official Conduct
@@ -2864,8 +2859,8 @@
     link: https://ethics.house.gov/committee-report/matter-representative-john-w-jenrette-jr
 - person: 408094
   name: Myers
-  allegation: convicted of bribery, conspiracy and Travel Act violations as part of
-    ABSCAM investigation
+  allegation: bribery, conspiracy and Travel Act violations as part of ABSCAM investigation
+    (convicted)
   consequences:
   - date: 1980-09-24
     body: House Committee on Standards of Official Conduct
@@ -2877,7 +2872,7 @@
     link: https://www.govtrack.us/congress/votes/96-1980/h1222
 - person: 411726
   name: Wilson
-  allegation: Accepted money from - person with direct interest in legislation; maintained
+  allegation: accepting money from person with direct interest in legislation; maintained
     person on payroll not performing duties commensurate with pay; personal use of
     campaign funds
   consequences:
@@ -2905,7 +2900,7 @@
       hospitalization (Dec. 12, 1979)
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt96-856.pdf
   - date: 1980-01-31
-    text: resigned
+    text: Resigned.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   - date: 1980-02-26
     text: pleaded guilty to misdemeanor of conspiracy to defraud government
@@ -2929,7 +2924,7 @@
     text: lost election
 - person: 403462
   name: Diggs, Jr.
-  allegation: convicted of 11 counts of mail fraud and 18 counts of false statements
+  allegation: mail fraud and false statements (convicted)
   consequences:
   - date: 1979-07-31
     body: House Committee on Standards of Official Conduct
@@ -2947,8 +2942,7 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
 - person: 403787
   name: Eilberg
-  allegation: indicted for conflict of interest by helping a hospital receive federal
-    grant
+  allegation: conflict of interest by helping a hospital receive federal grant
   consequences:
   - date: 1978-09-13
     body: House Committee on Standards of Official Conduct
@@ -2973,7 +2967,7 @@
     link: https://www.govtrack.us/congress/votes/95-1978/h1513
 - person: 407436
   name: McFall
-  allegation: failing to report $3000 campaign contribution in 1974
+  allegation: failing to report $3,000 campaign contribution in 1974
   consequences:
   - date: 1978-10-04
     body: House Committee on Standards of Official Conduct
@@ -3008,7 +3002,7 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt95-1740.pdf
 - person: 405493
   name: Hinshaw
-  allegation: convicted of state bribery charges for conduct prior to election
+  allegation: state bribery charges for conduct prior to election (convicted)
   consequences:
   - date: 1976-09-01
     body: House Committee on Standards of Official Conduct
@@ -3023,7 +3017,7 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
 - person: 405275
   name: Hayes
-  allegation: retained employee on public payroll for immoral purposes (1974-76)
+  allegation: retaining employee on public payroll for immoral purposes (1974-76)
   consequences:
   - date: 1976-06-02
     body: House Committee on Standards of Official Conduct
@@ -3058,10 +3052,9 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
 - person: 403577
   name: Dowdy
-  allegation: convicted on eight counts of conspiracy to violate bribery statute and
-    obstruction of justice statute, interstate travel to facilitate bribery and perjury
-    with respect to receipt of $25,000 to hinder a federal investigation of a Maryland
-    company in 1965
+  allegation: conspiracy to violate bribery statute and obstruction of justice statute,
+    interstate travel to facilitate bribery and perjury with respect to receipt of
+    $25,000 to hinder a federal investigation of a Maryland company in 1965 (convicted)
   consequences:
   - date: 1975-03-12
     body: House Committee on Standards of Official Conduct
@@ -3077,8 +3070,8 @@
     text: declined to run for re-election
 - person: 408862
   name: Powell
-  allegation: used committee travel funds for personal travel while Chairman of Education
-    and Labor Comm., improperly authorized clerk hire payments to his wife and contempt
+  allegation: using committee travel funds for personal travel while Chairman of Education
+    and Labor Comm., improperly authorizing clerk hire payments to his wife and contempt
     of court (failed to comply with four state court orders, including one criminal
     conviction for contempt)
   consequences:
@@ -3124,7 +3117,7 @@
     link: https://www.senate.gov/artandhistory/history/common/censure_cases/pdf/135DoddApril27_1967report.pdf
 - person: 407327
   name: McCarthy
-  allegation: abuse of a senate committee
+  allegation: abuse of a Senate committee
   consequences:
   - date: 1954-11-08
     body: Select Committee to Study Censure Charges
@@ -3195,10 +3188,11 @@
     link: https://www.govtrack.us/congress/votes/77-1942/s120
 - person: 406909
   name: Long
-  allegation: used LA state employees and resources for US Senate campaign of John
-    Overton versus Edwin Broussard, coerced campaign contributions from and for the
-    same and promised immediate release to prisoners in exchange for supporting Overton
-    at the polls and thus so corrupted the election that the results were invalidated
+  allegation: using Louisiana state employees and resources for U.S. Senate campaign
+    of John Overton versus Edwin Broussard, coerced campaign contributions from and
+    for the same and promised immediate release to prisoners in exchange for supporting
+    Overton at the polls and thus so corrupted the election that the results were
+    invalidated
   consequences:
   - date: 1932-09-21
     body: Special Committee to Investigate Campaign Expenditures
@@ -3297,8 +3291,7 @@
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=364
 - person: 404696
   name: Gould
-  allegation: past bribery should allow the Senate to preclude a member-elect from
-    being seated
+  allegation: bribery more than a decade before his time in office
   consequences:
   - date: 1926-12-07
     body: Committee on Privileges and Elections
@@ -3346,10 +3339,15 @@
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=350
 - person: 406581
   name: Langley
-  allegation: convicted of violating the National Prohibition Act in 1924, conviction
-    affirmed by appeals court on November 13, 1925 and the Supreme Court refused to
-    review the case in January of 1926
+  allegation: violating the National Prohibition Act
   consequences:
+  - date: 1924
+    text: convicted of violating the National Prohibition Act in 1924
+  - date: 1925-11-13
+    text: conviction affirmed by appeals court
+  - date: 1926-01
+    body: Supreme Court
+    text: declined to review the case
   - date: 1924-05-15
     text: Special committee deferred action until conclusion of criminal case and
       appeals
@@ -3359,20 +3357,20 @@
     text: Special Comm. concluded that House could not expel a member for action prior
       to election; recommended no action until decision by Supreme Court
   - date: 1926-01-11
-    text: resigned
+    text: Resigned.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
 - person: 412000
   name: Zihlman
-  allegation: Grand jury reported to court that “certain sums of money were paid to
-    two members of Congress” (1924)
+  allegation: “certain sums of money were paid to two members of Congress” (grand
+    jury reported to court in 1924)
   consequences:
   - date: 1924-05-15
     text: Special Comm. recommended no further action against Rep. Zihlman
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
 - person: 411492
   name: Wheeler
-  allegation: indicted in Montana on charges of representing clients in cases in which
-    the U.S. was an interested party
+  allegation: representing clients in cases in which the U.S. was an interested party
+    (indicted in Montana)
   consequences:
   - date: 1924-04-09
     body: Senate
@@ -3403,11 +3401,11 @@
     body: Senate
     text: affirmed his election 46-41
   - date: 1922-11-18
-    text: resigned
+    text: Resigned.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=336
 - person: 401524
   name: Blanton
-  allegation: inserted a document in Congressional Record containing indecent and
+  allegation: inserting a document in Congressional Record containing indecent and
     obscene language on October 22, 1921
   consequences:
   - date: 1921-10-27
@@ -3418,7 +3416,7 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
 - person: 406514
   name: La Follette
-  allegation: disloyalty to the United States by speaking against US participation
+  allegation: disloyalty to the United States by speaking against U.S. participation
     in World War I
   consequences:
   - date: 1919-01-16
@@ -3456,8 +3454,8 @@
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=331
 - person: 407405
   name: McDermott
-  allegation: newspaper articles alleged National Association of Manufacturers and
-    other groups attempted to bribe numerous members of Congress in June 1913
+  allegation: bribery by National Association of Manufacturers and other groups in
+    June 1913, alleged by newspapers
   consequences:
   - date: 1913-12-09
     body: Select Committee to Investigate Lobby Charges
@@ -3467,7 +3465,7 @@
     body: House Committee on the Judiciary
     text: recommended resolution “strongly” condemning conduct of Rep. McDermott
   - date: 1914-07-21
-    text: resigned
+    text: Resigned.
   - date: 1914-11-03
     text: re-elected
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
@@ -3495,7 +3493,7 @@
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=322
 - person: 410325
   name: Stephenson
-  allegation: electoral misconduct, bribery and corruption
+  allegation: electoral misconduct, bribery, and corruption
   consequences:
   - date: 1911-06-11
     body: Committee on Privileges and Elections
@@ -3507,7 +3505,7 @@
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=319
 - person: 406935
   name: Lorimer
-  allegation: electoral misconduct, bribery and corruption of a state legislature
+  allegation: electoral misconduct, bribery, and corruption of a state legislature
     in order to secure election to the Senate (this was immediately before the 17th
     Amendement passed providing for direct election of senators)
   consequences:
@@ -3571,8 +3569,7 @@
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=310
 - person: 402096
   name: Burton
-  allegation: convicted of illegally acepting compensation for services before a federal
-    agency
+  allegation: acepting compensation for services before a federal agency (convicted)
   consequences:
   - date: 1906-05-21
     text: Burton's final conviction was upheld after the first had been overturned
@@ -3581,15 +3578,15 @@
   - date: 1906-05-22
     text: referred to Committee on Privileges and Elections
   - date: 1906-06-04
-    text: resigned
+    text: Resigned.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=309
 - person: 407535
   name: McLaurin
-  allegation: on February 22, 1902, Tillman accused McLaurin of treachery while McLaurin
-    was off the Senate floor for a committee meeting. McLaurin rushed to the Senate
-    floor and accused Tillman of lying. Tillman then attacked McLaurin physically
-    and efforts to separate them resulted in collateral punching injuries to other
-    Senators on the floor
+  allegation: an altercation on February 22, 1902 in which Sen. Tillman accused Sen.
+    McLaurin of treachery while McLaurin was off the Senate floor for a committee
+    meeting, McLaurin rushed to the Senate floor and accused Tillman of lying, Tillman
+    then attacked McLaurin physically, and efforts to separate them resulted in collateral
+    punching injuries to other senators on the floor
   consequences:
   - date: 1902-02-22
     body: Senate
@@ -3609,11 +3606,11 @@
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=303
 - person: 410847
   name: Tillman
-  allegation: on February 22, 1902, Tillman accused McLaurin of treachery while McLaurin
-    was off the Senate floor for a committee meeting. McLaurin rushed to the Senate
-    floor and accused Tillman of lying. Tillman then attacked McLaurin physically
-    and efforts to separate them resulted in collateral punching injuries to other
-    Senators on the floor
+  allegation: an altercation on February 22, 1902 in which Sen. Tillman accused Sen.
+    McLaurin of treachery while McLaurin was off the Senate floor for a committee
+    meeting, McLaurin rushed to the Senate floor and accused Tillman of lying, Tillman
+    then attacked McLaurin physically, and efforts to separate them resulted in collateral
+    punching injuries to other senators on the floor
   consequences:
   - date: 1902-02-22
     body: Senate
@@ -3671,7 +3668,7 @@
     link: https://www.govtrack.us/congress/votes/51-1/h174
 - person: 411000
   name: Turpie
-  allegation: the Indiana Senate had engaged in misconduct to secure Turpie's election
+  allegation: misconduct by the Indiana Senate to secure Turpie's election
   consequences:
   - date: 1888-03-04
     body: Committee on Privileges and Elections
@@ -3760,33 +3757,35 @@
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=245
 - person: 409989
   name: Smalls
-  allegation: convicted of accepting a bribe while a state legislator in 1872 (Nov.
-    11, 1877); sentenced to three years imprisonment (served three days) (Nov. 26,
-    1877); released on bail pending appeal; returned to Congress (Dec. 3, 1877)
+  allegation: accepting a bribe while a state legislator in 1872
   consequences:
+  - date: 1877-11-11
+    text: convicted and sentenced to three years imprisonment, for which he served
+      three days
+  - date: 1877-12-03
+    tetx: released on bail pending appeal
   - date: 1878-01-25
     body: House Committee on the Judiciary
     text: investigated circumstances of the conviction and determined that arrest
-      of Rep. Smalls by state authorities for an alleged state crime and detention
-      for trial did not violate any right or privilege of the House
+      by state authorities for an alleged state crime and detention for trial did
+      not violate any right or privilege of the House
   - date: 1879-04-23
     text: pardoned by governor
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
 - person: 401495
   name: Blaine
-  allegation: newspaper articles alleged Rep. Blaine, as Speaker, sold worthless bonds
-    to Union Pacific Railroad for $64,000
+  allegation: selling worthless bonds to Union Pacific Railroad for $64,000
   consequences:
   - date: 1876-06-06
     body: House Committee on the Judiciary
     text: report ordered
   - date: 1876-07-10
-    text: resigned
+    text: Resigned.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
 - person: 405269
   name: Hays
-  allegation: accepted money to nominate an individual not from his district to military
-    academy and made false certification regarding residency of nominee
+  allegation: accepting money to nominate an individual not from his district to military
+    academy and making false certification regarding residency of nominee
   consequences:
   - date: 1876-07-19
     text: Comm. recommended House take no further action but concluded actions of
@@ -3815,7 +3814,8 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
 - person: 401887
   name: Brown
-  allegation: insulted a member in debate and lied to the Speaker on February 4, 1875
+  allegation: insulting a member in debate and lying to the Speaker on February 4,
+    1875
   consequences:
   - date: 1875-02-04
     body: House of Representatives
@@ -3955,7 +3955,7 @@
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=204
 - person: 401838
   name: Brooks
-  allegation: solicited and accepted 50 shares of Credit Mobilier stock at undervalued
+  allegation: soliciting and accepting 50 shares of Credit Mobilier stock at undervalued
     price
   consequences:
   - date: 1873-02-13
@@ -3966,8 +3966,8 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj07364))
 - person: 400830
   name: Ames
-  allegation: sold $33 million in Credit Mobilier stock to members of Congress and
-    officials of the executive branch at undervalued price with intent to influence
+  allegation: selling $33 million in Credit Mobilier stock to members of Congress
+    and officials of the executive branch at undervalued price with intent to influence
     votes and decisions of the members
   consequences:
   - date: 1873-02-18
@@ -3980,7 +3980,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj07364))
 - person: 402130
   name: Butler
-  allegation: accepted money for recommending appointment to military academy
+  allegation: accepting money for recommending appointment to military academy
   consequences:
   - date: 1870-03-16
     text: Comm. on Military Affairs recommended censure
@@ -3990,12 +3990,12 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06970))
 - person: 403416
   name: Deweese
-  allegation: accepted money for recommending appointment to military academy
+  allegation: accepting money for recommending appointment to military academy
   consequences:
   - date: 1870-03-01
     text: Comm. on Military Affairs recommended censure after resignation
   - date: 1870-02-28
-    text: resigned
+    text: Resigned.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   - date: 1870-03-01
     body: House of Representatives
@@ -4003,19 +4003,18 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06957))
 - person: 409143
   name: Revels
-  allegation: officially, that when he presented his credentials on February 23, 1870
-    to become the first black American to serve in the Senate, he had not held citizenship
-    for the required nine years because black people in the United States only became
-    citizens with the ratification of the Fourteenth Amendment in 1868; unofficially,
-    but clearly based on the racist arguments offered, the allegation was simply that
-    he was black
+  allegation: not holding citizenship for the required nine years at the time of presenting
+    his credentials on February 23, 1870 to become the first black American to serve
+    in the Senate, because black people in the United States only became citizens
+    with the ratification of the Fourteenth Amendment in 1868 --- but clearly based
+    on the racist arguments offered, the allegation was simply that he was black
   consequences:
   - date: 1870-02-25
     text: Senate voted to accept his credentials 48-8
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=187
 - person: 411586
   name: Whittemore
-  allegation: sold appointments to military academies
+  allegation: selling appointments to military academies
   consequences:
   - date: 1870-02-21
     text: Comm. on Military Affairs recommended expulsion
@@ -4029,15 +4028,15 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
 - person: 405563
   name: Holbrook
-  allegation: accused another member of lying during debate on February 4, 1869
+  allegation: accusing another member of lying during debate on February 4, 1869
   consequences:
   - date: 1869-02-04
     text: censured by speaker with no recorded vote
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06737))
 - person: 411846
   name: Wood
-  allegation: described Reconstruction legislation as a “monstrosity” on January 15,
-    1868
+  allegation: describing Reconstruction legislation as a “monstrosity” on January
+    15, 1868
   consequences:
   - date: 1868-01-15
     body: House of Representatives
@@ -4045,7 +4044,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06627))
 - person: 405826
   name: Hunter
-  allegation: accused another member of lying during debate on January 26, 1867
+  allegation: accusing another member of lying during debate on January 26, 1867
   consequences:
   - date: 1867-01-26
     body: House of Representatives
@@ -4053,7 +4052,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06436))
 - person: 409429
   name: Rousseau
-  allegation: assaulted Rep. Josiah Grinnell (IA) with a cane outside the Capitol
+  allegation: assaulting Rep. Josiah Grinnell (IA) with a cane outside the Capitol
     for alleged insult spoken in debate
   consequences:
   - date: 1866-07-02
@@ -4063,7 +4062,7 @@
     text: censured, 89-30
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj063168))
   - date: 1866-07-21
-    text: resigned
+    text: Resigned.
   - date: 1866-12-03
     text: re-elected to fill the vacancy his own resignation created
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000468
@@ -4078,7 +4077,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj063116))
 - person: 406901
   name: Long
-  allegation: supported recognition of the independence of the Confederacy in speech
+  allegation: supporting recognition of the independence of the Confederacy in speech
     on floor of the House on April 8, 1864
   consequences:
   - date: 1864-04-14
@@ -4087,8 +4086,8 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06190))
 - person: 405110
   name: Harris
-  allegation: during House debate on resolution to expel Rep. Long, encouraged the
-    Confederacy on April 9, 1864
+  allegation: encouraging the Confederacy on April 9, 1864 during House debate on
+    resolution to expel Rep. Long
   consequences:
   - date: 1864-04-14
     body: House of Representatives
@@ -4104,7 +4103,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj0594))
 - person: 409126
   name: Reid
-  allegation: Taken up arms against” the government of the United States
+  allegation: taking up arms against the government of the United States
   consequences:
   - date: 1861-12-02
     body: House of Representatives
@@ -4112,7 +4111,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj0593))
 - person: 402579
   name: Clark
-  allegation: Taken up arms against” the government of the United States
+  allegation: taking up arms against the government of the United States
   consequences:
   - date: 1861-07-13
     body: House of Representatives
@@ -4127,7 +4126,7 @@
     text: recommended that Senate take such action as it deemed appropriate, but also
       the charges were also all true
   - date: 1862-08-15
-    text: resigned
+    text: Resigned.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=149
 - person: 410275
   name: Stark
@@ -4366,7 +4365,7 @@
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=114
 - person: 403762
   name: Edwards
-  allegation: accepted money for supporting legislation
+  allegation: accepting money for supporting legislation
   consequences:
   - date: 1857-02-19
     text: Special committee recommended expulsion in the majority report
@@ -4377,7 +4376,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))
 - person: 407269
   name: Matteson
-  allegation: “Defamed character of House” by accepting money in exchange for supporting
+  allegation: “defam[ing] character of House” by accepting money in exchange for supporting
     Minnesota land bill
   consequences:
   - date: 1857-02-19
@@ -4392,7 +4391,7 @@
     text: resigned prior to House action; reelected later in 1857
 - person: 404545
   name: Gilbert
-  allegation: accepted money for supporting Minnesota land bill
+  allegation: accepting money for supporting Minnesota land bill
   consequences:
   - date: 1857-02-19
     text: Special committee recommended expulsion in the majority report
@@ -4403,7 +4402,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))
 - person: 411434
   name: Welch
-  allegation: accepted money for supporting Minnesota land bill
+  allegation: accepting money for supporting Minnesota land bill
   consequences:
   - date: 1857-02-19
     text: Special committee recommended expulsion in the majority report
@@ -4440,7 +4439,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05255))
 - person: 401842
   name: Brooks
-  allegation: assaulted Sen. Charles Sumner (MA) on the Senate floor after the Senate
+  allegation: assaulting Sen. Charles Sumner (MA) on the Senate floor after the Senate
     had adjourned for the day
   consequences:
   - date: 1856-06-02
@@ -4458,9 +4457,9 @@
     link: http://history.house.gov/People/Listing/B/BROOKS,-Preston-Smith-(B000885)/
 - person: 405389
   name: Herbert
-  allegation: on May 8, 1856, arrested after he fatally shot a waiter in a hotel who
-    refused him breakfast service because it was too late in the morning and imprisoned
-    prior to trial
+  allegation: fatally shooting a waiter in a hotel who refused him breakfast service
+    because it was too late in the morning for which he was arrested on May 8, 1856
+    and imprisoned prior to trial
   consequences:
   - date: 1856-05-15
     body: House of Representatives
@@ -4491,7 +4490,7 @@
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=91
 - person: 412130
   name: Shields
-  allegation: was not yet a United States citizen
+  allegation: not yet being a United States citizen
   consequences:
   - date: 1849-03-15
     body: Senate
@@ -4542,7 +4541,7 @@
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=81
 - person: 404534
   name: Giddings
-  allegation: violated House "gag rule" on slavery discussions by introducing a series
+  allegation: violating House "gag rule" on slavery discussions by introducing a series
     of resolutions defending a slave rebellion aboard the Creole, a ship that had
     sailed from Virginia carrying 135 persons to be sold in New Orleans
   consequences:
@@ -4551,7 +4550,7 @@
     text: censured, 125-69
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj03788))
   - date: 1842-03-22
-    text: resigned
+    text: Resigned.
     link: http://history.house.gov/HistoricalHighlight/Detail/36674?ret=True
   - date: 1842-05-05
     text: re-elected to fill the vacancy caused by his own resignation
@@ -4615,11 +4614,10 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj032126))
 - person: 400702
   name: Adams
-  allegation: “[G]ross disrespect to this House” on February 6, 1837 because Adams
-    violated the House "gag rule" on slavery discussions by requesting to present
-    a petition to the House purported to be from slaves. Adams knew a censure resolution
-    would require debate for a vote and thus provide an opportunity for extended debate
-    on slavery
+  allegation: gross disrespect on February 6, 1837 because Adams violated the House
+    "gag rule" on slavery discussions by requesting to present a petition to the House
+    purported to be from slaves. Adams knew a censure resolution would require debate
+    for a vote and thus provide an opportunity for extended debate on slavery
   consequences:
   - date: 1837-02-09
     body: House of Representatives
@@ -4627,9 +4625,9 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj029206))
 - person: 411692
   name: Williams
-  allegation: insulted Chair of Committee of the Whole during debate by yelling "I
-    shalll not take my seat. You take yours!" and "I call you to order!" on July 2,
-    1836
+  allegation: insulting the chair of the Committee of the Whole during debate by yelling
+    "I shalll not take my seat. You take yours!" and "I call you to order!" on July
+    2, 1836
   consequences:
   - date: 1836-07-04
     body: House of Representatives
@@ -4659,8 +4657,8 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj025176))
 - person: 410254
   name: Stanbery
-  allegation: insulted Speaker during floor debate on July 9, 1832 by saying the House
-    Speaker was too focused on trying to become Speaker
+  allegation: insulting the Speaker during floor debate on July 9, 1832 by saying
+    the House Speaker was too focused on trying to become Speaker
   consequences:
   - date: 1832-07-11
     body: House of Representatives
@@ -4668,8 +4666,8 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj025175))
 - person: 401224
   name: Bateman
-  allegation: cast the deciding vote for himself in his election, which it was suggested
-    was improper
+  allegation: casting the deciding vote for himself in his election, which it was
+    suggested was improper
   consequences:
   - date: 1828-05-22
     body: Senate
@@ -4693,7 +4691,8 @@
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=60
 - person: 410048
   name: Smith
-  allegation: involved in Aaron Burr's plot to lead the western territories in rebellion
+  allegation: involvement in Aaron Burr's plot to lead the western territories in
+    rebellion
   consequences:
   - date: 1807-12-31
     text: commitee reported that it looked like Smith was involved, but did not recommend
@@ -4702,13 +4701,13 @@
     body: Senate
     text: expulsion failed 19-10 (one vote short of the 2/3 majority needed)
   - date: 1808-04-25
-    text: resigned
+    text: Resigned.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=52
 - person: 407029
   name: Lyon
-  allegation: after accusing President John Adams of having a taste for excessive
-    pomp, convicted of violating Sedition Act on October 9, 1798 and fined and served
-    four months in prison while a member of the House
+  allegation: violating Sedition Act on October 9, 1798 for accusing President John
+    Adams of having a taste for excessive pomp, for which he was convicted and fined
+    and served four months in prison while a member of the House
   consequences:
   - date: 1799-02-22
     body: House of Representatives
@@ -4757,7 +4756,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003120))
 - person: 404833
   name: Griswold
-  allegation: “Disorderly behavior” when, incensed that the House failed to expel
+  allegation: “disorderly behavior” when, incensed that the House failed to expel
     Lyon for spitting tobacco juice at him in January and unsatisfied with Lyon's
     apology, Griswold attacked Lyon on February 15, 1798 with a cane while Lyon defended
     himself with a pair of fireplace tongs.
@@ -4774,7 +4773,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003129))
 - person: 407029
   name: Lyon
-  allegation: “Disorderly behavior” when, incensed that the House failed to expel
+  allegation: “disorderly behavior” when, incensed that the House failed to expel
     Lyon for spitting tobacco juice at him in January and unsatisfied with Lyon's
     apology, Griswold attacked Lyon on February 15, 1798 with a cane while Lyon defended
     himself with a pair of fireplace tongs.

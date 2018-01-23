@@ -49,7 +49,8 @@ Each entry has five required fields:
 `text` is a summary of the allegation, investigations, and corrective actions taken
 in Markdown format (i.e. with light use of rich text like links).
 
-`allegation` is a sentence fragment (a noun) summarizing the misconduct
+`allegation` is a noun (`sexual harrassment`) or gerund phrase (`asking staff members to carry his surrogate child`)
+summarizing the misconduct, which completes the sentence "The member was accused of...".
 
 `consequences` is a list, in (forward) chronological order, of consequences that resulted
 from the misconduct, including investigations, expulsion, resignation, conviction,
