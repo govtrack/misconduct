@@ -1263,7 +1263,8 @@
     action: closed the investigation since he resigned
   - date: 2010-03-11
     body: House of Representatives
-    action: '[passed a resolution demanding a resumption of the investigation](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/11/AR2010031104907.html?nav=emailpage&sid=ST2010031105001)'
+    action: passed a resolution demanding a resumption of the investigation
+    link: http://www.washingtonpost.com/wp-dyn/content/article/2010/03/11/AR2010031104907.html?nav=emailpage&sid=ST2010031105001
   - date: 2010
     text: At some point after he resigned, the Congressional [Office of Compliance](http://abcnews.go.com/Politics/congress-secretly-paid-100000-settle-harassment-claims-disgraced/story?id=51494871)
       settled with Massa's victims for $100,000.
@@ -1468,7 +1469,8 @@
     link: https://ethics.house.gov/committee-report/matter-representative-charles-b-rangel
   - date: 2010-12-02
     body: House of Representatives
-    action: The House [voted to censure Rangel on December 2, 2010 by 333-79](http://www.nytimes.com/2010/12/03/nyregion/03rangel.html).
+    action: voted to censure Rangel 333-79
+    link: http://www.nytimes.com/2010/12/03/nyregion/03rangel.html
   - date: 2016
     text: Rangel did not seek reelection.
 - person: 412253
@@ -1955,7 +1957,7 @@
   consequences:
   - date: 2004-11-18
     body: House Committee on Standards of Official Conduct
-    action: resolved the matter by a public letter transmitted to Rep. Bell.
+    action: resolved the matter by a public letter transmitted to Rep. Bell
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/November%2018%202004%20COE%20to%20Rep%20Bell.pdf
   - date: 2004
     text: Bell lost in the primary election.
@@ -2421,7 +2423,7 @@
     text: Member complaint filed.
   - date: 1994-08-17
     body: House Committee on Standards of Official Conduct
-    action: committee deferred action at request of U.S. Attorney
+    action: deferred action at request of U.S. Attorney
   - date: 1994-11-08
     text: Defeated for reelection.
   - date: 1996-04-10
