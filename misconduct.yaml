@@ -7,7 +7,7 @@
   consequences:
   - date: 2018-01-20
     body: House of Representatives
-    text: removed Meehan from his position on the House Committee on Ethics
+    action: removed Meehan from his position on the House Committee on Ethics
     link: https://www.nytimes.com/2018/01/20/us/politics/patrick-meehan-sexual-harassment.html
 - person: 412716
   name: Ruben Kihuen
@@ -459,7 +459,7 @@
     action: named members to the Investigative Subcommittee
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-7
   - date: 2017-12-13
-    action: Farenthold announces he will not seek reelection in 2018.
+    text: Farenthold announces he will not seek reelection in 2018.
     link: https://www.dallasnews.com/news/politics/2017/12/14/farenthold-drops-reelection-bid-amid-complaints-lewdness-hostile-workplace-congress
 - person: 412558
   name: Michelle Lujan Grisham
@@ -1864,10 +1864,10 @@
   consequences:
   - date: 2004-12-28
     body: House Committee on Standards of Official Conduct
-    text: established investigative subcommittee
+    action: established investigative subcommittee
   - date: 2006-12-08
     body: House Committee on Standards of Official Conduct
-    text: concluded that Representative McDermott’s conduct was inconsistent with
+    action: concluded that Representative McDermott’s conduct was inconsistent with
       the spirit of the applicable rules.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/2006_McDermott.pdf
 - person: 400022
@@ -1877,7 +1877,7 @@
   consequences:
   - date: 2004-11-18
     body: House Committee on Standards of Official Conduct
-    text: resolved the matter by a public letter transmitted to Rep. Bell.
+    action: resolved the matter by a public letter transmitted to Rep. Bell.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/November%2018%202004%20COE%20to%20Rep%20Bell.pdf
   - date: 2004
     text: Bell lost in the primary election.
@@ -1887,7 +1887,7 @@
   consequences:
   - date: 2004-11-18
     body: House Committee on Standards of Official Conduct
-    text: issued public statement finding McCarthy to be at fault, but did not pursue
+    action: issued public statement finding McCarthy to be at fault, but did not pursue
       further when she resigned
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Press2%2011-18-04.pdf
   - date: 2004
@@ -1902,7 +1902,7 @@
   consequences:
   - date: 2004-10-06
     body: House Committee on Standards of Official Conduct
-    text: resolved first and third allegations by public letter and second allegation
+    action: resolved first and third allegations by public letter and second allegation
       deferred due to state grand jury investigation.
     link: https://ethics.house.gov/committee-report/matter-representative-tom-delay
   - date: 2005
@@ -1918,7 +1918,7 @@
   consequences:
   - date: 2004-10-04
     body: House Committee on Standards of Official Conduct
-    text: issued a report finding DeLay's behavior inappropriate
+    action: issued a report finding DeLay's behavior inappropriate
     link: https://ethics.house.gov/sites/ethics.house.gov/files/2006_Medicare.pdf
 - person: 400276
   name: Miller
@@ -1926,7 +1926,7 @@
   consequences:
   - date: 2004-10-04
     body: House Committee on Standards of Official Conduct
-    text: issued a report finding Miller's behavior inappropriate
+    action: issued a report finding Miller's behavior inappropriate
     link: https://ethics.house.gov/sites/ethics.house.gov/files/2006_Medicare.pdf
 - person: 400382
   name: Smith
@@ -1935,7 +1935,7 @@
   consequences:
   - date: 2004-10-04
     body: House Committee on Standards of Official Conduct
-    text: issued a report finding Smith's behavior inappropriate
+    action: issued a report finding Smith's behavior inappropriate
     link: https://ethics.house.gov/sites/ethics.house.gov/files/2006_Medicare.pdf
 - person: 300156
   name: Torricelli
@@ -1955,11 +1955,11 @@
   consequences:
   - date: 2002-07-18
     body: House Committee on Standards of Official Conduct
-    text: unanimously recommended expulsion
+    action: unanimously recommended expulsion
     link: https://ethics.house.gov/committee-report/matter-representative-james-traficant-jr
   - date: 2002-07-24
     body: House of Representatives
-    text: expelled Trafficant, 420-1
+    action: expelled Trafficant, 420-1
     link: https://www.govtrack.us/congress/votes/107-2002/h346
 - person: 400056
   name: Buyer
@@ -1967,7 +1967,7 @@
   consequences:
   - date: 2001-08-01
     body: House Committee on Standards of Official Conduct
-    text: dismissed complaint unanimously and public letter sent to Rep. Buyer
+    action: dismissed complaint unanimously and public letter sent to Rep. Buyer
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Press%20Statement%20Steve%20Buyer.pdf
 - person: 400502
   name: Hilliard
@@ -1976,7 +1976,7 @@
   consequences:
   - date: 2001-06-20
     body: House Committee on Standards of Official Conduct
-    text: isseud letter of reproval citing “serious official misconduct” unanimously
+    action: isseud letter of reproval citing “serious official misconduct” unanimously
       adopted
     link: https://ethics.house.gov/committee-report/matter-representative-earl-hilliard
   - date: 2002
@@ -1988,7 +1988,7 @@
   consequences:
   - date: 2000-10-04
     body: House Committee on Standards of Official Conduct
-    text: issued letter of reproval citing “serious official misconduct” unanimously
+    action: issued letter of reproval citing “serious official misconduct” unanimously
       adopted
     link: https://ethics.house.gov/committee-report/matter-representative-eg-bud-shuster
 - person: 400048
@@ -1998,7 +1998,7 @@
   consequences:
   - date: 2000-09-21
     body: House Committee on Standards of Official Conduct
-    text: established investigative subcommittee (June 9, 1999); Subcommittee recommended
+    action: established investigative subcommittee (June 9, 1999); Subcommittee recommended
       no further action, Comm. accepted recommendation (Sept. 20, 2000); press statement
       released (Sept. 21, 2000)
     link: https://www.congress.gov/congressional-report/106th-congress/house-report/1044/1?r=13
@@ -2010,12 +2010,13 @@
   consequences:
   - date: 1998-10-10
     body: House Committee on Standards of Official Conduct
-    text: member complaint attempting to amend second Jones complaint (Dec. 14, 1995);
-      Comm. notified members that complaint had to be re-filed (Jan. 25, 1996); new
-      member complaint filed (Jan. 31, 1996) (“Bonior, DeLauro, Lewis, Miller & Schroeder
-      Complaint”); Comm. referred first allegation to Investigative Subcommittee handling
-      “First Jones Complaint” (Aug. 1, 1996); dismissed second allegation (Sept. 26,
-      1996); dismissed remaining allegations, letter released publicly (Oct. 10, 1998)
+    action: member complaint attempting to amend second Jones complaint (Dec. 14,
+      1995); Comm. notified members that complaint had to be re-filed (Jan. 25, 1996);
+      new member complaint filed (Jan. 31, 1996) (“Bonior, DeLauro, Lewis, Miller
+      & Schroeder Complaint”); Comm. referred first allegation to Investigative Subcommittee
+      handling “First Jones Complaint” (Aug. 1, 1996); dismissed second allegation
+      (Sept. 26, 1996); dismissed remaining allegations, letter released publicly
+      (Oct. 10, 1998)
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt104-401.pdf
 - person: 406343
   name: Kim
@@ -2023,7 +2024,7 @@
   consequences:
   - date: 1998-10-06
     body: House Committee on Standards of Official Conduct
-    text: adopted six count SAV and recommended no further action due to impending
+    action: adopted six count SAV and recommended no further action due to impending
       loss of jurisdiction (Oct. 2, 1998); Comm. unanimously adopted recommendation
       (Oct. 6, 1998)
     link: https://ethics.house.gov/committee-report/2nd-session-report-105-797
@@ -2038,7 +2039,7 @@
   consequences:
   - date: 1997-11-07
     body: House Committee on Standards of Official Conduct
-    text: dismissed complaint; private letter sent to Rep. DeLay; press statement
+    action: dismissed complaint; private letter sent to Rep. DeLay; press statement
       released
     link: https://www.gpo.gov/fdsys/pkg/CRPT-105hrpt848/html/CRPT-105hrpt848.htm
 - person: 402858
@@ -2071,7 +2072,7 @@
   consequences:
   - date: 1997-01-17
     body: House Committee on Standards of Official Conduct
-    text: investigated and dismissed the first two allegations (Rep. Gingrich made
+    action: investigated and dismissed the first two allegations (Rep. Gingrich made
       restitution to pay for the use of the official resources); initiated a preliminary
       inquiry regarding the third allegation and hired a Special Counsel (Dec. 6,
       1995); recommended reprimand and reimbursement of $300,000 to House for investigative
@@ -2079,7 +2080,7 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt104-401.pdf
   - date: 1997-01-21
     body: House of Representatives
-    text: reprimanded and directed to reimburse $300,000, 395-28
+    action: reprimanded and directed to reimburse $300,000, 395-28
     link: https://www.govtrack.us/congress/votes/105-1997/h8
 - person: 402762
   name: Rose-Collins
@@ -2087,8 +2088,8 @@
   consequences:
   - date: 1997-01-02
     body: House Committee on Standards of Official Conduct
-    text: preliminary inquiry voted (Dec. 5, 1995); 11-count SAV adopted (Sept. 12,
-      1996); Subcommittee recommended that no further action be taken due to pending
+    action: preliminary inquiry voted (Dec. 5, 1995); 11-count SAV adopted (Sept.
+      12, 1996); Subcommittee recommended that no further action be taken due to pending
       loss of jurisdiction on Oct. 25, 1996; Comm. took no further action and filed
       report
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
@@ -2101,10 +2102,10 @@
   consequences:
   - date: 19907-24
     body: House Committee on Standards of Official Conduct
-    text: dismissed complaint; public letter released.
+    action: dismissed complaint; public letter released.
   - date: 1997-01-02
     body: House Committee on Standards of Official Conduct
-    text: Summary of Activities, 104th Congress, H.Rpt. 104-886
+    action: Summary of Activities, 104th Congress, H.Rpt. 104-886
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
 - person: 400262
   name: McDermott
@@ -2114,10 +2115,10 @@
   consequences:
   - date: 1996-07-24
     body: House Committee on Standards of Official Conduct
-    text: dismissed complaint; public letter released  on July 24, 1996
+    action: dismissed complaint; public letter released  on July 24, 1996
   - date: 1997-01-02
     body: House Committee on Standards of Official Conduct
-    text: Summary of Activities, 104th Congress, H.Rpt. 104-886
+    action: Summary of Activities, 104th Congress, H.Rpt. 104-886
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
 - person: 404587
   name: Gringrich
@@ -2125,7 +2126,7 @@
   consequences:
   - date: 1996-09-19
     body: House Committee on Standards of Official Conduct
-    text: member complaint filed on behalf of outside organization (Apr. 22, 1996)
+    action: member complaint filed on behalf of outside organization (Apr. 22, 1996)
       (“Third Miller Complaint”); complaint dismissed; public letter released on Sept.
       19, 1996
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
@@ -2136,11 +2137,11 @@
   consequences:
   - date: 1996-05-08
     body: House Committee on Standards of Official Conduct
-    text: complaint dismissed after Rep. Solomon indicated he had not retaliated and
-      had never intended to retaliate; public letter released on May 8, 1996
+    action: complaint dismissed after Rep. Solomon indicated he had not retaliated
+      and had never intended to retaliate; public letter released on May 8, 1996
   - date: 1997-01-02
     body: House Committee on Standards of Official Conduct
-    text: Summary of Activities, 104th Congress, H.Rpt. 104-886
+    action: Summary of Activities, 104th Congress, H.Rpt. 104-886
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
 - person: 400527
   name: Bonior
@@ -2150,14 +2151,14 @@
   consequences:
   - date: 1996-05-09
     body: House Committee on Standards of Official Conduct
-    text: returned complaint because violations occurred before the third previous
+    action: returned complaint because violations occurred before the third previous
       Congress
   - date: 1996-05-08
     body: House Committee on Standards of Official Conduct
-    text: dismissed second complaint
+    action: dismissed second complaint
   - date: 1997-01-02
     body: House Committee on Standards of Official Conduct
-    text: Summary of Activities, 104th Congress, H.Rpt. 104-886
+    action: Summary of Activities, 104th Congress, H.Rpt. 104-886
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
 - person: 404587
   name: Gingrich
@@ -2165,8 +2166,8 @@
   consequences:
   - date: 1996-03-29
     body: House Committee on Standards of Official Conduct
-    text: concluded that the volunteer service, which had terminated by the time of
-      the complaint, did not comply with the applicable guidelines
+    action: concluded that the volunteer service, which had terminated by the time
+      of the complaint, did not comply with the applicable guidelines
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
 - person: 300156
   name: Torricelli
@@ -2175,11 +2176,11 @@
   consequences:
   - date: 1996-03-29
     body: House Committee on Standards of Official Conduct
-    text: determined use of the fax machine violated applicable rules on use of official
-      resources; member reimbursed use of the fax; public letter released
+    action: determined use of the fax machine violated applicable rules on use of
+      official resources; member reimbursed use of the fax; public letter released
   - date: 1997-01-02
     body: House Committee on Standards of Official Conduct
-    text: Summary of Activities, 104th Congress, H.Rpt. 104-886
+    action: Summary of Activities, 104th Congress, H.Rpt. 104-886
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
   - date: 1996-11-05
     text: Rep. Zimmer lost his bid for a New Jersey Senate seat to Rep. Torricelli
@@ -2192,12 +2193,12 @@
   consequences:
   - date: 1996-03-29
     body: House Committee on Standards of Official Conduct
-    text: complaint filed on Dec. 21, 1995; complaint returned on Jan. 5, 1996 for
+    action: complaint filed on Dec. 21, 1995; complaint returned on Jan. 5, 1996 for
       failing to meet standards of committee procedures; complaint re-submitted on
       Jan. 19, 1996; complaint dismissed on March 29, 1996 for lack of merit.
   - date: 1997-01-02
     body: House Committee on Standards of Official Conduct
-    text: Summary of Activities, 104th Congress, H.Rpt. 104-886
+    action: Summary of Activities, 104th Congress, H.Rpt. 104-886
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
   - date: 1996-11-05
     text: Rep. Zimmer lost his bid for a New Jersey Senate seat to Rep. Torricelli
@@ -2210,7 +2211,7 @@
   consequences:
   - date: 1996-03-14
     body: House Committee on Standards of Official Conduct
-    text: sent a letter to Rep. McIntosh on March 14, 1996 indicating that forging
+    action: sent a letter to Rep. McIntosh on March 14, 1996 indicating that forging
       outside organization's letterhead for staff-created documents was inappropriate
       as was any questioning of a witness's religious observances; Committee voted
       not to make letter public, 5-4 on March 20, 1996
@@ -2219,7 +2220,7 @@
       harassing, insensitive or discriminatory behavior
   - date: 1997-01-02
     body: House Committee on Standards of Official Conduct
-    text: Summary of Activities, 104th Congress, H.Rpt. 104-886
+    action: Summary of Activities, 104th Congress, H.Rpt. 104-886
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
 - person: 410974
   name: Tucker
@@ -2228,8 +2229,8 @@
     to report payments on his taxes, for which he was convicted on December 8, 1995
   consequences:
   - date: 1995-12-12
-    text: Congressional Record
     body: House of Representatives
+    action: See Congressional Record.
     link: https://www.congress.gov/crec/1995/12/12/CREC-1995-12-12.pdf
   - date: 1995-12-12
     text: Announced resignation effective Dec. 15, 1995
@@ -2240,7 +2241,7 @@
   consequences:
   - date: 1995-12-12
     body: House Committee on Standards of Official Conduct
-    text: investigated two member complaints filed (Mar. 8, 1995) and (May 15, 1995)(“Bonior
+    action: investigated two member complaints filed (Mar. 8, 1995) and (May 15, 1995)(“Bonior
       Complaints”); Comm.; complaints dismissed in a public letter on Dec. 6, 1995
       and a public report issued on Dec. 12, 1995
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt104-401.pdf
@@ -2251,7 +2252,7 @@
   consequences:
   - date: 1995-12-12
     body: House Committee on Standards of Official Conduct
-    text: member complaint filed (Feb. 23, 1995) (“Schroeder, Johnston and McKinney
+    action: member complaint filed (Feb. 23, 1995) (“Schroeder, Johnston and McKinney
       Complaint”); Comm. investigated; complaint dismissed in a public letter on Dec.
       6, 1995 and a public report issued on Dec. 12, 1995
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt104-401.pdf
@@ -2261,7 +2262,7 @@
   consequences:
   - date: 1995-12-12
     body: House Committee on Standards of Official Conduct
-    text: member complaint filed (Feb. 13, 1995)(“First Miller Complaint”); Comm.
+    action: member complaint filed (Feb. 13, 1995)(“First Miller Complaint”); Comm.
       investigated; found violations and sent a public letter to Rep. Gingrich but
       took no further action on Dec. 6, 1995; published report on Dec. 12, 1995
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt104-401.pdf
@@ -2276,11 +2277,11 @@
     text: Complaint dismissed.
   - date: 1995-12-12
     body: House Committee on Standards of Official Conduct
-    text: recommended changes regarding book contracts
+    action: recommended changes regarding book contracts
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt104-401.pdf
   - date: 1995-12-22
     body: House of Representatives
-    text: adopted committee resolution on restricting advances from book contracts
+    action: adopted committee resolution on restricting advances from book contracts
       but not subjecting royalty income to outside earned income limit, 259-128
     link: https://www.govtrack.us/congress/votes/104-1995/h883
 - person: 408420
@@ -2289,7 +2290,7 @@
   consequences:
   - date: 1995-09-05
     body: Senate Select Committee on Ethics
-    text: recommended expulsion from the Senate
+    action: recommended expulsion from the Senate
     link: https://www.congress.gov/congressional-report/104th-congress/senate-report/137/1
   - date: 1995-09-08
     text: Resigned.
@@ -2300,14 +2301,15 @@
   consequences:
   - date: 1995-08-25
     body: Federal Elections Commission (FEC)
-    text: transmitted information to the Comm. on Standards developed during an investigation
+    action: transmitted information to the Comm. on Standards developed during an
+      investigation
   - date: 1995-12-07
     body: House Committee on Standards of Official Conduct
-    text: dismissed the complaint and a letter released publicly after Rep. Wilson
+    action: dismissed the complaint and a letter released publicly after Rep. Wilson
       admitted his error and paid a $90,000 fine
   - date: 1997-01-02
     body: House Committee on Standards of Official Conduct
-    text: Summary of Activities, 104th Congress, H.Rpt. 104-886
+    action: Summary of Activities, 104th Congress, H.Rpt. 104-886
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
 - person: 409154
   name: Reynolds
@@ -2318,17 +2320,17 @@
   consequences:
   - date: 1995-06-28
     body: House Committee on Standards of Official Conduct
-    text: preliminary inquiry voted, but no public would be made until the conclusion
+    action: preliminary inquiry voted, but no public would be made until the conclusion
       of the state trial
   - date: 1995-09-01
     text: Resigned.
   - date: 1997-01-02
     body: House Committee on Standards of Official Conduct
-    text: Summary of Activities, 104th Congress, H.Rpt. 104-886
+    action: Summary of Activities, 104th Congress, H.Rpt. 104-886
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
   - date: 2017-09-28
     body: U.S. District Court
-    text: convicted on four misdemeanor counts alleging he failed to file a federal
+    action: convicted on four misdemeanor counts alleging he failed to file a federal
       income tax return for four consecutive years
     link: https://en.wikipedia.org/wiki/Mel_Reynolds#Later_career
 - person: 400551
@@ -2342,7 +2344,7 @@
       were released on June 14, 1995.
   - date: 1997-01-02
     body: House Committee on Standards of Official Conduct
-    text: Summary of Activities, 104th Congress, H.Rpt. 104-886
+    action: Summary of Activities, 104th Congress, H.Rpt. 104-886
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
 - person: 400143
   name: Frost
@@ -2351,7 +2353,7 @@
   consequences:
   - date: 1994-11-29
     body: House Committee on Standards of Official Conduct
-    text: complaint dismissed; public letter released indicating that the committee
+    action: complaint dismissed; public letter released indicating that the committee
       found technical violation of campaign regulations; Rep. Frost agreed to appropriate
       reimbursement
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
@@ -2372,7 +2374,7 @@
     text: Member complaint filed.
   - date: 1994-08-17
     body: House Committee on Standards of Official Conduct
-    text: committee deferred action at request of U.S. Attorney
+    action: committee deferred action at request of U.S. Attorney
   - date: 1994-11-08
     text: Defeated for reelection.
   - date: 1996-04-10
@@ -2453,7 +2455,7 @@
   consequences:
   - date: 1990-01-31
     body: House Committee on Standards of Official Conduct
-    text: declined to consider allegations due to proximity to election day in 1988
+    action: declined to consider allegations due to proximity to election day in 1988
     link: https://www.washingtonpost.com/archive/politics/1990/02/01/dyson-cleared-of-ethics-complaint/25c388ee-3447-48a9-bc10-bf0e6dcccd2b/?utm_term=.dc3eccde50ab
 - person: 409901
   name: Sikorksi
@@ -2461,7 +2463,7 @@
   consequences:
   - date: 1990-01-31
     body: House Committee on Standards of Official Conduct
-    text: complaint dismissed
+    action: complaint dismissed
     link: https://www.washingtonpost.com/archive/politics/1990/02/01/dyson-cleared-of-ethics-complaint/25c388ee-3447-48a9-bc10-bf0e6dcccd2b/?utm_term=.dc3eccde50ab
 - person: 406995
   name: Lukens
@@ -2518,7 +2520,7 @@
   consequences:
   - date: 1990-03-08
     body: House Committee on Standards of Official Conduct
-    text: issued statement, 11-0
+    action: issued statement, 11-0
     link: https://ethics.house.gov/sites/ethics.house.gov/files/CommPrint_19900308.pdf
 - person: 409593
   name: Savage
@@ -2529,7 +2531,7 @@
     text: Rep. Savage apologized.
   - date: 1990-01-31
     body: House Committee on Standards of Official Conduct
-    text: issued public report disapproving of conduct, 12- 0 on Jan. 31, 1990
+    action: issued public report disapproving of conduct, 12- 0 on Jan. 31, 1990
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt101-397_0.pdf
 - person: 404422
   name: Garcia
@@ -2540,7 +2542,7 @@
   consequences:
   - date: 1989-10-31
     body: House Committee on Standards of Official Conduct
-    text: preliminary inquiry voted
+    action: preliminary inquiry voted
   - date: 1990-01-07
     text: Resigned.
     link: http://articles.latimes.com/1990-01-03/news/mn-190_1_robert-garcia
@@ -2550,7 +2552,7 @@
   consequences:
   - date: 1989-10-18
     body: House Committee on Standards of Official Conduct
-    text: adopted public letter of reproval
+    action: adopted public letter of reproval
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt101-293.pdf
   - date: 1989
     text: Admitted to violations and wrote personal letter of apology.
@@ -2569,7 +2571,7 @@
   consequences:
   - date: 1989-04-17
     body: House Committee on Standards of Official Conduct
-    text: report of Special Outside Counsel made public
+    action: report of Special Outside Counsel made public
     link: https://ethics.house.gov/committee-report/matter-representative-james-c-wright
   - date: 1989-06-30
     text: Rep. Wright resigned as Speaker on House floor after having announced his
@@ -2583,7 +2585,7 @@
   consequences:
   - date: 1988-02-17
     body: House Committee on Standards of Official Conduct
-    text: recommended expulsion, 12-0
+    action: recommended expulsion, 12-0
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt100-506.pdf
   - date: 1988-08-05
     text: Resigned after additional conviction.
@@ -2594,7 +2596,7 @@
   consequences:
   - date: 1988-03-23
     body: House Committee on Standards of Official Conduct
-    text: adopted public letter of reproval, 9-3
+    action: adopted public letter of reproval, 9-3
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt100-526.pdf
   - date: 1994
     text: Paid civil fine of $12,500.
@@ -2606,11 +2608,11 @@
   consequences:
   - date: 1987-12-16
     body: House Committee on Standards of Official Conduct
-    text: recommended reprimand, 11-0
+    action: recommended reprimand, 11-0
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt100-485.pdf
   - date: 1987-12-18
     body: House of Representatives
-    text: reprimanded, 324-68
+    action: reprimanded, 324-68
     link: https://www.govtrack.us/congress/votes/100-1987/h472
 - person: 401582
   name: Boner
@@ -2619,10 +2621,10 @@
   consequences:
   - date: 1986-02-05
     body: House Committee on Standards of Official Conduct
-    text: preliminary inquiry authorized
+    action: preliminary inquiry authorized
   - date: 1987-04-23
     body: House Committee on Standards of Official Conduct
-    text: deferred at DOJ request
+    action: deferred at DOJ request
   - date: 1987-09-23
     text: Boner elected mayor of Nashville
     link: http://www.nytimes.com/1987/09/23/us/congressman-elected-mayor.html
@@ -2630,7 +2632,7 @@
     text: Resigned from Congress.
   - date: 1987-12-14
     body: House Committee on Standards of Official Conduct
-    text: staff report published (Dec. 14, 1987
+    action: staff report published (Dec. 14, 1987
     link: https://ethics.house.gov/committee-report/staff-report-matter-representative-william-h-boner
 - person: 410251
   name: Stallings
@@ -2638,7 +2640,7 @@
   consequences:
   - date: 1987-10-15
     body: House Committee on Standards of Official Conduct
-    text: adopted public letter of reproval, 12-0
+    action: adopted public letter of reproval, 12-0
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt100-382.pdf
 - person: 410231
   name: St. Germain
@@ -2648,7 +2650,7 @@
   consequences:
   - date: 1987-04-09
     body: House Committee on Standards of Official Conduct
-    text: recommended no sanction, report approved and filed
+    action: recommended no sanction, report approved and filed
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Hrpt100-46.pdf
 - person: 408313
   name: Oakar
@@ -2657,7 +2659,7 @@
   consequences:
   - date: 1987-06-17
     body: House Committee on Standards of Official Conduct
-    text: informal staff review of press allegations; found improper payments but
+    action: informal staff review of press allegations; found improper payments but
       no fraudulent intent; recommended no sanction; letter released publicly
     link: http://www.nytimes.com/1987/06/19/us/panel-in-house-bars-disciplining-member-who-violated-rules.html
 - person: 411395
@@ -2667,7 +2669,7 @@
   consequences:
   - date: 1986-09-30
     body: House Committee on Standards of Official Conduct
-    text: recommended no sanction, report approved and filed, 12-0
+    action: recommended no sanction, report approved and filed, 12-0
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt99-933.pdf
 - person: 410553
   name: Sweeney
@@ -2676,7 +2678,7 @@
   consequences:
   - date: 1986-09-11
     body: House Committee on Standards of Official Conduct
-    text: determined that campaign activities occurred in district office; no evidence
+    action: determined that campaign activities occurred in district office; no evidence
       Rep. Sweeney directed or condoned improper activities
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
 - person: 403178
@@ -2685,7 +2687,7 @@
   consequences:
   - date: 1986-02-05
     body: House Committee on Standards of Official Conduct
-    text: member made restitution and amended financial disclosure Statement
+    action: member made restitution and amended financial disclosure Statement
     link: https://ethics.house.gov/committee-report/investigation-travel-corporate-aircraft-taken-representative-dan-daniel
 - person: 404046
   name: Ferraro
@@ -2693,7 +2695,7 @@
   consequences:
   - date: 1984-12-04
     body: House Committee on Standards of Official Conduct
-    text: complaint filed by outside organization (Aug. 7, 1984); preliminary inquiry
+    action: complaint filed by outside organization (Aug. 7, 1984); preliminary inquiry
       voted (Sept. 12, 1984); found technical violations; no sanction recommended,
       12-2 (Dec. 3, 1984); report filed (Dec. 4, 1984)
     link: https://ethics.house.gov/committee-report/matter-representative-geraldine-ferraro
@@ -2704,11 +2706,11 @@
   consequences:
   - date: 1984-06-20
     body: House Committee on Standards of Official Conduct
-    text: reprimand recommended, 11-1
+    action: reprimand recommended, 11-1
     link: https://ethics.house.gov/committee-report/matter-representative-george-v-hansen
   - date: 1984-07-31
     body: House of Representatives
-    text: reprimanded, 354-52
+    action: reprimanded, 354-52
     link: https://www.govtrack.us/congress/votes/98-1984/h793
   - date: 1985
     text: Conviction vacated, U.S. v. Hansen, 906 F. Supp. 688 (1995).
@@ -2722,7 +2724,7 @@
   consequences:
   - date: 1983-11-17
     body: House Committee on Standards of Official Conduct
-    text: preliminary inquiry voted; Special Counsel investigated and found no basis
+    action: preliminary inquiry voted; Special Counsel investigated and found no basis
       for SAV; Comm. took no further action
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt98-559%20pt.%201.pdf
 - person: 403364
@@ -2731,7 +2733,7 @@
   consequences:
   - date: 1983-11-17
     body: House Committee on Standards of Official Conduct
-    text: preliminary inquiry voted; Special Counsel investigated and found no basis
+    action: preliminary inquiry voted; Special Counsel investigated and found no basis
       for SAV; Comm. took no further action
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt98-559%20pt.%201.pdf
 - person: 410496
@@ -2741,11 +2743,11 @@
   consequences:
   - date: 1983-07-14
     body: House Committee on Standards of Official Conduct
-    text: recommended reprimand and filed report, 11-1
+    action: recommended reprimand and filed report, 11-1
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt98-295.pdf
   - date: 1983-07-20
     body: House of Representatives
-    text: rejected reprimand recommendation, 289-136; censured, 420-3
+    action: rejected reprimand recommendation, 289-136; censured, 420-3
     link: https://www.govtrack.us/congress/votes/98-1983/h246
 - person: 402985
   name: Crane
@@ -2753,11 +2755,11 @@
   consequences:
   - date: 1983-07-14
     body: House Committee on Standards of Official Conduct
-    text: recommended reprimand, 11-1
+    action: recommended reprimand, 11-1
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt98-296.pdf
   - date: 1983-07-20
     body: House of Representatives
-    text: rejected reprimand recommendation, 289-136; censured, 421-3
+    action: rejected reprimand recommendation, 289-136; censured, 421-3
     link: https://www.govtrack.us/congress/votes/98-1983/h244
   - date: 1984-11-06
     text: Defeated in election.
@@ -2769,7 +2771,7 @@
   consequences:
   - date: 1982-05-12
     body: House Committee on Standards of Official Conduct
-    text: preliminary inquiry voted and deferred at request of Department of Justice
+    action: preliminary inquiry voted and deferred at request of Department of Justice
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   - date: 1982-08-25
     text: Resigned.
@@ -2780,7 +2782,7 @@
   consequences:
   - date: 1981-07-28
     body: House Committee on Standards of Official Conduct
-    text: preliminary inquiry voted (May 28, 1981); dismissed (July 28, 1981) and
+    action: preliminary inquiry voted (May 28, 1981); dismissed (July 28, 1981) and
       Special Counsel resigned
     link: https://www.washingtonpost.com/archive/sports/1980/08/06/murtha-and-abscam-a-sad-spectacle/d241c48a-cbde-40aa-aa8a-994701b01260/?utm_term=.075a814c4919
 - person: 411659
@@ -2791,10 +2793,10 @@
     text: Convicted.
   - date: 1981-05-01
     body: Senate Select Committee on Ethics
-    text: opened inquiry
+    action: opened inquiry
   - date: 1981-09-03
     body: Senate Select Committee on Ethics
-    text: filed report
+    action: filed report
   - date: 1982-03-11
     text: Resigned to avoid an expulsion vote.
     link: https://www.senate.gov/artandhistory/history/common/expulsion_cases/140HarrisonWilliams_expulsion.htm
@@ -2824,14 +2826,14 @@
   consequences:
   - date: 1981-04-28
     body: House Committee on Standards of Official Conduct
-    text: expulsion recommended, 10-2
+    action: expulsion recommended, 10-2
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt97-110.pdf
   - date: 1981-04-29
     text: Resigned.
     link: http://www.nytimes.com/1981/04/30/us/lederer-quits-congress-over-conviction-in-abscam.html
   - date: 1981-05-20
     body: House Committee on Standards of Official Conduct
-    text: report filed
+    action: report filed
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt97-110.pdf
 - person: 410779
   name: Thompson
@@ -2855,7 +2857,7 @@
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=J000099
   - date: 1980-12-16
     body: House Committee on Standards of Official Conduct
-    text: sanction hearing terminated by resignation and report filed
+    action: sanction hearing terminated by resignation and report filed
     link: https://ethics.house.gov/committee-report/matter-representative-john-w-jenrette-jr
 - person: 408094
   name: Myers
@@ -2864,11 +2866,11 @@
   consequences:
   - date: 1980-09-24
     body: House Committee on Standards of Official Conduct
-    text: recommended expulsion, 10-2 (Sept. 24, 1980)
+    action: recommended expulsion, 10-2 (Sept. 24, 1980)
     link: https://ethics.house.gov/committee-report/matter-representative-michael-j-myers
   - date: 1980-10-02
     body: House of Representatives
-    text: expelled, 376-30
+    action: expelled, 376-30
     link: https://www.govtrack.us/congress/votes/96-1980/h1222
 - person: 411726
   name: Wilson
@@ -2878,14 +2880,14 @@
   consequences:
   - date: 1980-04-24
     body: House Committee on Standards of Official Conduct
-    text: recommended censure and denial of chairmanship, 10-2
+    action: recommended censure and denial of chairmanship, 10-2
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt96-930.pdf
   - date: 1980-06-03
     text: Defeated in primary.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   - date: 1980-06-10
     body: House of Representatives
-    text: agreed to amendment deleting denial of chairmanship from sanction, 261-148;
+    action: agreed to amendment deleting denial of chairmanship from sanction, 261-148;
       censured, voice vote
     link: https://www.govtrack.us/congress/votes/96-1980/h949
 - person: 404164
@@ -2895,7 +2897,7 @@
   consequences:
   - date: 1979-12-12
     body: House Committee on Standards of Official Conduct
-    text: Special Counsel appointed, Investigative subcommittee established (April
+    action: Special Counsel appointed, Investigative subcommittee established (April
       19, 1978); SAV adopted (June 7, 1979); disciplinary hearing deferred due to
       hospitalization (Dec. 12, 1979)
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt96-856.pdf
@@ -2906,7 +2908,7 @@
     text: Pleaded guilty to misdemeanor of conspiracy to defraud government.
   - date: 1980-03-26
     body: House Committee on Standards of Official Conduct
-    text: report filed
+    action: report filed
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt96-856.pdf
 - person: 410624
   name: Talmadge
@@ -2914,11 +2916,11 @@
   consequences:
   - date: 1979-10-03
     body: Senate Select Committee on Ethics
-    text: recommended that Talmadge be "denounced" (censured)
+    action: recommended that Talmadge be "denounced" (censured)
     link: https://www.senate.gov/artandhistory/history/common/censure_cases/139HermanTalmadge.htm
   - date: 1979-10-11
     body: Senate
-    text: censured
+    action: censured
     link: https://www.govtrack.us/congress/votes/96-1979/s346
   - date: 1980-11-04
     text: Lost election.
@@ -2928,11 +2930,11 @@
   consequences:
   - date: 1979-07-31
     body: House Committee on Standards of Official Conduct
-    text: recommended censure, 11-0
+    action: recommended censure, 11-0
     link: https://ethics.house.gov/committee-report/matter-representative-charles-c-diggs
   - date: 1979-07-31
     body: House of Representatives
-    text: censured, 414-0
+    action: censured, 414-0
     link: https://www.govtrack.us/congress/votes/96-1979/h366
   - date: 1978-11-07
     text: Re-elected after conviction.
@@ -2946,7 +2948,7 @@
   consequences:
   - date: 1978-09-13
     body: House Committee on Standards of Official Conduct
-    text: conducted inquiry
+    action: conducted inquiry
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   - date: 1978-10-24
     text: Indicted.
@@ -2959,11 +2961,11 @@
   consequences:
   - date: 1978-09-27
     body: House Committee on Standards of Official Conduct
-    text: conducted inquiry and recommended reprimand, 8-1 (Sept. 27, 1978)
+    action: conducted inquiry and recommended reprimand, 8-1 (Sept. 27, 1978)
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt95-1741.pdf
   - date: 1978-10-13
     body: House of Representatives
-    text: reprimanded, 329-41
+    action: reprimanded, 329-41
     link: https://www.govtrack.us/congress/votes/95-1978/h1513
 - person: 407436
   name: McFall
@@ -2971,11 +2973,11 @@
   consequences:
   - date: 1978-10-04
     body: House Committee on Standards of Official Conduct
-    text: conducted inquiry and recommended reprimand, 8-2
+    action: conducted inquiry and recommended reprimand, 8-2
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt95-1742.pdf
   - date: 1978-10-13
     body: House of Representatives
-    text: reprimanded, voice vote
+    action: reprimanded, voice vote
   - date: 1978-12-31
     text: Resigned.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
@@ -2986,11 +2988,11 @@
   consequences:
   - date: 1978-09-27
     body: House Committee on Standards of Official Conduct
-    text: conducted inquiry and recommended censure
+    action: conducted inquiry and recommended censure
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt95-1743_0.pdf
   - date: 1978-10-13
     body: House of Representatives
-    text: rejected censure recommendation, 219-170; reprimanded, voice vote
+    action: rejected censure recommendation, 219-170; reprimanded, voice vote
     link: https://www.govtrack.us/congress/votes/95-1978/h1514
 - person: 408514
   name: Patten
@@ -2998,7 +3000,7 @@
   consequences:
   - date: 1978-10-04
     body: House Committee on Standards of Official Conduct
-    text: conducted inquiry and dismissed charges, 8-0
+    action: conducted inquiry and dismissed charges, 8-0
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt95-1740.pdf
 - person: 405493
   name: Hinshaw
@@ -3006,12 +3008,12 @@
   consequences:
   - date: 1976-09-01
     body: House Committee on Standards of Official Conduct
-    text: recommended against expulsion due to lack of jurisdiction for actions committed
-      prior to service in House, 10-2
+    action: recommended against expulsion due to lack of jurisdiction for actions
+      committed prior to service in House, 10-2
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Rep.Hinshaw.pdf
   - date: 1976-10-01
     body: House of Representatives
-    text: expulsion resolution tabled
+    action: expulsion resolution tabled
   - date: 1976-06-08
     text: Lost primary.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
@@ -3021,7 +3023,7 @@
   consequences:
   - date: 1976-06-02
     body: House Committee on Standards of Official Conduct
-    text: ordered investigation after Rep. Hays and other members requested investigation
+    action: ordered investigation after Rep. Hays and other members requested investigation
       of press allegations
   - date: 1976-09-01
     text: Resigned prior to hearings.
@@ -3032,11 +3034,11 @@
   consequences:
   - date: 1976-07-21
     body: House Committee on Standards of Official Conduct
-    text: recommended reprimand, 10-2
+    action: recommended reprimand, 10-2
     link: https://ethics.house.gov/sites/ethics.house.gov/files/94-1364.pdf
   - date: 1976-07-29
     body: House of Representatives
-    text: reprimanded, 381-3
+    action: reprimanded, 381-3
     link: https://www.govtrack.us/congress/votes/94-1976/h1042
   - date: 1978
     text: Did not seek re-election.
@@ -3048,7 +3050,8 @@
   consequences:
   - date: 1975-11-06
     body: House Committee on Standards of Official Conduct
-    text: complaint dismissed, 7-3 because the information had not been properly classified
+    action: complaint dismissed, 7-3 because the information had not been properly
+      classified
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
 - person: 403577
   name: Dowdy
@@ -3058,11 +3061,11 @@
   consequences:
   - date: 1975-03-12
     body: House Committee on Standards of Official Conduct
-    text: unanimously adopted H. Res. 46
+    action: unanimously adopted H. Res. 46
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   - date: 1975-04-16
     body: House of Representatives
-    text: passed H. Res. 46, 360-37 adding clause 10 to Code of Official Conduct,
+    action: passed H. Res. 46, 360-37 adding clause 10 to Code of Official Conduct,
       stating policy of House that member convicted of a serious crime voluntarily
       refrain from voting
     link: https://www.govtrack.us/congress/votes/94-1975/h82
@@ -3106,11 +3109,11 @@
     link: https://www.senate.gov/artandhistory/history/common/censure_cases/135ThomasDodd.htm
   - date: 1967-04-27
     body: Senate Select Committee on Standards and Conduct
-    text: committee report released with recommendation of censure
+    action: committee report released with recommendation of censure
     link: https://www.senate.gov/artandhistory/history/common/censure_cases/pdf/135DoddApril27_1967report.pdf
   - date: 1967-06-23
     body: Senate
-    text: censured 92-5
+    action: censured 92-5
     link: https://www.govtrack.us/congress/votes/90-1967/s112
   - date: 1970
     text: Was not re-elected.
@@ -3121,11 +3124,11 @@
   consequences:
   - date: 1954-11-08
     body: Select Committee to Study Censure Charges
-    text: unanimously recommended censure
+    action: unanimously recommended censure
     link: https://www.senate.gov/artandhistory/history/common/censure_cases/pdf/133McCarthyNov8_1954report.pdf
   - date: 1954-12-02
     body: Senate
-    text: censured, 67-22
+    action: censured, 67-22
     link: https://www.senate.gov/artandhistory/history/resources/pdf/1954McCarthyCensure.pdf
   - date: 1957-05-02
     text: Died before his term would have ended in 1958.
@@ -3141,7 +3144,7 @@
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=428
   - date: 1953-01-02
     body: Senate Subcommittee on Privileges and Elections
-    text: issued report with no specific recommendations for Senate action and thus
+    action: issued report with no specific recommendations for Senate action and thus
       the Senate took no action even though the Subcommittee did find evidence of
       improper behavior by McCarthy
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=431
@@ -3156,7 +3159,7 @@
   consequences:
   - date: 1946
     body: Senate
-    text: established a special committee to investigate election practices in the
+    action: established a special committee to investigate election practices in the
       1946 MS senate election and separately had the Special Committee to Investigate
       the National Defense Program also investigate Bilbo
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=410
@@ -3173,16 +3176,16 @@
   consequences:
   - date: 1941-01-03
     body: Senate
-    text: referred to the Committee on Privileges and Elections
+    action: referred to the Committee on Privileges and Elections
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=402
   - date: 1942-01-29
     body: Committee on Privileges and Elections
-    text: recommended that Langer was not entitled to his seat due to a lack of moral
-      fitness to be a senator and recommended he be excluded by a majority vote
+    action: recommended that Langer was not entitled to his seat due to a lack of
+      moral fitness to be a senator and recommended he be excluded by a majority vote
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=403
   - date: 1942-03-27
     body: Senate
-    text: rejected argument that Langer could not be seated which meant an expulsion
+    action: rejected argument that Langer could not be seated which meant an expulsion
       and a two-thirds majority; the exclusion vote failed 30-52
     link: https://www.govtrack.us/congress/votes/77-1942/s120
 - person: 406909
@@ -3195,32 +3198,32 @@
   consequences:
   - date: 1932-09-21
     body: Special Committee to Investigate Campaign Expenditures
-    text: referred to committee
+    action: referred to committee
   - date: 1933-03-04
     body: Senate
-    text: John Overton seated
+    action: John Overton seated
   - date: 1933-04-14
     body: Senate Committee on the Judiciary
-    text: referred to committee
+    action: referred to committee
   - date: 1934-01-10
     body: Committee on Privileges and Elections
-    text: referred to committee
+    action: referred to committee
   - date: 1934-01-16
     body: Special Committee to Investigate Campaign Expenditures
-    text: report presented to Senate
+    action: report presented to Senate
   - date: 1934-03-19
     body: Senate Committee on the Judiciary
-    text: report presented to Senate
+    action: report presented to Senate
   - date: 1934-06-16
     body: Committee on Privileges and Elections
-    text: report presented to Senate
+    action: report presented to Senate
   - date: 1934-06-16
     body: Senate
-    text: all three committees concluded that no specific action was warranted, partly
-      because many of the contested activities were legal in Louisiana at that time
-      and partly due to a lack of evidence (often resulting from questionable campaign
-      finance recordkeeping practices). Thus, both Long and Overton retained their
-      seats.
+    action: all three committees concluded that no specific action was warranted,
+      partly because many of the contested activities were legal in Louisiana at that
+      time and partly due to a lack of evidence (often resulting from questionable
+      campaign finance recordkeeping practices). Thus, both Long and Overton retained
+      their seats.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=385
   - date: 1935-09-01
     text: Long was assassinated before he could finish his Senate term or complete
@@ -3232,14 +3235,14 @@
   consequences:
   - date: 1929-10-17
     body: Subcommittee of the Senate Committee on the Judiciary
-    text: despite not being named in the investigation, Bingham volunteered to testify
+    action: despite not being named in the investigation, Bingham volunteered to testify
       before the subcommittee to defend his former staff member, the lobbyist Charles
       Eyanson. Bingham said he asked the manufacturer's association to loan him Eyanson,
       but to keep paying Eyanson. Then Bingham temporarily replaced his principal
       clerk with Eyanson so that Eyanson could attend closed sessions on tariff proposals
   - date: 1929-10-26
     body: Subcommittee of the Senate Committee on the Judiciary
-    text: condemned the arrangement, but did not recommend censure. Over the next
+    action: condemned the arrangement, but did not recommend censure. Over the next
       few weeks, Bingham attacked the Judiciary subcommittee as having been unfairly
       partisan
   - date: 1929-11-01
@@ -3247,7 +3250,7 @@
       Bingham for his discourteous behavior towards his colleagues.
   - date: 1929-11-04
     body: Senate
-    text: censured 54-22 after, over the course of floor debate, the censure resolution
+    action: censured 54-22 after, over the course of floor debate, the censure resolution
       was modified to indicate that Bingham had no corrupt motives
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=371
   - date: 1932
@@ -3266,7 +3269,7 @@
     text: Senator McKinley (aslo of IL) died
   - date: 1926-12-09
     body: Senate
-    text: resolution introduced to preclude the seating of Smith should he be appointed
+    action: resolution introduced to preclude the seating of Smith should he be appointed
       to fill McKinley's slot
   - date: 1926-12-16
     text: Governor of Illinois appointed Smith to McKinley's seat to fill the remainder
@@ -3275,13 +3278,14 @@
     text: Smith presents his credentials for seating in the Senate
   - date: 1927-01-20
     body: Senate
-    text: refused to seat Smith and referred to the Committee on Privileges and Elections
+    action: refused to seat Smith and referred to the Committee on Privileges and
+      Elections
   - date: 1928-01-17
     body: Committee on Privileges and Elections
-    text: reported that Smith should not be seated due to campaign corruption
+    action: reported that Smith should not be seated due to campaign corruption
   - date: 1928-01-28
     body: Senate
-    text: voted 61-23 to exclude Smith
+    action: voted 61-23 to exclude Smith
   - date: 1928
     text: Three weeks later Smith resigned, the IL governor accepted it, announced
       a vacancy and named Smith to fill the vacancy. Smith did not claim the seat
@@ -3293,14 +3297,14 @@
   consequences:
   - date: 1926-12-07
     body: Committee on Privileges and Elections
-    text: Senator Walsh of MT asked for a clear judgment on the Senate's right to
+    action: Senator Walsh of MT asked for a clear judgment on the Senate's right to
       exclude members for actions taken long before their election to the Senate and
       unrelated to the election itself
   - date: 1927-03-04
     body: Committee on Privileges and Elections
-    text: recommended the Senate dismiss all charges because 14 year old charges did
-      not and should not affect the legality of his election. Further, because the
-      bribe was made on behalf of a board of directors of a company of which Gould
+    action: recommended the Senate dismiss all charges because 14 year old charges
+      did not and should not affect the legality of his election. Further, because
+      the bribe was made on behalf of a board of directors of a company of which Gould
       was a member and Gould swore that he had personally vehemently opposed that
       bribe, therefore, he, Gould was not personally responsible for the crime that
       everyone agreed had in fact taken place. The committee further refused to provide
@@ -3308,7 +3312,7 @@
       each case should be considered on its merits
   - date: 1928-04-28
     body: Senate
-    text: reimbursed Gould over $10,000 for his expenses
+    action: reimbursed Gould over $10,000 for his expenses
   - date: 1932
     text: Gould declined to run for re-election
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=368
@@ -3318,11 +3322,11 @@
   consequences:
   - date: 1926-04-30
     body: Committee on Privileges and Elections
-    text: unanimously found that the accuser had failed to prove corruption or a change
-      in the election outcome and recommended no further action
+    action: unanimously found that the accuser had failed to prove corruption or a
+      change in the election outcome and recommended no further action
   - date: 1926-04-30
     body: Senate
-    text: adopted the committee report
+    action: adopted the committee report
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=352
 - person: 409621
   name: Schall
@@ -3330,10 +3334,10 @@
   consequences:
   - date: 1926-06-26
     body: Committee on Privileges and Elections
-    text: recommended unanimously that Schall retain his seat
+    action: recommended unanimously that Schall retain his seat
   - date: 1926-06-16
     body: Senate
-    text: adopted committee recommendation
+    action: adopted committee recommendation
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=350
 - person: 406581
   name: Langley
@@ -3345,7 +3349,7 @@
     text: Conviction affirmed by appeals court.
   - date: 1926-01
     body: Supreme Court
-    text: declined to review the case
+    action: declined to review the case
   - date: 1924-05-15
     text: Special committee deferred action until conclusion of criminal case and
       appeals
@@ -3372,16 +3376,16 @@
   consequences:
   - date: 1924-04-09
     body: Senate
-    text: Wheeler requested a special committee to investigate the indictment because
+    action: Wheeler requested a special committee to investigate the indictment because
       Wheeler contended it was retaliation for his investigations into the Justice
       Department's failure to prosecute government officials implicated in the Teapot
       Dome scandal
   - date: 1924-05-14
     body: special committee
-    text: exonerated Wheeler
+    action: exonerated Wheeler
   - date: 1024-05-23
     body: Senate
-    text: voted to agree with the committee report 56-5
+    action: voted to agree with the committee report 56-5
   - date: 1925
     text: Wheeler was acquitted in the Montana case
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=343
@@ -3391,13 +3395,13 @@
   consequences:
   - date: 1920-03-20
     body: Senate
-    text: convicted of bribery by the Senate
+    action: convicted of bribery by the Senate
   - date: 1921-05-02
     body: Supreme Court
-    text: overturned Senate conviction
+    action: overturned Senate conviction
   - date: 1922-01-12
     body: Senate
-    text: affirmed his election 46-41
+    action: affirmed his election 46-41
   - date: 1922-11-18
     text: Resigned.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=336
@@ -3419,10 +3423,10 @@
   consequences:
   - date: 1919-01-16
     body: Committee on Privileges and Elections
-    text: majority report recommending dismissing charges
+    action: majority report recommending dismissing charges
   - date: 1919-01-16
     body: Senate
-    text: voted 50-21 to dismss charges
+    action: voted 50-21 to dismss charges
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=333
 - person: 408150
   name: Newberry
@@ -3434,10 +3438,10 @@
     text: Supreme Court struck down conviction
   - date: 1921-09-29
     body: Committee on Privileges and Elections
-    text: exonerated Newberry in majority report
+    action: exonerated Newberry in majority report
   - date: 1922-01-12
     body: Senate
-    text: condemned Newberry for excessive expenditures, but did not unseat him
+    action: condemned Newberry for excessive expenditures, but did not unseat him
     link: https://www.govtrack.us/congress/votes/67-2/s206
 - person: 410534
   name: Sutherland
@@ -3445,10 +3449,10 @@
   consequences:
   - date: 1918-06-26
     body: Committee on Privileges and Elections
-    text: recommended Sutherland retain his seat due to a lack of evidence
+    action: recommended Sutherland retain his seat due to a lack of evidence
   - date: 1918-06-28
     body: Senate
-    text: adopted the committee's recommendation
+    action: adopted the committee's recommendation
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=331
 - person: 407405
   name: McDermott
@@ -3457,11 +3461,11 @@
   consequences:
   - date: 1913-12-09
     body: Select Committee to Investigate Lobby Charges
-    text: recommended censure of Rep. McDermott and exonerated six other members (Dec.
-      9, 1913)
+    action: recommended censure of Rep. McDermott and exonerated six other members
+      (Dec. 9, 1913)
   - date: 1914-04-24
     body: House Committee on the Judiciary
-    text: recommended resolution “strongly” condemning conduct of Rep. McDermott
+    action: recommended resolution “strongly” condemning conduct of Rep. McDermott
   - date: 1914-07-21
     text: Resigned.
   - date: 1914-11-03
@@ -3473,10 +3477,10 @@
   consequences:
   - date: 1913-02-11
     body: Committee on Privileges and Elections
-    text: unanimously recommended no further action
+    action: unanimously recommended no further action
   - date: 1913-02-11
     body: Senate
-    text: adopted the recommendation
+    action: adopted the recommendation
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=322
 - person: 402499
   name: Chilton
@@ -3484,10 +3488,10 @@
   consequences:
   - date: 1913-02-11
     body: Committee on Privileges and Elections
-    text: unanimously recommended no further action
+    action: unanimously recommended no further action
   - date: 1913-02-11
     body: Senate
-    text: adopted the recommendation
+    action: adopted the recommendation
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=322
 - person: 410325
   name: Stephenson
@@ -3495,11 +3499,11 @@
   consequences:
   - date: 1911-06-11
     body: Committee on Privileges and Elections
-    text: divided committee issued a majority report recommending he retain his seat;
-      the minority report disagreed
+    action: divided committee issued a majority report recommending he retain his
+      seat; the minority report disagreed
   - date: 1912-03-12
     body: Senate
-    text: voted to allow him to keep his seate 40-34
+    action: voted to allow him to keep his seate 40-34
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=319
 - person: 406935
   name: Lorimer
@@ -3509,24 +3513,25 @@
   consequences:
   - date: 1910-06-01
     body: Senate
-    text: referred to Committee on Privileges and Elections after Lorimer asked for
-      an investigation after the Chicago Tribune had alleged misconduct on his part
+    action: referred to Committee on Privileges and Elections after Lorimer asked
+      for an investigation after the Chicago Tribune had alleged misconduct on his
+      part
   - date: 1910-12-21
     body: Committee on Privileges and Elections
-    text: majority report exonerated him; minority reports did not
+    action: majority report exonerated him; minority reports did not
   - date: 1911-03-01
     body: Senate
-    text: vote to unseat failed 40-46
+    action: vote to unseat failed 40-46
   - date: 1911-06-07
     body: Senate
-    text: subcomittee created out of Committee on Privileges and Elections
+    action: subcomittee created out of Committee on Privileges and Elections
   - date: 1912-05-20
     body: Committee on Privileges and Elections Subcommittee
-    text: another majority and minority report, the former recommending he keep the
-      seat and the minority that he not
+    action: another majority and minority report, the former recommending he keep
+      the seat and the minority that he not
   - date: 1912-07-13
     body: Senate
-    text: unseated by vote of 55-28
+    action: unseated by vote of 55-28
 - person: 406802
   name: Lilley
   allegation: contempt of House for making false charges of corruption regarding another
@@ -3539,7 +3544,7 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   - date: 1908-05-20
     body: House of Representatives
-    text: approved report and conclusions of Select Comm., 159- 82
+    action: approved report and conclusions of Select Comm., 159- 82
     link: https://www.govtrack.us/congress/votes/60-1/h191
 - person: 410118
   name: Smoot
@@ -3547,11 +3552,11 @@
   consequences:
   - date: 1906-06-02
     body: Committee on Privileges and Elections
-    text: with a vote of 7-5, the majority recommended expulsion
+    action: with a vote of 7-5, the majority recommended expulsion
   - date: 1907-02-20
     body: Senate
-    text: first decided to require a 2/3 majority and then he was not expelled, 27-43
-      nor was he unseated, 28-42
+    action: first decided to require a 2/3 majority and then he was not expelled,
+      27-43 nor was he unseated, 28-42
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=306
 - person: 403459
   name: Dietrich
@@ -3559,7 +3564,7 @@
   consequences:
   - date: 1904-02-01
     body: Senate
-    text: Dietrich requested an investigation into charges he had accepted bribes
+    action: Dietrich requested an investigation into charges he had accepted bribes
       for postal appointments even though the charges were dismissed in January 1904.
   - date: 1904-04-14
     text: The special committee unanimously exonerated Dietrich and no further action
@@ -3588,18 +3593,18 @@
   consequences:
   - date: 1902-02-22
     body: Senate
-    text: referred to Committee on Privileges and Elections and both senators declared
+    action: referred to Committee on Privileges and Elections and both senators declared
       in contempt of the Senate and would not be allowed to speak on the floor except
       at the request of another senator. Another senator did so and both apologized
       although in such an unpleasant manner the fight almost broke out again
   - date: 1902-02-28
     body: Committee on Privileges and Elections
-    text: recommended that both should receive the same punishment even though Tillman
+    action: recommended that both should receive the same punishment even though Tillman
       started it. The punishment was censure and the suspension of duties they'd already
       been experiencing
   - date: 1902-02-28
     body: Senate
-    text: censured 54-12. 22 senators did not vote perhaps suggesting they agreed
+    action: censured 54-12. 22 senators did not vote perhaps suggesting they agreed
       Tillman was more at fault
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=303
 - person: 410847
@@ -3612,18 +3617,18 @@
   consequences:
   - date: 1902-02-22
     body: Senate
-    text: referred to Committee on Privileges and Elections and both senators declared
+    action: referred to Committee on Privileges and Elections and both senators declared
       in contempt of the Senate and would not be allowed to speak on the floor except
       at the request of another senator. Another senator did so and both apologized
       although in such an unpleasant manner the fight almost broke out again
   - date: 1902-02-28
     body: Committee on Privileges and Elections
-    text: recommended that both should receive the same punishment even though Tillman
+    action: recommended that both should receive the same punishment even though Tillman
       started it. The punishment was censure and the suspension of duties they'd already
       been experiencing
   - date: 1902-02-28
     body: Senate
-    text: censured 54-12. 22 senators did not vote perhaps suggesting they agreed
+    action: censured 54-12. 22 senators did not vote perhaps suggesting they agreed
       Tillman was more at fault
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=303
 - person: 402592
@@ -3632,8 +3637,8 @@
   consequences:
   - date: 1900-04-23
     body: Committee on Privileges and Elections
-    text: unanimously concluded he was not entitled to his seat and recommended a
-      vote to unseat him
+    action: unanimously concluded he was not entitled to his seat and recommended
+      a vote to unseat him
     link: https://www.senate.gov/artandhistory/history/common/contested_elections/pdf/89_Apr_23_1900_Clark.pdf
   - date: 1900-05-15
     text: Clark resigned rather than be voted out
@@ -3648,7 +3653,7 @@
   consequences:
   - date: 1899-02-28
     body: Committee on Privileges and Elections
-    text: majority report found in favor of Hanna
+    action: majority report found in favor of Hanna
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=290
 - person: 409263
   name: Roach
@@ -3670,11 +3675,11 @@
   consequences:
   - date: 1888-03-04
     body: Committee on Privileges and Elections
-    text: recommended no action since even if the charges were true the US Senate
+    action: recommended no action since even if the charges were true the US Senate
       had no jurisdiction over the Indiana Senate
   - date: 1888-05-15
     body: Senate
-    text: voted by voice to discharge the committee from further investigation
+    action: voted by voice to discharge the committee from further investigation
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=262
 - person: 408555
   name: Payne
@@ -3682,10 +3687,10 @@
   consequences:
   - date: 1886-07-15
     body: Committee on Privileges and Elections
-    text: submitted multiple reports with no conclusive recommendations
+    action: submitted multiple reports with no conclusive recommendations
   - date: 1886-07-23
     body: Senate
-    text: voted to discharge the committee from further inestigation
+    action: voted to discharge the committee from further inestigation
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=259
 - person: 406239
   name: Kellogg
@@ -3702,7 +3707,7 @@
   consequences:
   - date: 1883-03-01
     body: House of Representatives
-    text: censure resolution failed, 66-78; apologized prior to vote
+    action: censure resolution failed, 66-78; apologized prior to vote
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
 - person: 406600
   name: Lapham
@@ -3710,11 +3715,11 @@
   consequences:
   - date: 1881-12-03
     body: Committee on Privileges and Elections
-    text: in an oral report, the committee recommended no further action for lack
+    action: in an oral report, the committee recommended no further action for lack
       of evidence of wrongdoing
   - date: 1881-12-13
     body: Senate
-    text: discharged the committee from further action
+    action: discharged the committee from further action
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=255
 - person: 407738
   name: Miller
@@ -3722,11 +3727,11 @@
   consequences:
   - date: 1881-12-03
     body: Committee on Privileges and Elections
-    text: in an oral report, the committee recommended no further action for lack
+    action: in an oral report, the committee recommended no further action for lack
       of evidence of wrongdoing
   - date: 1881-12-13
     body: Senate
-    text: discharged the committee from further action
+    action: discharged the committee from further action
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=255
 - person: 405874
   name: Ingalls
@@ -3734,9 +3739,9 @@
   consequences:
   - date: 1880-02-17
     body: Committee on Privileges and Elections
-    text: concluded that while bribery and corruption were present, there was no evidence
-      tying them to Ingalls or that it had altered election results therefore the
-      charges should be dismissed
+    action: concluded that while bribery and corruption were present, there was no
+      evidence tying them to Ingalls or that it had altered election results therefore
+      the charges should be dismissed
 - person: 407273
   name: Matthews
   allegation: corruption before senate term
@@ -3751,7 +3756,7 @@
   consequences:
   - date: 1878-06-15
     body: Committee on Privileges and Elections
-    text: dismissed charges
+    action: dismissed charges
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=245
 - person: 409989
   name: Smalls
@@ -3764,7 +3769,7 @@
     text: released on bail pending appeal
   - date: 1878-01-25
     body: House Committee on the Judiciary
-    text: investigated circumstances of the conviction and determined that arrest
+    action: investigated circumstances of the conviction and determined that arrest
       by state authorities for an alleged state crime and detention for trial did
       not violate any right or privilege of the House
   - date: 1879-04-23
@@ -3776,7 +3781,7 @@
   consequences:
   - date: 1876-06-06
     body: House Committee on the Judiciary
-    text: report ordered
+    action: report ordered
   - date: 1876-07-10
     text: Resigned.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
@@ -3817,11 +3822,11 @@
   consequences:
   - date: 1875-02-04
     body: House of Representatives
-    text: censured, 161-79
+    action: censured, 161-79
     link: https://www.govtrack.us/congress/votes/43-2/h377
   - date: 1876-05-02
     body: House of Representatives
-    text: unanimously agreed to resolution rescinding portion of censure regarding
+    action: unanimously agreed to resolution rescinding portion of censure regarding
       comments to Speaker because the former Speaker concluded Rep. Brown “did not
       in any way intend to prevaricate or deceive the House”
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
@@ -3831,10 +3836,10 @@
   consequences:
   - date: 1873-03-25
     body: Committee on Privileges and Elections
-    text: recommended no further action
+    action: recommended no further action
   - date: 1873-03-25
     body: Senate
-    text: voted to adopt committee report
+    action: voted to adopt committee report
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=230
 - person: 400815
   name: Allison
@@ -3843,7 +3848,7 @@
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
-    text: no recommendation
+    action: no recommendation
 - person: 401242
   name: Bayard
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
@@ -3851,7 +3856,7 @@
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
-    text: no recommendation
+    action: no recommendation
 - person: 401636
   name: Boutwell
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
@@ -3859,7 +3864,7 @@
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
-    text: no recommendation
+    action: no recommendation
 - person: 402755
   name: Colfax
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
@@ -3867,10 +3872,10 @@
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
-    text: no recommendation
+    action: no recommendation
   - date: 1873-02-20
     body: House of Representatives
-    text: impeachment resolution introduced
+    action: impeachment resolution introduced
   - date: 1873-03-04
     text: Term as Vice President and President of the Senate ended.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=223
@@ -3881,7 +3886,7 @@
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
-    text: recommended censure
+    action: recommended censure
   - date: 1873-03-04
     text: Term ended.
 - person: 406894
@@ -3891,7 +3896,7 @@
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
-    text: dismissed charges
+    action: dismissed charges
 - person: 402807
   name: Conkling
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
@@ -3899,7 +3904,7 @@
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
-    text: dismissed charges
+    action: dismissed charges
 - person: 411739
   name: Wilson
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
@@ -3907,17 +3912,17 @@
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
-    text: no formal recommendation, but reprimanded in report
+    action: no formal recommendation, but reprimanded in report
 - person: 408528
   name: Patterson
   allegation: corruption in Credit Mobilier stock share purchases
   consequences:
   - date: 1873-02-27
     body: Morrill Committee
-    text: unanimous recommendation of expulsion
+    action: unanimous recommendation of expulsion
   - date: 1873
     body: Senate
-    text: no action due to expiration of Patterson's term
+    action: no action due to expiration of Patterson's term
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=223
 - person: 408814
   name: Pomeroy
@@ -3925,7 +3930,7 @@
   consequences:
   - date: 1872-06-03
     body: Committee on Privileges and Elections
-    text: dismissed charges
+    action: dismissed charges
   - date: 1873-03-03
     text: Having lost re-election, Pomeroy requested another investigation and the
       special committee investigating issued majority and minority reports. However,
@@ -3949,7 +3954,7 @@
     text: Charges dismissed.
   - date: 1873-03-25
     body: Senate
-    text: accepted committe report 33-6
+    action: accepted committe report 33-6
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=204
 - person: 401838
   name: Brooks
@@ -3960,7 +3965,7 @@
     text: Special committee recommended expulsion.
   - date: 1873-02-27
     body: House of Representatives
-    text: censured, 174-32
+    action: censured, 174-32
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj07364))
 - person: 400830
   name: Ames
@@ -3974,7 +3979,7 @@
       to 42nd Congress
   - date: 1873-02-27
     body: House of Representatives
-    text: censured (“House absolutely condemns the conduct”), 182- 36
+    action: censured (“House absolutely condemns the conduct”), 182- 36
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj07364))
 - person: 402130
   name: Butler
@@ -3984,7 +3989,7 @@
     text: Comm. on Military Affairs recommended censure
   - date: 1870-03-16
     body: House of Representatives
-    text: censured, 150-0
+    action: censured, 150-0
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06970))
 - person: 403416
   name: Deweese
@@ -3997,7 +4002,7 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   - date: 1870-03-01
     body: House of Representatives
-    text: censured,170-0
+    action: censured,170-0
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06957))
 - person: 409143
   name: Revels
@@ -4018,7 +4023,7 @@
     text: Comm. on Military Affairs recommended expulsion
   - date: 1870-02-24
     body: House of Representatives
-    text: censured (“condemned”),187-0
+    action: censured (“condemned”),187-0
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06954))
   - date: 1870-06-21
     text: Resigned prior to censure, but then reelected to the same session of the
@@ -4038,7 +4043,7 @@
   consequences:
   - date: 1868-01-15
     body: House of Representatives
-    text: censured, 114-39
+    action: censured, 114-39
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06627))
 - person: 405826
   name: Hunter
@@ -4046,7 +4051,7 @@
   consequences:
   - date: 1867-01-26
     body: House of Representatives
-    text: censured, 77-33
+    action: censured, 77-33
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06436))
 - person: 409429
   name: Rousseau
@@ -4057,7 +4062,7 @@
     text: Special committee recommended expulsion.
   - date: 1866-07-17
     body: House of Representatives
-    text: censured, 89-30
+    action: censured, 89-30
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj063168))
   - date: 1866-07-21
     text: Resigned.
@@ -4071,7 +4076,7 @@
   consequences:
   - date: 1866-05-14
     body: House of Representatives
-    text: censured, 72-30
+    action: censured, 72-30
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj063116))
 - person: 406901
   name: Long
@@ -4080,7 +4085,7 @@
   consequences:
   - date: 1864-04-14
     body: House of Representatives
-    text: censured, 80- 70
+    action: censured, 80- 70
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06190))
 - person: 405110
   name: Harris
@@ -4089,7 +4094,7 @@
   consequences:
   - date: 1864-04-14
     body: House of Representatives
-    text: censured, 98-20
+    action: censured, 98-20
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06187))
 - person: 402065
   name: Burnett
@@ -4097,7 +4102,7 @@
   consequences:
   - date: 1861-12-03
     body: House of Representatives
-    text: expelled; no vote recorded
+    action: expelled; no vote recorded
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj0594))
 - person: 409126
   name: Reid
@@ -4105,7 +4110,7 @@
   consequences:
   - date: 1861-12-02
     body: House of Representatives
-    text: expelled (no vote recorded)
+    action: expelled (no vote recorded)
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj0593))
 - person: 402579
   name: Clark
@@ -4113,7 +4118,7 @@
   consequences:
   - date: 1861-07-13
     body: House of Representatives
-    text: expelled, 94-45
+    action: expelled, 94-45
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05811))
 - person: 409911
   name: Simmons
@@ -4121,8 +4126,8 @@
   consequences:
   - date: 1862-07-14
     body: Senate Committee on the Judiciary
-    text: recommended that Senate take such action as it deemed appropriate, but also
-      the charges were also all true
+    action: recommended that Senate take such action as it deemed appropriate, but
+      also the charges were also all true
   - date: 1862-08-15
     text: Resigned.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=149
@@ -4132,8 +4137,8 @@
   consequences:
   - date: 1862-02-27
     body: Senate
-    text: voted to seat him 26-19 since his public statements came before he was in
-      the Senate
+    action: voted to seat him 26-19 since his public statements came before he was
+      in the Senate
   - date: 1862-02-28
     text: Stark requested another investigation, presumably to more fully exonerate
       him
@@ -4142,18 +4147,18 @@
       the rebellion and Charles Sumner introduced a resolution to expell him.
   - date: 1862-06-06
     body: Senate
-    text: expulsion vote defeated 21-16, apparently because Stark had only a few more
-      months to serve
+    action: expulsion vote defeated 21-16, apparently because Stark had only a few
+      more months to serve
 - person: 401792
   name: Bright
   allegation: disloyalty to the Union
   consequences:
   - date: 1862-01-13
     body: Senate Committee on the Judiciary
-    text: recommended against expulsion
+    action: recommended against expulsion
   - date: 1863-02-05
     body: Senate
-    text: expelled 32-14
+    action: expelled 32-14
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=140
 - person: 406074
   name: Johnson
@@ -4161,11 +4166,11 @@
   consequences:
   - date: 1862-01-09
     body: Senate Committee on the Judiciary
-    text: recommended expulsion since he had not appeared that session and was rumored
+    action: recommended expulsion since he had not appeared that session and was rumored
       to be a Confederate officer
   - date: 1862-01-10
     body: Senate
-    text: expelled 35-0
+    action: expelled 35-0
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=138
 - person: 408804
   name: Polk
@@ -4173,11 +4178,11 @@
   consequences:
   - date: 1862-01-09
     body: Senate Committee on the Judiciary
-    text: recommended expulsion since he had not appeared that session and had written
+    action: recommended expulsion since he had not appeared that session and had written
       public letters urging Missouri to secede
   - date: 1862-01-10
     body: Senate
-    text: expelled 36-0
+    action: expelled 36-0
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=138
 - person: 408866
   name: Powell
@@ -4185,17 +4190,17 @@
   consequences:
   - date: 1862-03-12
     body: Senate Committee on the Judiciary
-    text: recommended against expulsion
+    action: recommended against expulsion
   - date: 1862-03-14
     body: Senate
-    text: expulsion defeated, 11-28
+    action: expulsion defeated, 11-28
 - person: 401746
   name: Breckinridge
   allegation: disloyalty to the union
   consequences:
   - date: 1861-12-04
     body: Senate
-    text: expelled 36-0
+    action: expelled 36-0
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=136
 - person: 407234
   name: Mason
@@ -4203,7 +4208,7 @@
   consequences:
   - date: 1861-07-11
     body: Senate
-    text: expelled 32-10
+    action: expelled 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
 - person: 405829
   name: Hunter
@@ -4211,7 +4216,7 @@
   consequences:
   - date: 1861-07-11
     body: Senate
-    text: expelled 32-10
+    action: expelled 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
 - person: 402658
   name: Clingman
@@ -4219,7 +4224,7 @@
   consequences:
   - date: 1861-07-11
     body: Senate
-    text: expelled 32-10
+    action: expelled 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
 - person: 401718
   name: Bragg
@@ -4227,7 +4232,7 @@
   consequences:
   - date: 1861-07-11
     body: Senate
-    text: expelled 32-10
+    action: expelled 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
 - person: 402487
   name: Chesnut
@@ -4235,7 +4240,7 @@
   consequences:
   - date: 1861-07-11
     body: Senate
-    text: expelled 32-10
+    action: expelled 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
 - person: 408181
   name: Nicholson
@@ -4243,7 +4248,7 @@
   consequences:
   - date: 1861-07-11
     body: Senate
-    text: expelled 32-10
+    action: expelled 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
 - person: 409721
   name: Sebastian
@@ -4251,7 +4256,7 @@
   consequences:
   - date: 1861-07-11
     body: Senate
-    text: expelled 32-10
+    action: expelled 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
 - person: 407777
   name: Mitchel
@@ -4259,7 +4264,7 @@
   consequences:
   - date: 1861-07-11
     body: Senate
-    text: expelled 32-10
+    action: expelled 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
 - person: 405331
   name: Hemphill
@@ -4267,7 +4272,7 @@
   consequences:
   - date: 1861-07-11
     body: Senate
-    text: expelled 32-10
+    action: expelled 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
 - person: 411604
   name: Wigfall
@@ -4275,7 +4280,7 @@
   consequences:
   - date: 1861-07-11
     body: Senate
-    text: expelled 32-10
+    action: expelled 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
 - person: 402618
   name: Clay
@@ -4283,7 +4288,7 @@
   consequences:
   - date: 1861-03-04
     body: Senate
-    text: voted to pronounce his seat vacant after he withdrew from the Senate in
+    action: voted to pronounce his seat vacant after he withdrew from the Senate in
       the wake of Secession
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123
 - person: 410886
@@ -4292,7 +4297,7 @@
   consequences:
   - date: 1861-03-04
     body: Senate
-    text: voted to pronounce his seat vacant after he withdrew from the Senate in
+    action: voted to pronounce his seat vacant after he withdrew from the Senate in
       the wake of Secession
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123
 - person: 403249
@@ -4301,7 +4306,7 @@
   consequences:
   - date: 1861-03-04
     body: Senate
-    text: voted to pronounce his seat vacant after he withdrew from the Senate in
+    action: voted to pronounce his seat vacant after he withdrew from the Senate in
       the wake of Secession
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123
 - person: 401857
@@ -4310,7 +4315,7 @@
   consequences:
   - date: 1861-03-04
     body: Senate
-    text: voted to pronounce his seat vacant after he withdrew from the Senate in
+    action: voted to pronounce his seat vacant after he withdrew from the Senate in
       the wake of Secession
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123
 - person: 412161
@@ -4319,7 +4324,7 @@
   consequences:
   - date: 1861-03-04
     body: Senate
-    text: voted to pronounce his seat vacant after he withdrew from the Senate in
+    action: voted to pronounce his seat vacant after he withdrew from the Senate in
       the wake of Secession
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123
 - person: 401357
@@ -4328,7 +4333,7 @@
   consequences:
   - date: 1861-03-04
     body: Senate
-    text: voted to pronounce his seat vacant after he withdrew from the Senate in
+    action: voted to pronounce his seat vacant after he withdrew from the Senate in
       the wake of Secession
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123
 - person: 409174
@@ -4337,8 +4342,8 @@
   consequences:
   - date: 1858-06-09
     body: Committee on Military Affairs and the Militia
-    text: reported that while he did charge more for land he sold as agent than was
-      recorded on receipts, that this was not disqualifying and no further action
+    action: reported that while he did charge more for land he sold as agent than
+      was recorded on receipts, that this was not disqualifying and no further action
       was taken
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=118
 - person: 407269
@@ -4359,7 +4364,7 @@
     text: Cameron asked for a Judiciary Committee investigation
   - date: 1857-03-13
     body: Senate Committee on the Judiciary
-    text: dismissed charges
+    action: dismissed charges
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=114
 - person: 403762
   name: Edwards
@@ -4370,7 +4375,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05363))
   - date: 1857-02-28
     body: House of Representatives
-    text: expulsion resolution tabled after resignation
+    action: expulsion resolution tabled after resignation
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))
 - person: 407269
   name: Matteson
@@ -4383,7 +4388,7 @@
     link: https://digital.library.unt.edu/ark:/67531/metadc30796/m1/280/?q=expulsion
   - date: 1857-02-27
     body: House of Representatives
-    text: censured, 145-17; expulsion resolution tabled
+    action: censured, 145-17; expulsion resolution tabled
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))
   - date: 1857-02-27
     text: Resigned prior to House action; reelected later in 1857.
@@ -4396,7 +4401,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05363))
   - date: 1857-02-28
     body: House of Representatives
-    text: expulsion resolution tabled after resignation
+    action: expulsion resolution tabled after resignation
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))
 - person: 411434
   name: Welch
@@ -4407,7 +4412,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05363))
   - date: 1857-02-28
     body: House of Representatives
-    text: found insufficient evidence to expel, 119-42
+    action: found insufficient evidence to expel, 119-42
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))
 - person: 406224
   name: Keitt
@@ -4418,7 +4423,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05222))
   - date: 1856-07-15
     body: House of Representatives
-    text: censured 106-96
+    action: censured 106-96
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05255))
   - date: 1856-07-16
     text: Resigned after vote
@@ -4433,7 +4438,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05222))
   - date: 1856-07-15
     body: House of Representatives
-    text: censure resolution failed, 60-136
+    action: censure resolution failed, 60-136
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05255))
 - person: 401842
   name: Brooks
@@ -4445,7 +4450,7 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05222))
   - date: 1856-07-14
     body: House of Representatives
-    text: failed to pass expulsion resolution, 121-95
+    action: failed to pass expulsion resolution, 121-95
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05254))
   - date: 1856-07-15
     text: Resigned after expulsion vote.
@@ -4461,7 +4466,7 @@
   consequences:
   - date: 1856-05-15
     body: House of Representatives
-    text: resolution to refer the case to Judiciary Committee tabled, 79-70
+    action: resolution to refer the case to Judiciary Committee tabled, 79-70
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05211))
   - date: 1856-07
     text: Acquitted.
@@ -4492,7 +4497,7 @@
   consequences:
   - date: 1849-03-15
     body: Senate
-    text: declared the election void based on the committee's recommendation since
+    action: declared the election void based on the committee's recommendation since
       Shields was six months short of the required period for residency and naturalization
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=88
 - person: 402633
@@ -4535,7 +4540,7 @@
       a resolution for expulsion.
   - date: 1844-08-10
     body: Senate
-    text: adopted a substitute resolution of censure 38-7
+    action: adopted a substitute resolution of censure 38-7
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=81
 - person: 404534
   name: Giddings
@@ -4545,7 +4550,7 @@
   consequences:
   - date: 1842-03-22
     body: House of Representatives
-    text: censured, 125-69
+    action: censured, 125-69
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj03788))
   - date: 1842-03-22
     text: Resigned.
@@ -4561,7 +4566,7 @@
   consequences:
   - date: 1842-02-07
     body: House of Representatives
-    text: tabled censure resolution, 106-93
+    action: tabled censure resolution, 106-93
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj03751))
 - person: 403637
   name: Duncan
@@ -4570,7 +4575,7 @@
   consequences:
   - date: 1839-02-22
     body: House of Representatives
-    text: tabled censure resolution
+    action: tabled censure resolution
     link: https://digital.library.unt.edu/ark:/67531/metadc29275/m1/218/?q=duncan
 - person: 409461
   name: Ruggles
@@ -4582,7 +4587,7 @@
       the charges should be dismissed
   - date: 1838-04-25
     body: Senate
-    text: agreed with committtee
+    action: agreed with committtee
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=76
 - person: 404742
   name: Graves
@@ -4592,10 +4597,10 @@
   consequences:
   - date: 1838-04-21
     body: Select Committee of Investigation
-    text: recommended expulsion for Graves and censure for Wise
+    action: recommended expulsion for Graves and censure for Wise
   - date: 1838-05-10
     body: House of Representatives
-    text: expulsion resolution tabled
+    action: expulsion resolution tabled
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj032126))
 - person: 411803
   name: Wise
@@ -4605,10 +4610,10 @@
   consequences:
   - date: 1838-04-21
     body: Select Committee of Investigation
-    text: recommended expulsion for Graves and censure for Wise
+    action: recommended expulsion for Graves and censure for Wise
   - date: 1838-05-10
     body: House of Representatives
-    text: censure resolution tabled
+    action: censure resolution tabled
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj032126))
 - person: 400702
   name: Adams
@@ -4619,7 +4624,7 @@
   consequences:
   - date: 1837-02-09
     body: House of Representatives
-    text: censure withdrawn, 21-137
+    action: censure withdrawn, 21-137
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj029206))
 - person: 411692
   name: Williams
@@ -4629,7 +4634,7 @@
   consequences:
   - date: 1836-07-04
     body: House of Representatives
-    text: informally censured, then censure revoked
+    action: informally censured, then censure revoked
     link: https://digital.library.unt.edu/ark:/67531/metadc30905/m1/660/?q=williams
 - person: 408795
   name: Poindexter
@@ -4637,11 +4642,11 @@
   consequences:
   - date: 1835-02-23
     body: Senate
-    text: Poindexter requested an investigation, and if the charges were proved, to
-      be expelled from the Senate
+    action: Poindexter requested an investigation, and if the charges were proved,
+      to be expelled from the Senate
   - date: 1835-03-02
     body: Senate
-    text: voted 41-0 to accept the committee's recommendation to dismiss charges
+    action: voted 41-0 to accept the committee's recommendation to dismiss charges
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=72
 - person: 400702
   name: Adams
@@ -4651,7 +4656,7 @@
   consequences:
   - date: 1832-07-12
     body: House of Representatives
-    text: censure resolution tabled, 89-63
+    action: censure resolution tabled, 89-63
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj025176))
 - person: 410254
   name: Stanbery
@@ -4660,7 +4665,7 @@
   consequences:
   - date: 1832-07-11
     body: House of Representatives
-    text: censured, 92- 44
+    action: censured, 92- 44
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj025175))
 - person: 401224
   name: Bateman
@@ -4669,7 +4674,7 @@
   consequences:
   - date: 1828-05-22
     body: Senate
-    text: committee recommended no further action and the Senate agreed
+    action: committee recommended no further action and the Senate agreed
   - date: 1829-01-12
     text: Resigned due to ill health and died on the 28th.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=67
@@ -4680,10 +4685,10 @@
   consequences:
   - date: 1810-12-31
     body: Senate
-    text: resolution of censure introduced
+    action: resolution of censure introduced
   - date: 1811-01-02
     body: Senate
-    text: censured, 20-7
+    action: censured, 20-7
   - date: 1811
     text: Lost election.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=60
@@ -4697,7 +4702,7 @@
       any specific action.
   - date: 1808-04-09
     body: Senate
-    text: expulsion failed 19-10 (one vote short of the 2/3 majority needed)
+    action: expulsion failed 19-10 (one vote short of the 2/3 majority needed)
   - date: 1808-04-25
     text: Resigned.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=52
@@ -4709,7 +4714,7 @@
   consequences:
   - date: 1799-02-22
     body: House of Representatives
-    text: expulsion resolution failed, 49-45
+    action: expulsion resolution failed, 49-45
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003301))
   - date: 1799
     text: Reelected after conviction and while still in jail
@@ -4726,15 +4731,15 @@
     text: Committee reported a recommendation that Blount be expelled.
   - date: 1797-07-08
     body: House of Representatives
-    text: demanded that the Senate suspend Blount from his seat and guarantee his
+    action: demanded that the Senate suspend Blount from his seat and guarantee his
       appearance at an impeachment trial
   - date: 1797-07-08
     body: Senate
-    text: expelled 25-1 and ordered to appear on July 10 for impeachment, which he
-      promised to do and did not
+    action: expelled 25-1 and ordered to appear on July 10 for impeachment, which
+      he promised to do and did not
   - date: 1798-12-17
     body: Senate
-    text: impeachment trial in the Senate and in absentia; resolution that he was
+    action: impeachment trial in the Senate and in absentia; resolution that he was
       impeachable failed
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=47
 - person: 407029
@@ -4743,14 +4748,14 @@
   consequences:
   - date: 1798-02-02
     body: Committee on Privileges
-    text: recommended expulsion
+    action: recommended expulsion
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003114))
   - date: 1798-02-01
     text: Letter of apology.
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003113))
   - date: 1798-02-12
     body: House of Representatives
-    text: censure failed, 44-52; expulsion failed 52-44
+    action: censure failed, 44-52; expulsion failed 52-44
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003120))
 - person: 404833
   name: Griswold
@@ -4764,10 +4769,10 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003124))
   - date: 1798-02-20
     body: Committee on Privileges
-    text: recommended against expulsion
+    action: recommended against expulsion
   - date: 1798-02-23
     body: House of Representatives
-    text: motion to censure both members failed, 47-48
+    action: motion to censure both members failed, 47-48
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003129))
 - person: 407029
   name: Lyon
@@ -4781,10 +4786,10 @@
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003124))
   - date: 1798-02-20
     body: Committee on Privileges
-    text: recommended against expulsion
+    action: recommended against expulsion
   - date: 1798-02-23
     body: House of Representatives
-    text: motion to censure both members failed, 47-48
+    action: motion to censure both members failed, 47-48
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003129))
 - person: 407176
   name: Marshall
@@ -4796,5 +4801,5 @@
       there was nothing to investigate and the Senate should take no further action.
   - date: 1796-03-22
     body: Senate
-    text: voted 16-7 to investigate no further
+    action: voted 16-7 to investigate no further
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=42
