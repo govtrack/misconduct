@@ -45,7 +45,7 @@
     which was effective January 2, 2018.
   allegation: sexual harassment
   consequences:
-  - date: ~
+  - date: 2017-11-30
     body: Senate Select Committee on Ethics
     action: began investigating Senator Franken
     link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=A7DC53D9-3BB6-4C9C-81A9-EA983132193E
@@ -85,11 +85,11 @@
     from prison.
   allegation: bribery
   consequences:
-  - date: '2009'
+  - date: 2009
     text: Convicted.
-  - date: '2012'
+  - date: 2012
     text: Sentenced to 13 years in prison.
-  - date: '2017'
+  - date: 2017
     text: 7 of the 10 indictments were dismissed and he was released from prison.
 - person: 412563
   name: Chris Collins
@@ -197,7 +197,7 @@
     before he was elected to Congress.
   allegation: assaulting a reporter in 2017 the night before he was elected to Congress
   consequences:
-  - date: '2017'
+  - date: 2017
     text: Pleaded guilty.
 - person: 400297
   name: Devin Nunes
@@ -280,7 +280,7 @@
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-14
-  - date: '2016'
+  - date: 2016
     text: Honda reelection.
 - person: 400048
   name: Corrine Brown
@@ -297,9 +297,9 @@
     body: House Committee on Ethics
     action: has deferred to the Department of Justice
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-15
-  - date: '2016'
+  - date: 2016
     text: Brown lost in the primary.
-  - date: '2017'
+  - date: 2017
     text: '[Convicted of the charges against her](https://en.wikipedia.org/wiki/Corrine_Brown#Political_controversies)
       and sentenced to five years in prison.'
 - person: 412487
@@ -379,7 +379,7 @@
     body: House Committee on Ethics
     action: ended the investigation when Fattah resigned
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-chak-0
-  - date: '2016'
+  - date: 2016
     text: Fattah resigned in 2016, two days after being convicted of the charges.
 - person: 400169
   name: Dennis “Denny” Hastert
@@ -388,11 +388,11 @@
     2015, served 13 months in prison and was released in 2017.
   allegation: child molestation
   consequences:
-  - date: '2006'
+  - date: 2006
     text: Hastert did not seek reelection.
-  - date: '2015'
+  - date: 2015
     text: Indicted.
-  - date: '2016'
+  - date: 2016
     text: Pleaded guilty, served 13 months in prison.
 - person: 412308
   name: Jared Polis
@@ -446,7 +446,7 @@
     action: recommended further review, but to postphone that review until the lawsuit
       was resolved
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-blake
-  - date: '2015'
+  - date: 2015
     text: The [lawsuit was resolved](http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court)
       with a [taxpayer-funded settlement](https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458)
       that was revealed in 2017.
@@ -615,7 +615,7 @@
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
     link: https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt239/pdf/CRPT-114hrpt239.pdf
-  - date: '2016'
+  - date: 2016
     text: Hinojosa did not seek reelection.
 - person: 412314
   name: Aaron Schock
@@ -633,7 +633,7 @@
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-aaro-0
-  - date: '2015'
+  - date: 2015
     text: Schock resigned.
 - person: 412252
   name: Paul C. Broun
@@ -649,7 +649,7 @@
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-paul-0
-  - date: '2014'
+  - date: 2014
     text: Broun lost reelection.
 - person: 412216
   name: Michele Bachmann
@@ -665,7 +665,7 @@
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-6
-  - date: '2014'
+  - date: 2014
     text: Bachmann did not seek reelection.
 - person: 400031
   name: Timothy H. Bishop
@@ -683,7 +683,7 @@
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tim-1
-  - date: '2014'
+  - date: 2014
     text: Bishop lost reelection.
 - person: 400318
   name: Thomas E. Petri
@@ -734,7 +734,7 @@
     action: concluded that Gingrey did advocate for banks in which he had a financial
       interest and issued a letter of reproval
     link: https://ethics.house.gov/sites/ethics.house.gov/files/In%20the%20Matter%20of%20Allegations%20Relating%20to%20Representative%20Phil%20Gingrey_0.pdf
-  - date: '2014'
+  - date: 2014
     text: Gingrey lost the primary for one of Georgia's Senate seats.
 - person: 412379
   name: Judy Chu
@@ -773,9 +773,9 @@
     body: House Committee on Ethics
     action: deferred to the Department of Justice
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-12
-  - date: '2014'
+  - date: 2014
     text: Grimm pleaded guilty to tax evasion.
-  - date: '2015'
+  - date: 2015
     text: Resigned and served seven months in prison.
 - person: 400350
   name: Bobby L. Rush
@@ -832,7 +832,7 @@
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-stev-0
-  - date: '2014'
+  - date: 2014
     text: Stockman lost the Senate primary and did not win reelection to his House
       seat.
 - person: 400163
@@ -906,7 +906,7 @@
     body: House Committee on Ethics
     action: established an independent subcommittee
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-robe-1
-  - date: '2014'
+  - date: 2014
     text: Andrews resigned from Congress.
 - person: 412528
   name: Trey Radel
@@ -915,7 +915,7 @@
     In 2014, [Radel was sentenced to probation, which he served](http://www.news-press.com/story/news/2014/10/30/ex-congressman-trey-radels-record-cleared/18218925/).
   allegation: possession of cocaine
   consequences:
-  - date: '2013'
+  - date: 2013
     text: Pleaded guilty.
   - body: House Office of Congressional Ethics
     action: resolved
@@ -923,7 +923,7 @@
     body: House Committee on Ethics
     action: ended the investigation when Radel resigned
     link: https://ethics.house.gov/press-release/statement-regarding-investigative-subcommittee-matter-representative-henry-j-%E2%80%9Ctrey%E2%80%9D
-  - date: '2014'
+  - date: 2014
     text: '[Radel was sentenced to probation, which he served](http://www.news-press.com/story/news/2014/10/30/ex-congressman-trey-radels-record-cleared/18218925/).'
 - person: 412202
   name: Peter J. Roskam
@@ -980,10 +980,10 @@
     action: concluded that there was insufficient evidence to show that the funds
       were income and not gifts and that no further action was needed
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-john-0
-  - date: '2010'
+  - date: 2010
     text: Tierney's wife [pleaded guilty to tax evasion also related to her brother's
       income](http://www.sandiegouniontribune.com/sdut-rep-tierneys-wife-to-plead-guilty-to-tax-charges-2010oct05-story.html).
-  - date: '2014'
+  - date: 2014
     text: Tierney was defeated in the Democratic primary.
 - person: 400337
   name: Silvestre Reyes
@@ -999,7 +999,7 @@
     body: House Committee on Ethics
     action: published the OCE findings
     link: https://ethics.house.gov/press-release/statement-ot-chairman-and-ranking-member-committee-ethics-regarding-representative
-  - date: '2012'
+  - date: 2012
     text: Reyes lost reelection.
 - person: 400024
   name: Shelley Berkley
@@ -1018,7 +1018,7 @@
     action: found that the representative had indeed advocated for some programs in
       which she had a financial interest
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-4
-  - date: '2012'
+  - date: 2012
     text: Berkley lost reelection.
 - person: 400271
   name: Gregory W. Meeks
@@ -1065,9 +1065,9 @@
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jess-0
-  - date: '2012'
+  - date: 2012
     text: Resigned from Congress.
-  - date: '2013'
+  - date: 2013
     text: Jackson pleaded guilty to [misuse of campaign funds](http://www.nytimes.com/2013/02/21/us/politics/jesse-l-jackson-jr-pleads-guilty-to-wire-and-mail-fraud.html?partner=rss&emc=rss&smid=tw-nytimes&_r=0).
 - person: 400422
   name: Maxine Waters
@@ -1119,7 +1119,7 @@
   allegation: meeting with a lobbyist before the one year embargo on former Congressional
     staffers' lobbying expired
   consequences:
-  - date: '2012'
+  - date: 2012
     text: Received a qualified admonishment.
   - body: House Office of Congressional Ethics
     action: resolved
@@ -1148,7 +1148,7 @@
     action: dismissed the charges because there did not appear to be any Senate rule
       or any law in place prohibiting Vitter's actions
     link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=BA27F460-6CF2-4330-9455-84CF04C8B8E7
-  - date: '2014'
+  - date: 2014
     text: Vitter lost the election for Louisiana Governor and did not run again for
       the Senate.
 - person: 400440
@@ -1206,7 +1206,7 @@
       was unaware of this, but that the committee would be satisfied if the representative
       properly disclosed and paid for the services
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-regarding-representative-jean-schmidt
-  - date: '2012'
+  - date: 2012
     text: Schmidt lost reelection. When she left office, [she had not paid for those
       services](https://en.wikipedia.org/wiki/Jean_Schmidt#Legal_Expense_Fund).
 - person: 412299
@@ -1302,7 +1302,7 @@
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-member-regarding-representatives-john-campbell
-  - date: '2014'
+  - date: 2014
     text: Campell announced he would not seek reelection.
 - person: 400616
   name: G. K. Butterfield
@@ -1350,7 +1350,7 @@
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives
-  - date: '2012'
+  - date: 2012
     text: Ortiz lost reelection.
 - person: 400433
   name: Joe Wilson
@@ -1413,7 +1413,7 @@
   - date: 2010-12-02
     body: House of Representatives
     action: The House [voted to censure Rangel on December 2, 2010 by 333-79](http://www.nytimes.com/2010/12/03/nyregion/03rangel.html).
-  - date: '2016'
+  - date: 2016
     text: Rangel did not seek reelection.
 - person: 412253
   name: Laura Richardson
@@ -1434,7 +1434,7 @@
     action: concluded that Representative Richardson did not knowingly receive and/or
       fail to disclose gifts with respect to her home, its foreclosure or yard work
     link: https://ethics.house.gov/committee-report/matter-representative-laura-richardson
-  - date: '2012'
+  - date: 2012
     text: Richardson lost reelection.
 - person: 400099
   name: Nathan Deal
@@ -1468,7 +1468,7 @@
     action: concluded Representative Christensen did not knowingly accept impermissble
       travel gifts
     link: https://ethics.house.gov/committee-report/matter-carib-news-foundation
-  - date: '2014'
+  - date: 2014
     text: Christensen did not seek reelection.
 - person: 400217
   name: Carolyn Kilpatrick
@@ -1486,7 +1486,7 @@
     action: concluded Representative Kilpatrick did not knowingly accept impermissble
       travel gifts
     link: https://ethics.house.gov/committee-report/matter-carib-news-foundation
-  - date: '2010'
+  - date: 2010
     text: Kilpatrick lost the Democratic primary.
 - person: 400312
   name: Donald Payne
@@ -1547,7 +1547,7 @@
     body: House Committee on Ethics
     action: dismissed the charges
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
-  - date: '2010'
+  - date: 2010
     text: Tiahrt ran for the Senate and lost.
 - person: 400417
   name: Peter J. Visclosky
@@ -1577,7 +1577,7 @@
     body: House Committee on Ethics
     action: dismissed the charges on the OCE's recommendation
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
-  - date: '2012'
+  - date: 2012
     text: Dicks did not seek reelection.
 - person: 400211
   name: Marcy Kaptur
@@ -1606,7 +1606,7 @@
     body: House Committee on Ethics
     action: dismissed the charges on the OCE's recommendation
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
-  - date: '2014'
+  - date: 2014
     text: Moran announced he would not seek reelection.
 - person: 400286
   name: John Murtha
@@ -1656,7 +1656,7 @@
     action: dismissed the charges as Representative Stark neither sought credits improperly
       nor did he receive them
     link: https://ethics.house.gov/committee-report/matter-representative-fortney-pete-stark
-  - date: '2012'
+  - date: 2012
     text: Stark announced his retirement from Congress.
 - person: 412328
   name: Roland Burris
@@ -1711,7 +1711,7 @@
     action: dismssed the charges because the loans were not part of a program specifically
       benefiting senators
     link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=EFD5E787-06EC-4B18-A249-5F0C1F7CC995
-  - date: '2012'
+  - date: 2012
     text: Conrad did not run for reelection.
 - person: 300034
   name: Christopher Dodd
@@ -1730,7 +1730,7 @@
     action: dismssed the charges because the loans were not part of a program specifically
       benefiting senators
     link: https://www.ethics.senate.gov/public/index.cfm/letterstomembers?ID=9A93B548-9849-45B1-944B-C224F9A8DF85
-  - date: '2010'
+  - date: 2010
     text: Dodd did not run for reelection.
 - person: 400336
   name: Rick Renzi
@@ -1740,7 +1740,7 @@
     convicted and sentenced to serve three years in prison.
   allegation: personal gain in a land swap deal
   consequences:
-  - date: '2013'
+  - date: 2013
     text: Convicted.
   - body: House Office of Congressional Ethics
     action: resolved
@@ -1748,9 +1748,9 @@
     body: House Committee on Ethics
     action: deferred to the Department of Justice
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Press%20Statement%20Renzi.pdf
-  - date: '2008'
+  - date: 2008
     text: Renzi did not run for reelection.
-  - date: '2013'
+  - date: 2013
     text: Renzi was convicted and sentenced to serve three years in prison.
 - person: 400418
   name: David Vitter
@@ -1768,7 +1768,7 @@
     action: dismissed the charges because the solicitation happened before his Senate
       term, did not involve public funds and did not result in criminal charges
     link: https://www.ethics.senate.gov/public/index.cfm/letterstomembers?ID=4609ED24-76A6-40DD-AF03-33131E8A284C
-  - date: '2014'
+  - date: 2014
     text: Vitter lost the election for Louisiana Governor and did not run again for
       the Senate.
 - person: 300036
@@ -1788,7 +1788,7 @@
     action: issued a qualified admonishment because while they found no evidence of
       wrongdoing, the senator should have known how it would look
     link: https://www.ethics.senate.gov/public/index.cfm/letterstomembers?ID=2AC523B2-7968-4C2F-8221-D6F21187B6E4
-  - date: '2007'
+  - date: 2007
     text: Senator Domenici announced he would retire from the Senate in 2008 at the
       end of his term.
 - person: 300029
@@ -1806,13 +1806,13 @@
     to pay legal expenses stemming from an arrest and guilty plea on disorderly conduct
     at the Minneapolis-St. Paul airport
   consequences:
-  - date: '2007'
+  - date: 2007
     text: Pleaded guilty.
   - date: 2008-02-13
     body: Senate Select Committee on Ethics
     action: admonished the senator on both counts
     link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=ED41D9EA-3E36-4D89-9FAC-8CABA610D07A
-  - date: '2007'
+  - date: 2007
     text: Senator Craig was arrested for lewd conduct pleaded to disorderly conduct
       and subsequently attempted to withdraw his guilty plea. He retired at the end
       of his term in 2008 and [as of 2016](https://en.wikipedia.org/wiki/Larry_Craig#2007_arrest_and_consequences)
@@ -1825,11 +1825,11 @@
     in 2010.
   allegation: making false statements
   consequences:
-  - date: '2008'
+  - date: 2008
     text: Stevens was convicted and lost reelection.
-  - date: '2009'
+  - date: 2009
     text: Prior to sentencing in 2009, the indictment was dismissed.
-  - date: '2010'
+  - date: 2010
     text: Stevens died.
 - person: 400293
   name: Ney
