@@ -60,12 +60,14 @@ Each consequence has its own fields. There are two forms for a consequence.
 
 The first form has `date`, `body`, `action`, and `link` fields. `body` is the
 name of a government body that took an action, such as the House Office of
-Congressional Ethics. `action` is a sentence fragment (a verb phrase) that
-has the action the body took --- `action` should complete the sentence that
-starts with `body`.
+Congressional Ethics. `action` is a sentence fragment that has the action the
+body took --- `action` should complete the sentence that starts with `body`, so
+`action` normally starts with a lowercase letter, and it should not end with a
+period.
 
 The second form has `date`, `text`, and `link` fields. `text` is a full sentence
-describing an event relevant to the misconduct.
+or a fragment starting with the verb (in any case, starting with a capital letter
+and ending with a period) describing an event relevant to the misconduct.
 
 Because some dates are unknown or actions may have ocurred over a time period
 greater than a date, `date` may be either a year alone `YYYY`, a year and month
