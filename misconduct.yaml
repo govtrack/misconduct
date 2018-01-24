@@ -1,3 +1,11 @@
+- person: 400047
+  name: Brady
+  allegation: leading a criminal conspiracy to hide a $90,000 payment made to persuade a 2012 primary opponent to drop out of the race
+  consequences:
+  - date: 2017-11-01
+    body: Federal Bureau of Investigation
+    action: Search warrant for email issued.
+    link: http://www.philly.com/philly/news/pennsylvania/philadelphia/bob-brady-search-warrant-emails-campaign-payoff-probe-20171121.html
 - person: 412466
   name: Meehan
   text: While serving on the House Committee on Ethics, Meehan used taxpayer funds
@@ -7,8 +15,12 @@
   consequences:
   - date: 2018-01-20
     body: House of Representatives
-    action: removed Meehan from his position on the House Committee on Ethics
+    action: Removed Meehan from his position on the House Committee on Ethics
     link: https://www.nytimes.com/2018/01/20/us/politics/patrick-meehan-sexual-harassment.html
+  - date: 2018-01-22
+    body: House Committee on Ethics
+    action: announced it has begun an investigation
+    link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-12
 - person: 412716
   name: Ruben Kihuen
   text: On Dec. 15, 2017, the House Committee on Ethics announced that it had begun
@@ -78,6 +90,24 @@
     action: reopened its investigation after Menendez's corruption and bribery case
       ended in a mistrial
     link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=686EB556-1D6D-4B2F-AB19-9DFA579C1699
+- person: 400426
+  name: Weiner
+  allegation: sending sexually explicit texts to women who were not his wife
+  consequences:
+  - date: 2011-06-21
+    text: Resigned
+    link: http://content.usatoday.com/communities/onpolitics/post/2011/06/anthony-weiner-resignation-sex-scandal-/1#.WmekVpM-f1I
+  - date: 2016-09-21
+    text: a newspaper article claimed Weiner had sent explicit text messages to a 15 year old girl and computers were seized as part of the investigation into the incident
+    link: http://www.dailymail.co.uk/news/article-3790824/Anthony-Weiner-carried-months-long-online-sexual-relationship-troubled-15-year-old-girl-telling-hard-asking-dress-school-girl-outfits-pressing-engage-rape-fantasies.html#ixzz4Ku1mvPVL
+  - date: 2016-10-28
+    action: The Director of the FBI, James Comey, publicly reopened his investigation into presidential candidate Hillary Rodham Clinton because the computer seized as part of the Weiner investigation contained some emails that might have been relevant to a prior investigation into Clinton.
+    link: https://www.nytimes.com/2016/10/29/us/politics/fbi-hillary-clinton-email.html
+  - date: 2017-05-19
+    action: Surrendered to the FBI and pleaded guilty to a single charge of transferring obscene materials to a minor.
+    link: https://www.nytimes.com/2017/05/19/nyregion/anthony-weiner-guilty-plea-sexting.html
+  - date: 2017-11-06
+    text: Sentenced to 21 months in prison
 - person: 400201
   name: William Jefferson
   text: In 2009 Jefferson was convicted of bribery. In 2012, he was sentenced to 13
@@ -2058,6 +2088,16 @@
     body: House Committee on Standards of Official Conduct
     action: issued a report finding Smith's behavior inappropriate
     link: https://ethics.house.gov/sites/ethics.house.gov/files/2006_Medicare.pdf
+- person: 400200
+  name: Janklow
+  allegation: on August 16, 2003, of committing vehicular manslaughter
+  consequences:
+  - date: 2003-12-08
+    action: Convicted
+    link: https://en.wikipedia.org/wiki/Bill_Janklow#Vehicular_manslaughter
+  - date: 2004-01-20
+    action: Resigned
+    link: http://news.minnesota.publicradio.org/features/2003/12/08_hetlandc_janklow/
 - person: 300156
   name: Torricelli
   allegation: violating Senate gift rules and creating the appearance of impropriety
@@ -3252,6 +3292,15 @@
   - date: 1982-03-11
     text: Resigned to avoid an expulsion vote.
     link: https://www.senate.gov/artandhistory/history/common/expulsion_cases/140HarrisonWilliams_expulsion.htm
+- person: 405496
+  name: Hinson
+  allegation: arrested for engaging in sexual activity with a member of the same sex, then illegal in Washington, D.C.
+  - date: 1981-04-13
+    action: Resigned
+    link: http://www.nytimes.com/1981/05/29/us/around-the-nation-hinson-pleads-no-contest-to-oral-sodomy-charge.html
+  - date: 1981-05-28
+    action: Pleaded no contest to charges of "attempted oral sodomy" in a House office building restroom.
+    link: http://www.nytimes.com/1981/05/29/us/around-the-nation-hinson-pleads-no-contest-to-oral-sodomy-charge.html
 - person: 406247
   name: Kelly
   allegation: bribery and conspiracy in the ABSCAM investigation
@@ -3556,6 +3605,27 @@
   - date: 1976-09-01
     text: Resigned prior to hearings.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+- person: 402037
+  name: Burke
+  allegation: on May 27, 1978, drunk and disorderly and resisting arrest at the Centerfold Bar in Dania, FL
+  consequences:
+  - date: '1978'
+    action: Pleaded guilty and lost bid for re-election
+    link: https://www.washingtonpost.com/archive/local/1993/06/18/j-herbert-burke-dies/d49b3e2e-208a-4eae-856f-f4e25e48a9f8/?utm_term=.55f18b71be87
+- person: 410883
+  name: Tonry
+  allegation: stuffing ballot boxes and illegal campaign contributions in the primary election
+  consequences:
+  - date: 1977-02-02
+    body: House Committee on Administration
+    action: investigated charges
+    link: https://www.washingtonpost.com/archive/politics/1977/02/02/new-congressmans-seat-imperiled-by-vote-fraud-charges/cee21a73-44ae-4e59-8f77-602cb552cc03/?utm_term=.dc0a04fba771
+  - date: 1977-05-05
+    action: Resigned
+    link: http://www.nytimes.com/1977/05/05/archives/rep-tonry-figure-in-vote-fraud-resigns-but-vows-to-run-again.html
+  - date: 19777-06-27
+    text: defeated in special election primary held to fill the vacancy he created with his resignation
+    link: https://www.washingtonpost.com/archive/politics/1977/06/27/dispute-is-political-downfall-of-tonry-moreau-in-election/709fa458-dec0-4ab1-ac1f-378545fe607d/?utm_term=.55cbdfdb6539
 - person: 409900
   name: Sikes
   allegation: improper financial disclosure [R. 44] and conflict of interest
@@ -3605,6 +3675,8 @@
     voting](https://www.govtrack.us/congress/votes/94-1975/h82). In 1972, declined
     to run for re-election.
   consequences:
+  - date: 1972
+    text: Declined to run for re-election.
   - date: 1975-03-12
     body: House Committee on Standards of Official Conduct
     action: unanimously adopted H. Res. 46
@@ -3615,8 +3687,47 @@
       stating policy of House that member convicted of a serious crime voluntarily
       refrain from voting
     link: https://www.govtrack.us/congress/votes/94-1975/h82
-  - date: 1972
-    text: Declined to run for re-election.
+- person: 401730
+  name: Brasco
+  allegation: bribery to get a Post Office contract for a Mafia-controlled truck company
+  consequences:
+  - date: 1974-07-19
+    action: Convicted and did not run for re-election
+    link: http://www.nytimes.com/1974/07/20/archives/rep-brasco-guilty-of-bribery-conspiracy-brasco-convicted-of-bribery.html
+- person: 408792
+  name: Podell
+  allegation: bribery
+  consequences:
+  - date: '1974'
+    text: defeated in election after indictment
+    link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=P000399
+  - date: 1974-10-01
+    action: Pleaded guilty to conspiracy and conflict of interest
+    link: http://www.nytimes.com/1974/10/02/archives/podell-enters-guilty-plea-ending-conspiracy-trial-brooklyn.html
+- person: 404393
+  name: Gallagher
+  allegation: tax evasion and perjury
+  consequences:
+  - date: '1972'
+    text: Defeated in primary
+    link: http://www.nytimes.com/1973/06/16/archives/gallagher-gets-2-years-and-10000-fine-gallagher-gets-2year-sentence.html
+  - date: 1973-06-15
+    action: Pleaded guilty and sentenced to two years in prison and a $10,000 fine
+    link: http://www.nytimes.com/1973/06/16/archives/gallagher-gets-2-years-and-10000-fine-gallagher-gets-2year-sentence.html
+- person: 411482
+  name: Whalley
+  allegation: taking kickbacks from congressional employees for personal use
+  consequences:
+  - date: '1973'
+    action: Resigned from Congress and pleaded guilty to obstruction of justice and mail fraud.
+    link: https://www.washingtonpost.com/archive/local/1980/03/12/john-irving-whalley-77-ex-gop-representative/f0499117-f35e-480f-8546-a305203a3b15/?utm_term=.6859dca0c422
+- person: 300059
+  name: Kennedy
+  allegation: on July 18, 1969, leaving the scene of an accident after driving a car into the Poucha Pond inlet while his passenger Mary Jo Kopechne drowned
+  consequences:
+  - date: 1969-07-25
+    action: Pleaded guilty and received a suspended sentence
+    link: http://query.nytimes.com/gst/abstract.html?res=9506E5DD133CE73BBC4E51DFB1668382679EDE&legacy=true
 - person: 408862
   name: Powell
   allegation: using committee travel funds for personal travel while Chairman of Education
@@ -3660,6 +3771,23 @@
   - date: 1970
     text: Lost primary to Charles Rangel.
     link: https://en.wikipedia.org/wiki/Adam_Clayton_Powell_Jr.#Political_controversy
+- person: 407522
+  name: McKneally
+  allegation: tax evasion revealed during the last month of the 1970 election
+  consequences:
+  - date: '1970'
+    text: Defeated
+    link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000530
+  - date: 1971-10-19
+    action: pleaded guilty to one count of failing to report income for tax purposes for the years 1964-1967
+    link: http://www.nytimes.com/1971/10/19/archives/exrepresentative-says-he-is-guilty-of-tax-evasion.html
+- person: 401770
+  name: Brewster
+  allegation: in 1969, after he lost his re-election campaign for the Senate, Brewster was indicted for bribery while a U.S. Senator
+  consequences:
+  - date: '1975'
+    action: Pleaded no contest to a single charge of accepting an illegal gratuity
+    link: https://en.wikipedia.org/wiki/Daniel_Brewster#Bribery_charges
 - person: 403505
   name: Dodd
   allegation: personal use of campaign funds and unbecoming conduct in a senator
@@ -3684,6 +3812,43 @@
   - date: 1970
     text: Was not re-elected.
     link: https://www.senate.gov/artandhistory/history/common/censure_cases/pdf/135DoddApril27_1967report.pdf
+- person: 401685
+  name: Boykin
+  allegation: conspiracy and conflict of interest
+  consequences:
+  - date: '1962'
+    action: After reapportionment reduced Alabama's Congressional delegation by one seat in 1962, Alabama held a single statewide election for Congressional Representatives with all of the current Representatives running against each other. The Representative who placed last would get no seat and the rest would be at-large. Boykin placed last.
+    link: https://en.wikipedia.org/wiki/Frank_W._Boykin#Career
+  - date: '1963'
+    text: Convicted
+    link: https://en.wikipedia.org/wiki/Frank_W._Boykin#Conviction
+  - date: '1964'
+    action: Pardoned by President Johnson
+    link: https://en.wikipedia.org/wiki/Frank_W._Boykin#Conviction
+- person: 406072
+  name: Johnson
+  allegation: accepted an illegal gratuity
+  consequences:
+  - date: '1962'
+    text: Defeated in election
+    link: https://en.wikipedia.org/wiki/Thomas_Francis_Johnson
+  - date: '1968'
+    text: Convicted of conspiracy and conflict of interest
+    link: http://www.nytimes.com/1988/02/03/obituaries/thomas-johnson-78-lost-post-in-congress.html
+- person: 406574
+  name: Lane
+  allegation: tax evasion
+  consequences:
+  - date: '1956'
+    action: Convicted and served four months in prison while still in Congress and re-elected subsequently.
+    link: https://en.wikipedia.org/wiki/Thomas_J._Lane#Congress
+- person: 401721
+  name: Bramblett
+  allegation: engaging in payroll fraud 
+  consequences:
+  - date: '1954'
+    action: Convicted and not a candidate for re-election
+    link: https://en.wikipedia.org/wiki/Ernest_K._Bramblett
 - person: 407327
   name: McCarthy
   allegation: abuse of a Senate committee
@@ -3732,6 +3897,42 @@
     text: Having received the Subcommittee's report and files, the Department of Justice
       announced it had found no evidence of wrongdoing and closed the case.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=431
+- person: 401751
+  name: Brehm
+  allegation: illegal campaign contributions
+  consequences:
+  - date: 1951-04-30
+    action: Convicted and fined $5,000
+    link: https://en.wikipedia.org/wiki/Walter_E._Brehm#Conviction
+  - date: '1952'
+    text: not a candidate for re-election
+    link: https://en.wikipedia.org/wiki/Walter_E._Brehm#Conviction
+- person: 410756
+  name: Thomas
+  allegation: payroll fraud
+  consequences:
+  - date: 1949-11-30
+    action: Pleaded no contest and served nine months in prison
+    link: http://www.nytimes.com/1970/11/20/archives/jparnell-thomas-antired-crusader-is-dead-headed-house-committee-on.html
+  - date: 1950-01-02
+    text: Resigned
+    link: http://www.nytimes.com/1970/11/20/archives/jparnell-thomas-antired-crusader-is-dead-headed-house-committee-on.html
+- person: 407290
+  name: May
+  allegations: war profiteering by accepting bribes to use his official position to secure munitions contracts during World War Two
+  consequences:
+  - date: '1946'
+    text: Defeated in election
+    link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000272
+  - date: 1947-07-03
+    action: Convicted
+    link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000272
+  - date: '1950'
+    text: served nine months in prison
+    link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000272
+  - date: '1952'
+    action: Pardoned by President Truman
+    link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000272
 - person: 401445
   name: Bilbo
   allegation: campaign irregularities, voter intimidation against African-American
@@ -3786,6 +3987,16 @@
     action: rejected argument that Langer could not be seated which meant an expulsion
       and a two-thirds majority; the exclusion vote failed 30-52
     link: https://www.govtrack.us/congress/votes/77-1942/s120
+- person: 405530
+  name: Hoeppel
+  allegation: selling military appointments
+  consequences:
+  - date: '1936'
+    action: Convicted
+    link: https://en.wikipedia.org/wiki/John_H._Hoeppel#Political_career
+  - date: '1936'
+    text: unsuccessful candidate for election
+    link: https://en.wikipedia.org/wiki/John_H._Hoeppel#Political_career
 - person: 406909
   name: Long
   allegation: using Louisiana state employees and resources for U.S. Senate campaign
@@ -3845,6 +4056,16 @@
     text: Long was assassinated before he could finish his Senate term or complete
       his campaign to run for president
     link: https://en.wikipedia.org/wiki/Huey_Long#Assassination_and_aftermath
+- person: 409435
+  name: Rowbottom
+  allegation: accepting bribes for appointments to the U.S. Post Office
+  consequences:
+  - date: '1930'
+    text: unsuccessful candidate for election
+    link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000474
+  - date: 1931-04-16
+    text: Convicted
+    link: http://query.nytimes.com/gst/abstract.html?res=9F05E0DC1F38E03ABC4E52DFB266838A629EDE&legacy=true
 - person: 401451
   name: Bingham
   allegation: hiring a lobbyist who was still being paid by a manufacturing organization
@@ -4268,6 +4489,13 @@
   - date: 1912-07-13
     body: Senate
     action: unseated by vote of 55-28
+- person: 402380
+  name: Cassel
+  allegation: fraud related to the construction of the Pennsylvania State Capitol
+  consequences:
+  - date: '1909'
+    text: convicted and was not re-elected
+    link: https://en.wikipedia.org/wiki/Henry_B._Cassel
 - person: 406802
   name: Lilley
   allegation: contempt of House for making false charges of corruption regarding another
@@ -4305,6 +4533,16 @@
     action: first decided to require a 2/3 majority and then he was not expelled,
       27-43 nor was he unseated, 28-42
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=306
+- person: 407793
+  name: Mitchell
+  allegation: using political influence in the federal government to help clients with land claims
+  consequences:
+  - date: '1905'
+    text: indictment and conviction occured during Senate recess
+    link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=33
+  - date: 1905-12-08
+    text: died
+    link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000818
 - person: 403459
   name: Dietrich
   allegation: improprieties in postal appointments while Nebraska governor
