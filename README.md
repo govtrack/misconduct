@@ -33,6 +33,7 @@ Sources
 
 * The House’s [Office of Congressional Ethics (OCE)](https://oce.house.gov/)
 * The [House Committee on Ethics (HCE)](https://ethics.house.gov/)
+* The House's [Historical Summary of Conduct Cases in the House of Representatives, Committee on Standards of Official Conduct,1798-2004](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf)
 * The [Senate Select Committee on Ethics](https://www.ethics.senate.gov/public/)
 * [Wikipedia’s list of convictions of American politicians](https://en.wikipedia.org/wiki/List_of_American_federal_politicians_convicted_of_crimes), as of Jan 23, 2018
 * [The Washington Post’s list of indictments](https://www.washingtonpost.com/news/the-fix/wp/2015/07/29/more-than-two-dozen-members-of-congress-have-been-indicted-since-1980/)
