@@ -74,5 +74,17 @@ for incident in misconduct:
 		if "body" in cons and not isinstance(cons.get("action"), str):
 			error("consequence {}, with body, 'action' should be a string if set.".format(debug_id2))
 
+		for field in ("text", "action"):
+			if field in cons:
+				if "](" in cons[field]:
+					error("consequence {} {} looks like it has a Markdown link that should be in the link field instead.".format(debug_id2, field))
+
+		if not isinstance(cons.get("link"), (type(None), str, list)):
+			error("consequence {} has an invalid 'link' value.".format(debug_id2))
+		if isinstance(cons.get("link"), list):
+			for item in cons["link"]:
+				if not isinstance(item, str):
+					error("consequence {} has an invalid 'link' value.".format(debug_id2))
+
 if has_error:
 	sys.exit(1)

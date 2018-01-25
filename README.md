@@ -77,11 +77,12 @@ name of a government body that took an action, such as the House Office of
 Congressional Ethics. `action` is a sentence fragment that has the action the
 body took --- `action` should complete the sentence that starts with `body`, so
 `action` normally starts with a lowercase letter, and it should not end with a
-period.
+period. (`action` does not contain Markdown.)
 
 The second form has `date`, `text`, and `link` fields. `text` is a full sentence
 or a fragment starting with the verb (in any case, starting with a capital letter
-and ending with a period) describing an event relevant to the misconduct.
+and ending with a period) describing an event relevant to the misconduct. (This
+`text` does not contain Markdown.)
 
 Because some dates are unknown or actions may have ocurred over a time period
 greater than a date, `date` may be either a year alone `YYYY`, a year and month
@@ -90,7 +91,7 @@ alone do not require quotes (the former is parsed as a date value and the latter
 an integer) but a year and month do require quotes (it is parsed as a string).
 
 `link` is a URL to any supporting evidence, usually a report, a press release,
-or a news article.
+or a news article, or in a few cases a list of such URLs.
 
 Note that the date of the misconduct is only present in an unstructured way in
 `text` and `allegation` because misconduct is often a set of events that don't

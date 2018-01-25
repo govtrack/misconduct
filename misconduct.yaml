@@ -473,8 +473,8 @@
     action: deferred to the Department of Justice
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-robe-2
   - date: 2017-05
-    text: The FBI [closed the investigation](http://www.charlotteobserver.com/news/business/article148497229.html)
-      without making any charges.
+    text: The FBI closed the investigation without making any charges.
+    link: http://www.charlotteobserver.com/news/business/article148497229.html
 - person: 412482
   name: Blake Farenthold
   text: In 2015 Farenthold was investigated for sexual harassment on the basis of
@@ -495,9 +495,11 @@
       was resolved
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-blake
   - date: 2015
-    text: The [lawsuit was resolved](http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court)
-      with a [taxpayer-funded settlement](https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458)
-      that was revealed in 2017.
+    text: The lawsuit was resolved with a taxpayer-funded settlement that was revealed
+      in 2017.
+    link:
+    - http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court
+    - https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458
   - date: 2017-12-07
     body: House Committee on Ethics
     action: re-opened the investigation
@@ -1051,8 +1053,9 @@
       were income and not gifts and that no further action was needed
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-john-0
   - date: 2010
-    text: Tierney's wife [pleaded guilty to tax evasion also related to her brother's
-      income](http://www.sandiegouniontribune.com/sdut-rep-tierneys-wife-to-plead-guilty-to-tax-charges-2010oct05-story.html).
+    text: Tierney's wife pleaded guilty to tax evasion also related to her brother's
+      income.
+    link: http://www.sandiegouniontribune.com/sdut-rep-tierneys-wife-to-plead-guilty-to-tax-charges-2010oct05-story.html
   - date: 2014
     text: Tierney was defeated in the Democratic primary.
 - person: 400337
@@ -1143,7 +1146,8 @@
   - date: 2012
     text: Resigned from Congress.
   - date: 2013
-    text: Jackson pleaded guilty to [misuse of campaign funds](http://www.nytimes.com/2013/02/21/us/politics/jesse-l-jackson-jr-pleads-guilty-to-wire-and-mail-fraud.html?partner=rss&emc=rss&smid=tw-nytimes&_r=0).
+    text: Jackson pleaded guilty to misuse of campaign funds.
+    link: http://www.nytimes.com/2013/02/21/us/politics/jesse-l-jackson-jr-pleads-guilty-to-wire-and-mail-fraud.html?partner=rss&emc=rss&smid=tw-nytimes&_r=0
 - person: 400422
   name: Maxine Waters
   text: In 2009 Waters was investigated for a conflict of interest with respect to
@@ -1281,8 +1285,9 @@
       properly disclosed and paid for the services
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-regarding-representative-jean-schmidt
   - date: 2012
-    text: Schmidt lost reelection. When she left office, [she had not paid for those
-      services](https://en.wikipedia.org/wiki/Jean_Schmidt#Legal_Expense_Fund).
+    text: Schmidt lost reelection. When she left office, she had not paid for those
+      services.
+    link: https://en.wikipedia.org/wiki/Jean_Schmidt#Legal_Expense_Fund
 - person: 412299
   name: Eric Massa
   text: In 2010 Massa was investigated for [sexual harassment](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/13/AR2010041302257.html).
@@ -1304,8 +1309,9 @@
     action: passed a resolution demanding a resumption of the investigation
     link: http://www.washingtonpost.com/wp-dyn/content/article/2010/03/11/AR2010031104907.html?nav=emailpage&sid=ST2010031105001
   - date: 2010
-    text: At some point after he resigned, the Congressional [Office of Compliance](http://abcnews.go.com/Politics/congress-secretly-paid-100000-settle-harassment-claims-disgraced/story?id=51494871)
+    text: At some point after he resigned, the Congressional Office of Compliance
       settled with Massa's victims for $100,000.
+    link: http://abcnews.go.com/Politics/congress-secretly-paid-100000-settle-harassment-claims-disgraced/story?id=51494871
   - date: 2011-07-14
     body: House Committee on Ethics
     action: reauthorized an investigative subcommittee
@@ -1328,7 +1334,8 @@
   - date: 2011-05-03
     text: Senator Ensign resigned. The Department of Justice dropped its case in 2010
       as did the FEC. However, the FEC reopened it after the Senate's report in 2011
-      and [levied fines in 2013](https://m.lasvegassun.com/news/2013/may/24/fec-fine-sad-end-sad-sage-ensign/).
+      and levied fines in 2013.
+    link: https://m.lasvegassun.com/news/2013/may/24/fec-fine-sad-end-sad-sage-ensign/
 - person: 400087
   name: Joseph Crowley
   text: In 2010 Crowley was investigated for soliciting campaign contributions from
@@ -1367,8 +1374,9 @@
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-member-regarding-representatives-john-campbell
   - date: 2017
     text: In January 2017, Price left Congress to become Heath and Human Services
-      Secretary. On September 29, 2017, [Price resigned](https://www.nytimes.com/2017/09/29/us/politics/tom-price-trump-hhs.html)
-      due to inappropriate use of private and chartered flights while HHS Secretary.
+      Secretary. On September 29, 2017, Price resigned due to inappropriate use of
+      private and chartered flights while HHS Secretary.
+    link: https://www.nytimes.com/2017/09/29/us/politics/tom-price-trump-hhs.html
 - person: 412011
   name: John Campbell
   text: In 2010 Campbell was investigated for soliciting campaign contributions from
@@ -1934,9 +1942,9 @@
   - date: 2007
     text: Senator Craig was arrested for lewd conduct pleaded to disorderly conduct
       and subsequently attempted to withdraw his guilty plea. He retired at the end
-      of his term in 2008 and [as of 2016](https://en.wikipedia.org/wiki/Larry_Craig#2007_arrest_and_consequences)
-      has been ordered to personally pay for legal fees incurred that had previously
-      been paid with campaign funds.
+      of his term in 2008 and as of 2016 has been ordered to personally pay for legal
+      fees incurred that had previously been paid with campaign funds.
+    link: https://en.wikipedia.org/wiki/Larry_Craig#2007_arrest_and_consequences
 - person: 300094
   name: Ted Stevens
   text: In 2008 Stevens was convicted of making false statements. Prior to sentencing
