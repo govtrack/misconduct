@@ -3630,7 +3630,7 @@
   allegation: on May 27, 1978, drunk and disorderly and resisting arrest at the Centerfold
     Bar in Dania, FL
   consequences:
-  - date: '1978'
+  - date: 1978
     text: Pleaded guilty and lost bid for re-election.
     link: https://www.washingtonpost.com/archive/local/1993/06/18/j-herbert-burke-dies/d49b3e2e-208a-4eae-856f-f4e25e48a9f8/?utm_term=.55f18b71be87
 - person: 410883
@@ -3645,7 +3645,7 @@
   - date: 1977-05-05
     text: Resigned.
     link: http://www.nytimes.com/1977/05/05/archives/rep-tonry-figure-in-vote-fraud-resigns-but-vows-to-run-again.html
-  - date: 19777-06-27
+  - date: 1977-06-27
     text: Defeated in special election primary held to fill the vacancy he created
       with his resignation.
     link: https://www.washingtonpost.com/archive/politics/1977/06/27/dispute-is-political-downfall-of-tonry-moreau-in-election/709fa458-dec0-4ab1-ac1f-378545fe607d/?utm_term=.55cbdfdb6539
@@ -3721,7 +3721,7 @@
   name: Podell
   allegation: bribery
   consequences:
-  - date: '1974'
+  - date: 1974
     text: Defeated in election after indictment.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=P000399
   - date: 1974-10-01
@@ -3731,7 +3731,7 @@
   name: Gallagher
   allegation: tax evasion and perjury
   consequences:
-  - date: '1972'
+  - date: 1972
     text: Defeated in primary.
     link: http://www.nytimes.com/1973/06/16/archives/gallagher-gets-2-years-and-10000-fine-gallagher-gets-2year-sentence.html
   - date: 1973-06-15
@@ -3741,7 +3741,7 @@
   name: Whalley
   allegation: taking kickbacks from congressional employees for personal use
   consequences:
-  - date: '1973'
+  - date: 1973
     text: Resigned from Congress and pleaded guilty to obstruction of justice and
       mail fraud.
     link: https://www.washingtonpost.com/archive/local/1980/03/12/john-irving-whalley-77-ex-gop-representative/f0499117-f35e-480f-8546-a305203a3b15/?utm_term=.6859dca0c422
@@ -3800,7 +3800,7 @@
   name: McKneally
   allegation: tax evasion revealed during the last month of the 1970 election
   consequences:
-  - date: '1970'
+  - date: 1970
     text: Defeated.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000530
   - date: 1971-10-19
@@ -3812,7 +3812,7 @@
   allegation: in 1969, after he lost his re-election campaign for the Senate, Brewster
     was indicted for bribery while a U.S. Senator
   consequences:
-  - date: '1975'
+  - date: 1975
     text: Pleaded no contest to a single charge of accepting an illegal gratuity.
     link: https://en.wikipedia.org/wiki/Daniel_Brewster#Bribery_charges
 - person: 403505
@@ -3843,34 +3843,34 @@
   name: Boykin
   allegation: conspiracy and conflict of interest
   consequences:
-  - date: '1962'
+  - date: 1962
     text: After reapportionment reduced Alabama's Congressional delegation by one
       seat in 1962, Alabama held a single statewide election for Congressional Representatives
       with all of the current Representatives running against each other. The Representative
       who placed last would get no seat and the rest would be at-large. Boykin placed
       last.
     link: https://en.wikipedia.org/wiki/Frank_W._Boykin#Career
-  - date: '1963'
+  - date: 1963
     text: Convicted.
     link: https://en.wikipedia.org/wiki/Frank_W._Boykin#Conviction
-  - date: '1964'
+  - date: 1964
     text: Pardoned by President Johnson.
     link: https://en.wikipedia.org/wiki/Frank_W._Boykin#Conviction
 - person: 406072
   name: Johnson
   allegation: accepted an illegal gratuity
   consequences:
-  - date: '1962'
+  - date: 1962
     text: Defeated in election.
     link: https://en.wikipedia.org/wiki/Thomas_Francis_Johnson
-  - date: '1968'
+  - date: 1968
     text: Convicted of conspiracy and conflict of interest.
     link: http://www.nytimes.com/1988/02/03/obituaries/thomas-johnson-78-lost-post-in-congress.html
 - person: 406574
   name: Lane
   allegation: tax evasion
   consequences:
-  - date: '1956'
+  - date: 1956
     text: Convicted and served four months in prison while still in Congress and re-elected
       subsequently.
     link: https://en.wikipedia.org/wiki/Thomas_J._Lane#Congress
@@ -3878,7 +3878,7 @@
   name: Bramblett
   allegation: engaging in payroll fraud
   consequences:
-  - date: '1954'
+  - date: 1954
     text: Convicted and not a candidate for re-election.
     link: https://en.wikipedia.org/wiki/Ernest_K._Bramblett
 - person: 407327
@@ -3936,7 +3936,7 @@
   - date: 1951-04-30
     text: Convicted and fined $5,000.
     link: https://en.wikipedia.org/wiki/Walter_E._Brehm#Conviction
-  - date: '1952'
+  - date: 1952
     text: Not a candidate for re-election.
     link: https://en.wikipedia.org/wiki/Walter_E._Brehm#Conviction
 - person: 410756
@@ -3954,16 +3954,16 @@
   allegation: war profiteering by accepting bribes to use his official position to
     secure munitions contracts during World War Two
   consequences:
-  - date: '1946'
+  - date: 1946
     text: Defeated in election.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000272
   - date: 1947-07-03
     text: Convicted.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000272
-  - date: '1950'
+  - date: 1950
     text: Served nine months in prison.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000272
-  - date: '1952'
+  - date: 1952
     text: Pardoned by President Truman.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000272
 - person: 401445
@@ -4024,10 +4024,10 @@
   name: Hoeppel
   allegation: selling military appointments
   consequences:
-  - date: '1936'
+  - date: 1936
     text: Convicted.
     link: https://en.wikipedia.org/wiki/John_H._Hoeppel#Political_career
-  - date: '1936'
+  - date: 1936
     text: Unsuccessful candidate for election.
     link: https://en.wikipedia.org/wiki/John_H._Hoeppel#Political_career
 - person: 406909
@@ -4093,7 +4093,7 @@
   name: Rowbottom
   allegation: accepting bribes for appointments to the U.S. Post Office
   consequences:
-  - date: '1930'
+  - date: 1930
     text: Unsuccessful candidate for election.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000474
   - date: 1931-04-16
@@ -4526,7 +4526,7 @@
   name: Cassel
   allegation: fraud related to the construction of the Pennsylvania State Capitol
   consequences:
-  - date: '1909'
+  - date: 1909
     text: Convicted and was not re-elected.
     link: https://en.wikipedia.org/wiki/Henry_B._Cassel
 - person: 406802
@@ -4571,7 +4571,7 @@
   allegation: using political influence in the federal government to help clients
     with land claims
   consequences:
-  - date: '1905'
+  - date: 1905
     text: Indictment and conviction occured during Senate recess.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=33
   - date: 1905-12-08
