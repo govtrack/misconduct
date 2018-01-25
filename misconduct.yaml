@@ -1,6 +1,7 @@
 - person: 400047
   name: Brady
-  allegation: leading a criminal conspiracy to hide a $90,000 payment made to persuade a 2012 primary opponent to drop out of the race
+  allegation: leading a criminal conspiracy to hide a $90,000 payment made to persuade
+    a 2012 primary opponent to drop out of the race
   consequences:
   - date: 2017-11-01
     body: Federal Bureau of Investigation
@@ -98,13 +99,19 @@
     text: Resigned
     link: http://content.usatoday.com/communities/onpolitics/post/2011/06/anthony-weiner-resignation-sex-scandal-/1#.WmekVpM-f1I
   - date: 2016-09-21
-    text: a newspaper article claimed Weiner had sent explicit text messages to a 15 year old girl and computers were seized as part of the investigation into the incident
+    text: a newspaper article claimed Weiner had sent explicit text messages to a
+      15 year old girl and computers were seized as part of the investigation into
+      the incident
     link: http://www.dailymail.co.uk/news/article-3790824/Anthony-Weiner-carried-months-long-online-sexual-relationship-troubled-15-year-old-girl-telling-hard-asking-dress-school-girl-outfits-pressing-engage-rape-fantasies.html#ixzz4Ku1mvPVL
   - date: 2016-10-28
-    action: The Director of the FBI, James Comey, publicly reopened his investigation into presidential candidate Hillary Rodham Clinton because the computer seized as part of the Weiner investigation contained some emails that might have been relevant to a prior investigation into Clinton.
+    action: The Director of the FBI, James Comey, publicly reopened his investigation
+      into presidential candidate Hillary Rodham Clinton because the computer seized
+      as part of the Weiner investigation contained some emails that might have been
+      relevant to a prior investigation into Clinton.
     link: https://www.nytimes.com/2016/10/29/us/politics/fbi-hillary-clinton-email.html
   - date: 2017-05-19
-    action: Surrendered to the FBI and pleaded guilty to a single charge of transferring obscene materials to a minor.
+    action: Surrendered to the FBI and pleaded guilty to a single charge of transferring
+      obscene materials to a minor.
     link: https://www.nytimes.com/2017/05/19/nyregion/anthony-weiner-guilty-plea-sexting.html
   - date: 2017-11-06
     text: Sentenced to 21 months in prison
@@ -3294,12 +3301,15 @@
     link: https://www.senate.gov/artandhistory/history/common/expulsion_cases/140HarrisonWilliams_expulsion.htm
 - person: 405496
   name: Hinson
-  allegation: arrested for engaging in sexual activity with a member of the same sex, then illegal in Washington, D.C.
+  allegation: arrested for engaging in sexual activity with a member of the same sex,
+    then illegal in Washington, D.C.
+  consequences:
   - date: 1981-04-13
     action: Resigned
     link: http://www.nytimes.com/1981/05/29/us/around-the-nation-hinson-pleads-no-contest-to-oral-sodomy-charge.html
   - date: 1981-05-28
-    action: Pleaded no contest to charges of "attempted oral sodomy" in a House office building restroom.
+    action: Pleaded no contest to charges of "attempted oral sodomy" in a House office
+      building restroom.
     link: http://www.nytimes.com/1981/05/29/us/around-the-nation-hinson-pleads-no-contest-to-oral-sodomy-charge.html
 - person: 406247
   name: Kelly
@@ -3607,14 +3617,16 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
 - person: 402037
   name: Burke
-  allegation: on May 27, 1978, drunk and disorderly and resisting arrest at the Centerfold Bar in Dania, FL
+  allegation: on May 27, 1978, drunk and disorderly and resisting arrest at the Centerfold
+    Bar in Dania, FL
   consequences:
   - date: '1978'
     action: Pleaded guilty and lost bid for re-election
     link: https://www.washingtonpost.com/archive/local/1993/06/18/j-herbert-burke-dies/d49b3e2e-208a-4eae-856f-f4e25e48a9f8/?utm_term=.55f18b71be87
 - person: 410883
   name: Tonry
-  allegation: stuffing ballot boxes and illegal campaign contributions in the primary election
+  allegation: stuffing ballot boxes and illegal campaign contributions in the primary
+    election
   consequences:
   - date: 1977-02-02
     body: House Committee on Administration
@@ -3624,7 +3636,8 @@
     action: Resigned
     link: http://www.nytimes.com/1977/05/05/archives/rep-tonry-figure-in-vote-fraud-resigns-but-vows-to-run-again.html
   - date: 19777-06-27
-    text: defeated in special election primary held to fill the vacancy he created with his resignation
+    text: defeated in special election primary held to fill the vacancy he created
+      with his resignation
     link: https://www.washingtonpost.com/archive/politics/1977/06/27/dispute-is-political-downfall-of-tonry-moreau-in-election/709fa458-dec0-4ab1-ac1f-378545fe607d/?utm_term=.55cbdfdb6539
 - person: 409900
   name: Sikes
@@ -3719,11 +3732,13 @@
   allegation: taking kickbacks from congressional employees for personal use
   consequences:
   - date: '1973'
-    action: Resigned from Congress and pleaded guilty to obstruction of justice and mail fraud.
+    action: Resigned from Congress and pleaded guilty to obstruction of justice and
+      mail fraud.
     link: https://www.washingtonpost.com/archive/local/1980/03/12/john-irving-whalley-77-ex-gop-representative/f0499117-f35e-480f-8546-a305203a3b15/?utm_term=.6859dca0c422
 - person: 300059
   name: Kennedy
-  allegation: on July 18, 1969, leaving the scene of an accident after driving a car into the Poucha Pond inlet while his passenger Mary Jo Kopechne drowned
+  allegation: on July 18, 1969, leaving the scene of an accident after driving a car
+    into the Poucha Pond inlet while his passenger Mary Jo Kopechne drowned
   consequences:
   - date: 1969-07-25
     action: Pleaded guilty and received a suspended sentence
@@ -3779,11 +3794,13 @@
     text: Defeated
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000530
   - date: 1971-10-19
-    action: pleaded guilty to one count of failing to report income for tax purposes for the years 1964-1967
+    action: pleaded guilty to one count of failing to report income for tax purposes
+      for the years 1964-1967
     link: http://www.nytimes.com/1971/10/19/archives/exrepresentative-says-he-is-guilty-of-tax-evasion.html
 - person: 401770
   name: Brewster
-  allegation: in 1969, after he lost his re-election campaign for the Senate, Brewster was indicted for bribery while a U.S. Senator
+  allegation: in 1969, after he lost his re-election campaign for the Senate, Brewster
+    was indicted for bribery while a U.S. Senator
   consequences:
   - date: '1975'
     action: Pleaded no contest to a single charge of accepting an illegal gratuity
@@ -3817,7 +3834,11 @@
   allegation: conspiracy and conflict of interest
   consequences:
   - date: '1962'
-    action: After reapportionment reduced Alabama's Congressional delegation by one seat in 1962, Alabama held a single statewide election for Congressional Representatives with all of the current Representatives running against each other. The Representative who placed last would get no seat and the rest would be at-large. Boykin placed last.
+    action: After reapportionment reduced Alabama's Congressional delegation by one
+      seat in 1962, Alabama held a single statewide election for Congressional Representatives
+      with all of the current Representatives running against each other. The Representative
+      who placed last would get no seat and the rest would be at-large. Boykin placed
+      last.
     link: https://en.wikipedia.org/wiki/Frank_W._Boykin#Career
   - date: '1963'
     text: Convicted
@@ -3840,11 +3861,12 @@
   allegation: tax evasion
   consequences:
   - date: '1956'
-    action: Convicted and served four months in prison while still in Congress and re-elected subsequently.
+    action: Convicted and served four months in prison while still in Congress and
+      re-elected subsequently.
     link: https://en.wikipedia.org/wiki/Thomas_J._Lane#Congress
 - person: 401721
   name: Bramblett
-  allegation: engaging in payroll fraud 
+  allegation: engaging in payroll fraud
   consequences:
   - date: '1954'
     action: Convicted and not a candidate for re-election
@@ -3919,7 +3941,8 @@
     link: http://www.nytimes.com/1970/11/20/archives/jparnell-thomas-antired-crusader-is-dead-headed-house-committee-on.html
 - person: 407290
   name: May
-  allegations: war profiteering by accepting bribes to use his official position to secure munitions contracts during World War Two
+  allegations: war profiteering by accepting bribes to use his official position to
+    secure munitions contracts during World War Two
   consequences:
   - date: '1946'
     text: Defeated in election
@@ -4535,7 +4558,8 @@
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=306
 - person: 407793
   name: Mitchell
-  allegation: using political influence in the federal government to help clients with land claims
+  allegation: using political influence in the federal government to help clients
+    with land claims
   consequences:
   - date: '1905'
     text: indictment and conviction occured during Senate recess
