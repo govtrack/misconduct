@@ -64,6 +64,10 @@ for incident in misconduct:
 		if "body" not in cons and not isinstance(cons.get("text"), str):
 			error("consequence {} is missing or has invalid 'text', should be a string, or should have body & action.".format(debug_id2))
 
+		if "text" in cons:
+			if cons["text"][0] == cons["text"][0].lower() or cons["text"][-1] != ".":
+				error("consequence {} text should be a full sentence starting with a capital letter and ending in a period.".format(debug_id2))
+
 		if "body" in cons and not isinstance(cons["body"], str):
 			error("consequence {} 'body' should be a string if set.".format(debug_id2))
 
