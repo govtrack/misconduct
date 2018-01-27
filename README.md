@@ -5,24 +5,15 @@ This repository contains a single YAML file documenting instances of misconduct
 and alleged misconduct by Members of the United States Congress, created by GovTrack.us,
 covering 1789 to the present.
 
-For the purposes of this project, misconduct is any alleged act (and only those) that:
+This database contains:
 
-* is investigated by the House Office of Congressional Ethics, the House Committee on Ethics, the Senate Select Committee on Ethics, or other investigative committee of Congress, or resulted in a monetary settlement (e.g. from Congress's Office of Compliance), or
-* results in a letter of reproval, censure, or expulsion from Congress, or
-* results in a resignation from Congress (typically to head-off a Congressional investigation), or
-* is investigated by any law enforcement agency _and_ the act occurred while the member was in Congress, during a congressional campaign, or was related to their service in Congress, or
-* results in a conviction or guilty plea (whether or not related to service in Congress)
+* All letters of reproval, censures, and expulsions from Congress from 1789 to the present.
+* All investigations by the [House Office of Congressional Ethics (OCE)](https://oce.house.gov/), the [House Committee on Ethics (HCE)](https://ethics.house.gov/), and the [Senate Select Committee on Ethics (SSCE)](https://www.ethics.senate.gov/public/), and other investigations by a body of Congress that involved alleged personal misconduct from 1789 to the present. (This inclues some elections-related investigations by the Senate on whether to allow a senator-elect to be seated when it stemmed from allegations of personal misconduct but not when it was not related to personal misconduct.)
+* As many monetary settlements that we are aware of, e.g. those administered by Congress's [Office of Compliance](https://www.compliance.gov/) regarding sexual harassment claims, but many settlements are not known to the public.
+* Resignations that we believe to be likely relevant to an allegation of misconduct, because Members of Congress often resign to head-off a Congressional investigation.
+* Law enforcement investigations, convictions, and pleas that we are aware of, except in cases when the investigation resulted in exoneration, was not conducted by Congress, and was not related to the Member's official duties.
 
-Investigations, settlements, and resignations do not imply guilt, and an investigation that ends without a guilty determination does not imply innocence.
-
-In terms of coverage, this database contains
-
-* all instances of letters of reproval, censures, and expulsions from Congress from 1789 to the present
-* all investigations by a body of Congress from 1789 to the present that involved alleged personal misconduct
-* some election-related investigations by the Senate on whether to allow a senator-elect to be seated stemming from allegations of personal misconduct
-* some monetary settlements that we are aware of (many are not publicly known)
-* some resignations that we believe to be likely relevant to an allegation of misconduct
-* some instances of law enforcement investigations, convictions, and pleas that we are aware of
+Investigations, settlements, and resignations **do not imply guilt**. Some investigations are motivated by politics or a personal grudge, settlements are often used when it would be less costly than defending a law suit, and Members of Congress often resign when they are likely to lose re-election (regardless of why). We include investigations even if the Member of Congress is exonerated, per the above rubrik, because the investigation and exoneration are themselves important events not to be forgotten. Conversely, an investigation that ends without a guilty determination **does not imply innocence** --- Congress polices itself in many cases and Members of Congress are reluctant to punish their peers.
 
 This database can be viewed at:
 
