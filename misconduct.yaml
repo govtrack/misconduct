@@ -2,6 +2,9 @@
   name: Brady
   allegation: leading a criminal conspiracy to hide a $90,000 payment made to persuade
     a 2012 primary opponent to drop out of the race
+  text: Brady faced an allegation of leading a criminal conspiracy to hide a $90,000
+    payment made to persuade a 2012 primary opponent to drop out of the race. On Nov.
+    1, 2017, the Federal Bureau of Investigation [isseud search warrant for email](http://www.philly.com/philly/news/pennsylvania/philadelphia/bob-brady-search-warrant-emails-campaign-payoff-probe-20171121.html).
   consequences:
   - date: 2017-11-01
     body: Federal Bureau of Investigation
@@ -94,6 +97,18 @@
 - person: 400426
   name: Weiner
   allegation: sending sexually explicit texts to women who were not his wife
+  text: Weiner faced an allegation of sending sexually explicit texts to women who
+    were not his wife. On Jun. 21, 2011, he/she [resigned](http://content.usatoday.com/communities/onpolitics/post/2011/06/anthony-weiner-resignation-sex-scandal-/1#.WmekVpM-f1I).
+    On Sep. 21, 2016, [a newspaper article claimed Weiner had sent explicit text messages
+    to a 15 year old girl and computers were seized as part of the investigation into
+    the incident](http://www.dailymail.co.uk/news/article-3790824/Anthony-Weiner-carried-months-long-online-sexual-relationship-troubled-15-year-old-girl-telling-hard-asking-dress-school-girl-outfits-pressing-engage-rape-fantasies.html#ixzz4Ku1mvPVL).
+    On Oct. 28, 2016, [the Director of the FBI, James Comey, publicly reopened his
+    investigation into presidential candidate Hillary Rodham Clinton because the computer
+    seized as part of the Weiner investigation contained some emails that might have
+    been relevant to a prior investigation into Clinton](https://www.nytimes.com/2016/10/29/us/politics/fbi-hillary-clinton-email.html).
+    On May. 19, 2017, [surrendered to the FBI and pleaded guilty to a single charge
+    of transferring obscene materials to a minor](https://www.nytimes.com/2017/05/19/nyregion/anthony-weiner-guilty-plea-sexting.html).
+    On Nov. 6, 2017, sentenced to 21 months in prison.
   consequences:
   - date: 2011-06-21
     text: Resigned.
@@ -2108,6 +2123,9 @@
 - person: 400200
   name: Janklow
   allegation: on August 16, 2003, of committing vehicular manslaughter
+  text: Janklow faced an allegation of on August 16, 2003, of committing vehicular
+    manslaughter. On Dec. 8, 2003, [convicted](https://en.wikipedia.org/wiki/Bill_Janklow#Vehicular_manslaughter).
+    On Jan. 20, 2004, he/she [resigned](http://news.minnesota.publicradio.org/features/2003/12/08_hetlandc_janklow/).
   consequences:
   - date: 2003-12-08
     text: Convicted.
@@ -3313,6 +3331,11 @@
   name: Hinson
   allegation: arrested for engaging in sexual activity with a member of the same sex,
     then illegal in Washington, D.C.
+  text: Hinson faced an allegation of arrested for engaging in sexual activity with
+    a member of the same sex, then illegal in Washington, D.C.. On Apr. 13, 1981,
+    he/she [resigned](http://www.nytimes.com/1981/05/29/us/around-the-nation-hinson-pleads-no-contest-to-oral-sodomy-charge.html).
+    On May. 28, 1981, he/she [pleaded no contest to charges of "attempted oral sodomy"
+    in a House office building restroom](http://www.nytimes.com/1981/05/29/us/around-the-nation-hinson-pleads-no-contest-to-oral-sodomy-charge.html).
   consequences:
   - date: 1981-04-13
     text: Resigned.
@@ -3629,6 +3652,9 @@
   name: Burke
   allegation: on May 27, 1978, drunk and disorderly and resisting arrest at the Centerfold
     Bar in Dania, FL
+  text: Burke faced an allegation of on May 27, 1978, drunk and disorderly and resisting
+    arrest at the Centerfold Bar in Dania, FL. In 1978, he/she [pleaded guilty and
+    lost bid for re-election](https://www.washingtonpost.com/archive/local/1993/06/18/j-herbert-burke-dies/d49b3e2e-208a-4eae-856f-f4e25e48a9f8/?utm_term=.55f18b71be87).
   consequences:
   - date: 1978
     text: Pleaded guilty and lost bid for re-election.
@@ -3637,6 +3663,12 @@
   name: Tonry
   allegation: stuffing ballot boxes and illegal campaign contributions in the primary
     election
+  text: Tonry faced an allegation of stuffing ballot boxes and illegal campaign contributions
+    in the primary election. On Feb. 2, 1977, the House Committee on Administration
+    [investigated charges](https://www.washingtonpost.com/archive/politics/1977/02/02/new-congressmans-seat-imperiled-by-vote-fraud-charges/cee21a73-44ae-4e59-8f77-602cb552cc03/?utm_term=.dc0a04fba771).
+    On May. 5, 1977, he/she [resigned](http://www.nytimes.com/1977/05/05/archives/rep-tonry-figure-in-vote-fraud-resigns-but-vows-to-run-again.html).
+    On Jun. 27, 1977, [defeated in special election primary held to fill the vacancy
+    he created with his resignation](https://www.washingtonpost.com/archive/politics/1977/06/27/dispute-is-political-downfall-of-tonry-moreau-in-election/709fa458-dec0-4ab1-ac1f-378545fe607d/?utm_term=.55cbdfdb6539).
   consequences:
   - date: 1977-02-02
     body: House Committee on Administration
@@ -3713,6 +3745,9 @@
 - person: 401730
   name: Brasco
   allegation: bribery to get a Post Office contract for a Mafia-controlled truck company
+  text: Brasco faced an allegation of bribery to get a Post Office contract for a
+    Mafia-controlled truck company. On Jul. 19, 1974, [convicted and did not run for
+    re-election](http://www.nytimes.com/1974/07/20/archives/rep-brasco-guilty-of-bribery-conspiracy-brasco-convicted-of-bribery.html).
   consequences:
   - date: 1974-07-19
     text: Convicted and did not run for re-election.
@@ -3720,6 +3755,9 @@
 - person: 408792
   name: Podell
   allegation: bribery
+  text: Podell faced an allegation of bribery. In 1974, [defeated in election after
+    indictment](http://bioguide.congress.gov/scripts/biodisplay.pl?index=P000399).
+    On Oct. 1, 1974, he/she [pleaded guilty to conspiracy and conflict of interest](http://www.nytimes.com/1974/10/02/archives/podell-enters-guilty-plea-ending-conspiracy-trial-brooklyn.html).
   consequences:
   - date: 1974
     text: Defeated in election after indictment.
@@ -3730,6 +3768,10 @@
 - person: 404393
   name: Gallagher
   allegation: tax evasion and perjury
+  text: Gallagher faced an allegation of tax evasion and perjury. In 1972, [defeated
+    in primary](http://www.nytimes.com/1973/06/16/archives/gallagher-gets-2-years-and-10000-fine-gallagher-gets-2year-sentence.html).
+    On Jun. 15, 1973, he/she [pleaded guilty and sentenced to two years in prison
+    and a $10,000 fine](http://www.nytimes.com/1973/06/16/archives/gallagher-gets-2-years-and-10000-fine-gallagher-gets-2year-sentence.html).
   consequences:
   - date: 1972
     text: Defeated in primary.
@@ -3740,6 +3782,9 @@
 - person: 411482
   name: Whalley
   allegation: taking kickbacks from congressional employees for personal use
+  text: Whalley faced an allegation of taking kickbacks from congressional employees
+    for personal use. In 1973, he/she [resigned from Congress and pleaded guilty to
+    obstruction of justice and mail fraud](https://www.washingtonpost.com/archive/local/1980/03/12/john-irving-whalley-77-ex-gop-representative/f0499117-f35e-480f-8546-a305203a3b15/?utm_term=.6859dca0c422).
   consequences:
   - date: 1973
     text: Resigned from Congress and pleaded guilty to obstruction of justice and
@@ -3749,6 +3794,9 @@
   name: Kennedy
   allegation: on July 18, 1969, leaving the scene of an accident after driving a car
     into the Poucha Pond inlet while his passenger Mary Jo Kopechne drowned
+  text: Kennedy faced an allegation of on July 18, 1969, leaving the scene of an accident
+    after driving a car into the Poucha Pond inlet while his passenger Mary Jo Kopechne
+    drowned. On Jul. 25, 1969, he/she [pleaded guilty and received a suspended sentence](http://query.nytimes.com/gst/abstract.html?res=9506E5DD133CE73BBC4E51DFB1668382679EDE&legacy=true).
   consequences:
   - date: 1969-07-25
     text: Pleaded guilty and received a suspended sentence.
@@ -3799,6 +3847,10 @@
 - person: 407522
   name: McKneally
   allegation: tax evasion revealed during the last month of the 1970 election
+  text: McKneally faced an allegation of tax evasion revealed during the last month
+    of the 1970 election. In 1970, [defeated](http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000530).
+    On Oct. 19, 1971, he/she [pleaded guilty to one count of failing to report income
+    for tax purposes for the years 1964-1967](http://www.nytimes.com/1971/10/19/archives/exrepresentative-says-he-is-guilty-of-tax-evasion.html).
   consequences:
   - date: 1970
     text: Defeated.
@@ -3811,6 +3863,9 @@
   name: Brewster
   allegation: in 1969, after he lost his re-election campaign for the Senate, Brewster
     was indicted for bribery while a U.S. Senator
+  text: Brewster faced an allegation of in 1969, after he lost his re-election campaign
+    for the Senate, Brewster was indicted for bribery while a U.S. Senator. In 1975,
+    he/she [pleaded no contest to a single charge of accepting an illegal gratuity](https://en.wikipedia.org/wiki/Daniel_Brewster#Bribery_charges).
   consequences:
   - date: 1975
     text: Pleaded no contest to a single charge of accepting an illegal gratuity.
@@ -3842,6 +3897,13 @@
 - person: 401685
   name: Boykin
   allegation: conspiracy and conflict of interest
+  text: Boykin faced an allegation of conspiracy and conflict of interest. In 1962,
+    [after reapportionment reduced Alabama's Congressional delegation by one seat
+    in 1962, Alabama held a single statewide election for Congressional Representatives
+    with all of the current Representatives running against each other. The Representative
+    who placed last would get no seat and the rest would be at-large. Boykin placed
+    last](https://en.wikipedia.org/wiki/Frank_W._Boykin#Career). In 1963, [convicted](https://en.wikipedia.org/wiki/Frank_W._Boykin#Conviction).
+    In 1964, [pardoned by President Johnson](https://en.wikipedia.org/wiki/Frank_W._Boykin#Conviction).
   consequences:
   - date: 1962
     text: After reapportionment reduced Alabama's Congressional delegation by one
@@ -3859,6 +3921,9 @@
 - person: 406072
   name: Johnson
   allegation: accepted an illegal gratuity
+  text: Johnson faced an allegation of accepted an illegal gratuity. In 1962, [defeated
+    in election](https://en.wikipedia.org/wiki/Thomas_Francis_Johnson). In 1968, [convicted
+    of conspiracy and conflict of interest](http://www.nytimes.com/1988/02/03/obituaries/thomas-johnson-78-lost-post-in-congress.html).
   consequences:
   - date: 1962
     text: Defeated in election.
@@ -3869,6 +3934,8 @@
 - person: 406574
   name: Lane
   allegation: tax evasion
+  text: Lane faced an allegation of tax evasion. In 1956, [convicted and served four
+    months in prison while still in Congress and re-elected subsequently](https://en.wikipedia.org/wiki/Thomas_J._Lane#Congress).
   consequences:
   - date: 1956
     text: Convicted and served four months in prison while still in Congress and re-elected
@@ -3877,6 +3944,8 @@
 - person: 401721
   name: Bramblett
   allegation: engaging in payroll fraud
+  text: Bramblett faced an allegation of engaging in payroll fraud. In 1954, [convicted
+    and not a candidate for re-election](https://en.wikipedia.org/wiki/Ernest_K._Bramblett).
   consequences:
   - date: 1954
     text: Convicted and not a candidate for re-election.
@@ -3932,6 +4001,9 @@
 - person: 401751
   name: Brehm
   allegation: illegal campaign contributions
+  text: Brehm faced an allegation of illegal campaign contributions. On Apr. 30, 1951,
+    [convicted and fined $5,000](https://en.wikipedia.org/wiki/Walter_E._Brehm#Conviction).
+    In 1952, [not a candidate for re-election](https://en.wikipedia.org/wiki/Walter_E._Brehm#Conviction).
   consequences:
   - date: 1951-04-30
     text: Convicted and fined $5,000.
@@ -3942,6 +4014,9 @@
 - person: 410756
   name: Thomas
   allegation: payroll fraud
+  text: Thomas faced an allegation of payroll fraud. On Nov. 30, 1949, he/she [pleaded
+    no contest and served nine months in prison](http://www.nytimes.com/1970/11/20/archives/jparnell-thomas-antired-crusader-is-dead-headed-house-committee-on.html).
+    On Jan. 2, 1950, he/she [resigned](http://www.nytimes.com/1970/11/20/archives/jparnell-thomas-antired-crusader-is-dead-headed-house-committee-on.html).
   consequences:
   - date: 1949-11-30
     text: Pleaded no contest and served nine months in prison.
@@ -3953,6 +4028,12 @@
   name: May
   allegation: war profiteering by accepting bribes to use his official position to
     secure munitions contracts during World War Two
+  text: May faced an allegation of war profiteering by accepting bribes to use his
+    official position to secure munitions contracts during World War Two. In 1946,
+    [defeated in election](http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000272).
+    On Jul. 3, 1947, [convicted](http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000272).
+    In 1950, [served nine months in prison](http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000272).
+    In 1952, [pardoned by President Truman](http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000272).
   consequences:
   - date: 1946
     text: Defeated in election.
@@ -4023,6 +4104,8 @@
 - person: 405530
   name: Hoeppel
   allegation: selling military appointments
+  text: Hoeppel faced an allegation of selling military appointments. In 1936, [convicted](https://en.wikipedia.org/wiki/John_H._Hoeppel#Political_career).
+    In 1936, [unsuccessful candidate for election](https://en.wikipedia.org/wiki/John_H._Hoeppel#Political_career).
   consequences:
   - date: 1936
     text: Convicted.
@@ -4092,6 +4175,9 @@
 - person: 409435
   name: Rowbottom
   allegation: accepting bribes for appointments to the U.S. Post Office
+  text: Rowbottom faced an allegation of accepting bribes for appointments to the
+    U.S. Post Office. In 1930, [unsuccessful candidate for election](http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000474).
+    On Apr. 16, 1931, [convicted](http://query.nytimes.com/gst/abstract.html?res=9F05E0DC1F38E03ABC4E52DFB266838A629EDE&legacy=true).
   consequences:
   - date: 1930
     text: Unsuccessful candidate for election.
@@ -4525,6 +4611,8 @@
 - person: 402380
   name: Cassel
   allegation: fraud related to the construction of the Pennsylvania State Capitol
+  text: Cassel faced an allegation of fraud related to the construction of the Pennsylvania
+    State Capitol. In 1909, [convicted and was not re-elected](https://en.wikipedia.org/wiki/Henry_B._Cassel).
   consequences:
   - date: 1909
     text: Convicted and was not re-elected.
@@ -4570,6 +4658,10 @@
   name: Mitchell
   allegation: using political influence in the federal government to help clients
     with land claims
+  text: Mitchell faced an allegation of using political influence in the federal government
+    to help clients with land claims. In 1905, [indictment and conviction occured
+    during Senate recess](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=33).
+    On Dec. 8, 1905, [died](http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000818).
   consequences:
   - date: 1905
     text: Indictment and conviction occured during Senate recess.
