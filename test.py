@@ -42,7 +42,7 @@ for incident in misconduct:
 	debug_id = "<{}> <{}>".format(incident.get("name"), incident.get("text", "")[0:40]+"...")
 
 	if not isinstance(incident.get("allegation"), str):
-		error("incident {} is missing or has invalid 'text', should be a string.".format(debug_id))
+		error("incident {} is missing or has invalid 'allegation', should be a string.".format(debug_id))
 
 	if not isinstance(incident.get("consequences"), list):
 		error("incident {} is missing or has invalid 'consequences', should be a list.".format(debug_id))
