@@ -211,6 +211,17 @@
     body: House Committee on Ethics
     action: deferred to the Department of Justice
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative
+- person: 400169
+  name: Dennis “Denny” Hastert
+  text: In 2016 Hastert pleaded guilty to child molestation, 10 years after leaving Congress. In 2006, Hastert declined to run for office again. He was indicted in 2015, served 13 months in prison and was released in 2017.
+  allegation: child molestation
+  consequences:
+  - date: 2006
+    text: Hastert did not seek reelection.
+  - date: 2015
+    text: Indicted.
+  - date: 2016
+    text: Pleaded guilty, served 13 months in prison.
 - person: 412392
   name: Marlin A. Stutzman
   text: In 2016 Stutzman was investigated for using campaign funds for a 2015 family trip which included some campaign activity. The House Committee on Ethics recommended further review; however after Stutzman's loss in the 2016 election, [the investigation was ended](https://ethics.house.gov/sites/ethics.house.gov/files/20170102%20Summary%20of%20Activities%20114th%20Congress%20Report.pdf).
