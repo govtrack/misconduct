@@ -10,6 +10,7 @@
     body: Federal Bureau of Investigation
     action: issued a search warrant for email
     link: http://www.philly.com/philly/news/pennsylvania/philadelphia/bob-brady-search-warrant-emails-campaign-payoff-probe-20171121.html
+  tags: campaign corruption
 - person: 412466
   name: Meehan
   text: While serving on the House Committee on Ethics, Meehan used taxpayer funds
@@ -25,6 +26,7 @@
     body: House Committee on Ethics
     action: announced it has begun an investigation
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-12
+  tags: sexual-harassment
 - person: 412716
   name: Ruben Kihuen
   text: On Dec. 15, 2017, the House Committee on Ethics announced that it had begun
@@ -38,6 +40,7 @@
   - date: 2017-12-16
     text: Kihuen will not seek re-election.
     link: https://www.washingtonpost.com/news/powerpost/wp/2017/12/16/rep-ruben-kihuen-wont-seek-reelection-amid-sexual-harassment-allegations/?tid=ss_tw&utm_term=.d048e86f2317
+  tags: sexual-harassment
 - person: 400141
   name: Trent Franks
   text: In 2017, Franks resigned due to reports that he had asked staff members to
@@ -53,6 +56,8 @@
   - date: 2017-12-09
     text: Resigned before an investigation could begin.
     link: https://www.politico.com/story/2017/12/08/trent-franks-sex-surrogacy-impregnate-287808
+    tags: resignation
+  tags: sexual-harassment
 - person: 412378
   name: Al Franken
   text: On December 7, 2017, Senator Franken announced his resignation which was effective
@@ -67,6 +72,8 @@
     link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=A7DC53D9-3BB6-4C9C-81A9-EA983132193E
   - date: 2017-12-07
     text: Franken announced his resignation, which was effective January 2, 2018.
+    tags: resignation
+  tags: sexual-harassment
 - person: 400080
   name: John Conyers, Jr.
   text: On December 5, 2017, Conyers resigned from office at the start of an investigation
@@ -81,6 +88,8 @@
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jo-1
   - date: 2017-12-05
     text: Conyers resigned from office.
+    tags: resignation
+  tags: ethics sexual-harassment
 - person: 400272
   name: Robert Menendez
   text: Menendez is being investigated for unspecified misconduct in 2012, presumably
@@ -94,6 +103,7 @@
     action: reopened its investigation after Menendez's corruption and bribery case
       ended in a mistrial
     link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=686EB556-1D6D-4B2F-AB19-9DFA579C1699
+  tags: corruption
 - person: 400426
   name: Weiner
   allegation: sending sexually explicit texts to women who were not his wife
@@ -113,6 +123,7 @@
   - date: 2011-06-21
     text: Resigned.
     link: http://content.usatoday.com/communities/onpolitics/post/2011/06/anthony-weiner-resignation-sex-scandal-/1#.WmekVpM-f1I
+    tags: resignation
   - date: 2016-09-21
     text: A newspaper article claimed Weiner had sent explicit text messages to a
       15 year old girl and computers were seized as part of the investigation into
@@ -128,8 +139,10 @@
     text: Surrendered to the FBI and pleaded guilty to a single charge of transferring
       obscene materials to a minor.
     link: https://www.nytimes.com/2017/05/19/nyregion/anthony-weiner-guilty-plea-sexting.html
+    tags: plea
   - date: 2017-11-06
     text: Sentenced to 21 months in prison.
+  tags: crime sexual-harassment
 - person: 400201
   name: William Jefferson
   text: In 2009 Jefferson was convicted of bribery. In 2012, he was sentenced to 13
@@ -139,10 +152,12 @@
   consequences:
   - date: 2009
     text: Convicted.
+    tags: conviction
   - date: 2012
     text: Sentenced to 13 years in prison.
   - date: 2017
     text: Seven of the 10 indictments were dismissed and he was released from prison.
+  tags: corruption
 - person: 412563
   name: Chris Collins
   text: In 2017 Collins was investigated for sharing material nonpublic information
@@ -158,6 +173,7 @@
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-3
+  tags: ethics
 - person: 400163
   name: Luis V. Gutiérrez
   text: In 2017 Gutierrez was investigated for having been arrested during a protest
@@ -173,6 +189,7 @@
     link: https://www.gpo.gov/fdsys/pkg/CRPT-115hrpt310/pdf/CRPT-115hrpt310.pdf
   - date: 2017-11-28
     text: Representative Gutierrez announced he would not seek reelection to Congress.
+  tags: ethics
 - person: 400041
   name: Madeleine Z. Bordallo
   text: In 2017 Bardallo was investigated for receiving profit from a foreign government;
@@ -194,6 +211,7 @@
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-delegate-madelein-0
+  tags: ethics
 - person: 400080
   name: John Conyers, Jr.
   text: In 2017 Conyers was investigated for compensating staff for work in 2016 not
@@ -210,6 +228,7 @@
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jo-0
+  tags: ethics
 - person: 412293
   name: Ben Ray Luján
   text: In 2017 Lujan was investigated for requesting that his congressional campaign
@@ -228,6 +247,7 @@
     body: House Committee on Ethics
     action: concluded that no action was needed
     link: http://ethics.house.gov/sites/ethics.house.gov/files/20170801%20Rep.%20Lujan%20Report%20-%20FINAL_1.pdf
+  tags: campaign ethics
 - person: 412578
   name: Roger Williams
   text: In 2017 Williams was investigated for improperly taking official action in
@@ -250,6 +270,7 @@
       surrounding Representative Williams’ actions did not create a reasonable inference
       of improper conduct
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-1
+  tags: ethics
 - person: 412736
   name: Greg Gianforte
   text: In 2017 Gianforte pleaded guilty to assaulting a reporter in 2017 the night
@@ -258,6 +279,8 @@
   consequences:
   - date: 2017
     text: Pleaded guilty.
+    tags: plea
+  tags: crime
 - person: 400297
   name: Devin Nunes
   text: In 2017 Nunes was investigated for unauthorized disclosures of classified
@@ -273,6 +296,7 @@
     body: House Committee on Ethics
     action: closed the investigation
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-6
+  tags: ethics
 - person: 412283
   name: Duncan Hunter
   text: In 2016 Hunter was investigated for converting funds from his congressional
@@ -289,6 +313,7 @@
     body: House Committee on Ethics
     action: deferred to the Department of Justice
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative
+  tags: campaign crime
 - person: 400169
   name: Dennis “Denny” Hastert
   text: In 2016 Hastert pleaded guilty to child molestation, 10 years after leaving
@@ -302,6 +327,8 @@
     text: Indicted.
   - date: 2016
     text: Pleaded guilty, served 13 months in prison.
+    tags: plea
+  tags: crime
 - person: 412392
   name: Marlin A. Stutzman
   text: In 2016 Stutzman was investigated for using campaign funds for a 2015 family
@@ -320,6 +347,7 @@
     action: recommended further review; however after Stutzman's loss in the 2016
       election, the investigation was ended
     link: https://ethics.house.gov/sites/ethics.house.gov/files/20170102%20Summary%20of%20Activities%20114th%20Congress%20Report.pdf
+  tags: campaign
 - person: 412276
   name: Alan Grayson
   text: In 2015 Grayson was investigated for numerous alleged violations, the majority
@@ -340,6 +368,7 @@
     action: recommended further review; however due to a loss in the 2016 election,
       the investigation was ended
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-alan-0
+  tags: ethics
 - person: 400185
   name: Michael M. Honda
   text: In 2015 Honda was investigated for using official resources for campaign purposes.
@@ -357,6 +386,7 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-14
   - date: 2016
     text: Honda reelection.
+  tags: campaign ethics
 - person: 400048
   name: Corrine Brown
   text: In 2016 Brown was convicted for a range of mail violations, wire fraud, defrauding
@@ -377,6 +407,8 @@
   - date: 2017
     text: Convicted and was sentenced to five years in prison.
     link: https://en.wikipedia.org/wiki/Corrine_Brown#Political_controversies
+    tags: conviction
+  tags: crime
 - person: 412487
   name: David B. McKinley
   text: In 2016 McKinley received a letter of reproval for remaining a named partner
@@ -389,6 +421,8 @@
     body: House Committee on Ethics
     action: concluded McKinley violated House rules and issued a letter of reproval
     link: https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt795/pdf/CRPT-114hrpt795.pdf
+    tags: reprimand
+  tags: ethics
 - person: 412552
   name: Mark Meadows
   text: In 2016 Meadows was investigated for retaining an employee through 2015 who
@@ -405,6 +439,7 @@
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-mark-0
+  tags: ethics
 - person: 400431
   name: Ed Whitfield
   text: In 2016 Whitfield received a letter of reproval for permitting his spouse
@@ -421,6 +456,8 @@
     body: House Committee on Ethics
     action: found the violation occured and that the report would be the reproval
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ed-2
+    tags: reprimand
+  tags: ethics
 - person: 412196
   name: Vern Buchanan
   text: In 2012 Buchanan was investigated for improperly influencing a witness before
@@ -441,6 +478,7 @@
       tampering, but that the illegal reimbursements did occur, albeit without the
       Representative's knowledge
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-vern-3
+  tags: campaign ethics
 - person: 400130
   name: Chaka Fattah
   text: In 2016 Fattah was convicted for conspiracy, racketeering, bribery, fraud,
@@ -457,8 +495,11 @@
     body: House Committee on Ethics
     action: ended the investigation when Fattah resigned
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-chak-0
+    tags: resignation
   - date: 2016
     text: Fattah resigned in 2016, two days after being convicted of the charges.
+    tags: conviction resignation
+  tags: corruption
 - person: 412308
   name: Jared Polis
   text: In 2015 Polis was investigated for official endorsement of commercial products.
@@ -473,6 +514,7 @@
     body: House Committee on Ethics
     action: concluded that no action was needed
     link: https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt381/pdf/CRPT-114hrpt381.pdf
+  tags: ethics
 - person: 412551
   name: Robert Pittenger
   text: In 2015 Pittenger was investigated for compensation for his involvement with
@@ -490,6 +532,7 @@
   - date: 2017-05
     text: The FBI closed the investigation without making any charges.
     link: http://www.charlotteobserver.com/news/business/article148497229.html
+  tags: ethics
 - person: 412482
   name: Blake Farenthold
   text: In 2015 Farenthold was investigated for sexual harassment on the basis of
@@ -515,6 +558,7 @@
     link:
     - http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court
     - https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458
+    tags: settlement
   - date: 2017-12-07
     body: House Committee on Ethics
     action: re-opened the investigation
@@ -526,6 +570,7 @@
   - date: 2017-12-13
     text: Farenthold announces he will not seek reelection in 2018.
     link: https://www.dallasnews.com/news/politics/2017/12/14/farenthold-drops-reelection-bid-amid-complaints-lewdness-hostile-workplace-congress
+  tags: sexual-harassment
 - person: 412558
   name: Michelle Lujan Grisham
   text: In 2015 Grisham was investigated for travel funded or organized by one or
@@ -544,6 +589,7 @@
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
     link: https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt239/pdf/CRPT-114hrpt239.pdf
+  tags: ethics
 - person: 400271
   name: Gregory W. Meeks
   text: In 2015 Meeks was investigated for travel funded or organized by one or more
@@ -562,6 +608,7 @@
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
     link: https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt239/pdf/CRPT-114hrpt239.pdf
+  tags: ethics
 - person: 400652
   name: Ted Poe
   text: In 2015 Poe was investigated for travel funded or organized by one or more
@@ -580,6 +627,7 @@
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
     link: https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt239/pdf/CRPT-114hrpt239.pdf
+  tags: ethics
 - person: 412567
   name: Jim Bridenstine
   text: In 2015 Bridenstine was investigated for travel funded or organized by one
@@ -598,6 +646,7 @@
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
     link: https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt239/pdf/CRPT-114hrpt239.pdf
+  tags: ethics
 - person: 412221
   name: Yvette D. Clarke
   text: In 2015 Clarke was investigated for travel funded or organized by one or more
@@ -616,6 +665,7 @@
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
     link: https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt239/pdf/CRPT-114hrpt239.pdf
+  tags: ethics
 - person: 400093
   name: Danny K. Davis
   text: In 2015 Davis was investigated for travel funded or organized by one or more
@@ -634,6 +684,7 @@
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
     link: https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt239/pdf/CRPT-114hrpt239.pdf
+  tags: ethics
 - person: 400199
   name: Sheila Jackson Lee
   text: In 2015 Lee was investigated for travel funded or organized by one or more
@@ -652,6 +703,7 @@
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
     link: https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt239/pdf/CRPT-114hrpt239.pdf
+  tags: ethics
 - person: 412290
   name: Leonard Lance
   text: In 2015 Lance was investigated for travel funded or organized by one or more
@@ -670,6 +722,7 @@
     action: concluded implicated House members did not intentionally accept gifts
       from prohibited entities
     link: https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt239/pdf/CRPT-114hrpt239.pdf
+  tags: ethics
 - person: 400179
   name: Rubén Hinojosa
   text: In 2015 Hinojosa was investigated for travel funded or organized by one or
@@ -691,6 +744,7 @@
     link: https://www.gpo.gov/fdsys/pkg/CRPT-114hrpt239/pdf/CRPT-114hrpt239.pdf
   - date: 2016
     text: Hinojosa did not seek reelection.
+  tags: ethics
 - person: 412314
   name: Aaron Schock
   text: In 2018 Schock will be tried for soliciting campaign contributions in excess
@@ -710,6 +764,8 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-aaro-0
   - date: 2015
     text: Schock resigned.
+    tags: resignation
+  tags: campaign crime ethics
 - person: 412252
   name: Paul C. Broun
   text: In 2014 Broun was investigated for using official resources for campaign purposes.
@@ -727,6 +783,7 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-paul-0
   - date: 2014
     text: Broun lost reelection.
+  tags: campaign ethics
 - person: 412216
   name: Michele Bachmann
   text: In 2013 Bachmann was investigated for campaign finance violations. The House
@@ -746,6 +803,7 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-6
   - date: 2014
     text: Bachmann did not seek reelection.
+  tags: campaign
 - person: 400031
   name: Timothy H. Bishop
   text: In 2013 Bishop was investigated for soliciting campaign contributions in exchange
@@ -765,6 +823,7 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tim-1
   - date: 2014
     text: Bishop lost reelection.
+  tags: campaign corruption
 - person: 400318
   name: Thomas E. Petri
   text: In 2014 Petri was investigated for performing official work on behalf of companies
@@ -784,6 +843,7 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tom-1
   - date: 2014-11
     text: Petri announced he would not seek reelection.
+  tags: ethics
 - person: 400170
   name: Alcee L. Hastings
   text: In 2012 Hastings was investigated for sexual harassment and employment retaliation.
@@ -801,6 +861,7 @@
     action: concluded that there was insufficient evidence to act further even though
       the representative admitted to "less than professional behavior"
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-alce-1
+  tags: sexual-harassment
 - person: 400151
   name: Phil Gingrey
   text: In 2012 Gingrey was investigated for 2011 compensation from banks on whose
@@ -816,8 +877,10 @@
     action: concluded that Gingrey did advocate for banks in which he had a financial
       interest and issued a letter of reproval
     link: https://ethics.house.gov/sites/ethics.house.gov/files/In%20the%20Matter%20of%20Allegations%20Relating%20to%20Representative%20Phil%20Gingrey_0.pdf
+    tags: reprimand
   - date: 2014
     text: Gingrey lost the primary for one of Georgia's Senate seats.
+  tags: ethics
 - person: 412379
   name: Judy Chu
   text: In 2014 Chu received a letter of reproval for using House staff to perform
@@ -832,6 +895,8 @@
     action: concluded that the campaign work occured without her knowledge but because
       Chu attempted to obstruct the investigation, a letter of reproval was issued
     link: https://ethics.house.gov/committee-report/matter-representative-judy-chu
+    tags: reprimand
+  tags: campaign ethics
 - person: 412451
   name: Michael G. Grimm
   text: In 2014 Grimm pleaded guilty to violating federal campaign finance laws by
@@ -856,8 +921,11 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-12
   - date: 2014
     text: Grimm pleaded guilty to tax evasion.
+    tags: plea
   - date: 2015
     text: Resigned and served seven months in prison.
+    tags: resignation
+  tags: campaign crime
 - person: 400350
   name: Bobby L. Rush
   text: In 2014 Rush was investigated for allowing state and federal campaign committees
@@ -873,6 +941,7 @@
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-bobb-0
+  tags: campaign
 - person: 400661
   name: Gwen Moore
   text: In 2014 Moore was investigated for an arrest at a 2014 protest in Wisconsin.
@@ -885,6 +954,7 @@
     action: concluded that the fines would be paid and no further investigation was
       required
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-allegations-relatin-1
+  tags: ethics
 - person: 400440
   name: Don Young
   text: In 2014 Young received a letter of reproval for improper travel gifts and
@@ -897,6 +967,8 @@
     action: concluded Young had improperly accepted travel gifts and issued a letter
       of reproval
     link: https://ethics.house.gov/committee-report/matter-representative-don-young
+    tags: reprimand
+  tags: ethics
 - person: 410396
   name: Steve Stockman
   text: In 2014 Stockman was investigated for conspiring to accept contributions to
@@ -918,6 +990,7 @@
   - date: 2014
     text: Stockman lost the Senate primary and did not win reelection to his House
       seat.
+  tags: campaign ethics
 - person: 400163
   name: Luis V. Gutiérrez
   text: In 2013 Gutierrez was investigated for using funds from his Members Representational
@@ -941,6 +1014,7 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-luis-0
   - date: 2017-11-28
     text: Gutierrez announced he would not seek reelection.
+  tags: ethics
 - person: 409343
   name: Robert Rodgers
   text: In 2013 Rodgers was investigated for using official resources, including staff,
@@ -961,6 +1035,7 @@
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-cath-0
+  tags: campaign ethics
 - person: 412568
   name: Markwayne Mullin
   text: In 2013 Mullin was investigated for receiving excess outside earned income,
@@ -979,6 +1054,7 @@
     body: House Committee on Ethics
     action: recommended further review
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-9
+  tags: ethics
 - person: 400008
   name: Robert E. Andrews
   text: In 2013 Andrews was investigated for improper use of campaign funds for personal
@@ -992,6 +1068,8 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-robe-1
   - date: 2014
     text: Andrews resigned from Congress.
+    tags: resignation
+  tags: campaign
 - person: 412528
   name: Trey Radel
   text: In 2013 Radel pleaded guilty to possession of cocaine. The House Committee
@@ -1001,13 +1079,16 @@
   consequences:
   - date: 2013
     text: Pleaded guilty.
+    tags: plea
   - date: 2014-01-29
     body: House Committee on Ethics
     action: ended the investigation when Radel resigned
     link: https://ethics.house.gov/press-release/statement-regarding-investigative-subcommittee-matter-representative-henry-j-%E2%80%9Ctrey%E2%80%9D
+    tags: resignation
   - date: 2014
     text: Radel was sentenced to probation, which he served.
     link: http://www.news-press.com/story/news/2014/10/30/ex-congressman-trey-radels-record-cleared/18218925/
+  tags: crime
 - person: 412202
   name: Peter J. Roskam
   text: In 2013 Roskam was investigated for accepting impermissible travel gifts in
@@ -1024,6 +1105,7 @@
     action: concluded that there was insufficient evidence to show that the travel
       was improper
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-allegations-relatin-0
+  tags: ethics
 - person: 412383
   name: William L. Owens
   text: In 2012 Owens was investigated for accepting impermissible travel gifts in
@@ -1043,6 +1125,7 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-allegations-relatin-0
   - date: 2014
     text: Owens did not seek reelection in 2014.
+  tags: ethics
 - person: 400407
   name: John F. Tierney
   text: In 2013 Tierney was investigated for failing to declare his wife's income
@@ -1072,6 +1155,7 @@
     link: http://www.sandiegouniontribune.com/sdut-rep-tierneys-wife-to-plead-guilty-to-tax-charges-2010oct05-story.html
   - date: 2014
     text: Tierney was defeated in the Democratic primary.
+  tags: ethics
 - person: 400337
   name: Silvestre Reyes
   text: In 2012 Reyes was investigated for improper use of campaign funds for personal
@@ -1089,6 +1173,7 @@
     link: https://ethics.house.gov/press-release/statement-ot-chairman-and-ranking-member-committee-ethics-regarding-representative
   - date: 2012
     text: Reyes lost reelection.
+  tags: campaign
 - person: 400024
   name: Shelley Berkley
   text: In 2012 Berkley was investigated for advocating for programs in which she
@@ -1109,6 +1194,7 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-4
   - date: 2012
     text: Berkley lost reelection.
+  tags: ethics
 - person: 400271
   name: Gregory W. Meeks
   text: In 2011 Meeks was investigated for failing to disclose a gift in 2007 and
@@ -1127,6 +1213,7 @@
     action: dismissed the loan allegation, but found the representative unknowingly
       failed to properly disclose the gifts
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-3
+  tags: ethics
 - person: 400352
   name: Tim Ryan
   text: In 2012 Ryan was investigated for charges of public intoxication in 2012.
@@ -1138,6 +1225,7 @@
     body: House Committee on Ethics
     action: concluded no action was required as the charges in Virginia were dismissed
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tim
+  tags: ethics
 - person: 400198
   name: Jesse L. Jackson Jr.
   text: In 2013, Jackson pleaded guilty to [misuse of campaign funds](http://www.nytimes.com/2013/02/21/us/politics/jesse-l-jackson-jr-pleads-guilty-to-wire-and-mail-fraud.html?partner=rss&emc=rss&smid=tw-nytimes&_r=0)
@@ -1159,9 +1247,12 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jess-0
   - date: 2012
     text: Resigned from Congress.
+    tags: resignation
   - date: 2013
     text: Jackson pleaded guilty to misuse of campaign funds.
     link: http://www.nytimes.com/2013/02/21/us/politics/jesse-l-jackson-jr-pleads-guilty-to-wire-and-mail-fraud.html?partner=rss&emc=rss&smid=tw-nytimes&_r=0
+    tags: plea
+  tags: campaign
 - person: 400422
   name: Maxine Waters
   text: In 2009 Waters was investigated for a conflict of interest with respect to
@@ -1181,6 +1272,7 @@
     action: concluded that Representative Waters' chief of state was at fault for
       creating the appearance of conflict, but Waters was not
     link: https://ethics.house.gov/press-release/statement-acting-chairman-and-acting-ranking-member-committee-ethics-regarding
+  tags: ethics
 - person: 412196
   name: Vern Buchanan
   text: In 2011 Buchanan was investigated for failing to report positions he held
@@ -1201,6 +1293,7 @@
       in outside companies and unearned income They were satisfied when the representative
       amended his forms
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-vern-2
+  tags: ethics
 - person: 400576
   name: Tom Coburn
   text: In 2012 Coburn received a qualified admonishment for meeting with a lobbyist
@@ -1215,13 +1308,13 @@
   allegation: meeting with a lobbyist before the one year embargo on former Congressional
     staffers' lobbying expired
   consequences:
-  - date: 2012
-    text: Received a qualified admonishment.
   - date: 2012-05-25
     body: Senate Select Committee on Ethics
     action: issued a qualified admonishment because Coburn acknowledged his error
       and it was only a single meeting
     link: https://www.ethics.senate.gov/public/index.cfm/letterstomembers?ID=4E526F44-3316-4700-B545-98017020C1FE
+    tags: reprimand
+  tags: ethics
 - person: 400418
   name: David Vitter
   text: In 2012 Vitter was investigated for demanding the issuance Gulf of Mexico
@@ -1243,6 +1336,7 @@
   - date: 2014
     text: Vitter lost the election for Louisiana Governor and did not run again for
       the Senate.
+  tags: ethics
 - person: 400440
   name: Don Young
   text: In 2011 Young was investigated for accepting campaign contributions in excess
@@ -1259,6 +1353,7 @@
     action: dismissed the allegations, bbut also changed House rules to prohibit similar
       contributions in the future
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-don
+  tags: campaign
 - person: 400163
   name: Luis V. Gutiérrez
   text: In 2011 Gutierrez was investigated for having been arrested during a protest
@@ -1274,6 +1369,7 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-regarding-representative-luis-v-gutierrez
   - date: 2017-11-28
     text: Gutierrez announced he would not seek reelection.
+  tags: ethics
 - person: 412010
   name: Jean Schmidt
   text: In 2011 Schmidt was investigated for receiving over $500,000 in gifts as legal
@@ -1301,6 +1397,7 @@
     text: Schmidt lost reelection. When she left office, she had not paid for those
       services.
     link: https://en.wikipedia.org/wiki/Jean_Schmidt#Legal_Expense_Fund
+  tags: ethics
 - person: 412299
   name: Eric Massa
   text: In 2010 Massa was investigated for [sexual harassment](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/13/AR2010041302257.html).
@@ -1314,6 +1411,7 @@
   consequences:
   - date: 2010-03-08
     text: Representative Massa resigned.
+    tags: resignation
   - date: 2010-03-10
     body: House Committee on Ethics
     action: closed the investigation since he resigned
@@ -1325,10 +1423,12 @@
     text: At some point after he resigned, the Congressional Office of Compliance
       settled with Massa's victims for $100,000.
     link: http://abcnews.go.com/Politics/congress-secretly-paid-100000-settle-harassment-claims-disgraced/story?id=51494871
+    tags: settlement
   - date: 2011-07-14
     body: House Committee on Ethics
     action: reauthorized an investigative subcommittee
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-regarding-former-representative-eric-massa
+  tags: sexual-harassment
 - person: 300040
   name: John Ensign
   text: In 2011 Ensign was investigated for violating lobbying rules in order to cover
@@ -1349,6 +1449,8 @@
       as did the FEC. However, the FEC reopened it after the Senate's report in 2011
       and levied fines in 2013.
     link: https://m.lasvegassun.com/news/2013/may/24/fec-fine-sad-end-sad-sage-ensign/
+    tags: resignation
+  tags: ethics
 - person: 400087
   name: Joseph Crowley
   text: In 2010 Crowley was investigated for soliciting campaign contributions from
@@ -1366,6 +1468,7 @@
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-member-regarding-representatives-john-campbell
+  tags: campaign
 - person: 400626
   name: Tom Price
   text: In 2010 Price was investigated for soliciting campaign contributions from
@@ -1390,6 +1493,7 @@
       Secretary. On September 29, 2017, Price resigned due to inappropriate use of
       private and chartered flights while HHS Secretary.
     link: https://www.nytimes.com/2017/09/29/us/politics/tom-price-trump-hhs.html
+  tags: campaign
 - person: 412011
   name: John Campbell
   text: In 2010 Campbell was investigated for soliciting campaign contributions from
@@ -1410,6 +1514,7 @@
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-member-regarding-representatives-john-campbell
   - date: 2014
     text: Campell announced he would not seek reelection.
+  tags: campaign
 - person: 400616
   name: G. K. Butterfield
   text: In 2010 Butterfield was investigated for keeping the difference between his
@@ -1427,6 +1532,7 @@
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives
+  tags: ethics
 - person: 400170
   name: Alcee L. Hastings
   text: In 2010 Hastings was investigated for keeping the difference between his requested
@@ -1444,6 +1550,7 @@
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives
+  tags: ethics
 - person: 400302
   name: Solomon Ortiz
   text: In 2010 Ortiz was investigated for keeping the difference between his requested
@@ -1464,6 +1571,7 @@
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives
   - date: 2012
     text: Ortiz lost reelection.
+  tags: ethics
 - person: 400433
   name: Joe Wilson
   text: In 2010 Wilson was investigated for keeping the difference between his requested
@@ -1481,6 +1589,7 @@
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives
+  tags: ethics
 - person: 400004
   name: Robert B. Aderholt
   text: In 2010 Aderholt was investigated for keeping the difference between his requested
@@ -1498,6 +1607,7 @@
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives
+  tags: ethics
 - person: 400122
   name: Eliot L. Engel
   text: In 2010 Engel was investigated for keeping the difference between his requested
@@ -1515,6 +1625,7 @@
     body: House Committee on Ethics
     action: recommended no further action
     link: https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives
+  tags: ethics
 - person: 400333
   name: Charles B. Rangel
   text: The House [voted to censure Rangel for ethics violations and tax evasion on
@@ -1530,8 +1641,10 @@
     body: House of Representatives
     action: voted to censure Rangel 333-79
     link: http://www.nytimes.com/2010/12/03/nyregion/03rangel.html
+    tags: censure
   - date: 2016
     text: Rangel did not seek reelection.
+  tags: crime ethics
 - person: 412253
   name: Laura Richardson
   text: In 2009 Richardson was investigated for violating gift and financial disclosure
@@ -1557,6 +1670,7 @@
     link: https://ethics.house.gov/committee-report/matter-representative-laura-richardson
   - date: 2012
     text: Richardson lost reelection.
+  tags: ethics
 - person: 400099
   name: Nathan Deal
   text: In 2010 Deal was investigated for improper influence over state officials
@@ -1573,6 +1687,8 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-former-rep-deal
   - date: 2010-03-21
     text: Deal resigned.
+    tags: resignation
+  tags: ethics
 - person: 400073
   name: Donna M. Christensen
   text: In 2009 Christensen was investigated for receiving impermissible travel gifts.
@@ -1593,6 +1709,7 @@
     link: https://ethics.house.gov/committee-report/matter-carib-news-foundation
   - date: 2014
     text: Christensen did not seek reelection.
+  tags: ethics
 - person: 400217
   name: Carolyn Kilpatrick
   text: In 2009 Kilpatrick was investigated for receiving impermissible travel gifts.
@@ -1613,6 +1730,7 @@
     link: https://ethics.house.gov/committee-report/matter-carib-news-foundation
   - date: 2010
     text: Kilpatrick lost the Democratic primary.
+  tags: ethics
 - person: 400312
   name: Donald Payne
   text: In 2009 Payne was investigated for receiving impermissible travel gifts. The
@@ -1630,6 +1748,7 @@
     action: concluded Representative Payne did not knowingly accept impermissble travel
       gifts
     link: https://ethics.house.gov/committee-report/matter-carib-news-foundation
+  tags: ethics
 - person: 400333
   name: Charles B. Rangel
   text: In 2009 Rangel was investigated for receiving impermissible travel gifts.
@@ -1647,6 +1766,7 @@
     action: concluded Representative Rangel did knowingly accept impermissble travel
       gifts and ordered him to repay them
     link: https://ethics.house.gov/committee-report/matter-carib-news-foundation
+  tags: ethics
 - person: 400402
   name: Bennie G. Thompson
   text: In 2009 Thompson was investigated for receiving impermissible travel gifts.
@@ -1664,6 +1784,7 @@
     action: concluded Representative Thompson did not knowingly accept impermissble
       travel gifts
     link: https://ethics.house.gov/committee-report/matter-carib-news-foundation
+  tags: ethics
 - person: 400405
   name: Todd Tiahrt
   text: In 2009 Tiahrt was investigated for soliciting campaign contributions in exchange
@@ -1682,6 +1803,7 @@
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
   - date: 2010
     text: Tiahrt ran for the Senate and lost.
+  tags: campaign corruption
 - person: 400417
   name: Peter J. Visclosky
   text: In 2009 Visclosky was investigated for soliciting campaign contributions in
@@ -1698,6 +1820,7 @@
     body: House Committee on Ethics
     action: dismissed the charges on the OCE's recommendation
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
+  tags: campaign corruption
 - person: 400109
   name: Norman D. Dicks
   text: In 2009 Dicks was investigated for soliciting campaign contributions in exchange
@@ -1716,6 +1839,7 @@
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
   - date: 2012
     text: Dicks did not seek reelection.
+  tags: campaign corruption
 - person: 400211
   name: Marcy Kaptur
   text: In 2009 Kaptur was investigated for soliciting campaign contributions in exchange
@@ -1731,6 +1855,7 @@
     body: House Committee on Ethics
     action: dismissed the charges on the OCE's recommendation
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
+  tags: campaign corruption
 - person: 400283
   name: James P. Moran
   text: In 2009 Moran was investigated for soliciting campaign contributions in exchange
@@ -1749,6 +1874,7 @@
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
   - date: 2014
     text: Moran announced he would not seek reelection.
+  tags: campaign corruption
 - person: 400286
   name: John Murtha
   text: In 2009 Murtha was investigated for soliciting campaign contributions in exchange
@@ -1767,6 +1893,7 @@
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
   - date: 2010-02-08
     text: Representative Murtha died.
+  tags: campaign corruption
 - person: 400439
   name: C. W. Bill Young
   text: In 2009 Young was investigated for soliciting campaign contributions in exchange
@@ -1785,6 +1912,7 @@
     link: https://ethics.house.gov/committee-report/matter-allegations-relating-lobbying-activities-paul-magliocchetti-and-associates
   - date: 2013-10-10
     text: Representative Young died.
+  tags: campaign corruption
 - person: 400387
   name: Fortney Pete Stark
   text: In 2009 Stark was investigated for claiming tax credits for a residence which
@@ -1805,6 +1933,7 @@
     link: https://ethics.house.gov/committee-report/matter-representative-fortney-pete-stark
   - date: 2012
     text: Stark announced his retirement from Congress.
+  tags: crime
 - person: 412328
   name: Roland Burris
   text: In 2009 Burris received a qualified admonishment for appearing to agree to
@@ -1824,10 +1953,12 @@
       of crimes, Burris' own comments were misleading with respect to what he promised
       in exchange for his Senate appointment
     link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=75733369-12F4-4A65-B71C-C71276547255
+    tags: reprimand
   - date: 2010
     text: Senator Burris served in the Senate only nine months with Mark Kirk winning
       the 2010 election.
     link: https://en.wikipedia.org/wiki/Roland_Burris#Senate_appointment
+  tags: campaign corruption
 - person: 400158
   name: Sam Graves
   text: In 2009 Graves was investigated for inviting improper hearing witnesses. The
@@ -1844,6 +1975,7 @@
     body: House Committee on Ethics
     action: dismissed the charges as Representative Graves did not act improperly
     link: https://ethics.house.gov/committee-report/matter-representative-sam-graves
+  tags: ethics
 - person: 300026
   name: Kent Conrad
   text: In 2009 Conrad was investigated for receiving mortgages from Countrywide Financial
@@ -1861,6 +1993,7 @@
     link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=EFD5E787-06EC-4B18-A249-5F0C1F7CC995
   - date: 2012
     text: Conrad did not run for reelection.
+  tags: ethics
 - person: 300034
   name: Christopher Dodd
   text: In 2009 Dodd was investigated for receiving mortgages from Countrywide Financial
@@ -1878,6 +2011,7 @@
     link: https://www.ethics.senate.gov/public/index.cfm/letterstomembers?ID=9A93B548-9849-45B1-944B-C224F9A8DF85
   - date: 2010
     text: Dodd did not run for reelection.
+  tags: ethics
 - person: 400336
   name: Rick Renzi
   text: In 2013 Renzi was convicted for allegations of personal gain in a land swap
@@ -1886,8 +2020,6 @@
     convicted and was sentenced to serve three years in prison.
   allegation: personal gain in a land swap deal
   consequences:
-  - date: 2013
-    text: Convicted.
   - date: 2008-05-22
     body: House Committee on Ethics
     action: deferred to the Department of Justice
@@ -1896,6 +2028,8 @@
     text: Renzi did not run for reelection.
   - date: 2013
     text: Renzi was convicted and was sentenced to serve three years in prison.
+    tags: conviction
+  tags: crime
 - person: 400418
   name: David Vitter
   text: In 2008 Vitter was investigated for hiring prostitutes. The Senate Select
@@ -1913,6 +2047,7 @@
   - date: 2014
     text: Vitter lost the election for Louisiana Governor and did not run again for
       the Senate.
+  tags: crime
 - person: 300036
   name: Pete Domenici
   text: In 2008 Domenici received a qualified admonishment for attempting to influence
@@ -1928,9 +2063,11 @@
     action: issued a qualified admonishment because while they found no evidence of
       wrongdoing, the senator should have known how it would look
     link: https://www.ethics.senate.gov/public/index.cfm/letterstomembers?ID=2AC523B2-7968-4C2F-8221-D6F21187B6E4
+    tags: reprimand
   - date: 2007
     text: Senator Domenici announced he would retire from the Senate in 2008 at the
       end of his term.
+  tags: ethics
 - person: 300029
   name: Larry Craig
   text: In 2007 Craig pleaded guilty to using his status to receive special treatment
@@ -1947,17 +2084,18 @@
     at the Minneapolis-St. Paul airport
   consequences:
   - date: 2007
-    text: Pleaded guilty.
-  - date: 2008-02-13
-    body: Senate Select Committee on Ethics
-    action: admonished the senator on both counts
-    link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=ED41D9EA-3E36-4D89-9FAC-8CABA610D07A
-  - date: 2007
     text: Senator Craig was arrested for lewd conduct pleaded to disorderly conduct
       and subsequently attempted to withdraw his guilty plea. He retired at the end
       of his term in 2008 and as of 2016 has been ordered to personally pay for legal
       fees incurred that had previously been paid with campaign funds.
     link: https://en.wikipedia.org/wiki/Larry_Craig#2007_arrest_and_consequences
+    tags: plea
+  - date: 2008-02-13
+    body: Senate Select Committee on Ethics
+    action: admonished the senator on both counts
+    link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=ED41D9EA-3E36-4D89-9FAC-8CABA610D07A
+    tags: reprimand
+  tags: campaign
 - person: 300094
   name: Ted Stevens
   text: In 2008 Stevens was convicted of making false statements. Prior to sentencing
@@ -1967,10 +2105,12 @@
   consequences:
   - date: 2008
     text: Stevens was convicted and lost reelection.
+    tags: conviction
   - date: 2009
     text: Prior to sentencing in 2009, the indictment was dismissed.
   - date: 2010
     text: Stevens died.
+  tags: crime
 - person: 400293
   name: Ney
   allegation: involvement in the Jack Abramoff influence-peddling investigation
@@ -1985,9 +2125,12 @@
   - date: 2006-10-03
     text: Pleaded guilty.
     link: http://www.washingtonpost.com/wp-dyn/content/article/2006/11/04/AR2006110400194.html
+    tags: plea
   - date: 2006-11-03
     text: Resigned.
     link: http://www.washingtonpost.com/wp-dyn/content/article/2006/11/04/AR2006110400194.html
+    tags: resignation
+  tags: corruption
 - person: 400091
   name: Cunningham
   allegation: tax evasion, conspiracy to commit bribery, mail fraud and wire fraud
@@ -2003,9 +2146,12 @@
   - date: 2005-11-28
     text: Pleaded guilty.
     link: https://en.wikipedia.org/wiki/Duke_Cunningham#Plea_agreement
+    tags: plea
   - date: 2005-11-28
     text: Resigned.
     link: https://en.wikipedia.org/wiki/Duke_Cunningham#Resignation
+    tags: resignation
+  tags: corruption
 - person: 400262
   name: McDermott
   allegation: improperly disclosing the contents of an intercepted cell-phone conversation
@@ -2024,6 +2170,7 @@
     action: concluded that McDermott’s conduct was inconsistent with the spirit of
       the applicable rules.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/2006_McDermott.pdf
+  tags: ethics
 - person: 400022
   name: Bell
   allegation: filing a complaint against DeLay which contained innuendo, speculative
@@ -2039,6 +2186,7 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/November%2018%202004%20COE%20to%20Rep%20Bell.pdf
   - date: 2004
     text: Bell lost in the primary election.
+  tags: ethics
 - person: 400258
   name: McCarthy
   allegation: conversion of campaign funds to personal use
@@ -2057,6 +2205,7 @@
     text: McCarthy did not seek reelection after acknowledging that she had untreated
       alcoholism.
     link: http://www.washingtonpost.com/wp-dyn/content/article/2010/10/06/AR2010100606919.html
+  tags: campaign
 - person: 400104
   name: DeLay
   allegation: solicitation and receipt of campaign contributions in return for legislative
@@ -2080,8 +2229,10 @@
     text: Convicted of conspiring to influence Texas legislative races via a PAC using
       illegal corporate contributions.
     link: https://www.washingtonpost.com/news/the-fix/wp/2015/07/29/more-than-two-dozen-members-of-congress-have-been-indicted-since-1980/?utm_term=.49772980fe0c
+    tags: conviction
   - date: 2013
     text: Conviction overturned.
+  tags: campaign
 - person: 400104
   name: DeLay
   allegation: improperly linking personal interest of a member with effort achieve
@@ -2094,6 +2245,7 @@
     body: House Committee on Standards of Official Conduct
     action: issued a report finding DeLay's behavior inappropriate
     link: https://ethics.house.gov/sites/ethics.house.gov/files/2006_Medicare.pdf
+  tags: ethics
 - person: 400276
   name: Miller
   allegation: threatening to retaliate against a member for a particular vote
@@ -2105,6 +2257,7 @@
     body: House Committee on Standards of Official Conduct
     action: issued a report finding Miller's behavior inappropriate
     link: https://ethics.house.gov/sites/ethics.house.gov/files/2006_Medicare.pdf
+  tags: ethics
 - person: 400382
   name: Smith
   allegation: public statements impugning reputation of the House and failing to cooperate
@@ -2118,9 +2271,10 @@
     body: House Committee on Standards of Official Conduct
     action: issued a report finding Smith's behavior inappropriate
     link: https://ethics.house.gov/sites/ethics.house.gov/files/2006_Medicare.pdf
+  tags: ethics
 - person: 400200
   name: Janklow
-  allegation: on August 16, 2003, of committing vehicular manslaughter
+  allegation: vehicular manslaughter
   text: Janklow faced an allegation of, on August 16, 2003, committing vehicular manslaughter.
     On Dec. 8, 2003, [convicted](https://en.wikipedia.org/wiki/Bill_Janklow#Vehicular_manslaughter).
     On Jan. 20, 2004, he [resigned](http://news.minnesota.publicradio.org/features/2003/12/08_hetlandc_janklow/).
@@ -2128,9 +2282,12 @@
   - date: 2003-12-08
     text: Convicted.
     link: https://en.wikipedia.org/wiki/Bill_Janklow#Vehicular_manslaughter
+    tags: conviction
   - date: 2004-01-20
     text: Resigned.
     link: http://news.minnesota.publicradio.org/features/2003/12/08_hetlandc_janklow/
+    tags: resignation
+  tags: crime
 - person: 300156
   name: Torricelli
   allegation: violating Senate gift rules and creating the appearance of impropriety
@@ -2143,8 +2300,10 @@
     body: Senate Select Committee on Ethics
     action: admonished him for creating the appearance of impropriety
     link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=F8304FEE-EEC4-4CC4-8564-1C0807F47CAD
+    tags: reprimand
   - date: 2002
     text: He did not run for reelection.
+  tags: ethics
 - person: 400611
   name: Traficant, Jr.
   allegation: conspiracy to violate federal bribery and gratuity statutes, receipt
@@ -2165,6 +2324,8 @@
     body: House of Representatives
     action: expelled Trafficant, 420-1
     link: https://www.govtrack.us/congress/votes/107-2002/h346
+    tags: expulsion
+  tags: corruption
 - person: 400056
   name: Buyer
   allegation: improper use of official resources for political purpose
@@ -2176,6 +2337,7 @@
     body: House Committee on Standards of Official Conduct
     action: dismissed complaint unanimously and public letter sent to Buyer
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Press%20Statement%20Steve%20Buyer.pdf
+  tags: ethics
 - person: 400502
   name: Hilliard
   allegation: improper loans made by campaign committee, improper campaign expenditures,
@@ -2191,8 +2353,10 @@
     action: issued letter of reproval citing “serious official misconduct” unanimously
       adopted
     link: https://ethics.house.gov/committee-report/matter-representative-earl-hilliard
+    tags: reprimand
   - date: 2002
     text: Defeated in the primary in June 2002.
+  tags: campaign
 - person: 400374
   name: Shuster
   allegation: relationship with a lobbyist (former chief of staff) and intervention
@@ -2207,6 +2371,8 @@
     action: issued a unanimously adopted letter of reproval citing serious official
       misconduct
     link: https://ethics.house.gov/committee-report/matter-representative-eg-bud-shuster
+    tags: reprimand
+  tags: ethics
 - person: 400048
   name: Brown
   allegation: lodging for member provided at premises owned or controlled by an imprisoned
@@ -2225,6 +2391,7 @@
       no further action, committee accepted recommendation (Sept. 20, 2000); press
       statement released
     link: https://www.congress.gov/congressional-report/106th-congress/house-report/1044/1?r=13
+  tags: ethics
 - person: 404587
   name: Gingrich
   allegation: violation of laws governing tax-exempt organizations, improper intervention
@@ -2251,6 +2418,7 @@
       allegation (Sept. 26, 1996); dismissed remaining allegations, letter released
       publicly
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt104-401.pdf
+  tags: campaign
 - person: 406343
   name: Kim
   allegation: accepting illegal corporate and foreign contributions
@@ -2261,6 +2429,7 @@
   consequences:
   - date: 1997-08-11
     text: Pleaded guilty in federal court.
+    tags: plea
   - date: 1998-06-02
     text: Defeated in the primary.
   - date: 1998-10-06
@@ -2269,6 +2438,7 @@
       further action due to impending loss of jurisdiction on Oct. 2, 1998 and the
       committee unanimously adopted recommendation
     link: https://ethics.house.gov/committee-report/2nd-session-report-105-797
+  tags: campaign
 - person: 400104
   name: DeLay
   allegation: improperly linking campaign contributions to official actions and improper
@@ -2282,6 +2452,7 @@
     body: House Committee on Standards of Official Conduct
     action: dismissed complaint; private letter sent to DeLay; press statement released
     link: https://www.gpo.gov/fdsys/pkg/CRPT-105hrpt848/html/CRPT-105hrpt848.htm
+  tags: corruption
 - person: 402858
   name: Cooley
   allegation: lying to voters about his military service in official state voter guides
@@ -2293,9 +2464,11 @@
   - date: 1997-03-19
     text: Convicted, ordered to pay a fine, and placed on two years' probation.
     link: http://www.nytimes.com/1997/03/19/us/former-congressman-is-convicted-of-lying.html
+    tags: conviction
   - date: 1996-08-07
     text: Did not run for re-election.
     link: https://news.google.com/newspapers?id=zHMVAAAAIBAJ&sjid=NesDAAAAIBAJ&pg=5860%2C1623774
+  tags: crime
 - person: 407282
   name: Mavroules
   allegation: accepting illegal gifts and misusing his office for private gain
@@ -2307,8 +2480,10 @@
   - date: 1993-04-03
     text: Pleaded guilty and 15 months in prison.
     link: http://www.nytimes.com/1993/08/03/us/ex-congressman-to-go-to-prison.html
+    tags: plea
   - date: 1992
     text: Lost the election.
+  tags: ethics
 - person: 404587
   name: Gingrich
   allegation: improper use of official resources in preparation of a college course,
@@ -2345,6 +2520,8 @@
     body: House of Representatives
     action: reprimanded and directed to reimburse $300,000, 395-28
     link: https://www.govtrack.us/congress/votes/105-1997/h8
+    tags: reprimand
+  tags: ethics
 - person: 402762
   name: Rose-Collins
   allegation: misuse official resources, campaign resources and scholarship funds
@@ -2363,6 +2540,7 @@
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
   - date: 1996-08-06
     text: Defeated in the primary.
+  tags: campaign ethics
 - person: 400146
   name: Gephardt
   allegation: inadequate financial disclosure on a series of land sales and financial
@@ -2376,6 +2554,7 @@
     body: House Committee on Standards of Official Conduct
     action: dismissed complaint
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
+  tags: ethics
 - person: 400262
   name: McDermott
   allegation: conflict of interest (participated in committee deliberations involving
@@ -2391,6 +2570,7 @@
     body: House Committee on Standards of Official Conduct
     action: dismissed complaint
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
+  tags: ethics
 - person: 404587
   name: Gringrich
   allegation: improper use of services of volunteer in congressional office
@@ -2404,10 +2584,10 @@
     action: member complaint filed on behalf of outside organization (Apr. 22, 1996)
       (“Third Miller Complaint”); dismissed the complaint
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
+  tags: ethics
 - person: 410147
   name: Solomon
-  allegation: press release and letter sent to New York state assemblyman included
-    language that implied possible retaliation for political disagreement
+  allegation: retaliation for political disagreement
   text: In 1996, the House Committee on Standards of Official Conduct investigated
     Solomon for a press release and letter sent to a New York state assemblyman which
     included language that implied possible retaliation for political disagreement.
@@ -2419,6 +2599,7 @@
     action: dismissed the complaint after Solomon indicated he had not retaliated
       and had never intended to retaliate
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
+  tags: ethics
 - person: 400527
   name: Bonior
   allegation: improper use of congressional employees with regard to book published
@@ -2440,6 +2621,7 @@
     body: House Committee on Standards of Official Conduct
     action: returned complaint because violations occurred before the third previous
       Congress
+  tags: ethics
 - person: 404587
   name: Gingrich
   allegation: improper use of services of volunteer in congressional offices
@@ -2453,6 +2635,7 @@
     action: concluded that the volunteer service, which had terminated by the time
       of the complaint, did not comply with the applicable guidelines
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
+  tags: ethics
 - person: 300156
   name: Torricelli
   allegation: using congressional fax machine to send a press release having a political
@@ -2471,6 +2654,7 @@
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
   - date: 1996-11-05
     text: Zimmer lost his bid for a New Jersey Senate seat to Torricelli.
+  tags: ethics
 - person: 412001
   name: Zimmer
   allegation: using congressional fax machine for non-official purpose, specifically
@@ -2495,6 +2679,7 @@
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
   - date: 1996-11-05
     text: Zimmer lost his bid for a New Jersey Senate seat to Torricelli.
+  tags: ethics
 - person: 400597
   name: McIntosh
   allegation: distributing at a committee meeting and displaying on House floor a
@@ -2522,6 +2707,7 @@
   - date: 1996-03-14
     text: McIntosh apologized and formalized a written policy for his staff regarding
       harassing, insensitive or discriminatory behavior.
+  tags: ethics
 - person: 410974
   name: Tucker
   allegation: seven counts of extortion and two counts of tax evasion for extorting
@@ -2541,6 +2727,8 @@
     link: https://www.congress.gov/crec/1995/12/12/CREC-1995-12-12.pdf
   - date: 1995-12-12
     text: Announced resignation effective Dec. 15, 1995.
+    tags: resignation
+  tags: corruption crime
 - person: 404587
   name: Gingrich
   allegation: improper statements on House floor for political reasons; official resources
@@ -2556,6 +2744,7 @@
       Complaints”); complaints dismissed in a public letter on Dec. 6, 1995 and a
       public report issued on Dec. 12, 1995
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt104-401.pdf
+  tags: ethics
 - person: 404587
   name: Gingrich
   allegation: accepting free cable television coverage of college lectures (improper
@@ -2571,6 +2760,7 @@
       Complaint”); committee investigated; dismissed the complaint in a public letter
       on Dec. 6, 1995 and a public report issued on Dec. 12, 1995
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt104-401.pdf
+  tags: ethics
 - person: 404587
   name: Gingrich
   allegation: improperly using services of volunteer for official purposes
@@ -2586,6 +2776,7 @@
       investigated; found violations and sent a public letter to Gingrich but took
       no further action on Dec. 6, 1995; published report on Dec. 12, 1995
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt104-401.pdf
+  tags: ethics
 - person: 404587
   name: Gingrich
   allegation: the allegations in “First Jones Complaint”  plus improper receipt of
@@ -2613,6 +2804,7 @@
     action: adopted the committee resolution on restricting advances from book contracts
       but not subjecting royalty income to outside earned income limit, 259-128
     link: https://www.govtrack.us/congress/votes/104-1995/h883
+  tags: ethics
 - person: 408420
   name: Packwood
   allegation: sexual misconduct and abuse of power
@@ -2627,6 +2819,8 @@
   - date: 1995-09-08
     text: Resigned.
     link: http://articles.latimes.com/1995-09-08/news/mn-43532_1_senator-packwood-resigns
+    tags: resignation
+  tags: sexual-harassment
 - person: 411725
   name: Wilson
   allegation: improper use of campaign funds and inadequate financial disclosure
@@ -2646,6 +2840,7 @@
     action: dismissed the complaint and a letter released publicly after Wilson admitted
       his error and paid a $90,000 fine
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
+  tags: campaign
 - person: 409154
   name: Reynolds
   allegation: misuse of congressional staff for personal purposes, misuse of official
@@ -2668,11 +2863,14 @@
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
   - date: 1995-09-01
     text: Resigned.
+    tags: resignation
   - date: 2017-09-28
     body: U.S. District Court
     action: convicted on four misdemeanor counts alleging he failed to file a federal
       income tax return for four consecutive years
     link: https://en.wikipedia.org/wiki/Mel_Reynolds#Later_career
+    tags: conviction
+  tags: crime ethics
 - person: 400551
   name: Armey
   allegation: improper use of congressional stationery
@@ -2688,6 +2886,7 @@
       dismissed on June 13, 1995. A public letter to Armey and a press statement were
       released on June 14, 1995.
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
+  tags: ethics
 - person: 400143
   name: Frost
   allegation: using congressional staff for redistricting work [R. 45]; campaign contributions
@@ -2704,6 +2903,7 @@
       that the committee found a technical violation of campaign regulations. Frost
       agreed to appropriate reimbursement.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: campaign ethics
 - person: 403669
   name: Durenberger
   allegation: misuse of public funds while in office
@@ -2715,6 +2915,8 @@
     text: Pleaded guilty to five misdemeanor charges of abuse of a Congressional expense
       account.
     link: http://www.nytimes.com/1995/08/23/us/ex-senator-is-guilty-of-expense-abuses.html
+    tags: plea
+  tags: ethics
 - person: 409422
   name: Rostenkowski
   allegation: mail fraud, wire fraud, witness tampering, concealing a material fact,
@@ -2739,10 +2941,12 @@
   - date: 1996-04-10
     text: Pleaded guilty to mail fraud.
     link: http://www.nytimes.com/1996/04/10/us/rostenkowski-pleads-guilty-to-mail-fraud.html
+    tags: plea
   - date: 2000-12-23
     text: Pardoned by President Clinton having already served 15 months in prison
       and two months in a halfway house in addition to paying a $100,000 fine.
     link: http://www.nytimes.com/2000/12/23/us/clinton-issues-a-pardon-to-ex-rep-rostenkowski.html
+  tags: corruption
 - person: 406461
   name: Kolter
   allegation: stealing money from the House Post Office
@@ -2754,6 +2958,8 @@
     text: Pleaded guilty to one count of conspiring with the former House postmaster
       and others to steal from the office.
     link: https://www.washingtonpost.com/archive/politics/1996/05/08/kolter-guilty-in-post-office-scandal/a712baa5-36e1-4bb8-8255-7bb7ebb373a7/?utm_term=.207492fec1cd
+    tags: plea
+  tags: crime
 - person: 300054
   name: Kay Bailey Hutchison
   allegation: using state employees and time to conduct political and personal business
@@ -2767,6 +2973,7 @@
     text: Acquitted on all charges in state court after prosecuters refused to present
       their case against Hutchison due to concerns over admissability of evidence.
     link: http://www.nytimes.com/1994/02/12/us/fight-over-evidence-results-in-acquittal-of-senator-in-texas.html
+  tags: campaign
 - person: 404006
   name: Fauntroy
   allegation: stealing from the House Bank
@@ -2778,6 +2985,8 @@
     text: Pleaded guilty to one count of violating the false statements statute regarding
       a charitable contribution.
     link: https://www.justice.gov/archive/opa/pr/Pre_96/March95/153.txt.html
+    tags: plea
+  tags: crime
 - person: 402114
   name: Bustamante
   allegation: racketeering and bribery
@@ -2788,8 +2997,10 @@
   - date: 1993-07-22
     text: Convicted.
     link: http://www.nytimes.com/1993/07/22/us/federal-jury-convicts-ex-texas-congressman.html
+    tags: conviction
   - date: 1992
     text: Lost bid for re-election.
+  tags: corruption
 - person: 408632
   name: Perkins
   allegation: bank fraud and lying to investigators
@@ -2805,6 +3016,8 @@
   - date: 1994-12-13
     text: Pleaded guilty.
     link: https://www.justice.gov/archive/opa/pr/Pre_96/December94/697.txt.html
+    tags: plea
+  tags: crime
 - person: 405724
   name: Hubbard
   allegation: obstruction of justice and misappropriation of campaign funds involving
@@ -2818,6 +3031,8 @@
   - date: 1994-04-06
     text: Pleaded guilty.
     link: https://www.washingtonpost.com/archive/politics/1994/04/06/guilty-plea-entered-in-bank-scandal/0b98374f-4133-4e78-af07-c47a4b6bfdcb/?utm_term=.5417f6473e72
+    tags: plea
+  tags: campaign crime
 - person: 408313
   name: Oakar
   allegation: lying to the FBI, using the House Bank to convert public money to her
@@ -2831,6 +3046,8 @@
   - date: 1997-09-30
     text: Pleaded guitly to two misdemeanors.
     link: http://articles.chicagotribune.com/1997-09-30/news/9709300278_1_plead-rep-mary-rose-oakar-false-names
+    tags: plea
+  tags: crime
 - person: 403696
   name: Dyson
   allegation: misuse of office funds and sex discrimination in hiring
@@ -2845,6 +3062,7 @@
       discrimination in hiring, having previously declined to consider the allegations
       when they were first lodged due to the proximity to election day in 1988
     link: https://www.washingtonpost.com/archive/politics/1990/02/01/dyson-cleared-of-ethics-complaint/25c388ee-3447-48a9-bc10-bf0e6dcccd2b/?utm_term=.dc3eccde50ab
+  tags: ethics
 - person: 409901
   name: Sikorksi
   allegation: misuse of staff for personal errands
@@ -2856,6 +3074,7 @@
     body: House Committee on Standards of Official Conduct
     action: dismissed the complaint
     link: https://www.washingtonpost.com/archive/politics/1990/02/01/dyson-cleared-of-ethics-complaint/25c388ee-3447-48a9-bc10-bf0e6dcccd2b/?utm_term=.dc3eccde50ab
+  tags: ethics
 - person: 406995
   name: Lukens
   allegation: contributing to the unruliness of a female minor, e.g. sex with an underage
@@ -2874,6 +3093,8 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/comm_print_10241990.pdf
   - date: 1990-10-04
     text: Resigned.
+    tags: resignation
+  tags: crime
 - person: 403669
   name: Durenberger
   allegation: a wide range of financial misconduct
@@ -2885,6 +3106,8 @@
     text: Senate vote on denouncement, which appears to have been intended as a type
       of censure which acknowledges no ill intent.
     link: https://www.senate.gov/artandhistory/history/common/censure_cases/141DavidDurenberger.htm
+    tags: censure
+  tags: ethics
 - person: 410574
   name: Swindall
   allegation: money laundering and lying to the FBI
@@ -2896,10 +3119,12 @@
   - date: 1989
     text: Convicted.
     link: http://articles.latimes.com/1994-02-12/news/mn-21903_1_pat-swindall
+    tags: conviction
   - date: 1994-02-12
     text: Started serving a one year prison sentence in a minimum-security federal
       prison after remaining free on bond while his appeals were active.
     link: http://articles.latimes.com/1994-02-12/news/mn-21903_1_pat-swindall
+  tags: crime
 - person: 400140
   name: Frank
   allegation: 1) use of personal residence for prostitution by third parties, 2) improper
@@ -2925,6 +3150,8 @@
   - date: 1990-07-26
     text: Reprimanded, 408-18.
     link: https://www.govtrack.us/congress/votes/101-1990/h271
+    tags: reprimand
+  tags: crime ethics
 - person: 404587
   name: Gringrich
   allegation: using book partnership to avoid outside income limits or to obtain impermissible
@@ -2940,6 +3167,7 @@
     body: House Committee on Standards of Official Conduct
     action: issued statement, 11-0
     link: https://ethics.house.gov/sites/ethics.house.gov/files/CommPrint_19900308.pdf
+  tags: ethics
 - person: 409593
   name: Savage
   allegation: improper sexual advances toward a female Peace Corps volunteer (March
@@ -2955,6 +3183,7 @@
     body: House Committee on Standards of Official Conduct
     action: issued a public report disapproving of his conduct, 12-0
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt101-397_0.pdf
+  tags: sexual-harassment
 - person: 404422
   name: Garcia
   allegation: conspiracy and Travel Act violations (receipt of $170,000 in payments,
@@ -2973,6 +3202,8 @@
   - date: 1990-01-07
     text: Resigned.
     link: http://articles.latimes.com/1990-01-03/news/mn-190_1_robert-garcia
+    tags: resignation
+  tags: corruption
 - person: 401231
   name: Bates
   allegation: sexual harassment and improper campaign activity in congressional office
@@ -2985,9 +3216,11 @@
     body: House Committee on Standards of Official Conduct
     action: adopted a public letter of reproval
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt101-293.pdf
+    tags: reprimand
   - date: 1989
     text: Admitted to violations and wrote personal letter of apology.
     link: https://www.rollcall.com/news/politics/congress-took-three-decades-come-far-sexual-harassment-victim-says
+  tags: campaign ethics sexual-harassment
 - person: 411912
   name: Wright, Jr.
   allegation: improper lobbying efforts on behalf of a constituent with whom Rep.
@@ -3021,6 +3254,8 @@
     text: Wright resigned as Speaker on House floor after having announced his intent
       to do so in May.
     link: https://www.washingtonpost.com/wp-srv/politics/special/clinton/frenzy/wright.htm
+    tags: resignation
+  tags: campaign ethics
 - person: 401418
   name: Biaggi
   allegation: accepting illegal gratuities, obstruction of justice and violation of
@@ -3040,6 +3275,8 @@
   - date: 1988-08-05
     text: Resigned after an additional conviction.
     link: http://articles.latimes.com/1988-08-05/news/mn-8579_1_mario-biaggi
+    tags: conviction resignation
+  tags: corruption
 - person: 409400
   name: Rose III
   allegation: borrowing campaign funds for personal use and inadequate financial disclosure
@@ -3052,9 +3289,11 @@
     body: House Committee on Standards of Official Conduct
     action: adopted a public letter of reproval, 9-3
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt100-526.pdf
+    tags: reprimand
   - date: 1994
     text: Paid civil fine of $12,500.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: campaign
 - person: 408052
   name: Murphy
   allegation: improper use of official resources and violation of House rules regarding
@@ -3072,6 +3311,8 @@
     body: House of Representatives
     action: reprimanded, 324-68
     link: https://www.govtrack.us/congress/votes/100-1987/h472
+    tags: reprimand
+  tags: ethics
 - person: 401582
   name: Boner
   allegation: violations of the gift rule, improper use of campaign funds, conflict
@@ -3096,10 +3337,12 @@
     link: http://www.nytimes.com/1987/09/23/us/congressman-elected-mayor.html
   - date: 1987-10-05
     text: Resigned from Congress.
+    tags: resignation
   - date: 1987-12-14
     body: House Committee on Standards of Official Conduct
     action: staff report published
     link: https://ethics.house.gov/committee-report/staff-report-matter-representative-william-h-boner
+  tags: campaign crime ethics
 - person: 410251
   name: Stallings
   allegation: improper use of campaign funds (loan to congressional employee)
@@ -3111,6 +3354,8 @@
     body: House Committee on Standards of Official Conduct
     action: adopted a public letter of reproval, 12-0
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt100-382.pdf
+    tags: reprimand
+  tags: campaign
 - person: 410231
   name: St. Germain
   allegation: accepting free flights on corporate aircraft, intervening on behalf
@@ -3125,6 +3370,7 @@
     body: House Committee on Standards of Official Conduct
     action: recommended no sanction, report approved and filed
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Hrpt100-46.pdf
+  tags: ethics
 - person: 408313
   name: Oakar
   allegation: purchase of a townhouse with a member of her staff and improper salary
@@ -3140,6 +3386,7 @@
     action: informal staff review of press allegations; found improper payments but
       no fraudulent intent; recommended no sanction; letter released publicly
     link: http://www.nytimes.com/1987/06/19/us/panel-in-house-bars-disciplining-member-who-violated-rules.html
+  tags: ethics
 - person: 411395
   name: Weaver
   allegation: borrowing approximately $82,000 in campaign funds for personal use and
@@ -3153,6 +3400,7 @@
     body: House Committee on Standards of Official Conduct
     action: recommended no sanction, report approved and filed, 12-0
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt99-933.pdf
+  tags: campaign
 - person: 410553
   name: Sweeney
   allegation: use of official resources for political purposes and requiring congressional
@@ -3168,6 +3416,7 @@
     action: determined that the campaign activities occurred in the district office
       with no evidence Sweeney directed or condoned the improper activities
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: campaign ethics
 - person: 403178
   name: Daniel
   allegation: accepting free flights on corporate aircraft (1983-85)
@@ -3179,6 +3428,7 @@
     body: House Committee on Standards of Official Conduct
     action: Daniel made restitution and amended the financial disclosure statement
     link: https://ethics.house.gov/committee-report/investigation-travel-corporate-aircraft-taken-representative-dan-daniel
+  tags: ethics
 - person: 404046
   name: Ferraro
   allegation: inadequate and improper financial disclosure
@@ -3193,6 +3443,7 @@
       voted (Sept. 12, 1984); found technical violations; no sanction recommended,
       12-2 (Dec. 3, 1984); filed its report (Dec. 4, 1984)
     link: https://ethics.house.gov/committee-report/matter-representative-geraldine-ferraro
+  tags: ethics
 - person: 405053
   name: Hansen
   allegation: making false statements and failing to report nearly $334,000 in loans
@@ -3212,12 +3463,14 @@
     body: House of Representatives
     action: reprimanded, 354-52
     link: https://www.govtrack.us/congress/votes/98-1984/h793
+    tags: reprimand
   - date: 1984-11-06
     text: Defeated in the election by Richard Stallings.
     link: http://www.nytimes.com/1984/11/09/us/justice-dept-rebuts-rep-hansen-of-idaho.html
   - date: 1985
     text: Conviction vacated, U.S. v. Hansen, 906 F. Supp. 688 (1995).
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: crime ethics
 - person: 411725
   name: Wilson
   allegation: using cocaine and marijuana
@@ -3231,6 +3484,7 @@
     action: preliminary inquiry voted; Special Counsel investigated and found no basis
       for statement of alleged violation; committee took no further action
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt98-559%20pt.%201.pdf
+  tags: crime
 - person: 403364
   name: Dellums
   allegation: using cocaine and marijuana
@@ -3244,6 +3498,7 @@
     action: preliminary inquiry voted; Special Counsel investigated and found no basis
       for statement of alleged violation; committee took no further action
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt98-559%20pt.%201.pdf
+  tags: crime
 - person: 410496
   name: Studds
   allegation: sexual relationship with 17-year old male House page that occurred 10
@@ -3263,6 +3518,8 @@
     action: rejected the reprimand recommendation, 289-136; censured Studds instead,
       420-3
     link: https://www.govtrack.us/congress/votes/98-1983/h246
+    tags: censure
+  tags: sexual-harassment
 - person: 402985
   name: Crane
   allegation: a sexual relationship with a 17-year old female House page in 1980
@@ -3281,8 +3538,10 @@
     action: rejected the reprimand recommendation, 289-136; censured him instead,
       421-3
     link: https://www.govtrack.us/congress/votes/98-1983/h244
+    tags: censure
   - date: 1984-11-06
     text: Defeated in the election.
+  tags: sexual-harassment
 - person: 409208
   name: Richmond
   allegation: evading federal taxes (pleaded guilty to felony charge), two misdemeanors
@@ -3301,6 +3560,8 @@
   - date: 1982-08-25
     text: Resigned.
     link: https://www.upi.com/Archives/1982/08/25/Millionaire-Congressman-Fred-Richmond-pleaded-guilty-to-tax-and/6183399096000/
+    tags: resignation
+  tags: crime
 - person: 400286
   name: Murtha
   allegation: bribery and conspiracy as part of ABSCAM investigation
@@ -3313,6 +3574,7 @@
     action: preliminary inquiry voted (May 28, 1981); dismissed (July 28, 1981) and
       Special Counsel resigned
     link: https://www.washingtonpost.com/archive/sports/1980/08/06/murtha-and-abscam-a-sad-spectacle/d241c48a-cbde-40aa-aa8a-994701b01260/?utm_term=.075a814c4919
+  tags: corruption
 - person: 411659
   name: Williams
   allegation: bribery connected with the ABSCAM sting
@@ -3323,6 +3585,7 @@
   consequences:
   - date: 1981-05-01
     text: Convicted.
+    tags: conviction
   - date: 1981-05-01
     body: Senate Select Committee on Ethics
     action: opened inquiry
@@ -3332,6 +3595,8 @@
   - date: 1982-03-11
     text: Resigned to avoid an expulsion vote.
     link: https://www.senate.gov/artandhistory/history/common/expulsion_cases/140HarrisonWilliams_expulsion.htm
+    tags: resignation
+  tags: corruption
 - person: 405496
   name: Hinson
   allegation: arrested for engaging in sexual activity with a member of the same sex,
@@ -3344,10 +3609,13 @@
   - date: 1981-04-13
     text: Resigned.
     link: http://www.nytimes.com/1981/05/29/us/around-the-nation-hinson-pleads-no-contest-to-oral-sodomy-charge.html
+    tags: resignation
   - date: 1981-05-28
     text: Pleaded no contest to charges of "attempted oral sodomy" in a House office
       building restroom.
     link: http://www.nytimes.com/1981/05/29/us/around-the-nation-hinson-pleads-no-contest-to-oral-sodomy-charge.html
+    tags: plea
+  tags: crime
 - person: 406247
   name: Kelly
   allegation: bribery and conspiracy in the ABSCAM investigation
@@ -3359,6 +3627,8 @@
   - date: 1981-01-26
     text: Convicted.
     link: http://www.nytimes.com/1981/01/27/us/ex-representive-kelly-convicted-of-abscam-bribery.html
+    tags: conviction
+  tags: corruption
 - person: 408062
   name: Murphy
   allegation: taking an unlawful gratuity as part of ABSCAM investigation
@@ -3372,6 +3642,8 @@
   - date: 1980-12-03
     text: Convicted.
     link: http://www.nytimes.com/1982/03/12/nyregion/7-from-congress-guilty-in-abscam.html
+    tags: conviction
+  tags: corruption
 - person: 406690
   name: Lederer
   allegation: bribery, acceptance of an unlawful gratuity, conspiracy and Travel Act
@@ -3389,10 +3661,12 @@
   - date: 1981-04-29
     text: Resigned.
     link: http://www.nytimes.com/1981/04/30/us/lederer-quits-congress-over-conviction-in-abscam.html
+    tags: resignation
   - date: 1981-05-20
     body: House Committee on Standards of Official Conduct
     action: filed its report
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt97-110.pdf
+  tags: corruption
 - person: 410779
   name: Thompson
   allegation: bribery charges in the ABSCAM investigation (convicted)
@@ -3406,6 +3680,8 @@
   - date: 1980-12-29
     text: Resigned.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=T000200
+    tags: resignation
+  tags: corruption
 - person: 406001
   name: Jenrette, Jr.
   allegation: bribery and conspiracy for accepting money in return for promising to
@@ -3421,10 +3697,12 @@
   - date: 1980-12-10
     text: Resigned.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=J000099
+    tags: resignation
   - date: 1980-12-16
     body: House Committee on Standards of Official Conduct
     action: sanction hearing terminated by resignation and filed the report
     link: https://ethics.house.gov/committee-report/matter-representative-john-w-jenrette-jr
+  tags: corruption
 - person: 408094
   name: Myers
   allegation: bribery, conspiracy and Travel Act violations as part of ABSCAM investigation
@@ -3442,6 +3720,8 @@
     body: House of Representatives
     action: expelled, 376-30
     link: https://www.govtrack.us/congress/votes/96-1980/h1222
+    tags: expulsion
+  tags: corruption
 - person: 411726
   name: Wilson
   allegation: accepting money from a person with direct interest in legislation; maintaining
@@ -3467,6 +3747,8 @@
     action: agreed to an amendment deleting denial of chairmanship from sanction,
       261-148; and censured by voice vote
     link: https://www.govtrack.us/congress/votes/96-1980/h949
+    tags: censure
+  tags: campaign
 - person: 404164
   name: Flood
   allegation: using official influence on behalf of private parties and foreign governments
@@ -3488,12 +3770,15 @@
   - date: 1980-01-31
     text: Resigned.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    tags: resignation
   - date: 1980-02-26
     text: Pleaded guilty to misdemeanor of conspiracy to defraud government.
+    tags: plea
   - date: 1980-03-26
     body: House Committee on Standards of Official Conduct
     action: filed its report
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt96-856.pdf
+  tags: corruption
 - person: 410624
   name: Talmadge
   allegation: financial misconduct
@@ -3510,11 +3795,13 @@
     body: Senate
     action: censured
     link: https://www.govtrack.us/congress/votes/96-1979/s346
+    tags: censure
   - date: 1980-11-04
     text: Lost the election.
+  tags: ethics
 - person: 403462
   name: Diggs, Jr.
-  allegation: mail fraud and false statements (convicted)
+  allegation: mail fraud and false statements
   text: On Jul. 31, 1979, the House Committee on Standards of Official Conduct investigated
     Diggs, Jr. for mail fraud and false statements (convicted) and recommended censure,
     11-0. On Jul. 31, 1979, the House of Representatives [censured him, 414-0](https://www.govtrack.us/congress/votes/96-1979/h366).
@@ -3529,12 +3816,16 @@
     body: House of Representatives
     action: censured, 414-0
     link: https://www.govtrack.us/congress/votes/96-1979/h366
+    tags: censure
   - date: 1978-11-07
     text: Re-elected after conviction.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    tags: conviction
   - date: 1980-06-03
     text: Resigned after losing criminal appeal.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    tags: resignation
+  tags: ethics
 - person: 403787
   name: Eilberg
   allegation: conflict of interest by helping a hospital receive a federal grant
@@ -3551,6 +3842,7 @@
     text: Indicted.
   - date: 1978-11-07
     text: Lost the election.
+  tags: ethics
 - person: 411726
   name: Wilson
   allegation: making a false statement on an answer to a Standards Committee questionnaire
@@ -3568,6 +3860,8 @@
     body: House of Representatives
     action: reprimanded, 329-41
     link: https://www.govtrack.us/congress/votes/95-1978/h1513
+    tags: reprimand
+  tags: ethics
 - person: 407436
   name: McFall
   allegation: failing to report $3,000 campaign contribution in 1974
@@ -3583,9 +3877,12 @@
   - date: 1978-10-13
     body: House of Representatives
     action: reprimanded, voice vote
+    tags: reprimand
   - date: 1978-12-31
     text: Resigned.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    tags: resignation
+  tags: campaign
 - person: 409446
   name: Roybal
   allegation: failing to report campaign contributions, converting campaign funds
@@ -3604,6 +3901,8 @@
     body: House of Representatives
     action: rejected the censure recommendation, 219-170; reprimanded, voice vote
     link: https://www.govtrack.us/congress/votes/95-1978/h1514
+    tags: reprimand
+  tags: campaign
 - person: 408514
   name: Patten
   allegation: making political contributions with funds provided by another
@@ -3615,6 +3914,7 @@
     body: House Committee on Standards of Official Conduct
     action: conducted inquiry and dismissed the charges, 8-0
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt95-1740.pdf
+  tags: campaign crime
 - person: 405493
   name: Hinshaw
   allegation: state bribery charges for conduct prior to election (convicted)
@@ -3635,6 +3935,7 @@
   - date: 1976-06-08
     text: Lost the primary.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: corruption
 - person: 405275
   name: Hayes
   allegation: retaining employee on public payroll for immoral purposes (1974-76)
@@ -3650,6 +3951,8 @@
   - date: 1976-09-01
     text: Resigned prior to hearings.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    tags: resignation
+  tags: ethics
 - person: 402037
   name: Burke
   allegation: on May 27, 1978, drunk and disorderly and resisting arrest at the Centerfold
@@ -3662,6 +3965,8 @@
   - date: 1978
     text: Pleaded guilty and lost his bid for re-election.
     link: https://www.washingtonpost.com/archive/local/1993/06/18/j-herbert-burke-dies/d49b3e2e-208a-4eae-856f-f4e25e48a9f8/?utm_term=.55f18b71be87
+    tags: plea
+  tags: ethics
 - person: 410883
   name: Tonry
   allegation: stuffing ballot boxes and illegal campaign contributions in the primary
@@ -3680,10 +3985,12 @@
   - date: 1977-05-05
     text: Resigned.
     link: http://www.nytimes.com/1977/05/05/archives/rep-tonry-figure-in-vote-fraud-resigns-but-vows-to-run-again.html
+    tags: resignation
   - date: 1977-06-27
     text: Defeated in a special election primary held to fill the vacancy he created
       with his resignation.
     link: https://www.washingtonpost.com/archive/politics/1977/06/27/dispute-is-political-downfall-of-tonry-moreau-in-election/709fa458-dec0-4ab1-ac1f-378545fe607d/?utm_term=.55cbdfdb6539
+  tags: campaign
 - person: 409900
   name: Sikes
   allegation: improper financial disclosure [R. 44] and conflict of interest
@@ -3701,9 +4008,11 @@
     body: House of Representatives
     action: reprimanded, 381-3
     link: https://www.govtrack.us/congress/votes/94-1976/h1042
+    tags: reprimand
   - date: 1978
     text: Did not seek re-election.
     link: https://en.wikipedia.org/wiki/Bob_Sikes#Reprimand
+  tags: ethics
 - person: 405108
   name: Harrington
   allegation: public disclosure of executive session testimony by the CIA Director
@@ -3719,6 +4028,7 @@
     action: dismissed the complaint, 7-3 because the information had not been properly
       classified
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: ethics
 - person: 403577
   name: Dowdy
   allegation: conspiracy to violate a bribery statute and an obstruction of justice
@@ -3746,6 +4056,8 @@
       stating the policy of the House that member convicted of a serious crime voluntarily
       refrain from voting
     link: https://www.govtrack.us/congress/votes/94-1975/h82
+    tags: conviction
+  tags: corruption
 - person: 401730
   name: Brasco
   allegation: bribery to get a Post Office contract for a Mafia-controlled truck company
@@ -3756,6 +4068,8 @@
   - date: 1974-07-19
     text: Convicted and did not run for re-election.
     link: http://www.nytimes.com/1974/07/20/archives/rep-brasco-guilty-of-bribery-conspiracy-brasco-convicted-of-bribery.html
+    tags: conviction
+  tags: corruption
 - person: 408792
   name: Podell
   allegation: bribery
@@ -3769,6 +4083,8 @@
   - date: 1974-10-01
     text: Pleaded guilty to conspiracy and conflict of interest.
     link: http://www.nytimes.com/1974/10/02/archives/podell-enters-guilty-plea-ending-conspiracy-trial-brooklyn.html
+    tags: plea
+  tags: corruption
 - person: 404393
   name: Gallagher
   allegation: tax evasion and perjury
@@ -3783,6 +4099,8 @@
   - date: 1973-06-15
     text: Pleaded guilty and was sentenced to two years in prison and a $10,000 fine.
     link: http://www.nytimes.com/1973/06/16/archives/gallagher-gets-2-years-and-10000-fine-gallagher-gets-2year-sentence.html
+    tags: plea
+  tags: crime
 - person: 411482
   name: Whalley
   allegation: taking kickbacks from congressional employees for personal use
@@ -3794,6 +4112,8 @@
     text: Resigned from Congress and pleaded guilty to obstruction of justice and
       mail fraud.
     link: https://www.washingtonpost.com/archive/local/1980/03/12/john-irving-whalley-77-ex-gop-representative/f0499117-f35e-480f-8546-a305203a3b15/?utm_term=.6859dca0c422
+    tags: plea resignation
+  tags: crime
 - person: 300059
   name: Kennedy
   allegation: on July 18, 1969, leaving the scene of an accident after driving a car
@@ -3805,6 +4125,8 @@
   - date: 1969-07-25
     text: Pleaded guilty and received a suspended sentence.
     link: http://query.nytimes.com/gst/abstract.html?res=9506E5DD133CE73BBC4E51DFB1668382679EDE&legacy=true
+    tags: plea
+  tags: crime
 - person: 408862
   name: Powell
   allegation: using committee travel funds for personal travel while Chairman of Education
@@ -3848,6 +4170,7 @@
   - date: 1970
     text: Lost the primary to Charles Rangel.
     link: https://en.wikipedia.org/wiki/Adam_Clayton_Powell_Jr.#Political_controversy
+  tags: crime ethics
 - person: 407522
   name: McKneally
   allegation: tax evasion revealed during the last month of the 1970 election
@@ -3863,6 +4186,8 @@
     text: Pleaded guilty to one count of failing to report income for tax purposes
       for the years 1964-1967.
     link: http://www.nytimes.com/1971/10/19/archives/exrepresentative-says-he-is-guilty-of-tax-evasion.html
+    tags: plea
+  tags: crime
 - person: 401770
   name: Brewster
   allegation: in 1969, after he lost his re-election campaign for the Senate, Brewster
@@ -3874,6 +4199,8 @@
   - date: 1975
     text: Pleaded no contest to a single charge of accepting an illegal gratuity.
     link: https://en.wikipedia.org/wiki/Daniel_Brewster#Bribery_charges
+    tags: plea
+  tags: corruption
 - person: 403505
   name: Dodd
   allegation: personal use of campaign funds and unbecoming conduct in a senator
@@ -3895,9 +4222,11 @@
     body: Senate
     action: censured 92-5
     link: https://www.govtrack.us/congress/votes/90-1967/s112
+    tags: censure
   - date: 1970
     text: Was not re-elected.
     link: https://www.senate.gov/artandhistory/history/common/censure_cases/pdf/135DoddApril27_1967report.pdf
+  tags: campaign ethics
 - person: 401685
   name: Boykin
   allegation: conspiracy and conflict of interest
@@ -3919,9 +4248,11 @@
   - date: 1963
     text: Convicted.
     link: https://en.wikipedia.org/wiki/Frank_W._Boykin#Conviction
+    tags: conviction
   - date: 1964
     text: Pardoned by President Johnson.
     link: https://en.wikipedia.org/wiki/Frank_W._Boykin#Conviction
+  tags: corruption
 - person: 406072
   name: Johnson
   allegation: accepting an illegal gratuity
@@ -3935,6 +4266,8 @@
   - date: 1968
     text: Convicted of conspiracy and conflict of interest.
     link: http://www.nytimes.com/1988/02/03/obituaries/thomas-johnson-78-lost-post-in-congress.html
+    tags: conviction
+  tags: corruption
 - person: 406574
   name: Lane
   allegation: tax evasion
@@ -3942,9 +4275,11 @@
     four months in prison while still in Congress and was re-elected subsequently](https://en.wikipedia.org/wiki/Thomas_J._Lane#Congress).
   consequences:
   - date: 1956
-    text: Convicted and served four months in prison while still in Congress and  was
+    text: Convicted and served four months in prison while still in Congress and was
       re-elected subsequently.
     link: https://en.wikipedia.org/wiki/Thomas_J._Lane#Congress
+    tags: conviction
+  tags: crime
 - person: 401721
   name: Bramblett
   allegation: engaging in payroll fraud
@@ -3954,6 +4289,8 @@
   - date: 1954
     text: Convicted and not a candidate for re-election.
     link: https://en.wikipedia.org/wiki/Ernest_K._Bramblett
+    tags: conviction
+  tags: crime
 - person: 407327
   name: McCarthy
   allegation: abuse of a Senate committee
@@ -3970,9 +4307,11 @@
     body: Senate
     action: censured, 67-22
     link: https://www.senate.gov/artandhistory/history/resources/pdf/1954McCarthyCensure.pdf
+    tags: censure
   - date: 1957-05-02
     text: Died before his term would have ended in 1958.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000315
+  tags: ethics
 - person: 407327
   name: McCarthy
   allegation: corruption
@@ -4002,6 +4341,7 @@
     text: Having received the Subcommittee's report and files, the Department of Justice
       announced it had found no evidence of wrongdoing and closed the case.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=431
+  tags: corruption
 - person: 401751
   name: Brehm
   allegation: illegal campaign contributions
@@ -4012,9 +4352,11 @@
   - date: 1951-04-30
     text: Convicted and fined $5,000.
     link: https://en.wikipedia.org/wiki/Walter_E._Brehm#Conviction
+    tags: conviction
   - date: 1952
     text: Not a candidate for re-election.
     link: https://en.wikipedia.org/wiki/Walter_E._Brehm#Conviction
+  tags: campaign
 - person: 410756
   name: Thomas
   allegation: payroll fraud
@@ -4025,9 +4367,12 @@
   - date: 1949-11-30
     text: Pleaded no contest and served nine months in prison.
     link: http://www.nytimes.com/1970/11/20/archives/jparnell-thomas-antired-crusader-is-dead-headed-house-committee-on.html
+    tags: plea
   - date: 1950-01-02
     text: Resigned.
     link: http://www.nytimes.com/1970/11/20/archives/jparnell-thomas-antired-crusader-is-dead-headed-house-committee-on.html
+    tags: resignation
+  tags: crime
 - person: 407290
   name: May
   allegation: war profiteering by accepting bribes to use his official position to
@@ -4045,12 +4390,14 @@
   - date: 1947-07-03
     text: Convicted.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000272
+    tags: conviction
   - date: 1950
     text: Served nine months in prison.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000272
   - date: 1952
     text: Pardoned by President Truman.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000272
+  tags: corruption
 - person: 401445
   name: Bilbo
   allegation: campaign irregularities, voter intimidation against African-American
@@ -4077,6 +4424,7 @@
       treatment for cancer of the mouth. He died on August 21, 1947 and no formal
       action was ever taken.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=413
+  tags: campaign corruption
 - person: 401404
   name: Langer
   allegation: bribery, receiving kickbacks, collecting fees for fictitious services
@@ -4104,8 +4452,9 @@
   - date: 1942-03-27
     body: Senate
     action: rejected the argument that Langer could not be seated which meant an expulsion
-      and a two-thirds majority instead; the exclusion vote failed 30-52
+      and a two-thirds majority instead; the vote failed 30-52
     link: https://www.govtrack.us/congress/votes/77-1942/s120
+  tags: corruption
 - person: 405530
   name: Hoeppel
   allegation: selling military appointments
@@ -4116,9 +4465,11 @@
   - date: 1936
     text: Convicted.
     link: https://en.wikipedia.org/wiki/John_H._Hoeppel#Political_career
+    tags: conviction
   - date: 1936
     text: Unsuccessful candidate for election.
     link: https://en.wikipedia.org/wiki/John_H._Hoeppel#Political_career
+  tags: corruption
 - person: 406909
   name: Long
   allegation: using Louisiana state employees and resources for the U.S. Senate campaign
@@ -4145,7 +4496,7 @@
     action: referred to committee
   - date: 1933-03-04
     body: Senate
-    action: John Overton seated
+    action: seated John Overton
   - date: 1933-04-14
     body: Senate Committee on the Judiciary
     action: referred to committee
@@ -4173,6 +4524,7 @@
     text: Long was assassinated before he could finish his Senate term or complete
       his campaign to run for president.
     link: https://en.wikipedia.org/wiki/Huey_Long#Assassination_and_aftermath
+  tags: campaign
 - person: 409435
   name: Rowbottom
   allegation: accepting bribes for appointments to the U.S. Post Office
@@ -4186,6 +4538,8 @@
   - date: 1931-04-16
     text: Convicted.
     link: http://query.nytimes.com/gst/abstract.html?res=9F05E0DC1F38E03ABC4E52DFB266838A629EDE&legacy=true
+    tags: conviction
+  tags: corruption
 - person: 401451
   name: Bingham
   allegation: hiring a lobbyist who was still being paid by a manufacturing organization
@@ -4225,8 +4579,10 @@
     action: censured 54-22 after the censure resolution was modified to indicate that
       Bingham had no corrupt motives
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=371
+    tags: censure
   - date: 1932
     text: Lost his bid for re-election.
+  tags: ethics
 - person: 410017
   name: Smith
   allegation: corrupt campaign practices in both the primary and general election
@@ -4275,11 +4631,13 @@
   - date: 1928-01-28
     body: Senate
     action: voted 61-23 to exclude Smith
+    tags: exclusion
   - date: 1928
     text: Three weeks later Smith resigned, the Illinois governor accepted it, announced
       a vacancy and named Smith to fill the vacancy. Smith did not claim the seat
       and then lost in the 1928 primaries.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=364
+  tags: campaign corruption
 - person: 404696
   name: Gould
   allegation: bribery more than a decade before his time in office
@@ -4319,6 +4677,7 @@
   - date: 1932
     text: Gould declined to run for re-election.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=368
+  tags: corruption
 - person: 401733
   name: Bratton
   allegation: election irregularities that changed the outcome of the election
@@ -4336,6 +4695,7 @@
     body: Senate
     action: adopted the committee report
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=352
+  tags: corruption
 - person: 409621
   name: Schall
   allegation: campaign misconduct
@@ -4350,6 +4710,7 @@
     body: Senate
     action: adopted the committee recommendation
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=350
+  tags: campaign
 - person: 406581
   name: Langley
   allegation: violating the National Prohibition Act
@@ -4363,6 +4724,7 @@
   consequences:
   - date: 1924
     text: Convicted of violating the National Prohibition Act in 1924.
+    tags: conviction
   - date: 1924-05-15
     text: Special committee deferred action until conclusion of criminal case and
       appeals.
@@ -4379,6 +4741,8 @@
   - date: 1926-01-11
     text: Resigned.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    tags: resignation
+  tags: crime
 - person: 412000
   name: Zihlman
   allegation: “certain sums of money were paid to two members of Congress” according
@@ -4390,6 +4754,7 @@
   - date: 1924-05-15
     text: Special committee recommended no further action against Zihlman.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: corruption
 - person: 411492
   name: Wheeler
   allegation: representing clients in cases in which the U.S. was an interested party
@@ -4417,6 +4782,7 @@
   - date: 1925
     text: Wheeler was acquitted in the Montana case.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=343
+  tags: ethics
 - person: 408150
   name: Newberry
   allegation: election fraud
@@ -4428,6 +4794,7 @@
   - date: 1920-03-20
     body: Senate
     action: convicted him of bribery.
+    tags: conviction
   - date: 1921-05-02
     body: Supreme Court
     action: overturned the Senate conviction.
@@ -4437,6 +4804,8 @@
   - date: 1922-11-18
     text: Resigned.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=336
+    tags: resignation
+  tags: corruption
 - person: 401524
   name: Blanton
   allegation: inserting a document in Congressional Record containing indecent and
@@ -4449,9 +4818,11 @@
   - date: 1921-10-27
     text: Censured (“resolution of reprimand and censure”), 293-0.
     link: https://www.govtrack.us/congress/votes/67-1/h120
+    tags: censure
   - date: 1921-10-28
     text: Apologized.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: ethics
 - person: 406514
   name: La Follette
   allegation: disloyalty to the United States by speaking against U.S. participation
@@ -4468,6 +4839,7 @@
     body: Senate
     action: voted 50-21 to dismiss the charges
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=333
+  tags: crime
 - person: 408150
   name: Newberry
   allegation: corrupt election spending
@@ -4479,6 +4851,7 @@
   consequences:
   - date: 1920-03-20
     text: Found guilty of campaign finance violations.
+    tags: conviction
   - date: 1921-05-02
     text: Supreme Court struck down conviction.
   - date: 1921-09-29
@@ -4488,6 +4861,7 @@
     body: Senate
     action: condemned Newberry for excessive expenditures, but did not unseat him
     link: https://www.govtrack.us/congress/votes/67-2/s206
+  tags: campaign corruption
 - person: 410534
   name: Sutherland
   allegation: illegal campaign activities
@@ -4503,6 +4877,7 @@
     body: Senate
     action: adopted the committee's recommendation
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=331
+  tags: campaign
 - person: 407405
   name: McDermott
   allegation: bribery by National Association of Manufacturers and other groups in
@@ -4522,9 +4897,11 @@
     action: recommended resolution “strongly” condemning conduct of McDermott.
   - date: 1914-07-21
     text: Resigned.
+    tags: resignation
   - date: 1914-11-03
     text: Re-elected.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: corruption
 - person: 411369
   name: Watson
   allegation: bribery to secure a Senate seat
@@ -4539,6 +4916,7 @@
     body: Senate
     action: adopted the recommendation
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=322
+  tags: corruption
 - person: 402499
   name: Chilton
   allegation: bribery to secure a Senate seat
@@ -4553,6 +4931,7 @@
     body: Senate
     action: adopted the recommendation
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=322
+  tags: corruption
 - person: 410325
   name: Stephenson
   allegation: electoral misconduct, bribery, and corruption
@@ -4569,11 +4948,11 @@
     body: Senate
     action: voted to allow him to keep his seate 40-34
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=319
+  tags: corruption
 - person: 406935
   name: Lorimer
   allegation: electoral misconduct, bribery, and corruption of a state legislature
-    in order to secure election to the Senate (this was immediately before the 17th
-    Amendement passed providing for direct election of senators)
+    in order to secure election to the Senate
   text: Lorimer faced an allegation of electoral misconduct, bribery, and corruption
     of a state legislature in order to secure election to the Senate (this was immediately
     before the 17th Amendement passed providing for direct election of senators).
@@ -4605,6 +4984,8 @@
   - date: 1912-07-13
     body: Senate
     action: unseated by a vote of 55-28
+    tags: exclusion
+  tags: corruption
 - person: 402380
   name: Cassel
   allegation: fraud related to the construction of the Pennsylvania State Capitol
@@ -4614,6 +4995,8 @@
   - date: 1909
     text: Convicted and was not re-elected.
     link: https://en.wikipedia.org/wiki/Henry_B._Cassel
+    tags: conviction
+  tags: crime
 - person: 406802
   name: Lilley
   allegation: contempt of House for making false charges of corruption regarding another
@@ -4633,6 +5016,7 @@
     body: House of Representatives
     action: approved the report and conclusions of Select committee, 159-82
     link: https://www.govtrack.us/congress/votes/60-1/h191
+  tags: ethics
 - person: 410118
   name: Smoot
   allegation: Mormonism
@@ -4650,6 +5034,7 @@
     action: first decided to require a 2/3 majority for expulsion which failed 27-43,
       and second to unseat him, which also failed 28-42.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=306
+  tags: ethics
 - person: 407793
   name: Mitchell
   allegation: using political influence in the federal government to help clients
@@ -4662,9 +5047,11 @@
   - date: 1905
     text: Indictment and conviction occured during Senate recess.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=33
+    tags: conviction
   - date: 1905-12-08
     text: Died.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000818
+  tags: crime
 - person: 403459
   name: Dietrich
   allegation: improprieties in postal appointments while Nebraska governor
@@ -4682,9 +5069,10 @@
     text: The special committee unanimously exonerated Dietrich and no further action
       was taken.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=310
+  tags: corruption
 - person: 402096
   name: Burton
-  allegation: accepting compensation for services before a federal agency (convicted)
+  allegation: accepting compensation for services before a federal agency
   text: Burton faced an allegation of accepting compensation for services before a
     federal agency (convicted). On May. 21, 1906, his final conviction was upheld
     after the first had been overturned and he'd been convicted again. From 1904 to
@@ -4696,11 +5084,14 @@
     text: His final conviction was upheld after the first had been overturned and
       he'd been convicted again. From 1904 to this point, Burton had not voted in
       the Senate to avoid triggering an explusion vote.
+    tags: conviction
   - date: 1906-05-22
     text: Referred to Committee on Privileges and Elections.
   - date: 1906-06-04
     text: Resigned.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=309
+    tags: resignation
+  tags: ethics
 - person: 407535
   name: McLaurin
   allegation: an altercation on February 22, 1902 in which Sen. Tillman accused Sen.
@@ -4740,6 +5131,8 @@
     body: Senate
     action: censured 54-12, with 22 senators not voting.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=303
+    tags: censure
+  tags: ethics
 - person: 410847
   name: Tillman
   allegation: an altercation on February 22, 1902 in which Sen. Tillman accused Sen.
@@ -4779,6 +5172,8 @@
     body: Senate
     action: censured 54-12, with 22 senators not voting.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=303
+    tags: censure
+  tags: ethics
 - person: 402592
   name: Clark
   allegation: bribery to win a Senate seat
@@ -4797,11 +5192,13 @@
     link: https://www.senate.gov/artandhistory/history/common/contested_elections/pdf/89_Apr_23_1900_Clark.pdf
   - date: 1900-05-15
     text: He resigned rather than be voted out.
+    tags: resignation
   - date: 1901
     text: Clark was elected to fill the vacancy he'd just created by a Montana legislature
       filled with winning candidates he'd financially supported. His prior antagonist
       had died in 1900 and no new charges challenging his seat were filed.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=297
+  tags: corruption
 - person: 405045
   name: Hanna
   allegation: bribery to win a Senate seat
@@ -4812,6 +5209,7 @@
     body: Committee on Privileges and Elections
     action: majority report found in favor of Hanna
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=290
+  tags: corruption
 - person: 409263
   name: Roach
   allegation: embezzlement
@@ -4821,6 +5219,7 @@
   - date: 1893
     text: Was not expelled because the embezzlement had occured 13 years earlier.
     link: https://www.senate.gov/artandhistory/history/common/briefing/Expulsion_Censure.htm
+  tags: crime
 - person: 402146
   name: Bynum
   allegation: insulting another member during debate on May 17, 1890
@@ -4830,6 +5229,8 @@
   - date: 1890-05-17
     text: Censured 126-104.
     link: https://www.govtrack.us/congress/votes/51-1/h174
+    tags: censure
+  tags: ethics
 - person: 411000
   name: Turpie
   allegation: misconduct by the Indiana Senate to secure Turpie's election
@@ -4847,6 +5248,7 @@
     body: Senate
     action: voted by voice to discharge the committee from further investigation
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=262
+  tags: campaign
 - person: 408555
   name: Payne
   allegation: bribery and corruption in the election
@@ -4862,6 +5264,7 @@
     body: Senate
     action: voted to discharge the committee from further investigation
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=259
+  tags: corruption
 - person: 406239
   name: Kellogg
   allegation: corruption for conduct that occurred prior to election to the House
@@ -4875,6 +5278,7 @@
       was referred to the Judiciary committee, 82-49; but no report appears to have
       been made.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: corruption
 - person: 411105
   name: Voorhis
   allegation: insulting another member during debate on March 1, 1883
@@ -4887,6 +5291,7 @@
     action: Voorhis apologized prior to a censure vote and the censure vote failed,
       66-78
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: ethics
 - person: 406600
   name: Lapham
   allegation: election corruption
@@ -4903,6 +5308,7 @@
     body: Senate
     action: discharged the committee from further action
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=255
+  tags: corruption
 - person: 407738
   name: Miller
   allegation: election corruption
@@ -4919,6 +5325,7 @@
     body: Senate
     action: discharged the committee from further action
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=255
+  tags: corruption
 - person: 405874
   name: Ingalls
   allegation: bribery and corruption in the election
@@ -4932,6 +5339,7 @@
     action: concluded that while bribery and corruption were present, there was no
       evidence tying them to Ingalls or that it had altered election results and therefore
       the charges should be dismissed.
+  tags: corruption
 - person: 407273
   name: Matthews
   allegation: corruption before serving in the Senate
@@ -4943,6 +5351,7 @@
     text: Select Committee unanimously found Matthews had not committed fraud, but
       had given the appearance of impropriety.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=247
+  tags: corruption
 - person: 404850
   name: Grover
   allegation: bribery and corruption in the election
@@ -4953,6 +5362,7 @@
     body: Committee on Privileges and Elections
     action: dismissed the charges
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=245
+  tags: corruption
 - person: 409989
   name: Smalls
   allegation: accepting a bribe while a state legislator in 1872
@@ -4967,6 +5377,7 @@
   - date: 1877-11-11
     text: Convicted and was sentenced to three years imprisonment, for which he served
       three days.
+    tags: conviction
   - date: 1877-12-03
     text: Released on bail pending appeal.
   - date: 1878-01-25
@@ -4977,6 +5388,7 @@
   - date: 1879-04-23
     text: Pardoned by governor.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: corruption
 - person: 401495
   name: Blaine
   allegation: selling worthless bonds to Union Pacific Railroad for $64,000
@@ -4990,6 +5402,8 @@
   - date: 1876-07-10
     text: Resigned.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    tags: resignation
+  tags: crime
 - person: 405269
   name: Hays
   allegation: accepting money to nominate an individual not from his district to military
@@ -5008,6 +5422,7 @@
   - date: 1876-08-06
     text: Report of the Judiciary Committee was tabled.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: corruption
 - person: 406378
   name: King
   allegation: corruption and false testimony before congressional committee
@@ -5021,6 +5436,7 @@
       had no jurisdiction to investigate an alleged offense committed in a previous
       Congress that was being reviewed by the courts.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: corruption
 - person: 409655
   name: Schumaker
   allegation: corruption and false testimony before congressional committee
@@ -5034,6 +5450,7 @@
       had no jurisdiction to investigate an alleged offense committed in a previous
       Congress that was being reviewed by the courts.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: corruption
 - person: 401887
   name: Brown
   allegation: insulting a member in debate and lying to the Speaker on February 4,
@@ -5049,12 +5466,14 @@
     body: House of Representatives
     action: censured, 161-79
     link: https://www.govtrack.us/congress/votes/43-2/h377
+    tags: censure
   - date: 1876-05-02
     body: House of Representatives
     action: unanimously agreed to resolution rescinding portion of censure regarding
       comments to Speaker because the former Speaker concluded Brown “did not in any
       way intend to prevaricate or deceive the House”
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: ethics
 - person: 401563
   name: Bogy
   allegation: bribery and corruption in the election
@@ -5069,6 +5488,7 @@
     body: Senate
     action: voted to adopt committee report
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=230
+  tags: corruption
 - person: 400815
   name: Allison
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
@@ -5080,6 +5500,7 @@
   - date: 1873-02-27
     body: Morrill Committee
     action: made no recommendation.
+  tags: corruption
 - person: 401242
   name: Bayard
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
@@ -5091,6 +5512,7 @@
   - date: 1873-02-27
     body: Morrill Committee
     action: made no recommendation.
+  tags: corruption
 - person: 401636
   name: Boutwell
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
@@ -5102,6 +5524,7 @@
   - date: 1873-02-27
     body: Morrill Committee
     action: made no recommendation.
+  tags: corruption
 - person: 402755
   name: Colfax
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
@@ -5121,6 +5544,7 @@
   - date: 1873-03-04
     text: Term as Vice President and President of the Senate ended.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=223
+  tags: corruption
 - person: 405090
   name: Harlan
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
@@ -5134,6 +5558,7 @@
     action: recommended censure.
   - date: 1873-03-04
     text: Term ended.
+  tags: corruption
 - person: 406894
   name: Logan
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
@@ -5145,6 +5570,7 @@
   - date: 1873-02-27
     body: Morrill Committee
     action: dismissed the charges.
+  tags: corruption
 - person: 402807
   name: Conkling
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
@@ -5156,6 +5582,7 @@
   - date: 1873-02-27
     body: Morrill Committee
     action: dismissed the charges.
+  tags: corruption
 - person: 411739
   name: Wilson
   allegation: bribery and corruption in management of Union Pacific Railroad and Credit
@@ -5167,6 +5594,8 @@
   - date: 1873-02-27
     body: Morrill Committee
     action: no formal recommendation, but reprimanded in report
+    tags: reprimand
+  tags: corruption
 - person: 408528
   name: Patterson
   allegation: corruption in Credit Mobilier stock share purchases
@@ -5182,6 +5611,7 @@
     body: Senate
     action: took no action due to expiration of Patterson's term
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=223
+  tags: corruption
 - person: 408814
   name: Pomeroy
   allegation: bribery to secure votes for a Senate seat
@@ -5200,6 +5630,7 @@
       special committee investigating issued majority and minority reports. However,
       because the report came on the last day of his term, no further action was taken.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=208
+  tags: corruption
 - person: 402188
   name: Caldwell
   allegation: bribery to secure votes for a Senate seat
@@ -5214,6 +5645,8 @@
   - date: 1873-03-24
     text: Resigned before a Senate vote.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=208
+    tags: resignation
+  tags: corruption
 - person: 402635
   name: Clayton
   allegation: corruption while governor of Arkansas
@@ -5227,6 +5660,7 @@
     body: Senate
     action: accepted the committee report 33-6
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=204
+  tags: corruption
 - person: 401838
   name: Brooks
   allegation: soliciting and accepting 50 shares of Credit Mobilier stock at undervalued
@@ -5241,6 +5675,8 @@
     body: House of Representatives
     action: censured, 174-32
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj07364))
+    tags: censure
+  tags: corruption
 - person: 400830
   name: Ames
   allegation: selling $33 million in Credit Mobilier stock to members of Congress
@@ -5262,6 +5698,8 @@
     body: House of Representatives
     action: censured, 182- 36
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj07364))
+    tags: censure
+  tags: corruption
 - person: 402130
   name: Butler
   allegation: accepting money for recommending appointment to military academy
@@ -5276,6 +5714,8 @@
     body: House of Representatives
     action: censured, 150-0
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06970))
+    tags: censure
+  tags: corruption
 - person: 403416
   name: Deweese
   allegation: accepting money for recommending appointment to military academy
@@ -5287,12 +5727,15 @@
   - date: 1870-02-28
     text: Resigned.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    tags: resignation
   - date: 1870-03-01
     text: Committee on Military Affairs recommended censure.
   - date: 1870-03-01
     body: House of Representatives
     action: censured,170-0
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06957))
+    tags: censure
+  tags: corruption
 - person: 409143
   name: Revels
   allegation: officially, not holding citizenship for the required nine years at the
@@ -5310,6 +5753,7 @@
   - date: 1870-02-25
     text: Senate voted to accept his credentials 48-8.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=187
+  tags: campaign
 - person: 411586
   name: Whittemore
   allegation: selling appointments to military academies
@@ -5326,10 +5770,13 @@
     body: House of Representatives
     action: censured, 187-0
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06954))
+    tags: censure
   - date: 1870-06-21
     text: Resigned prior to censure, but then was reelected to the same session of
       the House and then excluded from the House again, 130-76.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    tags: exclusion resignation
+  tags: corruption
 - person: 405563
   name: Holbrook
   allegation: accusing another member of lying during debate on February 4, 1869
@@ -5340,6 +5787,8 @@
   - date: 1869-02-04
     text: Censured by the Speaker with no recorded vote.
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06737))
+    tags: censure
+  tags: ethics
 - person: 411846
   name: Wood
   allegation: describing Reconstruction legislation as a “monstrosity” on January
@@ -5351,6 +5800,8 @@
     body: House of Representatives
     action: censured, 114-39
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06627))
+    tags: censure
+  tags: ethics
 - person: 405826
   name: Hunter
   allegation: accusing another member of lying during debate on January 26, 1867
@@ -5362,6 +5813,8 @@
     body: House of Representatives
     action: censured, 77-33
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06436))
+    tags: censure
+  tags: ethics
 - person: 409429
   name: Rousseau
   allegation: assaulting Rep. Grinnell with a cane outside the Capitol for an alleged
@@ -5379,11 +5832,14 @@
     body: House of Representatives
     action: censured, 89-30
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj063168))
+    tags: censure
   - date: 1866-07-21
     text: Resigned.
+    tags: resignation
   - date: 1866-12-03
     text: Re-elected to fill the vacancy his own resignation created.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000468
+  tags: crime
 - person: 402444
   name: Chanler
   allegation: “[A]ttempted a gross insult to the House” by proposing a resolution
@@ -5396,6 +5852,8 @@
     body: House of Representatives
     action: censured, 72-30
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj063116))
+    tags: censure
+  tags: ethics
 - person: 406901
   name: Long
   allegation: supporting recognition of the independence of the Confederacy in speech
@@ -5408,6 +5866,8 @@
     body: House of Representatives
     action: censured, 80- 70
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06190))
+    tags: censure
+  tags: ethics
 - person: 405110
   name: Harris
   allegation: encouraging the Confederacy on April 9, 1864 during House debate on
@@ -5420,6 +5880,8 @@
     body: House of Representatives
     action: censured, 98-20
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj06187))
+    tags: censure
+  tags: ethics
 - person: 402065
   name: Burnett
   allegation: open rebellion against the government of the United States
@@ -5431,6 +5893,8 @@
     body: House of Representatives
     action: expelled him, but no vote recorded
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj0594))
+    tags: expulsion
+  tags: crime
 - person: 409126
   name: Reid
   allegation: taking up arms against the government of the United States
@@ -5442,6 +5906,8 @@
     body: House of Representatives
     action: expelled him, but no vote recorded
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj0593))
+    tags: expulsion
+  tags: crime
 - person: 402579
   name: Clark
   allegation: taking up arms against the government of the United States
@@ -5452,6 +5918,8 @@
     body: House of Representatives
     action: expelled, 94-45
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05811))
+    tags: expulsion
+  tags: crime
 - person: 409911
   name: Simmons
   allegation: corruption
@@ -5466,6 +5934,8 @@
   - date: 1862-08-15
     text: Resigned.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=149
+    tags: resignation
+  tags: corruption
 - person: 410275
   name: Stark
   allegation: disloyalty to the Union
@@ -5491,6 +5961,7 @@
     body: Senate
     action: expulsion vote was defeated 21-16, apparently because Stark had only a
       few more months to serve
+  tags: crime
 - person: 401792
   name: Bright
   allegation: disloyalty to the Union
@@ -5505,6 +5976,8 @@
     body: Senate
     action: expelled 32-14
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=140
+    tags: expulsion
+  tags: crime
 - person: 406074
   name: Johnson
   allegation: disloyalty to the Union
@@ -5521,6 +5994,8 @@
     body: Senate
     action: expelled, 35-0
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=138
+    tags: expulsion
+  tags: crime
 - person: 408804
   name: Polk
   allegation: disloyalty to the Union
@@ -5537,6 +6012,8 @@
     body: Senate
     action: expelled, 36-0
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=138
+    tags: expulsion
+  tags: crime
 - person: 408866
   name: Powell
   allegation: support for the Confederate rebellion
@@ -5550,6 +6027,7 @@
   - date: 1862-03-14
     body: Senate
     action: expulsion was defeated, 11-28
+  tags: crime
 - person: 401746
   name: Breckinridge
   allegation: disloyalty to the union
@@ -5560,6 +6038,8 @@
     body: Senate
     action: expelled, 36-0
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=136
+    tags: expulsion
+  tags: crime
 - person: 407234
   name: Mason
   allegation: disloyalty to the Union
@@ -5570,6 +6050,8 @@
     body: Senate
     action: expelled, 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
+    tags: expulsion
+  tags: crime
 - person: 405829
   name: Hunter
   allegation: disloyalty to the Union
@@ -5580,6 +6062,8 @@
     body: Senate
     action: expelled, 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
+    tags: expulsion
+  tags: crime
 - person: 402658
   name: Clingman
   allegation: disloyalty to the Union
@@ -5590,6 +6074,8 @@
     body: Senate
     action: expelled, 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
+    tags: expulsion
+  tags: crime
 - person: 401718
   name: Bragg
   allegation: disloyalty to the Union
@@ -5600,6 +6086,8 @@
     body: Senate
     action: expelled, 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
+    tags: expulsion
+  tags: crime
 - person: 402487
   name: Chesnut
   allegation: disloyalty to the Union
@@ -5610,6 +6098,8 @@
     body: Senate
     action: expelled, 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
+    tags: expulsion
+  tags: crime
 - person: 408181
   name: Nicholson
   allegation: disloyalty to the Union
@@ -5620,6 +6110,8 @@
     body: Senate
     action: expelled, 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
+    tags: expulsion
+  tags: crime
 - person: 409721
   name: Sebastian
   allegation: disloyalty to the Union
@@ -5630,6 +6122,8 @@
     body: Senate
     action: expelled, 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
+    tags: expulsion
+  tags: crime
 - person: 407777
   name: Mitchel
   allegation: disloyalty to the Union
@@ -5640,6 +6134,8 @@
     body: Senate
     action: expelled, 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
+    tags: expulsion
+  tags: crime
 - person: 405331
   name: Hemphill
   allegation: disloyalty to the Union
@@ -5650,6 +6146,8 @@
     body: Senate
     action: expelled, 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
+    tags: expulsion
+  tags: crime
 - person: 411604
   name: Wigfall
   allegation: disloyalty to the Union
@@ -5660,6 +6158,8 @@
     body: Senate
     action: expelled, 32-10
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=129
+    tags: expulsion
+  tags: crime
 - person: 402618
   name: Clay
   allegation: disloyalty to the Union
@@ -5672,6 +6172,7 @@
     action: voted to pronounce his seat vacant after he withdrew from the Senate in
       the wake of Secession
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123
+  tags: crime
 - person: 410886
   name: Toombs
   allegation: disloyalty to the Union
@@ -5684,6 +6185,7 @@
     action: voted to pronounce his seat vacant after he withdrew from the Senate in
       the wake of Secession
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123
+  tags: crime
 - person: 403249
   name: Davis
   allegation: disloyalty to the Union
@@ -5696,6 +6198,7 @@
     action: voted to pronounce his seat vacant after he withdrew from the Senate in
       the wake of Secession
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123
+  tags: crime
 - person: 401857
   name: Brown
   allegation: disloyalty to the Union
@@ -5708,6 +6211,7 @@
     action: voted to pronounce his seat vacant after he withdrew from the Senate in
       the wake of Secession
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123
+  tags: crime
 - person: 412161
   name: Mallory
   allegation: disloyalty to the Union
@@ -5720,6 +6224,7 @@
     action: voted to pronounce his seat vacant after he withdrew from the Senate in
       the wake of Secession
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123
+  tags: crime
 - person: 401357
   name: Benjamin
   allegation: disloyalty to the Union
@@ -5732,6 +6237,7 @@
     action: voted to pronounce his seat vacant after he withdrew from the Senate in
       the wake of Secession
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=123
+  tags: crime
 - person: 409174
   name: Rice
   allegation: corruption prior to Senate term
@@ -5746,6 +6252,7 @@
       was recorded on receipts, that this was not disqualifying and no further action
       was taken
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=118
+  tags: corruption
 - person: 407269
   name: Matteson
   allegation: corruption during a preceding Congress
@@ -5759,6 +6266,7 @@
   - date: 1858-03-22
     text: Expulsion resolution was tabled, 96-69.
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05474))
+  tags: corruption
 - person: 402226
   name: Cameron
   allegation: election irregularities and electoral misconduct
@@ -5772,6 +6280,7 @@
     body: Senate Committee on the Judiciary
     action: dismissed the charges
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=114
+  tags: campaign
 - person: 403762
   name: Edwards
   allegation: accepting money for supporting legislation
@@ -5787,6 +6296,8 @@
     body: House of Representatives
     action: expulsion resolution was tabled after his resignation
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))
+    tags: resignation
+  tags: corruption
 - person: 407269
   name: Matteson
   allegation: “defam[ing] character of House” by accepting money in exchange for supporting
@@ -5807,8 +6318,11 @@
     body: House of Representatives
     action: censured him, 145-17 while the expulsion resolution was tabled
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))
+    tags: censure
   - date: 1857-02-27
     text: Resigned prior to House action; reelected later in 1857.
+    tags: resignation
+  tags: corruption
 - person: 404545
   name: Gilbert
   allegation: accepting money for supporting the Minnesota land bill
@@ -5825,6 +6339,8 @@
     body: House of Representatives
     action: expulsion resolution was tabled after his resignation
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))
+    tags: resignation
+  tags: corruption
 - person: 411434
   name: Welch
   allegation: accepting money for supporting the Minnesota land bill
@@ -5841,6 +6357,7 @@
     body: House of Representatives
     action: found insufficient evidence to expel, 119-42
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))
+  tags: corruption
 - person: 406224
   name: Keitt
   allegation: complicity in the assault on Sumner
@@ -5856,10 +6373,13 @@
     body: House of Representatives
     action: censured 106-96
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05255))
+    tags: censure
   - date: 1856-07-16
     text: Resigned after the vote.
+    tags: resignation
   - date: 1856-08-06
     text: Reelected.
+  tags: crime
 - person: 403753
   name: Edmundson
   allegation: complicity in the assault on Sumner
@@ -5874,6 +6394,7 @@
     body: House of Representatives
     action: censure resolution failed, 60-136
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05255))
+  tags: crime
 - person: 401842
   name: Brooks
   allegation: assaulting Sen. Sumner on the Senate floor after the Senate had adjourned
@@ -5895,9 +6416,11 @@
   - date: 1856-07-15
     text: Resigned after the expulsion vote.
     link: http://history.house.gov/People/Listing/B/BROOKS,-Preston-Smith-(B000885)/
+    tags: resignation
   - date: 1856-08-01
     text: Re-elected to fill the vacancy he created.
     link: http://history.house.gov/People/Listing/B/BROOKS,-Preston-Smith-(B000885)/
+  tags: crime
 - person: 405389
   name: Herbert
   allegation: fatally shooting a hotel waiter who refused him after-hours breakfast
@@ -5915,6 +6438,7 @@
   - date: 1856-07
     text: Acquitted.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+  tags: crime
 - person: 401389
   name: Benton
   allegation: breach of comity on April 17, 1850 threatening Foote
@@ -5928,6 +6452,7 @@
       had no intention of actually shooting and Benton had been threatening but hadn't
       acted.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=91
+  tags: ethics
 - person: 404204
   name: Foote
   allegation: breach of comity on April 17, 1850 when, feeling threatened by Benton,
@@ -5943,6 +6468,7 @@
       had no intention of actually shooting and Benton had been threatening but hadn't
       acted.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=91
+  tags: ethics
 - person: 412130
   name: Shields
   allegation: not yet being a United States citizen
@@ -5957,6 +6483,7 @@
       Shields was indeed six months short of the required period for residency and
       naturalization
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=88
+  tags: campaign
 - person: 402633
   name: Clayton
   allegation: disloyalty to the United States during negotiations on the boundary
@@ -5972,6 +6499,7 @@
       from the Senate gallery after the publisher admitted he didn't know if what
       he printed was true or not.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=85
+  tags: crime
 - person: 405964
   name: Jarnagin
   allegation: disloyalty to the United States during negotiations on the boundary
@@ -5987,6 +6515,7 @@
       from the Senate gallery after the publisher admitted he didn't know if what
       he printed was true or not.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=85
+  tags: crime
 - person: 402776
   name: Colquitt
   allegation: disloyalty to the United States during negotiations on the boundary
@@ -6002,6 +6531,7 @@
       from the Senate gallery after the publisher admitted he didn't know if what
       he printed was true or not.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=85
+  tags: crime
 - person: 410627
   name: Tappan
   allegation: violation of injunction of secrecy regarding President Tyler's terms
@@ -6019,6 +6549,8 @@
     body: Senate
     action: adopted a substitute resolution of censure, 38-7
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=81
+    tags: censure
+  tags: ethics
 - person: 404534
   name: Giddings
   allegation: violating House "gag rule" on slavery discussions by introducing a series
@@ -6035,12 +6567,15 @@
     body: House of Representatives
     action: censured, 125-69
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj03788))
+    tags: censure
   - date: 1842-03-22
     text: Resigned.
     link: http://history.house.gov/HistoricalHighlight/Detail/36674?ret=True
+    tags: resignation
   - date: 1842-05-05
     text: Re-elected to fill the vacancy caused by his own resignation.
     link: http://history.house.gov/HistoricalHighlight/Detail/36674?ret=True
+  tags: ethics
 - person: 400702
   name: Adams
   allegation: breaching of privileges of the House by presenting a petition to the
@@ -6055,6 +6590,7 @@
     body: House of Representatives
     action: tabled the censure resolution, 106-93
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj03751))
+  tags: ethics
 - person: 403637
   name: Duncan
   allegation: violating privileges of the House by publishing remarks in a newspaper
@@ -6067,6 +6603,7 @@
     body: House of Representatives
     action: tabled the censure resolution
     link: https://digital.library.unt.edu/ark:/67531/metadc29275/m1/218/?q=duncan
+  tags: ethics
 - person: 409461
   name: Ruggles
   allegation: corruption in using Senatorial influence to secure positive outcomes
@@ -6083,6 +6620,7 @@
     body: Senate
     action: agreed with the committtee
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=76
+  tags: corruption
 - person: 404742
   name: Graves
   allegation: breach of the privileges of the House because on February 24, 1838 Graves
@@ -6101,6 +6639,7 @@
     body: House of Representatives
     action: tabled the expulsion resolution
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj032126))
+  tags: crime
 - person: 411803
   name: Wise
   allegation: breach of the privileges of the House because on February 24, 1838 Graves
@@ -6119,6 +6658,7 @@
     body: House of Representatives
     action: tabled the censure resolution
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj032126))
+  tags: crime
 - person: 400702
   name: Adams
   allegation: gross disrespect on February 6, 1837 because Adams violated the House
@@ -6136,6 +6676,7 @@
     body: House of Representatives
     action: withdrew the censure resolution, 21-137
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj029206))
+  tags: ethics
 - person: 411692
   name: Williams
   allegation: insulting the chair of the Committee of the Whole during debate by yelling
@@ -6150,6 +6691,7 @@
     body: House of Representatives
     action: informally censured him, then later revoked the censure
     link: https://digital.library.unt.edu/ark:/67531/metadc30905/m1/660/?q=williams
+  tags: ethics
 - person: 408795
   name: Poindexter
   allegation: conspiracy to assassinate President Andrew Jackson
@@ -6166,6 +6708,7 @@
     body: Senate
     action: voted 41-0 to accept the committee's recommendation to dismiss charges
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=72
+  tags: crime
 - person: 400702
   name: Adams
   allegation: committing a breach of the rules of the House by refusing to vote on
@@ -6180,6 +6723,7 @@
     body: House of Representatives
     action: tabled the censure resolution, 89-63
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj025176))
+  tags: ethics
 - person: 410254
   name: Stanbery
   allegation: insulting the Speaker during floor debate on July 9, 1832 by saying
@@ -6192,6 +6736,8 @@
     body: House of Representatives
     action: censured, 92- 44
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj025175))
+    tags: censure
+  tags: ethics
 - person: 401224
   name: Bateman
   allegation: casting the deciding vote for himself in his election, which it was
@@ -6207,6 +6753,7 @@
   - date: 1829-01-12
     text: Resigned due to ill health and died on the 28th.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=67
+  tags: ethics
 - person: 408722
   name: Pickering
   allegation: reading confidential documents in open Senate session on December 31,
@@ -6222,9 +6769,11 @@
   - date: 1811-01-02
     body: Senate
     action: censured, 20-7
+    tags: censure
   - date: 1811
     text: Lost the election.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=60
+  tags: ethics
 - person: 410048
   name: Smith
   allegation: involvement in Aaron Burr's plot to lead the western territories in
@@ -6244,6 +6793,8 @@
   - date: 1808-04-25
     text: Resigned.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=52
+    tags: resignation
+  tags: crime
 - person: 407029
   name: Lyon
   allegation: violating the Sedition Act on October 9, 1798 by accusing President
@@ -6262,6 +6813,8 @@
   - date: 1799
     text: Re-elected after conviction and while still in jail.
     link: http://history.house.gov/Historical-Highlights/1800-1850/The-life-of-Representative-Matthew-Lyon-of-Vermont-and-Kentucky/
+    tags: conviction
+  tags: crime
 - person: 401543
   name: Blount
   allegation: disloyalty to the United States by attempting to start a war between
@@ -6291,11 +6844,13 @@
     body: Senate
     action: expelled 25-1 and ordered to appear on July 10 for impeachment, which
       he promised to do, but did not.
+    tags: expulsion
   - date: 1798-12-17
     body: Senate
     action: held an impeachment trial in the Senate and in absentia, but the resolution
       that he was impeachable failed
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=47
+  tags: crime
 - person: 404833
   name: Griswold
   allegation: “disorderly behavior” when, incensed that the House failed to expel
@@ -6321,6 +6876,7 @@
     body: House of Representatives
     action: failed to censure either member, 47-48
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003129))
+  tags: ethics
 - person: 407029
   name: Lyon
   allegation: “disorderly behavior” when, incensed that the House failed to expel
@@ -6346,6 +6902,7 @@
     body: House of Representatives
     action: failed to censure either member, 47-48
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003129))
+  tags: ethics
 - person: 407029
   name: Lyon
   allegation: spitting tobacco juice at Griswold on January 30, 1798
@@ -6366,6 +6923,7 @@
     body: House of Representatives
     action: failed to censure him, 44-52 and failed to expel him, 52-44
     link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003120))
+  tags: ethics
 - person: 407176
   name: Marshall
   allegation: misconduct prior to serving in the Senate
@@ -6383,3 +6941,4 @@
     body: Senate
     action: voted 16-7 to investigate no further
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=42
+  tags: ethics

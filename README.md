@@ -45,6 +45,8 @@ The data file [misconduct.yaml](misconduct.yaml) is a YAML-formatted text file c
 a list. Each entry in the list is an instance of misconduct. The file is ordered roughly
 reverse chronologically --- we add new items to the top.
 
+### Entry
+
 Each entry has five required fields:
 
 `person` is the numeric ID of the person on GovTrack.
@@ -60,6 +62,8 @@ summarizing the misconduct, which completes the sentence "The member was accused
 `consequences` is a list, in (forward) chronological order, of consequences that resulted
 from the misconduct, including investigations, expulsion, resignation, conviction,
 and other helpful notes that provide context.
+
+### Consequences
 
 Each consequence has its own fields. There are two forms for a consequence.
 
@@ -89,3 +93,26 @@ Note that the date of the misconduct is only present in an unstructured way in
 have a single precise date, and, further, the allegation may not have ocurred.
 The date of the first consequence, typically the start of an investigation, is
 the best date to use for sorting.
+
+### Tags
+
+Allegation records and consequences can both have `tags`, which contains a space-separated,
+alphabetically ordered list of tags.
+
+Tags for top-level allegation records are:
+
+* `campaign` - Elections and campaign-related allegations.
+* `corruption` - Bribery, extortion, and other criminal corruption.
+* `crime` - Tax evation, murder, fraud, and other crimes (besides corruption).
+* `ethics` - Violations of congressional rules that are not crimes.
+* `sexual-harassment` - Sexual harassment.
+
+Tags for consequences are:
+
+* `expulsion` - Expulsion by the Senate or House.
+* `censure` - Censure by the Senate or House. (Committee recommendations of censure are not tagged.)
+* `reprimand` - Admonishment, reprimand, or letter of reproval.
+* `resignation` - Resignation from office because of the allegation.
+* `exclusion` - A member-elect was prevented from being seated by the Senate or House.
+* `settlement` - Monetary settlement.
+* `conviction` - Conviction in a court.

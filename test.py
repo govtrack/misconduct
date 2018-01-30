@@ -48,6 +48,10 @@ for incident in misconduct:
 		error("incident {} is missing or has invalid 'consequences', should be a list.".format(debug_id))
 		continue
 
+	if not isinstance(incident.get("tags"), str):
+		error("incident {} is missing or has invalid 'tags', should be a string.".format(debug_id))
+		continue
+
 	for cons in incident["consequences"]:
 		debug_id2 = debug_id + " <{}>".format(rtyaml.dump(cons).strip().replace("\n", " --- "))
 
@@ -85,6 +89,10 @@ for incident in misconduct:
 			for item in cons["link"]:
 				if not isinstance(item, str):
 					error("consequence {} has an invalid 'link' value.".format(debug_id2))
+
+		if "tags" in cons and not isinstance(cons["tags"], str):
+			error("consequence {} has invalid 'tags', should be a string.".format(debug_id2))
+			continue
 
 if has_error:
 	sys.exit(1)
