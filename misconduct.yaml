@@ -3219,11 +3219,11 @@
   text: Lilley faced an allegation of contempt of House for making false charges of corruption regarding another member. On May. 20, 1908, the [Select Committee concluded Lilley made false allegations against another member and acted in contempt of House](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf). On May. 20, 1908, the House of Representatives [approved the report and conclusions of Select committee, 159- 82](https://www.govtrack.us/congress/votes/60-1/h191).
   consequences:
   - date: 1908-05-20
-    text: Select Committee concluded Lilley made false allegations against another member and acted in contempt of House
+    text: Select Committee concluded Lilley made false allegations against another member and acted in contempt of House.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   - date: 1908-05-20
     body: House of Representatives
-    action: approved the report and conclusions of Select committee, 159- 82
+    action: approved the report and conclusions of Select committee, 159-82
     link: https://www.govtrack.us/congress/votes/60-1/h191
 - person: 410118
   name: Smoot
@@ -3265,7 +3265,7 @@
   text: Burton faced an allegation of accepting compensation for services before a federal agency (convicted). On May. 21, 1906, his final conviction was upheld after the first had been overturned and he'd been convicted again. From 1904 to this point, Burton had not voted in the Senate to avoid triggering an explusion vote. On May. 22, 1906, hte issue was referred to the Committee on Privileges and Elections. On Jun. 4, 1906, he [resigned](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=309).
   consequences:
   - date: 1906-05-21
-    text: his final conviction was upheld after the first had been overturned and he'd been convicted again. From 1904 to this point, Burton had not voted in the Senate to avoid triggering an explusion vote.
+    text: His final conviction was upheld after the first had been overturned and he'd been convicted again. From 1904 to this point, Burton had not voted in the Senate to avoid triggering an explusion vote.
   - date: 1906-05-22
     text: Referred to Committee on Privileges and Elections.
   - date: 1906-06-04
@@ -3311,7 +3311,7 @@
     action: unanimously concluded he was not entitled to his seat and recommended a vote to unseat him
     link: https://www.senate.gov/artandhistory/history/common/contested_elections/pdf/89_Apr_23_1900_Clark.pdf
   - date: 1900-05-15
-    text: he resigned rather than be voted out.
+    text: He resigned rather than be voted out.
   - date: 1901
     text: Clark was elected to fill the vacancy he'd just created by a Montana legislature filled with winning candidates he'd financially supported. His prior antagonist had died in 1900 and no new charges challenging his seat were filed.
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=297
@@ -3375,8 +3375,7 @@
 - person: 411105
   name: Voorhis
   allegation: insulting another member during debate on March 1, 1883
-  text: Voorhis faced an allegation of insulting another member during debate on March
- 1, 1883. Voorhis apologized prior to a censure vote and on Mar. 1, 1883, the House of Representatives [failed to censure him, 66-78](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+  text: Voorhis faced an allegation of insulting another member during debate on March 1, 1883. Voorhis apologized prior to a censure vote and on Mar. 1, 1883, the House of Representatives [failed to censure him, 66-78](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1883-03-01
     body: House of Representatives
@@ -3463,7 +3462,7 @@
   text: Hays faced an allegation of accepting money to nominate an individual not from his district to military academy and making false certification regarding residency of the nominee. On Jul. 19, 1876, the committee recommended 4-2 that the House take no further action but concluded Hays' actions “excites grave suspicions, and shows in any possible view a carelessness which ought not to be tolerated”. On Aug. 6, 1876, the [report of the Judiciary Committee was tabled](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
   - date: 1876-07-19
-    text: committee recommended 4-2 that the House take no further action but concluded Hays' actions “excites grave suspicions, and shows in any possible view a carelessness which ought not to be tolerated”.
+    text: Committee recommended 4-2 that the House take no further action but concluded Hays' actions “excites grave suspicions, and shows in any possible view a carelessness which ought not to be tolerated”.
   - date: 1876-08-06
     text: Report of the Judiciary Committee was tabled.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
@@ -3653,7 +3652,7 @@
   consequences:
   - date: 1870-03-16
     body: Committee on Military Affairs
-    text: recommended censure.
+    action: recommended censure.
   - date: 1870-03-16
     body: House of Representatives
     action: censured, 150-0
@@ -3687,7 +3686,7 @@
   consequences:
   - date: 1870-02-21
     body: Committee on Military Affairs
-    text: recommended expulsion.
+    action: recommended expulsion.
   - date: 1870-02-24
     body: House of Representatives
     action: censured, 187-0
