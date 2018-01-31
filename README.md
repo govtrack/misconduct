@@ -116,3 +116,4 @@ Tags for consequences are:
 * `exclusion` - A member-elect was prevented from being seated by the Senate or House.
 * `settlement` - Monetary settlement.
 * `conviction` - Conviction in a court.
+* `plea` - Pleaded in a court.
