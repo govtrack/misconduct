@@ -101,7 +101,7 @@ alphabetically ordered list of tags.
 
 Tags for top-level allegation records describe the nature of the allegations and are one or more of:
 
-* `campaign` - Elections and campaign-related allegations.
+* `elections` - Elections and campaign-related allegations.
 * `corruption` - Bribery, extortion, and other criminal corruption.
 * `sexual-harassment-abuse` - Sexual harassment and abuse.
 * `crime` - Tax evation, murder, fraud, and other crimes (besides corruption and sexual harassment and abuse).
