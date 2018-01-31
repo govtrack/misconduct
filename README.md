@@ -99,13 +99,13 @@ the best date to use for sorting.
 Allegation records and consequences can both have `tags`, which contains a space-separated,
 alphabetically ordered list of tags.
 
-Tags for top-level allegation records are:
+Tags for top-level allegation records describe the nature of the allegations and are one or more of:
 
 * `campaign` - Elections and campaign-related allegations.
 * `corruption` - Bribery, extortion, and other criminal corruption.
-* `crime` - Tax evation, murder, fraud, and other crimes (besides corruption).
+* `sexual-harassment-abuse` - Sexual harassment and abuse.
+* `crime` - Tax evation, murder, fraud, and other crimes (besides corruption and sexual harassment and abuse).
 * `ethics` - Violations of congressional rules that are not crimes.
-* `sexual-harassment` - Sexual harassment.
 
 Tags for consequences are:
 

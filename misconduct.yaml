@@ -26,7 +26,7 @@
     body: House Committee on Ethics
     action: announced it has begun an investigation
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-12
-  tags: sexual-harassment
+  tags: sexual-harassment-abuse
 - person: 412716
   name: Ruben Kihuen
   text: On Dec. 15, 2017, the House Committee on Ethics announced that it had begun
@@ -40,7 +40,7 @@
   - date: 2017-12-16
     text: Kihuen will not seek re-election.
     link: https://www.washingtonpost.com/news/powerpost/wp/2017/12/16/rep-ruben-kihuen-wont-seek-reelection-amid-sexual-harassment-allegations/
-  tags: sexual-harassment
+  tags: sexual-harassment-abuse
 - person: 400141
   name: Trent Franks
   text: In 2017, Franks resigned due to reports that he had asked staff members to
@@ -57,7 +57,7 @@
     text: Resigned before an investigation could begin.
     link: https://www.politico.com/story/2017/12/08/trent-franks-sex-surrogacy-impregnate-287808
     tags: resignation
-  tags: sexual-harassment
+  tags: sexual-harassment-abuse
 - person: 412378
   name: Al Franken
   text: On December 7, 2017, Senator Franken announced his resignation which was effective
@@ -73,7 +73,7 @@
   - date: 2017-12-07
     text: Franken announced his resignation, which was effective January 2, 2018.
     tags: resignation
-  tags: sexual-harassment
+  tags: sexual-harassment-abuse
 - person: 400080
   name: John Conyers, Jr.
   text: On December 5, 2017, Conyers resigned from office at the start of an investigation
@@ -89,7 +89,7 @@
   - date: 2017-12-05
     text: Conyers resigned from office.
     tags: resignation
-  tags: ethics sexual-harassment
+  tags: ethics sexual-harassment-abuse
 - person: 400272
   name: Robert Menendez
   text: Menendez is being investigated for unspecified misconduct in 2012, presumably
@@ -142,7 +142,7 @@
     tags: plea
   - date: 2017-11-06
     text: Sentenced to 21 months in prison.
-  tags: crime sexual-harassment
+  tags: crime sexual-harassment-abuse
 - person: 400201
   name: William Jefferson
   text: In 2009 Jefferson was convicted of bribery. In 2012, he was sentenced to 13
@@ -328,7 +328,7 @@
   - date: 2016
     text: Pleaded guilty, served 13 months in prison.
     tags: plea
-  tags: crime
+  tags: sexual-harassment-abuse
 - person: 412392
   name: Marlin A. Stutzman
   text: In 2016 Stutzman was investigated for using campaign funds for a 2015 family
@@ -570,7 +570,7 @@
   - date: 2017-12-13
     text: Farenthold announces he will not seek reelection in 2018.
     link: https://www.dallasnews.com/news/politics/2017/12/14/farenthold-drops-reelection-bid-amid-complaints-lewdness-hostile-workplace-congress
-  tags: sexual-harassment
+  tags: sexual-harassment-abuse
 - person: 412558
   name: Michelle Lujan Grisham
   text: In 2015 Grisham was investigated for travel funded or organized by one or
@@ -861,7 +861,7 @@
     action: concluded that there was insufficient evidence to act further even though
       the representative admitted to "less than professional behavior"
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-alce-1
-  tags: sexual-harassment
+  tags: sexual-harassment-abuse
 - person: 400151
   name: Phil Gingrey
   text: In 2012 Gingrey was investigated for 2011 compensation from banks on whose
@@ -1428,7 +1428,7 @@
     body: House Committee on Ethics
     action: reauthorized an investigative subcommittee
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-regarding-former-representative-eric-massa
-  tags: sexual-harassment
+  tags: sexual-harassment-abuse
 - person: 300040
   name: John Ensign
   text: In 2011 Ensign was investigated for violating lobbying rules in order to cover
@@ -2820,7 +2820,7 @@
     text: Resigned.
     link: http://articles.latimes.com/1995-09-08/news/mn-43532_1_senator-packwood-resigns
     tags: resignation
-  tags: sexual-harassment
+  tags: sexual-harassment-abuse
 - person: 411725
   name: Wilson
   allegation: improper use of campaign funds and inadequate financial disclosure
@@ -2870,7 +2870,7 @@
       income tax return for four consecutive years
     link: https://en.wikipedia.org/wiki/Mel_Reynolds#Later_career
     tags: conviction
-  tags: crime ethics
+  tags: sexual-harassment-abuse ethics
 - person: 400551
   name: Armey
   allegation: improper use of congressional stationery
@@ -3094,7 +3094,7 @@
   - date: 1990-10-04
     text: Resigned.
     tags: resignation
-  tags: crime
+  tags: sexual-harassment-abuse
 - person: 403669
   name: Durenberger
   allegation: a wide range of financial misconduct
@@ -3183,7 +3183,7 @@
     body: House Committee on Standards of Official Conduct
     action: issued a public report disapproving of his conduct, 12-0
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt101-397_0.pdf
-  tags: sexual-harassment
+  tags: sexual-harassment-abuse
 - person: 404422
   name: Garcia
   allegation: conspiracy and Travel Act violations (receipt of $170,000 in payments,
@@ -3220,7 +3220,7 @@
   - date: 1989
     text: Admitted to violations and wrote personal letter of apology.
     link: https://www.rollcall.com/news/politics/congress-took-three-decades-come-far-sexual-harassment-victim-says
-  tags: campaign ethics sexual-harassment
+  tags: campaign ethics sexual-harassment-abuse
 - person: 411912
   name: Wright, Jr.
   allegation: improper lobbying efforts on behalf of a constituent with whom Rep.
@@ -3519,7 +3519,7 @@
       420-3
     link: https://www.govtrack.us/congress/votes/98-1983/h246
     tags: censure
-  tags: sexual-harassment
+  tags: sexual-harassment-abuse
 - person: 402985
   name: Crane
   allegation: a sexual relationship with a 17-year old female House page in 1980
@@ -3541,7 +3541,7 @@
     tags: censure
   - date: 1984-11-06
     text: Defeated in the election.
-  tags: sexual-harassment
+  tags: sexual-harassment-abuse
 - person: 409208
   name: Richmond
   allegation: evading federal taxes, two misdemeanors involving a government contract,
