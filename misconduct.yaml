@@ -2113,11 +2113,20 @@
   tags: crime
 - person: 400136
   name: Foley
-  text: In 2006, Foley faced allegations of [sexual abuse of underage Congressional pages](https://web.archive.org/web/20060930231243/http://blogs.abcnews.com/theblotter/2006/09/foley_resigns_o.html). Within one day of the initial news report of his behavior, and in light of [Speaker Hastert's plan to expel him if he remained](http://www.washingtonpost.com/wp-dyn/content/article/2006/10/02/AR2006100200660.html), Foley [resigned on Sept. 29, 2006](https://web.archive.org/web/20060930231243/http://blogs.abcnews.com/theblotter/2006/09/foley_resigns_o.html). In 2008, the Florida Department of Law Enforcement [closed a criminal investigation](http://www.cnn.com/2008/POLITICS/09/19/foley.investigation/) of Foley's possible use of government computers to engage in illegal activities such as sexually explicit texting with minors without filing charges due to insufficient evidence.
+  text: In 2006, Foley faced allegations of [sexual abuse of underage Congressional
+    pages](https://web.archive.org/web/20060930231243/http://blogs.abcnews.com/theblotter/2006/09/foley_resigns_o.html).
+    Within one day of the initial news report of his behavior, and in light of [Speaker
+    Hastert's plan to expel him if he remained](http://www.washingtonpost.com/wp-dyn/content/article/2006/10/02/AR2006100200660.html),
+    Foley [resigned on Sept. 29, 2006](https://web.archive.org/web/20060930231243/http://blogs.abcnews.com/theblotter/2006/09/foley_resigns_o.html).
+    In 2008, the Florida Department of Law Enforcement [closed a criminal investigation](http://www.cnn.com/2008/POLITICS/09/19/foley.investigation/)
+    of Foley's possible use of government computers to engage in illegal activities
+    such as sexually explicit texting with minors without filing charges due to insufficient
+    evidence.
   allegation: sexual abuse of underage Congressional pages
   consequences:
   - date: 2006-09-29
-    text: ABC News reported that in 2005 Foley had sent sexually explicit messages to underage Congressional pages.
+    text: ABC News reported that in 2005 Foley had sent sexually explicit messages
+      to underage Congressional pages.
     link: https://web.archive.org/web/20060930231243/http://blogs.abcnews.com/theblotter/2006/09/foley_resigns_o.html
   - date: 2006-09-29
     text: Speaker Hastert threatened to expel Foley if he did not resign.
@@ -2126,7 +2135,10 @@
     text: Resigned.
     link: https://web.archive.org/web/20060930231243/http://blogs.abcnews.com/theblotter/2006/09/foley_resigns_o.html
   - date: 2008-09-19
-    text: The Florida Department of Law Enforcement closed a criminal investigation of Foley without filing charges due to insufficient evidence. The allegations were that he used government computers to engage in illegal activities such as sexually explicit texting with minors.
+    text: The Florida Department of Law Enforcement closed a criminal investigation
+      of Foley without filing charges due to insufficient evidence. The allegations
+      were that he used government computers to engage in illegal activities such
+      as sexually explicit texting with minors.
     link: http://www.cnn.com/2008/POLITICS/09/19/foley.investigation/
   tags: sexual-harassment-abuse
 - person: 400293
@@ -5094,8 +5106,8 @@
     federal agency (convicted). On May. 21, 1906, his final conviction was upheld
     after the first had been overturned and he'd been convicted again. From 1904 to
     this point, Burton had not voted in the Senate to avoid triggering an explusion
-    vote. On May 22, 1906, the issue was referred to the Committee on Privileges
-    and Elections. On Jun. 4, 1906, he [resigned](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=309).
+    vote. On May 22, 1906, the issue was referred to the Committee on Privileges and
+    Elections. On Jun. 4, 1906, he [resigned](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=309).
   consequences:
   - date: 1906-05-21
     text: His final conviction was upheld after the first had been overturned and
