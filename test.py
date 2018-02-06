@@ -51,6 +51,11 @@ for incident in misconduct:
 	if not isinstance(incident.get("tags"), str):
 		error("incident {} is missing or has invalid 'tags', should be a string.".format(debug_id))
 		continue
+	elif "tags" in incident:
+		tags = set(incident["tags"].split(" "))
+		bad_tags = tags - { "elections", "corruption", "sexual-harassment-abuse", "crime", "ethics"}
+		if bad_tags:
+			error("incident {} has invalid 'tags': {}".format(debug_id, bad_tags))
 
 	for cons in incident["consequences"]:
 		debug_id2 = debug_id + " <{}>".format(rtyaml.dump(cons).strip().replace("\n", " --- "))
@@ -93,6 +98,14 @@ for incident in misconduct:
 		if "tags" in cons and not isinstance(cons["tags"], str):
 			error("consequence {} has invalid 'tags', should be a string.".format(debug_id2))
 			continue
+		elif "tags" in cons:
+			tags = set(cons["tags"].split(" "))
+			bad_tags = tags - {
+				"expulsion", "censure", "reprimand", "resignation", "exclusion",
+				"settlement", "conviction", "plea" }
+			if bad_tags:
+				error("consequence {} has invalid 'tags': {}".format(debug_id2, bad_tags))
+
 
 if has_error:
 	sys.exit(1)

@@ -2114,20 +2114,21 @@
 - person: 400136
   name: Foley
   text: In 2006, Foley faced allegations of [sexual abuse of underage Congressional pages](https://web.archive.org/web/20060930231243/http://blogs.abcnews.com/theblotter/2006/09/foley_resigns_o.html). Within one day of the initial news report of his behavior, and in light of [Speaker Hastert's plan to expel him if he remained](http://www.washingtonpost.com/wp-dyn/content/article/2006/10/02/AR2006100200660.html), Foley [resigned on Sept. 29, 2006](https://web.archive.org/web/20060930231243/http://blogs.abcnews.com/theblotter/2006/09/foley_resigns_o.html). In 2008, the Florida Department of Law Enforcement [closed a criminal investigation](http://www.cnn.com/2008/POLITICS/09/19/foley.investigation/) of Foley's possible use of government computers to engage in illegal activities such as sexually explicit texting with minors without filing charges due to insufficient evidence.
+  allegation: sexual abuse of underage Congressional pages
   consequences:
   - date: 2006-09-29
     text: ABC News reported that in 2005 Foley had sent sexually explicit messages to underage Congressional pages.
     link: https://web.archive.org/web/20060930231243/http://blogs.abcnews.com/theblotter/2006/09/foley_resigns_o.html
   - date: 2006-09-29
-    action: Speaker Hastert threatened to expel Foley if he did not resign.
+    text: Speaker Hastert threatened to expel Foley if he did not resign.
     link: http://www.washingtonpost.com/wp-dyn/content/article/2006/10/02/AR2006100200660.html
   - date: 2006-09-29
-    action: Resigned.
+    text: Resigned.
     link: https://web.archive.org/web/20060930231243/http://blogs.abcnews.com/theblotter/2006/09/foley_resigns_o.html
   - date: 2008-09-19
     text: The Florida Department of Law Enforcement closed a criminal investigation of Foley without filing charges due to insufficient evidence. The allegations were that he used government computers to engage in illegal activities such as sexually explicit texting with minors.
     link: http://www.cnn.com/2008/POLITICS/09/19/foley.investigation/
-  tags: sexual harassment & abuse  
+  tags: sexual-harassment-abuse
 - person: 400293
   name: Ney
   allegation: involvement in the Jack Abramoff influence-peddling investigation
