@@ -122,6 +122,18 @@
     text: Conyers resigned from office.
     tags: resignation
   tags: ethics sexual-harassment-abuse
+- person: 400133
+  name: Filner
+  allegation: pleading guilty to groping, sexually suggestive comments, and unwanted advances
+  consequences:
+  - date: 2013-10-13
+    action: Pleaded guilty
+    link: http://www.nytimes.com/2013/10/16/us/criminal-charges-for-bob-filner-former-san-diego-mayor.html
+    tags: pleaded in court
+  - date: 2017-11-20
+    text: Rep. Diana DeGette alleged that Filner had groped her while he was still in Congress.
+    link: https://www.denverpost.com/2017/11/20/diana-degette-tells-msnbc-groped-in-congress-by-former-congressman/
+  tags: sexual assault & harassment
 - person: 400272
   name: Robert Menendez
   text: Menendez is being investigated for unspecified misconduct in 2012, presumably
@@ -1289,6 +1301,17 @@
     link: http://www.nytimes.com/2013/02/21/us/politics/jesse-l-jackson-jr-pleads-guilty-to-wire-and-mail-fraud.html
     tags: plea
   tags: elections
+- person: 400437
+  name: Wu
+  allegations: sexual assault
+  consequences:
+  - date: 2011-07-22
+    text: a newspaper reported allegations that Wu forced her into non-consensual sex.
+    link: http://www.oregonlive.com/politics/index.ssf/2011/07/rep_david_wu_accused_of_aggres.html
+  - date: 2011-08-04
+    action: Resigned.
+    link: http://thehill.com/homenews/house/175403-wu-resigns-from-the-house
+  tags: sexual assault & harassment
 - person: 400422
   name: Maxine Waters
   text: In 2009 Waters was investigated for a conflict of interest with respect to
@@ -2048,6 +2071,16 @@
   - date: 2010
     text: Dodd did not run for reelection.
   tags: ethics
+- person: 412197
+  name: Mahoney
+  allegation: sexual harassment
+  consequences: 
+  - date: 2008-10-13
+    text: ABC News reported that Mahoney had paid an ex-staffer and mistress to head off a sexual harassment lawsuit.
+    link: https://en.wikipedia.org/wiki/Tim_Mahoney#Residency_and_Sex_Scandals
+  - date: 2008-11-04
+    action: Defeated in election
+  tags: sexual assault & harassment
 - person: 400336
   name: Rick Renzi
   text: In 2013 Renzi was convicted for allegations of personal gain in a land swap
@@ -3114,6 +3147,16 @@
     link: http://articles.chicagotribune.com/1997-09-30/news/9709300278_1_plead-rep-mary-rose-oakar-false-names
     tags: plea
   tags: crime
+- person: 412197
+  name: Mahoney
+  allegation: sexual harassment
+  consequences: 
+  - date: 2008-10-13
+    text: ABC News reported that Mahoney had paid an ex-staffer and mistress to head off a sexual harassment lawsuit.
+    link: https://en.wikipedia.org/wiki/Tim_Mahoney#Residency_and_Sex_Scandals
+  - date: 2008-11-04
+    action: Defeated in election
+  tags: sexual assault & harassment
 - person: 403696
   name: Dyson
   allegation: misuse of office funds and sex discrimination in hiring
