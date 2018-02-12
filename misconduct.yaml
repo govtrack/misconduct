@@ -40,7 +40,39 @@
   - date: 2017-12-16
     text: Kihuen will not seek re-election.
     link: https://www.washingtonpost.com/news/powerpost/wp/2017/12/16/rep-ruben-kihuen-wont-seek-reelection-amid-sexual-harassment-allegations/
+  - date: 2018-01-02
+    body: House Committee on Ethics
+    action: named members of the Investigative Subcommittee
+    link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-11
   tags: sexual-harassment-abuse
+- person: 400163
+  name: Luis V. Gutiérrez
+  text: In 2017 Gutierrez was investigated for having been arrested during a December protest
+    outside of the White House. The House Committee on Ethics [recommended no action
+    as the fine has been paid](https://ethics.house.gov/sites/ethics.house.gov/files/DREAMER%20Protest%20Report_0.pdf).
+    On November 28, 2017, Representative Gutierrez announced he would not seek reelection
+    to Congress.
+  allegation: arrest during a protest outside of the White House
+  consequences:
+  - date: 2017-12-21
+    body: House Committee on Ethics
+    action: recommended no action as the fine was paid
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/DREAMER%20Protest%20Report_0.pdf
+  - date: 2017-11-28
+    text: Representative Gutierrez announced he would not seek reelection to Congress.
+  tags: ethics
+- person: 412379
+  name: Judy Chu
+  text: In 2017 Chu was investigated for having been arrested during a December protest
+    outside of the White House. The House Committee on Ethics [recommended no action
+    as the fine has been paid](https://ethics.house.gov/sites/ethics.house.gov/files/DREAMER%20Protest%20Report_0.pdf).
+  allegation: arrest during a protest outside of the White House
+  consequences:
+  - date: 2017-12-21
+    body: House Committee on Ethics
+    action: recommended no action as the fine was paid
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/DREAMER%20Protest%20Report_0.pdf
+  tags: ethics
 - person: 400141
   name: Trent Franks
   text: In 2017, Franks resigned due to reports that he had asked staff members to
@@ -570,6 +602,10 @@
   - date: 2017-12-13
     text: Farenthold announces he will not seek reelection in 2018.
     link: https://www.dallasnews.com/news/politics/2017/12/14/farenthold-drops-reelection-bid-amid-complaints-lewdness-hostile-workplace-congress
+  - date: 2017-12-21
+    body: House Committee on Ethics
+    action: expanded the range of allegations being investigated to include campaign finance violations
+    link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-9
   tags: sexual-harassment-abuse
 - person: 412558
   name: Michelle Lujan Grisham
