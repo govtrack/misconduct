@@ -2568,21 +2568,6 @@
     text: Did not run for re-election.
     link: https://news.google.com/newspapers?id=zHMVAAAAIBAJ&sjid=NesDAAAAIBAJ&pg=5860%2C1623774
   tags: crime
-- person: 407282
-  name: Mavroules
-  allegation: accepting illegal gifts and misusing his office for private gain
-  text: Mavroules faced an allegation of accepting illegal gifts and misusing his
-    office for private gain. On Apr. 3, 1993, he [pleaded guilty and served 15 months
-    in prison](http://www.nytimes.com/1993/08/03/us/ex-congressman-to-go-to-prison.html).
-    In 1992, he lost the election.
-  consequences:
-  - date: 1993-04-03
-    text: Pleaded guilty and 15 months in prison.
-    link: http://www.nytimes.com/1993/08/03/us/ex-congressman-to-go-to-prison.html
-    tags: plea
-  - date: 1992
-    text: Lost the election.
-  tags: ethics
 - person: 404587
   name: Gingrich
   allegation: improper use of official resources in preparation of a college course,
@@ -3093,13 +3078,36 @@
     he was [convicted](http://www.nytimes.com/1993/07/22/us/federal-jury-convicts-ex-texas-congressman.html).
     In 1992, he lost his bid for re-election.
   consequences:
+  - date: 1992
+    text: Lost bid for re-election.
   - date: 1993-07-22
     text: Convicted.
     link: http://www.nytimes.com/1993/07/22/us/federal-jury-convicts-ex-texas-congressman.html
     tags: conviction
-  - date: 1992
-    text: Lost bid for re-election.
   tags: corruption
+- person: 407282
+  name: Mavroules
+  allegation: accepting illegal gifts and misusing his office for private gain
+  text: Mavroules faced an allegation of accepting illegal gifts and misusing his
+    office for private gain. On Apr. 3, 1993, he [pleaded guilty and served 15 months
+    in prison](http://www.nytimes.com/1993/08/03/us/ex-congressman-to-go-to-prison.html).
+    In 1992, he lost the election.
+  consequences:
+  - date: 1992
+    text: Lost the election.
+  - date: 1993-04-03
+    text: Pleaded guilty and 15 months in prison.
+    link: http://www.nytimes.com/1993/08/03/us/ex-congressman-to-go-to-prison.html
+    tags: plea
+  tags: ethics
+- person: 400692
+  name: Adams
+  allegation: rape and sexual harassment
+  consequences:
+  - date: 1992-03-02
+    action: quit election race.
+    link: http://www.nytimes.com/1992/03/02/us/brock-adams-quits-senate-race-amid-sex-misconduct-allegations.html
+  tags: sexual assault & harassment
 - person: 408632
   name: Perkins
   allegation: bank fraud and lying to investigators
