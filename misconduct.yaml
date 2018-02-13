@@ -47,9 +47,9 @@
   tags: sexual-harassment-abuse
 - person: 400163
   name: Luis V. Gutiérrez
-  text: In 2017 Gutierrez was investigated for having been arrested during a December protest
-    outside of the White House. The House Committee on Ethics [recommended no action
-    as the fine has been paid](https://ethics.house.gov/sites/ethics.house.gov/files/DREAMER%20Protest%20Report_0.pdf).
+  text: In 2017 Gutierrez was investigated for having been arrested during a December
+    protest outside of the White House. The House Committee on Ethics [recommended
+    no action as the fine has been paid](https://ethics.house.gov/sites/ethics.house.gov/files/DREAMER%20Protest%20Report_0.pdf).
     On November 28, 2017, Representative Gutierrez announced he would not seek reelection
     to Congress.
   allegation: arrest during a protest outside of the White House
@@ -124,16 +124,18 @@
   tags: ethics sexual-harassment-abuse
 - person: 400133
   name: Filner
-  allegation: pleading guilty to groping, sexually suggestive comments, and unwanted advances
+  allegation: pleading guilty to groping, sexually suggestive comments, and unwanted
+    advances
   consequences:
   - date: 2013-10-13
-    action: Pleaded guilty
+    text: Pleaded guilty.
     link: http://www.nytimes.com/2013/10/16/us/criminal-charges-for-bob-filner-former-san-diego-mayor.html
-    tags: pleaded in court
+    tags: plea
   - date: 2017-11-20
-    text: Rep. Diana DeGette alleged that Filner had groped her while he was still in Congress.
+    text: Rep. Diana DeGette alleged that Filner had groped her while he was still
+      in Congress.
     link: https://www.denverpost.com/2017/11/20/diana-degette-tells-msnbc-groped-in-congress-by-former-congressman/
-  tags: sexual assault & harassment
+  tags: sexual-harassment-abuse
 - person: 400272
   name: Robert Menendez
   text: Menendez is being investigated for unspecified misconduct in 2012, presumably
@@ -616,7 +618,8 @@
     link: https://www.dallasnews.com/news/politics/2017/12/14/farenthold-drops-reelection-bid-amid-complaints-lewdness-hostile-workplace-congress
   - date: 2017-12-21
     body: House Committee on Ethics
-    action: expanded the range of allegations being investigated to include campaign finance violations
+    action: expanded the range of allegations being investigated to include campaign
+      finance violations
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-9
   tags: sexual-harassment-abuse
 - person: 412558
@@ -1303,15 +1306,16 @@
   tags: elections
 - person: 400437
   name: Wu
-  allegations: sexual assault
+  allegation: sexual assault
   consequences:
   - date: 2011-07-22
-    text: a newspaper reported allegations that Wu forced her into non-consensual sex.
+    text: A newspaper reported allegations that Wu forced her into non-consensual
+      sex.
     link: http://www.oregonlive.com/politics/index.ssf/2011/07/rep_david_wu_accused_of_aggres.html
   - date: 2011-08-04
-    action: Resigned.
+    text: Resigned.
     link: http://thehill.com/homenews/house/175403-wu-resigns-from-the-house
-  tags: sexual assault & harassment
+  tags: sexual-harassment-abuse
 - person: 400422
   name: Maxine Waters
   text: In 2009 Waters was investigated for a conflict of interest with respect to
@@ -2074,13 +2078,14 @@
 - person: 412197
   name: Mahoney
   allegation: sexual harassment
-  consequences: 
+  consequences:
   - date: 2008-10-13
-    text: ABC News reported that Mahoney had paid an ex-staffer and mistress to head off a sexual harassment lawsuit.
+    text: ABC News reported that Mahoney had paid an ex-staffer and mistress to head
+      off a sexual harassment lawsuit.
     link: https://en.wikipedia.org/wiki/Tim_Mahoney#Residency_and_Sex_Scandals
   - date: 2008-11-04
-    action: Defeated in election
-  tags: sexual assault & harassment
+    text: Defeated in election.
+  tags: sexual-harassment-abuse
 - person: 400336
   name: Rick Renzi
   text: In 2013 Renzi was convicted for allegations of personal gain in a land swap
@@ -3105,9 +3110,9 @@
   allegation: rape and sexual harassment
   consequences:
   - date: 1992-03-02
-    action: quit election race.
+    text: Quit election race.
     link: http://www.nytimes.com/1992/03/02/us/brock-adams-quits-senate-race-amid-sex-misconduct-allegations.html
-  tags: sexual assault & harassment
+  tags: sexual-harassment-abuse
 - person: 408632
   name: Perkins
   allegation: bank fraud and lying to investigators
@@ -3155,16 +3160,6 @@
     link: http://articles.chicagotribune.com/1997-09-30/news/9709300278_1_plead-rep-mary-rose-oakar-false-names
     tags: plea
   tags: crime
-- person: 412197
-  name: Mahoney
-  allegation: sexual harassment
-  consequences: 
-  - date: 2008-10-13
-    text: ABC News reported that Mahoney had paid an ex-staffer and mistress to head off a sexual harassment lawsuit.
-    link: https://en.wikipedia.org/wiki/Tim_Mahoney#Residency_and_Sex_Scandals
-  - date: 2008-11-04
-    action: Defeated in election
-  tags: sexual assault & harassment
 - person: 403696
   name: Dyson
   allegation: misuse of office funds and sex discrimination in hiring
