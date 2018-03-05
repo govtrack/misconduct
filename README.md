@@ -29,6 +29,7 @@ Sources
 * [Wikipedia’s list of convictions of American politicians](https://en.wikipedia.org/wiki/List_of_American_federal_politicians_convicted_of_crimes), as of Jan 23, 2018
 * [The Washington Post’s list of indictments](https://www.washingtonpost.com/news/the-fix/wp/2015/07/29/more-than-two-dozen-members-of-congress-have-been-indicted-since-1980/)
 * [United States Senate Election, Expulsion, and Censure Cases](https://babel.hathitrust.org/cgi/pt?id=umn.31951p00933065r;view=1up;seq=7)
+* [Congress.gov](https://www.congress.gov/)
 
 How Congress Deals With Misconduct
 ----------------------------------
@@ -117,3 +118,8 @@ Tags for consequences are:
 * `settlement` - Monetary settlement.
 * `conviction` - Conviction in a court.
 * `plea` - Pleaded in a court.
+
+Tags for investigation status are:
+
+* `resolved` - either the investigation has formally ended, the legal process has concluded, the member has left Congress or the member has died.
+* `unresolved` - either the investigation has not formally ended or the legal process not concluded and the member remains in Congress
