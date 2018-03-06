@@ -42,65 +42,32 @@ Congressional ethics investigations, censure, and expulsion have a complex proce
 Data Dictionary
 ---------------
 
-The data file [misconduct.yaml](misconduct.yaml) is a YAML-formatted text file containing
-a list. Each entry in the list is an instance of misconduct. The file is ordered roughly
-reverse chronologically --- we add new items to the top.
+The data file [misconduct.yaml](misconduct.yaml) is a YAML-formatted text file.
 
-### Entry
+The file is a list of instances of misconduct or alleged misconduct, i.e. each entry repreents an allegation or a collection of related allegations. These entries have fields describing the misconduct or alleged misconduct, including which Member of Congress is accused, a textual summary of the allegation and consequences, a field for just the allegation, and detailed data on consequences.
 
-Each entry has five required fields:
+We add new instances of misconduct or alleged misconduct to the top of the file,
+but the file is not otherwise in any particular order. We recommend sorting based
+on the the date of the first consequence.
 
-`person` is the numeric ID of the person on GovTrack.
+### Instances of misconduct or alleged misconduct
 
-`name` is the name of the person.
+Each entry in [misconduct.yaml](misconduct.yaml) has the following fields:
 
-`text` is a summary of the allegation, investigations, and corrective actions taken
-in Markdown format (i.e. with light use of rich text like links).
+`person` is the numeric ID of the accused Member of Congress on GovTrack. See [https://github.com/unitedstates/congress-legislators/](https://github.com/unitedstates/congress-legislators/) for metadata on Members of Congress.
 
-`allegation` is a noun (`sexual harrassment`) or gerund phrase (`asking staff members to carry his surrogate child`)
-summarizing the misconduct, which completes the sentence "The member was accused of...".
+`name` is the name of the person for debugging purposes only.
+
+`text` is a summary of the allegation, investigations, and corrective actions taken. It is written in [Markdown format](https://daringfireball.net/projects/markdown/) with light use of rich text like links.
+
+`allegation` is a noun (e.g. `sexual harrassment`) or gerund phrase (e.g. `asking staff members to carry his surrogate child`)
+summarizing the misconduct, which completes the sentence "The member was accused of ...".
 
 `consequences` is a list, in (forward) chronological order, of consequences that resulted
 from the misconduct, including investigations, expulsion, resignation, conviction,
-and other helpful notes that provide context.
+and other helpful notes that provide context. The data format of a consequence is documented next.
 
-### Consequences
-
-Each consequence has its own fields. There are two forms for a consequence.
-
-The first form has `date`, `body`, `action`, and `link` fields. `body` is the
-name of a government body that took an action, such as the House Office of
-Congressional Ethics. `action` is a sentence fragment that has the action the
-body took --- `action` should complete the sentence that starts with `body`, so
-`action` normally starts with a lowercase letter, and it should not end with a
-period. (`action` does not contain Markdown.)
-
-The second form has `date`, `text`, and `link` fields. `text` is a full sentence
-or a fragment starting with the verb (in any case, starting with a capital letter
-and ending with a period) describing an event relevant to the misconduct. (This
-`text` does not contain Markdown.)
-
-Because some dates are unknown or actions may have ocurred over a time period
-greater than a date, `date` may be either a year alone `YYYY`, a year and month
-`YYYY-MM`, or a full date `YYYY-MM-DD`. Note that in YAML, a full date or a year
-alone do not require quotes (the former is parsed as a date value and the latter
-an integer) but a year and month do require quotes (it is parsed as a string).
-
-`link` is a URL to any supporting evidence, usually a report, a press release,
-or a news article, or in a few cases a list of such URLs.
-
-Note that the date of the misconduct is only present in an unstructured way in
-`text` and `allegation` because misconduct is often a set of events that don't
-have a single precise date, and, further, the allegation may not have ocurred.
-The date of the first consequence, typically the start of an investigation, is
-the best date to use for sorting.
-
-### Tags
-
-Allegation records and consequences can both have `tags`, which contains a space-separated,
-alphabetically ordered list of tags.
-
-Tags for top-level allegation records describe the nature of the allegations and its current status and are one or more of:
+`tags` is a space-separated, alphabetically ordered list of tags. Tags for these records describe the nature of the allegations and are one or more of:
 
 * `elections` - Elections and campaign-related allegations.
 * `corruption` - Bribery, extortion, and other criminal corruption.
@@ -110,7 +77,58 @@ Tags for top-level allegation records describe the nature of the allegations and
 * `resolved` - Either the investigation has formally ended, the legal process has concluded, the member has left Congress, or the member has died. Every instance of misconduct or alleged misconduct is tagged with either `resolved` or `unresolved`.
 * `unresolved` - There is an open or pending investigation or other ongoing legal process related to this instance of misconduct or alleged misconduct. Every instance of misconduct or alleged misconduct is tagged with either `resolved` or `unresolved`.
 
-Tags for consequences are:
+Note that consequences can also have tags but use a different set of tags.
+
+The date of the misconduct or alleged misconduct is only present in an unstructured way in
+`text` and `allegation` because misconduct is often a set of events that don't
+have a single precise date, and, further, the allegation may not have ocurred.
+Instead, each consequence is listed with a date. The date of the first (oldest) consequence,
+which is typically about the start of an investigation, is the best date to use for sorting.
+
+### Consequences
+
+Each consequence has its own fields. There are two forms for a consequence.
+
+#### Actions taken by governmental bodies
+
+The first form has `date`, `body`, `action`, and `link` fields and represents an
+action taken by a governmental body.
+
+`body` is the name of a governmental body that took an action, such as the House Office of
+Congressional Ethics.
+
+`action` is a sentence fragment --- a verb phrase --- that has the action the body took. It should complete the sentence that starts with `body`, so `action` normally starts with a lowercase letter, and it should not end with a period. (`action` may not contain Markdown.)
+
+`link` is a URL to any supporting evidence, often a report or press release issued by
+`body` documenting the action they took. News articles or other links may also appear.
+In rare cases multiple links may be given in YAML list notation.
+
+#### Other consequences and contextual notes
+
+The second form has `date`, `text`, and `link` fields to represent other consequences
+not caused by actions of governmental bodies and other contextual notes.
+
+`text` may be either a full sentence or a sentence fragment starting with the verb. In
+either case, `text` starts with a capital letter and ends with a period. (This `text`
+may not contain Markdown.)
+
+`link` is a URL to any supporting evidence, such as a contemporary news article or a
+primary source government document. In rare cases multiple links may be given in YAML
+list notation.
+
+#### Consequence dates
+
+Because some dates are unknown or actions may have ocurred over a time period
+greater than a date, `date` may be either a year alone `YYYY`, a year and month
+`YYYY-MM`, or a full date `YYYY-MM-DD`. Note that in YAML, a full date or a year
+alone do not require quotes (the former is parsed as a date value and the latter
+an integer) but a year and month do require being surrounded in quotes to be
+valid YAML.
+
+#### Tags
+
+Consequences may also have `tags`. The `tags` field is a space-separated, alphabetical
+list of tags from the following set:
 
 * `expulsion` - Expulsion by the Senate or House.
 * `censure` - Censure by the Senate or House. (Committee recommendations of censure are not tagged.)
