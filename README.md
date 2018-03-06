@@ -138,3 +138,9 @@ list of tags from the following set:
 * `settlement` - Monetary settlement.
 * `conviction` - Conviction in a court.
 * `plea` - Pleaded in a court.
+
+## Public domain
+
+This project is dedicated to the public domain. Copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](http://creativecommons.org/publicdomain/zero/1.0/).
+
+All contributions to this project must be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of your copyright interest.
