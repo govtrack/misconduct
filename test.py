@@ -116,6 +116,14 @@ for incident in misconduct:
 			if bad_tags:
 				error(incident, cons, "Consequence has invalid 'tags': {}.".format(bad_tags))
 
+	# Suggest incidents whose allegation or text fields probably could be shortened.
+	if len(incident["allegation"]) > 750:
+		error(incident, "'allegation' could probably be shorter.")
+	if len(incident["consequences"]) > 2 and len(incident["text"]) > 800:
+		error(incident, "'text' could probably be shorter.")
+	if len(incident["consequences"]) > 2 and len(incident["text"]) > 400 and len(incident["text"]) > .8 * (len(incident["allegation"]) + len(" ".join(str(cons) for cons in incident["consequences"]))):
+		error(incident, "'text' could probably be shorter.")
+
 
 if has_error:
 	sys.exit(1)
