@@ -100,13 +100,15 @@ the best date to use for sorting.
 Allegation records and consequences can both have `tags`, which contains a space-separated,
 alphabetically ordered list of tags.
 
-Tags for top-level allegation records describe the nature of the allegations and are one or more of:
+Tags for top-level allegation records describe the nature of the allegations and its current status and are one or more of:
 
 * `elections` - Elections and campaign-related allegations.
 * `corruption` - Bribery, extortion, and other criminal corruption.
 * `sexual-harassment-abuse` - Sexual harassment and abuse.
 * `crime` - Tax evation, murder, fraud, and other crimes (besides corruption and sexual harassment and abuse).
 * `ethics` - Violations of congressional rules that are not crimes.
+* `resolved` - Either the investigation has formally ended, the legal process has concluded, the member has left Congress, or the member has died. Every instance of misconduct or alleged misconduct is tagged with either `resolved` or `unresolved`.
+* `unresolved` - There is an open or pending investigation or other ongoing legal process related to this instance of misconduct or alleged misconduct. Every instance of misconduct or alleged misconduct is tagged with either `resolved` or `unresolved`.
 
 Tags for consequences are:
 
@@ -118,8 +120,3 @@ Tags for consequences are:
 * `settlement` - Monetary settlement.
 * `conviction` - Conviction in a court.
 * `plea` - Pleaded in a court.
-
-Tags for investigation status are:
-
-* `resolved` - either the investigation has formally ended, the legal process has concluded, the member has left Congress or the member has died.
-* `unresolved` - either the investigation has not formally ended or the legal process not concluded and the member remains in Congress

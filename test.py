@@ -53,7 +53,9 @@ for incident in misconduct:
 		continue
 	elif "tags" in incident:
 		tags = set(incident["tags"].split(" "))
-		bad_tags = tags - { "elections", "corruption", "sexual-harassment-abuse", "crime", "ethics"}
+		bad_tags = tags - {
+			"elections", "corruption", "sexual-harassment-abuse", "crime",
+			"ethics", "resolved", "unresolved"}
 		if bad_tags:
 			error("incident {} has invalid 'tags': {}".format(debug_id, bad_tags))
 
