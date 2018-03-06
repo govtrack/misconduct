@@ -1115,7 +1115,7 @@
       seat.
   - date: 2015-01-02
     body: House Committee on Ethics
-    text: reported that the end of the member's term ended the committee's jurisdiction.
+    action: reported that the end of the member's term ended the committee's jurisdiction.
     link: https://www.congress.gov/113/crpt/hrpt727/CRPT-113hrpt727.pdf
   tags: elections ethics resolved
 - person: 400163
@@ -1143,11 +1143,11 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-luis-0
   - date: 2015-01-02
     body: House Committee on Ethics
-    text: reported that the review would continue into the next Congress.
+    action: reported that the review would continue into the next Congress.
     link: https://www.congress.gov/113/crpt/hrpt727/CRPT-113hrpt727.pdf
   - date: 2017-01-02
     body: House Committee on Ethics
-    text: reported that the review would continue into the next Congress.
+    action: reported that the review would continue into the next Congress.
     link: https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf
   - date: 2017-11-28
     text: Gutierrez announced he would not seek reelection.
@@ -1175,11 +1175,11 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-cath-0
   - date: 2015-01-02
     body: House Committee on Ethics
-    text: reported that the review would continue into the next Congress.
+    action: reported that the review would continue into the next Congress.
     link: https://www.congress.gov/113/crpt/hrpt727/CRPT-113hrpt727.pdf
   - date: 2017-01-02
     body: House Committee on Ethics
-    text: reported that the review would continue into the next Congress.
+    action: reported that the review would continue into the next Congress.
     link: https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf
   tags: elections ethics unresolved
 - person: 412568
@@ -1203,11 +1203,11 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-9
   - date: 2015-01-02
     body: House Committee on Ethics
-    text: reported that the review would continue into the next Congress.
+    action: reported that the review would continue into the next Congress.
     link: https://www.congress.gov/113/crpt/hrpt727/CRPT-113hrpt727.pdf
   - date: 2017-01-02
     body: House Committee on Ethics
-    text: reported that the review would continue into the next Congress.
+    action: reported that the review would continue into the next Congress.
     link: https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf
   tags: ethics unresolved
 - person: 400008
@@ -1631,7 +1631,7 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-regarding-former-representative-eric-massa
   - date: 2012-12-31
     body: House Committee on Ethics
-    text: had not completed its investigation
+    action: had not completed its investigation
     link: https://www.congress.gov/112/crpt/hrpt739/CRPT-112hrpt739.pdf
   tags: resolved sexual-harassment-abuse
 - person: 300040
