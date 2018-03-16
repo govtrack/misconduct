@@ -3,7 +3,7 @@ Congressional Misconduct
 
 This repository contains a single YAML file documenting instances of misconduct
 and alleged misconduct by Members of the United States Congress, created by GovTrack.us,
-covering 1789 to the present.
+covering 1789 to the present. A CSV file is also included for those wishing to import the data into a spreadsheet.
 
 This database contains:
 
