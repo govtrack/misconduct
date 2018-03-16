@@ -15,6 +15,9 @@ This database contains:
 
 Investigations, settlements, and resignations **do not imply guilt**. Some investigations are motivated by politics or a personal grudge, settlements are often used when it would be less costly than defending a law suit, and Members of Congress often resign when they are likely to lose re-election (regardless of why). We include investigations even if the Member of Congress is exonerated, per the above rubrik, because the investigation and exoneration are themselves important events not to be forgotten. Conversely, an investigation that ends without a guilty determination **does not imply innocence** --- Congress polices itself in many cases and Members of Congress are reluctant to punish their peers.
 
+Unique to our database are tags describing the type of misconduct such as corruption, general ethical violations or sexual harassment and abuse; consequences including censure, expulsion, resignation and convictions; and case status of resolved/unresolved. Using these filters you can see for example that at least two still open cases have been extended through multiple Congresses with no end date in sight.
+
+
 This database can be viewed at:
 
 * https://www.govtrack.us/misconduct
