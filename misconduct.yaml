@@ -9,14 +9,14 @@
     for being "illegal aliens"
   consequences:
   - date: 2018-01-30
-    text: pressuring Capitol Police to arrest DACA recipients attending the 2018 State
-      of the Union address
+    text: Asked Capitol Police to arrest DACA recipients attending the 2018 State
+      of the Union address.
     link: https://twitter.com/RepGosar/status/958407946060300288
   - date: 2018-02-06
     body: House of Representatives
     action: tabled resolution of reprimand, 231-187
     link: https://www.govtrack.us/congress/votes/115-2018/h53
-  tags: ethics reprimand resolved
+  tags: ethics resolved
 - person: 412524
   name: Elizabeth Esty
   text: In April of 2018, Rep. Esty announced she would not seek reelection after
@@ -27,7 +27,7 @@
     a timely manner
   consequences:
   - date: 2018-04-02
-    text: Esty announced she would not seek re-election in 2018
+    text: Esty announced she would not seek re-election in 2018.
     link: https://www.nytimes.com/2018/04/02/us/politics/elizabeth-esty-wont-run-reelection.html
   tags: sexual-harassment-abuse unresolved
 - person: 400297
@@ -39,8 +39,8 @@
     entities
   consequences:
   - date: 2018-03-20
-    body: Federal Elections Commission (FEC)
-    action: FEC sent a letter to Nunes' campaign treasurer
+    body: Federal Elections Commission
+    action: sent a letter to Nunes' campaign treasurer
     link: http://docquery.fec.gov/pdf/285/201803200300001285/201803200300001285.pdf
   tags: elections unresolved
 - person: 400047
@@ -464,7 +464,6 @@
     body: House Committee on Ethics
     action: deferred to the Department of Justice
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-16
-    tags: deferred
   tags: crime elections unresolved
 - person: 400169
   name: Dennis “Denny” Hastert
@@ -1196,7 +1195,7 @@
       seat.
   - date: 2015-01-02
     body: House Committee on Ethics
-    text: reported that the end of the member's term ended the committee's jurisdiction.
+    action: reported that the end of the member's term ended the committee's jurisdiction.
     link: https://www.congress.gov/113/crpt/hrpt727/CRPT-113hrpt727.pdf
   tags: elections ethics resolved
 - person: 400163
@@ -1225,11 +1224,11 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-luis-0
   - date: 2015-01-02
     body: House Committee on Ethics
-    text: reported that the review would continue into the next Congress.
+    action: reported that the review would continue into the next Congress.
     link: https://www.congress.gov/113/crpt/hrpt727/CRPT-113hrpt727.pdf
   - date: 2017-01-02
     body: House Committee on Ethics
-    text: reported that the review would continue into the next Congress.
+    action: reported that the review would continue into the next Congress.
     link: https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf
   - date: 2017-11-28
     text: Gutiérrez announced he would not seek reelection.
@@ -1263,11 +1262,11 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-cath-0
   - date: 2015-01-02
     body: House Committee on Ethics
-    text: reported that the review would continue into the next Congress.
+    action: reported that the review would continue into the next Congress.
     link: https://www.congress.gov/113/crpt/hrpt727/CRPT-113hrpt727.pdf
   - date: 2017-01-02
     body: House Committee on Ethics
-    text: reported that the review would continue into the next Congress.
+    action: reported that the review would continue into the next Congress.
     link: https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf
   tags: elections ethics unresolved
 - person: 412568
@@ -1291,11 +1290,11 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-9
   - date: 2015-01-02
     body: House Committee on Ethics
-    text: reported that the review would continue into the next Congress.
+    action: reported that the review would continue into the next Congress.
     link: https://www.congress.gov/113/crpt/hrpt727/CRPT-113hrpt727.pdf
   - date: 2017-01-02
     body: House Committee on Ethics
-    text: reported that the review would continue into the next Congress.
+    action: reported that the review would continue into the next Congress.
     link: https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf
   tags: ethics unresolved
 - person: 400008
@@ -1719,7 +1718,7 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-regarding-former-representative-eric-massa
   - date: 2012-12-31
     body: House Committee on Ethics
-    text: had not completed its investigation
+    action: had not completed its investigation
     link: https://www.congress.gov/112/crpt/hrpt739/CRPT-112hrpt739.pdf
   tags: resolved sexual-harassment-abuse
 - person: 300040
@@ -1946,8 +1945,8 @@
     lie!"
   consequences:
   - date: 2009-09-09
-    action: heckled President Obama during an address to Congress by yelling "You
-      lie!"
+    text: Wilson heckled President Obama during an address to Congress by yelling "You
+      lie!".
     link: http://www.cnn.com/2009/POLITICS/09/09/joe.wilson/
   - date: 2009-09-15
     body: House
@@ -3185,7 +3184,7 @@
     error and paid a $90,000 fine](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf).
   consequences:
   - date: 1995-08-25
-    body: Federal Elections Commission (FEC)
+    body: Federal Elections Commission
     action: transmitted information to the committee on Standards developed during
       an investigation
   - date: 1995-12-07
