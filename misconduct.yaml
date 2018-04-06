@@ -1,12 +1,7 @@
 - person: 412397
   name: Paul Gosar
-  text: In February 2018, a resolution to reprimand Rep. Gosar for attempting to pressure
-    Capitol Police via Twitter to arrest State of the Union 2018 guests currently
-    in the United States legally under DACA provisions for being "illegal aliens"
-    [was tabled (i.e. failed) on party lines, 231-187](https://www.govtrack.us/congress/votes/115-2018/h53).
-  allegation: attempting to pressure Capitol Police via Twitter to arrest State of
-    the Union 2018 guests currently in the United States legally under DACA provisions
-    for being "illegal aliens"
+  text: In February 2018, a resolution to reprimand Rep. Gosar for attempting to pressure Capitol Police via Twitter to arrest State of the Union 2018 guests he described as "illegal aliens" [was tabled (i.e. failed) on party lines, 231-187](https://www.govtrack.us/congress/votes/115-2018/h53). Several Democratic Congresspeople brought undocumented immigrants who are currently part of the DACA program to the speech.
+  allegation: attempting to pressure Capitol Police via Twitter to arrest State of the Union 2018 guests he described as "illegal aliens"
   consequences:
   - date: 2018-01-30
     text: Asked Capitol Police to arrest DACA recipients attending the 2018 State
@@ -700,8 +695,7 @@
     resolved in 2015](http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court)
     with a [taxpayer-funded settlement](https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458)
     that was revealed in 2017, and the House Committee on Ethics investigation was
-    re-opened. In light of further revelations of inappropriate behavior, Farenthold
-    announced on December, 13, 2017 that [he would not seek reelection](https://www.dallasnews.com/news/politics/2017/12/14/farenthold-drops-reelection-bid-amid-complaints-lewdness-hostile-workplace-congress).
+    re-opened. On April 6, 2018, Farenthold resigned.
   allegation: sexual harassment on the basis of a 2014 lawsuit filed against him alleging
     sexual harassment
   consequences:
@@ -716,7 +710,6 @@
     link:
     - http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court
     - https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458
-    tags: settlement
   - date: 2017-12-07
     body: House Committee on Ethics
     action: re-opened the investigation
@@ -733,7 +726,10 @@
     action: expanded the range of allegations being investigated to include campaign
       finance violations
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-9
-  tags: corruption elections sexual-harassment-abuse unresolved
+  - date: 2018-04-06
+    text: Farenthold resigned.
+    link: https://www.thedailybeast.com/rep-blake-farenthold-resigns-amid-sexual-harassment-claims
+tags: corruption elections sexual-harassment-abuse settlement resignation resolved
 - person: 412558
   name: Michelle Lujan Grisham
   text: In 2015 Grisham was investigated for travel funded or organized by one or
