@@ -1,10 +1,16 @@
 - person: 412397
   name: Paul Gosar
-  text: In February 2018, a resolution to reprimand Rep. Gosar for attempting to pressure Capitol Police via Twitter to arrest State of the Union 2018 guests currently in the United States legally under DACA provisions for being "illegal aliens" [was tabled (i.e. failed) on party lines, 231-187](https://www.govtrack.us/congress/votes/115-2018/h53).
-  allegation: attempting to pressure Capitol Police via Twitter to arrest State of the Union 2018 guests currently in the United States legally under DACA provisions for being "illegal aliens"
+  text: In February 2018, a resolution to reprimand Rep. Gosar for attempting to pressure
+    Capitol Police via Twitter to arrest State of the Union 2018 guests currently
+    in the United States legally under DACA provisions for being "illegal aliens"
+    [was tabled (i.e. failed) on party lines, 231-187](https://www.govtrack.us/congress/votes/115-2018/h53).
+  allegation: attempting to pressure Capitol Police via Twitter to arrest State of
+    the Union 2018 guests currently in the United States legally under DACA provisions
+    for being "illegal aliens"
   consequences:
   - date: 2018-01-30
-    text: pressuring Capitol Police to arrest DACA recipients attending the 2018 State of the Union address
+    text: pressuring Capitol Police to arrest DACA recipients attending the 2018 State
+      of the Union address
     link: https://twitter.com/RepGosar/status/958407946060300288
   - date: 2018-02-06
     body: House of Representatives
@@ -13,8 +19,12 @@
   tags: ethics reprimand resolved
 - person: 412524
   name: Elizabeth Esty
-  text: In April of 2018, Rep. Esty announced she would not seek reelection after she admitted that she had [failed to address sexual harassment](https://www.nytimes.com/2018/04/02/us/politics/elizabeth-esty-wont-run-reelection.html) by one staffer against another in a timely manner. She said she had also asked for a review of her office's actions by the House Committee on Ethics.
-  allegation: failed to address sexual harassment by one staffer against another in a timely manner
+  text: In April of 2018, Rep. Esty announced she would not seek reelection after
+    she admitted that she had [failed to address sexual harassment](https://www.nytimes.com/2018/04/02/us/politics/elizabeth-esty-wont-run-reelection.html)
+    by one staffer against another in a timely manner. She said she had also asked
+    for a review of her office's actions by the House Committee on Ethics.
+  allegation: failed to address sexual harassment by one staffer against another in
+    a timely manner
   consequences:
   - date: 2018-04-02
     text: Esty announced she would not seek re-election in 2018
@@ -22,8 +32,11 @@
   tags: sexual-harassment-abuse unresolved
 - person: 400297
   name: Devin Nunes
-  text: In 2018, the [Federal Elections Commission (FEC) announced it was investigating Nunes](http://docquery.fec.gov/pdf/285/201803200300001285/201803200300001285.pdf) for receiving campaign contributions in excess of limits and from prohibited entities.
-  allegation: receiving campaign contributions in excess of limits and from prohibited entities
+  text: In 2018, the [Federal Elections Commission (FEC) announced it was investigating
+    Nunes](http://docquery.fec.gov/pdf/285/201803200300001285/201803200300001285.pdf)
+    for receiving campaign contributions in excess of limits and from prohibited entities.
+  allegation: receiving campaign contributions in excess of limits and from prohibited
+    entities
   consequences:
   - date: 2018-03-20
     body: Federal Elections Commission (FEC)
@@ -45,7 +58,10 @@
   tags: corruption elections unresolved
 - person: 412466
   name: Meehan
-  text: While serving on the House Committee on Ethics, Meehan used taxpayer funds to settle a 2017 sexual harassment complaint privately, heading off an investigation. He was subsequently removed from the House Committee on Ethics. In March 2018, the House Committee on Ethics had established and [staffed an Investigative Subcommittee](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-14).
+  text: While serving on the House Committee on Ethics, Meehan used taxpayer funds
+    to settle a 2017 sexual harassment complaint privately, heading off an investigation.
+    He was subsequently removed from the House Committee on Ethics. In March 2018,
+    the House Committee on Ethics had established and [staffed an Investigative Subcommittee](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-14).
   allegation: sexual harassment
   consequences:
   - date: 2018-01-20
@@ -63,15 +79,21 @@
   tags: sexual-harassment-abuse unresolved
 - person: 400116
   name: John J. Duncan, Jr.
-  text: In 2017, the Office of Congressional Ethics recommended further review of allegations against Rep. Duncan, Jr. for converting campaign funds to personal use and accepting contributions from staff while reimbursing them for those contributions from the campaign committee. In 2018, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jo-3). 
-  allegation: converting campaign funds to personal use and accepting contributions from staff while reimbursing them for those contributions from the campaign committee
+  text: In 2017, the Office of Congressional Ethics recommended further review of
+    allegations against Rep. Duncan, Jr. for converting campaign funds to personal
+    use and accepting contributions from staff while reimbursing them for those contributions
+    from the campaign committee. In 2018, the House Committee on Ethics [published
+    the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jo-3).
+  allegation: converting campaign funds to personal use and accepting contributions
+    from staff while reimbursing them for those contributions from the campaign committee
   consequences:
   - date: 2017-12-19
     body: Office of Congressional Ethics
     action: recommended further review by the House Committee on Ethics
   - date: 2018-04-04
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response.
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jo-3
   tags: elections unresolved
 - person: 412716
@@ -140,7 +162,7 @@
     text: Resigned.
     link: https://www.politico.com/story/2017/12/08/trent-franks-sex-surrogacy-impregnate-287808
     tags: resignation
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 412378
   name: Al Franken
   text: On December 7, 2017, Senator Franken announced his resignation which was effective
@@ -156,7 +178,7 @@
   - date: 2017-12-07
     text: Franken announced his resignation, which was effective January 2, 2018.
     tags: resignation
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 400080
   name: John Conyers, Jr.
   text: On December 5, 2017, Conyers resigned from office at the start of an investigation
@@ -172,10 +194,12 @@
   - date: 2017-12-05
     text: Conyers resigned from office.
     tags: resignation
-  tags: ethics sexual-harassment-abuse resolved
+  tags: ethics resolved sexual-harassment-abuse
 - person: 400133
   name: Filner
-  text: In 2013 Filner pleaded guilty to groping, sexually suggestive comments and unwanted advances as mayor of San Diego, CA. In Nov. 2017, Rep. Diana DeGettee alleged that Filner had groped her when their Congressional terms overlapped.
+  text: In 2013 Filner pleaded guilty to groping, sexually suggestive comments and
+    unwanted advances as mayor of San Diego, CA. In Nov. 2017, Rep. Diana DeGettee
+    alleged that Filner had groped her when their Congressional terms overlapped.
   allegation: groping, sexually suggestive comments, and unwanted advances
   consequences:
   - date: 2013-10-13
@@ -186,7 +210,7 @@
     text: Rep. Diana DeGette alleged that Filner had groped her while he was still
       in Congress.
     link: https://www.denverpost.com/2017/11/20/diana-degette-tells-msnbc-groped-in-congress-by-former-congressman/
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 400272
   name: Robert Menendez
   text: Menendez is being investigated for unspecified misconduct in 2012, presumably
@@ -239,7 +263,7 @@
     tags: plea
   - date: 2017-11-06
     text: Sentenced to 21 months in prison.
-  tags: crime sexual-harassment-abuse resolved
+  tags: crime resolved sexual-harassment-abuse
 - person: 400201
   name: William Jefferson
   text: In 2009 Jefferson was convicted of bribery. In 2012, he was sentenced to 13
@@ -257,8 +281,14 @@
   tags: corruption resolved
 - person: 412563
   name: Chris Collins
-  text: In 2017 Collins was investigated for sharing material nonpublic information in the purchase of Innate stock, may have used his status to purchase discounted stock and in 2013 may have directed an NIH employee to meet with Innate staff to discuss a clinical trial. The House Committee on Ethics recommended further review.
-  allegation: sharing material nonpublic information in the purchase of Innate stock, using his status to purchase discounted stock and directing an NIH employee to meet with Innate staff to discuss a clinical trial
+  text: In 2017 Collins was investigated for sharing material nonpublic information
+    in the purchase of Innate stock, may have used his status to purchase discounted
+    stock and in 2013 may have directed an NIH employee to meet with Innate staff
+    to discuss a clinical trial. The House Committee on Ethics recommended further
+    review.
+  allegation: sharing material nonpublic information in the purchase of Innate stock,
+    using his status to purchase discounted stock and directing an NIH employee to
+    meet with Innate staff to discuss a clinical trial
   consequences:
   - date: 2017-07-14
     body: Office of Congressional Ethics
@@ -270,12 +300,17 @@
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-2
   - date: 2017-10-12
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and Rep. Collins's response.
+    action: published the Office of Congressional Ethics Report and Findings and Rep.
+      Collins's response.
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-3
   tags: ethics unresolved
 - person: 400163
   name: Luis V. Gutiérrez
-  text: In 2017 Gutiérrez was investigated for having been arrested during a protest outside of the White House. The House Committee on Ethics [recommended no action as the fine has been paid](https://www.congress.gov/115/crpt/hrpt310/CRPT-115hrpt310.pdf). On November 28, 2017, Representative Gutiérrez announced he would not seek reelection to Congress.
+  text: In 2017 Gutiérrez was investigated for having been arrested during a protest
+    outside of the White House. The House Committee on Ethics [recommended no action
+    as the fine has been paid](https://www.congress.gov/115/crpt/hrpt310/CRPT-115hrpt310.pdf).
+    On November 28, 2017, Representative Gutiérrez announced he would not seek reelection
+    to Congress.
   allegation: arrest during a protest outside of the White House
   consequences:
   - date: 2017-09-14
@@ -287,12 +322,20 @@
   tags: ethics resolved
 - person: 400041
   name: Madeleine Z. Bordallo
-  text: In 2017 Bardallo was investigated for receiving profit from a foreign government; excess gifts; use of official funds for personal travel; and using congressional staff for personal services. The House Committee on Ethics [recommended further review](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-delegate-madelein-0).
-  allegation: receiving profit from a foreign government; excess gifts; use of official funds for personal travel; using congressional staff for personal services
+  text: In 2017 Bardallo was investigated for receiving profit from a foreign government;
+    excess gifts; use of official funds for personal travel; and using congressional
+    staff for personal services. The House Committee on Ethics [recommended further
+    review](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-delegate-madelein-0).
+  allegation: receiving profit from a foreign government; excess gifts; use of official
+    funds for personal travel; using congressional staff for personal services
   consequences:
   - date: 2017-06-12
     body: House Office of Congressional Ethics
-    action: recommended that the Committee further review the allegation that Del. Bordallo received rental profit, received gifts of free lodging, meals, and amenities, and using official funds to pay for her lodging and meals, and recommended that the Committee dismiss the allegation that Del. Bordallo used her congressional staff to perform personal services
+    action: recommended that the Committee further review the allegation that Del.
+      Bordallo received rental profit, received gifts of free lodging, meals, and
+      amenities, and using official funds to pay for her lodging and meals, and recommended
+      that the Committee dismiss the allegation that Del. Bordallo used her congressional
+      staff to perform personal services
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-madeleine-z-bordallo
   - date: 2017-07-27
     body: House Committee on Ethics
@@ -300,13 +343,17 @@
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-delegate-madeleine
   - date: 2017-09-11
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and Rep. Bordallo's response.
+    action: published the Office of Congressional Ethics Report and Findings and Rep.
+      Bordallo's response.
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-delegate-madelein-0
   tags: ethics unresolved
 - person: 400080
   name: John Conyers, Jr.
-  text: In 2017 Conyers was investigated for compensating staff for work in 2016 not commensurate with pay with House of Representatives funds. The House Committee on Ethics [recommended further review](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jo-0).
-  allegation: compensating staff for work in 2016 not commensurate with pay with House of Representatives funds
+  text: In 2017 Conyers was investigated for compensating staff for work in 2016 not
+    commensurate with pay with House of Representatives funds. The House Committee
+    on Ethics [recommended further review](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jo-0).
+  allegation: compensating staff for work in 2016 not commensurate with pay with House
+    of Representatives funds
   consequences:
   - date: 2017-05-11
     body: House Office of Congressional Ethics
@@ -318,7 +365,8 @@
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-john
   - date: 2017-08-09
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and Rep. Conyers's response.
+    action: published the Office of Congressional Ethics Report and Findings and Rep.
+      Conyers's response.
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jo-0
   - date: 2017-12-05
     text: Conyers resigned from office.
@@ -326,8 +374,13 @@
   tags: ethics resolved
 - person: 412293
   name: Ben Ray Luján
-  text: In 2017 Lujan was investigated for requesting that his congressional campaign committee issue communications, including requests for donations, using images of him in a “sit-in” demonstration in the House. The House Committee on Ethics [concluded that no action was needed](https://www.congress.gov/115/crpt/hrpt272/CRPT-115hrpt272.pdf).
-  allegation: requesting that his congressional campaign committee issue communications, including requests for donations, using images of him in a “sit-in” demonstration in the House
+  text: In 2017 Lujan was investigated for requesting that his congressional campaign
+    committee issue communications, including requests for donations, using images
+    of him in a “sit-in” demonstration in the House. The House Committee on Ethics
+    [concluded that no action was needed](https://www.congress.gov/115/crpt/hrpt272/CRPT-115hrpt272.pdf).
+  allegation: requesting that his congressional campaign committee issue communications,
+    including requests for donations, using images of him in a “sit-in” demonstration
+    in the House
   consequences:
   - date: 2017-05-11
     body: House Office of Congressional Ethics
@@ -411,7 +464,7 @@
     body: House Committee on Ethics
     action: deferred to the Department of Justice
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-16
-    tags: deferred 
+    tags: deferred
   tags: crime elections unresolved
 - person: 400169
   name: Dennis “Denny” Hastert
@@ -427,7 +480,7 @@
   - date: 2016
     text: Pleaded guilty, served 13 months in prison.
     tags: plea
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 412392
   name: Marlin A. Stutzman
   text: In 2016 Stutzman was investigated for using campaign funds for a 2015 family
@@ -443,7 +496,8 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-marlin-stutzman
   - date: 2017-11-29
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and Rep. Stutzman's response.
+    action: published the Office of Congressional Ethics Report and Findings and Rep.
+      Stutzman's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-marl-0
   - date: 2017-01-02
     body: House Committee on Ethics
@@ -466,7 +520,8 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-alan-grayson
   - date: 2017-01-03
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and Rep. Grayson's response.
+    action: published the Office of Congressional Ethics Report and Findings and Rep.
+      Grayson's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-alan-0
   - date: 2017-01-02
     body: House Committee on Ethics
@@ -476,7 +531,8 @@
 - person: 400185
   name: Michael M. Honda
   text: In 2015 Honda was investigated for using official resources for campaign purposes.
-    The House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and Rep. Honda's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-14).
+    The House Committee on Ethics [published the Office of Congressional Ethics Report
+    and Findings and Rep. Honda's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-14).
     Honda lost his 2016 election.
   allegation: using official resources for campaign purposes
   consequences:
@@ -486,7 +542,8 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-mike-honda
   - date: 2015-09-03
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and Rep. Honda's response.
+    action: published the Office of Congressional Ethics Report and Findings and Rep.
+      Honda's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-14
   - date: 2017-01-02
     body: House Committee on Ethics
@@ -533,7 +590,8 @@
   name: Mark Meadows
   text: In 2016 Meadows was investigated for retaining an employee through 2015 who
     did not perform duties after 2014 commensurate with the compensation the employee
-    received. The House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-mark-0).
+    received. The House Committee on Ethics [published the Office of Congressional
+    Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-mark-0).
   allegation: retaining an employee through 2015 who did not perform duties after
     2014 commensurate with the compensation the employee received
   consequences:
@@ -543,7 +601,8 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-mark-meadows
   - date: 2016-08-17
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-mark-0
   tags: ethics unresolved
 - person: 400431
@@ -623,7 +682,11 @@
   tags: ethics resolved
 - person: 412551
   name: Robert Pittenger
-  text: In 2015 Pittenger was investigated for compensation for his involvement with a fiduciary business, a real estate investment firm known as Pittenger Land Investments, Inc. The House Committee on Ethics [deferred to the Department of Justice](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-robe-2). In May 2017, the [FBI closed the investigation](http://www.charlotteobserver.com/news/business/article148497229.html) without making any charges.
+  text: In 2015 Pittenger was investigated for compensation for his involvement with
+    a fiduciary business, a real estate investment firm known as Pittenger Land Investments,
+    Inc. The House Committee on Ethics [deferred to the Department of Justice](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-robe-2).
+    In May 2017, the [FBI closed the investigation](http://www.charlotteobserver.com/news/business/article148497229.html)
+    without making any charges.
   allegation: compensation for his involvement with a fiduciary business, a real estate
     investment firm known as Pittenger Land Investments, Inc.
   consequences:
@@ -641,15 +704,26 @@
   tags: ethics unresolved
 - person: 412482
   name: Blake Farenthold
-  text: In 2015 Farenthold was investigated for sexual harassment on the basis of a 2014 lawsuit filed against him alleging sexual harassment. The House Committee on Ethics recommended further review, but to [postpone that review until the lawsuit was resolved](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-blake). The [lawsuit was resolved in 2015](http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court) with a [taxpayer-funded settlement](https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458) that was revealed in 2017, and the investigation was re-opened. In light of further revelations of inappropriate behavior, Farenthold announced on December, 13, 2017 that [he would not seek reelection](https://www.dallasnews.com/news/politics/2017/12/14/farenthold-drops-reelection-bid-amid-complaints-lewdness-hostile-workplace-congress).
-  allegation: sexual harassment on the basis of a 2014 lawsuit filed against him alleging sexual harassment
+  text: In 2015 Farenthold was investigated for sexual harassment on the basis of
+    a 2014 lawsuit filed against him alleging sexual harassment. The House Committee
+    on Ethics recommended further review, but to [postpone that review until the lawsuit
+    was resolved](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-blake).
+    The [lawsuit was resolved in 2015](http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court)
+    with a [taxpayer-funded settlement](https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458)
+    that was revealed in 2017, and the investigation was re-opened. In light of further
+    revelations of inappropriate behavior, Farenthold announced on December, 13, 2017
+    that [he would not seek reelection](https://www.dallasnews.com/news/politics/2017/12/14/farenthold-drops-reelection-bid-amid-complaints-lewdness-hostile-workplace-congress).
+  allegation: sexual harassment on the basis of a 2014 lawsuit filed against him alleging
+    sexual harassment
   consequences:
   - date: 2015-09-28
     body: House Committee on Ethics
-    action: recommended further review, but to postpone that review until the lawsuit was resolved
+    action: recommended further review, but to postpone that review until the lawsuit
+      was resolved
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-blake
   - date: 2015
-    text: The lawsuit was resolved with a taxpayer-funded settlement that was revealed in 2017.
+    text: The lawsuit was resolved with a taxpayer-funded settlement that was revealed
+      in 2017.
     link:
     - http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court
     - https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458
@@ -667,9 +741,10 @@
     link: https://www.dallasnews.com/news/politics/2017/12/14/farenthold-drops-reelection-bid-amid-complaints-lewdness-hostile-workplace-congress
   - date: 2017-12-21
     body: House Committee on Ethics
-    action: expanded the range of allegations being investigated to include campaign finance violations
+    action: expanded the range of allegations being investigated to include campaign
+      finance violations
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-9
-  tags: sexual-harassment-abuse elections corruption unresolved
+  tags: corruption elections sexual-harassment-abuse unresolved
 - person: 412558
   name: Michelle Lujan Grisham
   text: In 2015 Grisham was investigated for travel funded or organized by one or
@@ -846,7 +921,11 @@
   tags: ethics resolved
 - person: 412314
   name: Aaron Schock
-  text: In 2018 Schock will be tried for soliciting campaign contributions in excess of legally allowed amounts. In 2013, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and Rep. Schock's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-aaro-0). In 2015, Schock resigned [amid a host of allegations](https://en.wikipedia.org/wiki/Aaron_Schock#Use_of_funds_scandal) of improper use of campaign funds.
+  text: In 2018 Schock will be tried for soliciting campaign contributions in excess
+    of legally allowed amounts. In 2013, the House Committee on Ethics [published
+    the Office of Congressional Ethics Report and Findings and Rep. Schock's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-aaro-0).
+    In 2015, Schock resigned [amid a host of allegations](https://en.wikipedia.org/wiki/Aaron_Schock#Use_of_funds_scandal)
+    of improper use of campaign funds.
   allegation: soliciting campaign contributions in excess of legally allowed amounts
   consequences:
   - date: 2012-08-30
@@ -855,7 +934,8 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-aaron-schock
   - date: 2013-02-06
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and Rep. Schock's response.
+    action: published the Office of Congressional Ethics Report and Findings and Rep.
+      Schock's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-aaro-0
   - date: 2015-03-17
     text: Schock resigned effective Mar. 31, 2015.
@@ -867,7 +947,10 @@
   tags: crime elections ethics resolved
 - person: 412252
   name: Paul C. Broun
-  text: In 2014 Broun was investigated for using official resources for campaign purposes. The House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-paul-0). Broun lost his 2014 election.
+  text: In 2014 Broun was investigated for using official resources for campaign purposes.
+    The House Committee on Ethics [published the Office of Congressional Ethics Report
+    and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-paul-0).
+    Broun lost his 2014 election.
   allegation: using official resources for campaign purposes
   consequences:
   - date: 2014-07-31
@@ -876,7 +959,8 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-paul-broun
   - date: 2015-10-29
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-paul-0
   - date: 2014-11-04
     text: Broun lost reelection.
@@ -887,16 +971,21 @@
   tags: elections ethics resolved
 - person: 412216
   name: Michele Bachmann
-  text: In 2013 Bachmann was investigated for campaign finance violations. The House Committee on Ethics [recommended further review](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-6). When Bachmann did not seek reelection in 2014, the investigation ende.
+  text: In 2013 Bachmann was investigated for campaign finance violations. The House
+    Committee on Ethics [recommended further review](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-6).
+    When Bachmann did not seek reelection in 2014, the investigation ende.
   allegation: campaign finance violations
   consequences:
   - date: 2013-06-13
     body: House Office of Congressional Ethics
-    action: recommended that the Committee on Ethics further review the allegations and referred the information obtained during the course of its review to the FEC.
+    action: recommended that the Committee on Ethics further review the allegations
+      and referred the information obtained during the course of its review to the
+      FEC.
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-michele-bachmann
   - date: 2013-09-11
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-6
   - date: 2014
     text: Bachmann did not seek reelection.
@@ -907,8 +996,12 @@
   tags: elections resolved
 - person: 400031
   name: Timothy H. Bishop
-  text: In 2013 Bishop was investigated for soliciting campaign contributions in exchange for constituent services in 2012. The House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response.](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tim-1). Representative Bishop lost the 2014 election.
-  allegation: soliciting campaign contributions in exchange for constituent services in 2012
+  text: In 2013 Bishop was investigated for soliciting campaign contributions in exchange
+    for constituent services in 2012. The House Committee on Ethics [published the
+    Office of Congressional Ethics Report and Findings and the member's response.](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tim-1).
+    Representative Bishop lost the 2014 election.
+  allegation: soliciting campaign contributions in exchange for constituent services
+    in 2012
   consequences:
   - date: 2013-06-13
     body: House Office of Congressional Ethics
@@ -916,7 +1009,8 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-tim-bishop
   - date: 2013-09-11
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tim-1
   - date: 2014-11-04
     text: Bishop lost reelection.
@@ -927,8 +1021,12 @@
   tags: corruption elections resolved
 - person: 400318
   name: Thomas E. Petri
-  text: In 2014 Petri was investigated for performing official work on behalf of companies in which he had a financial interest from 2008 to 2013. The House Committee on Ethics [recommended no further action](https://www.congress.gov/113/crpt/hrpt666/CRPT-113hrpt666-pt1.pdf). Petri announced in November 2014 he would not seek reelection.
-  allegation: performing official work on behalf of companies in which he had a financial interest from 2008 to 2013
+  text: In 2014 Petri was investigated for performing official work on behalf of companies
+    in which he had a financial interest from 2008 to 2013. The House Committee on
+    Ethics [recommended no further action](https://www.congress.gov/113/crpt/hrpt666/CRPT-113hrpt666-pt1.pdf).
+    Petri announced in November 2014 he would not seek reelection.
+  allegation: performing official work on behalf of companies in which he had a financial
+    interest from 2008 to 2013
   consequences:
   - date: 2014-07-02
     body: House Office of Congressional Ethics
@@ -943,7 +1041,10 @@
   tags: ethics resolved
 - person: 400170
   name: Alcee L. Hastings
-  text: In 2012 Hastings was investigated for sexual harassment and employment retaliation. The House Committee on Ethics [concluded that there was insufficient evidence to act further even though the representative admitted to "less than professional behavior"](https://www.congress.gov/113/crpt/hrpt663/CRPT-113hrpt663-pt1.pdf.
+  text: In 2012 Hastings was investigated for sexual harassment and employment retaliation.
+    The House Committee on Ethics [concluded that there was insufficient evidence
+    to act further even though the representative admitted to "less than professional
+    behavior"](https://www.congress.gov/113/crpt/hrpt663/CRPT-113hrpt663-pt1.pdf.
   allegation: sexual harassment and employment retaliation
   consequences:
   - date: 2011-11-08
@@ -952,17 +1053,23 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-alcee-hastings-0
   - date: 2014-12-11
     body: House Committee on Ethics
-    action: concluded that there was insufficient evidence to act further even though the representative admitted to "less than professional behavior"
+    action: concluded that there was insufficient evidence to act further even though
+      the representative admitted to "less than professional behavior"
     link: https://www.congress.gov/113/crpt/hrpt663/CRPT-113hrpt663-pt1.pdf
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 400151
   name: Phil Gingrey
-  text: In 2012 Gingrey was investigated for 2011 compensation from banks on whose behalf he advocated. The House Committee on Ethics concluded that Gingrey did advocate for banks in which he had a financial interest and [issued a letter of reproval](https://www.congress.gov/113/crpt/hrpt664/CRPT-113hrpt664.pdf). In 2014, Representative Gingrey lost in the primary for one of Georgia's Senate seats.
+  text: In 2012 Gingrey was investigated for 2011 compensation from banks on whose
+    behalf he advocated. The House Committee on Ethics concluded that Gingrey did
+    advocate for banks in which he had a financial interest and [issued a letter of
+    reproval](https://www.congress.gov/113/crpt/hrpt664/CRPT-113hrpt664.pdf). In 2014,
+    Representative Gingrey lost in the primary for one of Georgia's Senate seats.
   allegation: compensation from banks on whose behalf he advocated
   consequences:
   - date: 2014-12-11
     body: House Committee on Ethics
-    action: concluded that Gingrey did advocate for banks in which he had a financial interest and issued a letter of reproval
+    action: concluded that Gingrey did advocate for banks in which he had a financial
+      interest and issued a letter of reproval
     link: https://www.congress.gov/113/crpt/hrpt664/CRPT-113hrpt664.pdf
     tags: reprimand
   - date: 2014
@@ -986,7 +1093,14 @@
   tags: elections ethics resolved
 - person: 412451
   name: Michael G. Grimm
-  text: In 2014 Grimm pleaded guilty to tax evasion after having been investigated for violating federal campaign finance laws by soliciting and accepting prohibited campaign contributions, causing false information to be included in campaign finance reports, and improperly seeking assistance from a foreign national in soliciting campaign contributions in exchange for offering to use his official position to assist that individual in obtaining a green card. This plea came three years after the Office of Congressional Ethics began an investigation of the allegations. Grimm resigned in January 2015 and served seven months in prison.
+  text: In 2014 Grimm pleaded guilty to tax evasion after having been investigated
+    for violating federal campaign finance laws by soliciting and accepting prohibited
+    campaign contributions, causing false information to be included in campaign finance
+    reports, and improperly seeking assistance from a foreign national in soliciting
+    campaign contributions in exchange for offering to use his official position to
+    assist that individual in obtaining a green card. This plea came three years after
+    the Office of Congressional Ethics began an investigation of the allegations.
+    Grimm resigned in January 2015 and served seven months in prison.
   allegation: violating federal campaign finance laws by soliciting and accepting
     prohibited campaign contributions, causing false information to be included in
     campaign finance reports, and improperly seeking assistance from a foreign national
@@ -1008,7 +1122,11 @@
   tags: crime elections resolved
 - person: 400350
   name: Bobby L. Rush
-  text: In 2014 Rush was investigated for allowing state and federal campaign committees to accept in-kind contributions. With publication of its report, the [House Committee on Ethics reproved Rush](https://www.congress.gov/115/crpt/hrpt618/CRPT-115hrpt618.pdf) for accepting a gift of rent-free office space even if it did not amount to a campaign contribution and ordered him to repay the value of the gift.
+  text: In 2014 Rush was investigated for allowing state and federal campaign committees
+    to accept in-kind contributions. With publication of its report, the [House Committee
+    on Ethics reproved Rush](https://www.congress.gov/115/crpt/hrpt618/CRPT-115hrpt618.pdf)
+    for accepting a gift of rent-free office space even if it did not amount to a
+    campaign contribution and ordered him to repay the value of the gift.
   allegation: allowing state and federal campaign committees to accept in-kind contributions
   consequences:
   - date: 2014-06-10
@@ -1017,20 +1135,26 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-bobby-rush
   - date: 2014-11-10
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-bobb-0
   - date: 2018-03-22
     body: House Committee on Ethics
-    action: with publication of its report, the committee reproved the member for accepting a gift of rent-free office space even if it did not amount to a campaign contribution and ordered him to repay the value of the gift.
+    action: with publication of its report, the committee reproved the member for
+      accepting a gift of rent-free office space even if it did not amount to a campaign
+      contribution and ordered him to repay the value of the gift.
   tags: elections resolved
 - person: 400661
   name: Gwen Moore
-  text: In 2014 Moore was investigated for an arrest at a 2014 protest in Wisconsin. The House Committee on Ethics concluded that the fines would be paid and [no further investigation was required](https://www.congress.gov/113/crpt/hrpt585/CRPT-113hrpt585.pdf).
+  text: In 2014 Moore was investigated for an arrest at a 2014 protest in Wisconsin.
+    The House Committee on Ethics concluded that the fines would be paid and [no further
+    investigation was required](https://www.congress.gov/113/crpt/hrpt585/CRPT-113hrpt585.pdf).
   allegation: an arrest at a 2014 protest in Wisconsin
   consequences:
   - date: 2014-09-11
     body: House Committee on Ethics
-    action: concluded that the fines would be paid and no further investigation was required
+    action: concluded that the fines would be paid and no further investigation was
+      required
     link: https://www.congress.gov/113/crpt/hrpt585/CRPT-113hrpt585.pdf
   tags: ethics resolved
 - person: 400440
@@ -1042,7 +1166,8 @@
   consequences:
   - date: 2014-06-20
     body: House Committee on Ethics
-    action: concluded Young had improperly accepted travel gifts and issued a letter of reproval
+    action: concluded Young had improperly accepted travel gifts and issued a letter
+      of reproval
     link: https://www.congress.gov/113/crpt/hrpt487/CRPT-113hrpt487.pdf
     tags: reprimand
   tags: ethics resolved
@@ -1050,7 +1175,8 @@
   name: Steve Stockman
   text: In 2014 Stockman was investigated for conspiring to accept contributions to
     his congressional campaign committee from individuals who were employed by his
-    congressional office. The House Committee on Ethics [rpublished the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-stev-0).
+    congressional office. The House Committee on Ethics [rpublished the Office of
+    Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-stev-0).
     Stockman lost the 2014 Senate primary and did not win re-election to his House
     seat.
   allegation: conspiring to accept contributions to his congressional campaign committee
@@ -1062,10 +1188,12 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-steve-stockman
   - date: 2014-06-11
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-stev-0
   - date: 2014
-    text: Stockman lost the Senate primary and did not win reelection to his House seat.
+    text: Stockman lost the Senate primary and did not win reelection to his House
+      seat.
   - date: 2015-01-02
     body: House Committee on Ethics
     text: reported that the end of the member's term ended the committee's jurisdiction.
@@ -1073,8 +1201,18 @@
   tags: elections ethics resolved
 - person: 400163
   name: Luis V. Gutiérrez
-  text: In 2013 Gutiérrez was investigated for using funds from his Members Representational Allowance from 2003-2013 for an impermissible purpose - to retain an individual to provide services to his congressional office that more closely resemble those provided by an employee or consultant, rather than a contractor. In March 2018, the House Committee on Ethics [reproved Gutiérrez for using his Member Representational Allowance inappropriately, albeit possibly unwittingly,](https://www.congress.gov/115/crpt/hrpt617/CRPT-115hrpt617.pdf) and ordered him to reimburse the US Treasury for that use. On November 28, 2017, Representative Gutiérrez announced he would not seek reelection.
-  allegation: using funds from his Members Representational Allowance from 2003-2013 for an impermissible purpose - to retain an individual to provide services to his congressional office that more closely resemble those provided by an employee or consultant, rather than a contractor
+  text: In 2013 Gutiérrez was investigated for using funds from his Members Representational
+    Allowance from 2003-2013 for an impermissible purpose - to retain an individual
+    to provide services to his congressional office that more closely resemble those
+    provided by an employee or consultant, rather than a contractor. In March 2018,
+    the House Committee on Ethics [reproved Gutiérrez for using his Member Representational
+    Allowance inappropriately, albeit possibly unwittingly,](https://www.congress.gov/115/crpt/hrpt617/CRPT-115hrpt617.pdf)
+    and ordered him to reimburse the US Treasury for that use. On November 28, 2017,
+    Representative Gutiérrez announced he would not seek reelection.
+  allegation: using funds from his Members Representational Allowance from 2003-2013
+    for an impermissible purpose - to retain an individual to provide services to
+    his congressional office that more closely resemble those provided by an employee
+    or consultant, rather than a contractor
   consequences:
   - date: 2013-12-04
     body: House Office of Congressional Ethics
@@ -1082,7 +1220,8 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-luis-gutierrez
   - date: 2014-05-05
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-luis-0
   - date: 2015-01-02
     body: House Committee on Ethics
@@ -1096,13 +1235,22 @@
     text: Gutiérrez announced he would not seek reelection.
   - date: 2018-03-22
     body: House Committee on Ethics
-    action: reproved Gutiérrez for using his Member Representational Allowance inappropriately, albeit possibly unwittingly, and ordered him to reimburse the US Treasury for that use
+    action: reproved Gutiérrez for using his Member Representational Allowance inappropriately,
+      albeit possibly unwittingly, and ordered him to reimburse the US Treasury for
+      that use
     link: https://www.congress.gov/115/crpt/hrpt617/CRPT-115hrpt617.pdf
   tags: ethics resolved
 - person: 400659
   name: Cathy McMorris Rodgers
-  text: In 2013 Rodgers was investigated for using official resources, including staff, for campaign activities, paying a consultant for official services with funds from political committees, and combining official resources and campaign resources in furtherance of a campaign for a House leadership office from 2010 to 2012. As of 2018, the House Committee on Ethics [has yet to conclude its review](https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf).
-  allegation: using official resources, including staff, for campaign activities; paying a consultant for official services with funds from political committees; combining official resources and campaign resources in furtherance of a campaign for a House leadership office from 2010 to 2012
+  text: In 2013 Rodgers was investigated for using official resources, including staff,
+    for campaign activities, paying a consultant for official services with funds
+    from political committees, and combining official resources and campaign resources
+    in furtherance of a campaign for a House leadership office from 2010 to 2012.
+    As of 2018, the House Committee on Ethics [has yet to conclude its review](https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf).
+  allegation: using official resources, including staff, for campaign activities;
+    paying a consultant for official services with funds from political committees;
+    combining official resources and campaign resources in furtherance of a campaign
+    for a House leadership office from 2010 to 2012
   consequences:
   - date: 2013-12-23
     body: House Office of Congressional Ethics
@@ -1110,7 +1258,8 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-cathy-mcmorris-rodgers
   - date: 2014-03-24
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-cath-0
   - date: 2015-01-02
     body: House Committee on Ethics
@@ -1123,8 +1272,13 @@
   tags: elections ethics unresolved
 - person: 412568
   name: Markwayne Mullin
-  text: In 2013 Mullin was investigated for receiving excess outside earned income, endorsing companies or products as part of outside employment and serving as a board member or officer for outside companies. As of 2018, the House Committee on Ethics [has yet to conclude its review](https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf).
-  allegation: receiving excess outside earned income, endorsing companies or products as part of outside employment and serving as a board member or officer for outside companies
+  text: In 2013 Mullin was investigated for receiving excess outside earned income,
+    endorsing companies or products as part of outside employment and serving as a
+    board member or officer for outside companies. As of 2018, the House Committee
+    on Ethics [has yet to conclude its review](https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf).
+  allegation: receiving excess outside earned income, endorsing companies or products
+    as part of outside employment and serving as a board member or officer for outside
+    companies
   consequences:
   - date: 2013-12-23
     body: House Office of Congressional Ethics
@@ -1132,7 +1286,8 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-markwayne-mullin
   - date: 2014-03-24
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-9
   - date: 2015-01-02
     body: House Committee on Ethics
@@ -1145,7 +1300,10 @@
   tags: ethics unresolved
 - person: 400008
   name: Robert E. Andrews
-  text: In 2013 Andrews was investigated for improper use of campaign funds for personal use. The House Committee on Ethics [established an independent subcommittee](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-robe-1). In 2014, Andrews resigned from Congress and House Committee on Ethics' jurisdiction over the member ended.
+  text: In 2013 Andrews was investigated for improper use of campaign funds for personal
+    use. The House Committee on Ethics [established an independent subcommittee](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-robe-1).
+    In 2014, Andrews resigned from Congress and House Committee on Ethics' jurisdiction
+    over the member ended.
   allegation: improper use of campaign funds for personal use
   consequences:
   - date: 2012-04-02
@@ -1166,7 +1324,9 @@
   tags: elections resolved
 - person: 412528
   name: Trey Radel
-  text: In 2013 Radel pleaded guilty to possession of cocaine. The House Committee on Ethics [ended the investigation when Radel resigned](https://www.congress.gov/113/crpt/hrpt727/CRPT-113hrpt727.pdf). In 2014, [Radel was sentenced to probation, which he served](http://www.news-press.com/story/news/2014/10/30/ex-congressman-trey-radels-record-cleared/18218925/).
+  text: In 2013 Radel pleaded guilty to possession of cocaine. The House Committee
+    on Ethics [ended the investigation when Radel resigned](https://www.congress.gov/113/crpt/hrpt727/CRPT-113hrpt727.pdf).
+    In 2014, [Radel was sentenced to probation, which he served](http://www.news-press.com/story/news/2014/10/30/ex-congressman-trey-radels-record-cleared/18218925/).
   allegation: possession of cocaine
   consequences:
   - date: 2013
@@ -1183,7 +1343,9 @@
   tags: crime resolved
 - person: 412202
   name: Peter J. Roskam
-  text: In 2013 Roskam was investigated for accepting impermissible travel gifts in 2011. The House Committee on Ethics [concluded that there was insufficient evidence to show that the travel was improper](https://www.congress.gov/113/crpt/hrpt266/CRPT-113hrpt266.pdf).
+  text: In 2013 Roskam was investigated for accepting impermissible travel gifts in
+    2011. The House Committee on Ethics [concluded that there was insufficient evidence
+    to show that the travel was improper](https://www.congress.gov/113/crpt/hrpt266/CRPT-113hrpt266.pdf).
   allegation: accepting impermissible travel gifts in 2011
   consequences:
   - date: 2013-06-13
@@ -1192,13 +1354,16 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-peter-roskam
   - date: 2013-11-15
     body: House Committee on Ethics
-    action: concluded that there was insufficient evidence to show that the travel was improper
+    action: concluded that there was insufficient evidence to show that the travel
+      was improper
     link: https://www.congress.gov/113/crpt/hrpt266/CRPT-113hrpt266.pdf
   tags: ethics resolved
 - person: 412383
   name: William L. Owens
-  text: In 2012 Owens was investigated for accepting impermissible travel gifts in 2011. The House Committee on Ethics concluded that the gift was impermissible,
-    but since Owens repaid the funds, [the investigation was closed](https://www.congress.gov/113/crpt/hrpt266/CRPT-113hrpt266.pdf). Owens did not seek reelection in 2014.
+  text: In 2012 Owens was investigated for accepting impermissible travel gifts in
+    2011. The House Committee on Ethics concluded that the gift was impermissible,
+    but since Owens repaid the funds, [the investigation was closed](https://www.congress.gov/113/crpt/hrpt266/CRPT-113hrpt266.pdf).
+    Owens did not seek reelection in 2014.
   allegation: accepting impermissible travel gifts in 2011
   consequences:
   - date: 2012-08-30
@@ -1207,18 +1372,29 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-bill-owens
   - date: 2013-11-15
     body: House Committee on Ethics
-    action: concluded that the gift was impermissible, but since Owens repaid the funds, the investigation was closed
+    action: concluded that the gift was impermissible, but since Owens repaid the
+      funds, the investigation was closed
     link: https://www.congress.gov/113/crpt/hrpt266/CRPT-113hrpt266.pdf
   - date: 2014
     text: Owens did not seek reelection in 2014.
   tags: ethics resolved
 - person: 400407
   name: John F. Tierney
-  text: In 2013 Tierney was investigated for failing to declare his wife's income of $40,000 to $160,000 from 2007-2010 to Congress and the IRS because Tierney claimed it was actually a gift from his brother-in-law. The House Committee on Ethics concluded that there was insufficient evidence to show that the funds were income and not gifts and that [no further action was needed](https://www.congress.gov/113/crpt/hrpt208/CRPT-113hrpt208.pdf). In 2010, Representative Tierney's wife [pleaded guilty to tax evasion also related to her brother's income](http://www.sandiegouniontribune.com/sdut-rep-tierneys-wife-to-plead-guilty-to-tax-charges-2010oct05-story.html). In 2014, Representative Tierney was defeated in the Democratic primary.
-  allegation: failing to declare his wife's income of $40,000 to $160,000 from 2007-2010 to Congress and to the IRS because Tierney claimed it was actually a gift from his brother-in-law
+  text: In 2013 Tierney was investigated for failing to declare his wife's income
+    of $40,000 to $160,000 from 2007-2010 to Congress and the IRS because Tierney
+    claimed it was actually a gift from his brother-in-law. The House Committee on
+    Ethics concluded that there was insufficient evidence to show that the funds were
+    income and not gifts and that [no further action was needed](https://www.congress.gov/113/crpt/hrpt208/CRPT-113hrpt208.pdf).
+    In 2010, Representative Tierney's wife [pleaded guilty to tax evasion also related
+    to her brother's income](http://www.sandiegouniontribune.com/sdut-rep-tierneys-wife-to-plead-guilty-to-tax-charges-2010oct05-story.html).
+    In 2014, Representative Tierney was defeated in the Democratic primary.
+  allegation: failing to declare his wife's income of $40,000 to $160,000 from 2007-2010
+    to Congress and to the IRS because Tierney claimed it was actually a gift from
+    his brother-in-law
   consequences:
   - date: 2010
-    text: Tierney's wife pleaded guilty to tax evasion also related to her brother's income.
+    text: Tierney's wife pleaded guilty to tax evasion also related to her brother's
+      income.
     link: http://www.sandiegouniontribune.com/sdut-rep-tierneys-wife-to-plead-guilty-to-tax-charges-2010oct05-story.html
   - date: 2013-06-13
     body: House Office of Congressional Ethics
@@ -1226,14 +1402,19 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-john-tierney
   - date: 2013-09-11
     body: House Committee on Ethics
-    action: concluded that there was insufficient evidence to show that the funds were income and not gifts and that no further action was needed
+    action: concluded that there was insufficient evidence to show that the funds
+      were income and not gifts and that no further action was needed
     link: https://www.congress.gov/113/crpt/hrpt208/CRPT-113hrpt208.pdf
   - date: 2014
     text: Tierney was defeated in the Democratic primary.
   tags: ethics resolved
 - person: 400337
   name: Silvestre Reyes
-  text: In 2012 Reyes was investigated for improper use of campaign funds for personal use. The House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-ot-chairman-and-ranking-member-committee-ethics-regarding-representative). Reyes lost the 2012 election and the House Committe on Ethics' jurisdiction end with the member's term.
+  text: In 2012 Reyes was investigated for improper use of campaign funds for personal
+    use. The House Committee on Ethics [published the Office of Congressional Ethics
+    Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-ot-chairman-and-ranking-member-committee-ethics-regarding-representative).
+    Reyes lost the 2012 election and the House Committe on Ethics' jurisdiction end
+    with the member's term.
   allegation: improper use of campaign funds for personal use
   consequences:
   - date: 2012-08-30
@@ -1244,7 +1425,8 @@
     text: Reyes lost reelection.
   - date: 2012-11-28
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response.
     link: https://ethics.house.gov/press-release/statement-ot-chairman-and-ranking-member-committee-ethics-regarding-representative
   - date: 2012-12-31
     body: House Committee on Ethics
@@ -1253,7 +1435,11 @@
   tags: elections resolved
 - person: 400024
   name: Shelley Berkley
-  text: In 2012 Berkley was investigated for advocating for programs in which she had a financial interest from 2008-2010. The House Committee on Ethics [found that the representative had indeed advocated for some programs in which she had a financial interest](https://www.congress.gov/112/crpt/hrpt716/CRPT-112hrpt716.pdf). In 2012, Representative Berkley lost reelection.
+  text: In 2012 Berkley was investigated for advocating for programs in which she
+    had a financial interest from 2008-2010. The House Committee on Ethics [found
+    that the representative had indeed advocated for some programs in which she had
+    a financial interest](https://www.congress.gov/112/crpt/hrpt716/CRPT-112hrpt716.pdf).
+    In 2012, Representative Berkley lost reelection.
   allegation: advocating for programs in which she had a financial interest from 2008-2010
   consequences:
   - date: 2012-02-09
@@ -1262,15 +1448,20 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-shelley-berkley
   - date: 2012-12-20
     body: House Committee on Ethics
-    action: concluded in a report that the representative had indeed advocated for some programs in which she had a financial interest
+    action: concluded in a report that the representative had indeed advocated for
+      some programs in which she had a financial interest
     link: https://www.congress.gov/112/crpt/hrpt716/CRPT-112hrpt716.pdf
   - date: 2012-11-06
     text: Berkley lost reelection.
   tags: ethics resolved
 - person: 400271
   name: Gregory W. Meeks
-  text: In 2011 Meeks was investigated for failing to disclose a gift in 2007 and receiving a loan on terms not available to the general public in 2010. The House Committee on Ethics dismissed the loan allegation, but found the representative [unknowingly failed to properly disclose the gifts](https://www.congress.gov/112/crpt/hrpt709/CRPT-112hrpt709.pdf).
-  allegation: failing to disclose a gift in 2007 and receiving a loan on terms not available to the general public in 2010
+  text: In 2011 Meeks was investigated for failing to disclose a gift in 2007 and
+    receiving a loan on terms not available to the general public in 2010. The House
+    Committee on Ethics dismissed the loan allegation, but found the representative
+    [unknowingly failed to properly disclose the gifts](https://www.congress.gov/112/crpt/hrpt709/CRPT-112hrpt709.pdf).
+  allegation: failing to disclose a gift in 2007 and receiving a loan on terms not
+    available to the general public in 2010
   consequences:
   - date: 2011-08-18
     body: House Office of Congressional Ethics
@@ -1278,12 +1469,15 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-gregory-meeks-0
   - date: 2012-12-20
     body: House Committee on Ethics
-    action: dismissed the loan allegation, but found the representative unknowingly failed to properly disclose the gifts
+    action: dismissed the loan allegation, but found the representative unknowingly
+      failed to properly disclose the gifts
     link: https://www.congress.gov/112/crpt/hrpt709/CRPT-112hrpt709.pdf
   tags: ethics resolved
 - person: 400352
   name: Tim Ryan
-  text: In 2012 Ryan was investigated for charges of public intoxication in 2012. The House Committee on Ethics [concluded no action was required as the charges were dismissed](https://www.congress.gov/112/crpt/hrpt710/CRPT-112hrpt710.pdf).
+  text: In 2012 Ryan was investigated for charges of public intoxication in 2012.
+    The House Committee on Ethics [concluded no action was required as the charges
+    were dismissed](https://www.congress.gov/112/crpt/hrpt710/CRPT-112hrpt710.pdf).
   allegation: public intoxication
   consequences:
   - date: 2012-12-20
@@ -1303,11 +1497,13 @@
   consequences:
   - date: 2009-08-06
     body: House Office of Congressional Ethics
-    action: recommended that the Committee on Standards of Official Conduct further review the allegations
+    action: recommended that the Committee on Standards of Official Conduct further
+      review the allegations
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-jesse-jackson-jr
   - date: 2011-12-02
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jess-0
   - date: 2012
     text: Resigned from Congress.
@@ -1323,35 +1519,47 @@
   tags: elections resolved
 - person: 400437
   name: Wu
-  text: In July 2011, Wu was [accused of sexual assault](http://www.oregonlive.com/politics/index.ssf/2011/07/rep_david_wu_accused_of_aggres.html) and in Aug. 2011, he resigned.
+  text: In July 2011, Wu was [accused of sexual assault](http://www.oregonlive.com/politics/index.ssf/2011/07/rep_david_wu_accused_of_aggres.html)
+    and in Aug. 2011, he resigned.
   allegation: sexual assault
   consequences:
   - date: 2011-07-22
-    text: A newspaper reported allegations that Wu forced her into non-consensual sex.
+    text: A newspaper reported allegations that Wu forced her into non-consensual
+      sex.
     link: http://www.oregonlive.com/politics/index.ssf/2011/07/rep_david_wu_accused_of_aggres.html
   - date: 2011-08-04
     text: Resigned.
     link: http://thehill.com/homenews/house/175403-wu-resigns-from-the-house
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 400422
   name: Maxine Waters
-  text: In 2009 Waters was investigated for a conflict of interest with respect to meetings with a bank in which she had a financial interest. The House Committee on Ethics [concluded that Representative Waters' chief of state was at fault for creating the appearance of conflict, but Waters was not](https://www.congress.gov/112/crpt/hrpt690/CRPT-112hrpt690.pdf).
-  allegation: a conflict of interest with respect to meetings with a bank in which she had a financial interest
+  text: In 2009 Waters was investigated for a conflict of interest with respect to
+    meetings with a bank in which she had a financial interest. The House Committee
+    on Ethics [concluded that Representative Waters' chief of state was at fault for
+    creating the appearance of conflict, but Waters was not](https://www.congress.gov/112/crpt/hrpt690/CRPT-112hrpt690.pdf).
+  allegation: a conflict of interest with respect to meetings with a bank in which
+    she had a financial interest
   consequences:
   - date: 2009-07-24
     body: House Office of Congressional Ethics
-    action: recommended that the Committee on Standards of Official Conduct further review the allegations
+    action: recommended that the Committee on Standards of Official Conduct further
+      review the allegations
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-waters
   - date: 2012-09-25
     body: House Committee on Ethics
-    action: concluded that Representative Waters' chief of state was at fault for creating the appearance of conflict, but Waters was not
+    action: concluded that Representative Waters' chief of state was at fault for
+      creating the appearance of conflict, but Waters was not
     link: https://www.congress.gov/112/crpt/hrpt690/CRPT-112hrpt690.pdf
   tags: ethics resolved
 - person: 412196
   name: Vern Buchanan
-  text: In 2011 Buchanan was investigated for failing to report positions he held with outside companies and to report unearned income from 2007 to 2010. The House Committee on Ethics [concluded that the representative unknowingly failed to disclose positions in outside companies and unearned income](https://www.congress.gov/112/crpt/hrpt588/CRPT-112hrpt588.pdf).
+  text: In 2011 Buchanan was investigated for failing to report positions he held
+    with outside companies and to report unearned income from 2007 to 2010. The House
+    Committee on Ethics [concluded that the representative unknowingly failed to disclose
+    positions in outside companies and unearned income](https://www.congress.gov/112/crpt/hrpt588/CRPT-112hrpt588.pdf).
     They were satisfied when the representative amended his forms.
-  allegation: failing to report positions he held with outside companies and to report unearned income from 2007 to 2010
+  allegation: failing to report positions he held with outside companies and to report
+    unearned income from 2007 to 2010
   consequences:
   - date: 2011-11-08
     body: House Office of Congressional Ethics
@@ -1359,7 +1567,9 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-vern-buchanan
   - date: 2012-07-10
     body: House Committee on Ethics
-    action: concluded that the representative unknowingly failed to disclose positions in outside companies and unearned income They were satisfied when the representative amended his forms
+    action: concluded that the representative unknowingly failed to disclose positions
+      in outside companies and unearned income They were satisfied when the representative
+      amended his forms
     link: https://www.congress.gov/112/crpt/hrpt588/CRPT-112hrpt588.pdf
   tags: ethics resolved
 - person: 400576
@@ -1378,22 +1588,32 @@
   consequences:
   - date: 2012-05-25
     body: Senate Select Committee on Ethics
-    action: issued a qualified admonishment because Coburn acknowledged his error and it was only a single meeting
+    action: issued a qualified admonishment because Coburn acknowledged his error
+      and it was only a single meeting
     link: https://www.ethics.senate.gov/public/index.cfm/letterstomembers?ID=4E526F44-3316-4700-B545-98017020C1FE
     tags: reprimand
   tags: ethics resolved
 - person: 400418
   name: David Vitter
-  text: In 2012 Vitter was investigated for demanding the issuance Gulf of Mexico deep water permits from the Secretary of the Interior in exchange for dropping his block on a proposed salary increase for the Secretary. The Senate Select Committee on Ethics [dismissed the charges because there did not appear to be any Senate rule or any law in place prohibiting Vitter's actions](https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=BA27F460-6CF2-4330-9455-84CF04C8B8E7). In 2014, Senator Vitter lost the election for Louisiana Governor and did not run
+  text: In 2012 Vitter was investigated for demanding the issuance Gulf of Mexico
+    deep water permits from the Secretary of the Interior in exchange for dropping
+    his block on a proposed salary increase for the Secretary. The Senate Select Committee
+    on Ethics [dismissed the charges because there did not appear to be any Senate
+    rule or any law in place prohibiting Vitter's actions](https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=BA27F460-6CF2-4330-9455-84CF04C8B8E7).
+    In 2014, Senator Vitter lost the election for Louisiana Governor and did not run
     again for the Senate.
-  allegation: demanding the issuance Gulf of Mexico deep water permits from the Secretary of the Interior in exchange for dropping his block on a proposed salary increase for the Secretary
+  allegation: demanding the issuance Gulf of Mexico deep water permits from the Secretary
+    of the Interior in exchange for dropping his block on a proposed salary increase
+    for the Secretary
   consequences:
   - date: 2012-03-30
     body: Senate Select Committee on Ethics
-    action: dismissed the charges because there did not appear to be any Senate rule or any law in place prohibiting Vitter's actions
+    action: dismissed the charges because there did not appear to be any Senate rule
+      or any law in place prohibiting Vitter's actions
     link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=BA27F460-6CF2-4330-9455-84CF04C8B8E7
   - date: 2014
-    text: Vitter lost the election for Louisiana Governor and did not run again for the Senate.
+    text: Vitter lost the election for Louisiana Governor and did not run again for
+      the Senate.
   tags: ethics resolved
 - person: 400440
   name: Don Young
@@ -1408,7 +1628,8 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-don-young
   - date: 2011-12-20
     body: House Committee on Ethics
-    action: dismissed the allegations, but also changed House rules to prohibit similar contributions in the future
+    action: dismissed the allegations, but also changed House rules to prohibit similar
+      contributions in the future
     link: https://www.congress.gov/112/crpt/hrpt336/CRPT-112hrpt336.pdf
   tags: elections resolved
 - person: 400163
@@ -1446,15 +1667,27 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-schmidt
   - date: 2011-08-05
     body: House Committee on Ethics
-    action: found the legal services were impermissble and that the representative was unaware of this, but that the committee would be satisfied if the representative properly disclosed and paid for the services
+    action: found the legal services were impermissble and that the representative
+      was unaware of this, but that the committee would be satisfied if the representative
+      properly disclosed and paid for the services
     link: https://www.congress.gov/112/crpt/hrpt195/CRPT-112hrpt195.pdf
   - date: 2012
-    text: Schmidt lost reelection. When she left office, she had not paid for those services.
+    text: Schmidt lost reelection. When she left office, she had not paid for those
+      services.
     link: https://en.wikipedia.org/wiki/Jean_Schmidt#Legal_Expense_Fund
   tags: ethics resolved
 - person: 412299
   name: Eric Massa
-  text: In 2010 Massa was investigated for [sexual harassment](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/13/AR2010041302257.html). The House Committee on Ethics [reauthorized an investigative subcommittee](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-regarding-former-representative-eric-massa). On March 8, 2010, Representative Massa resigned. On March 10, the Ethics Committee decided to close the investigation since he resigned. On March 11, the House [passed a resolution demanding a resumption of the investigation](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/11/AR2010031104907.html). On Apr. 20, 2010, the investigation was [reopened](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-regarding-former-representative-eric-massa). It continued through the next Congress (the 112th) without resolution. No further mention is made of the case by the House Committee on Standards of Official Conduct. At some point after he resigned, the Congressional [Office of Compliance](http://abcnews.go.com/Politics/congress-secretly-paid-100000-settle-harassment-claims-disgraced/story?id=51494871) settled with Massa's victims for $100,000.
+  text: In 2010 Massa was investigated for [sexual harassment](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/13/AR2010041302257.html).
+    The House Committee on Ethics [reauthorized an investigative subcommittee](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-regarding-former-representative-eric-massa).
+    On March 8, 2010, Representative Massa resigned. On March 10, the Ethics Committee
+    decided to close the investigation since he resigned. On March 11, the House [passed
+    a resolution demanding a resumption of the investigation](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/11/AR2010031104907.html).
+    On Apr. 20, 2010, the investigation was [reopened](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-regarding-former-representative-eric-massa).
+    It continued through the next Congress (the 112th) without resolution. No further
+    mention is made of the case by the House Committee on Standards of Official Conduct.
+    At some point after he resigned, the Congressional [Office of Compliance](http://abcnews.go.com/Politics/congress-secretly-paid-100000-settle-harassment-claims-disgraced/story?id=51494871)
+    settled with Massa's victims for $100,000.
   allegation: sexual harassment
   consequences:
   - date: 2010-03-04
@@ -1476,7 +1709,8 @@
     action: established an Investigative Subcommittee
     link: https://www.congress.gov/111/crpt/hrpt707/CRPT-111hrpt707.pdf
   - date: 2010
-    text: At some point after he resigned, the Congressional Office of Compliance settled with Massa's victims for $100,000.
+    text: At some point after he resigned, the Congressional Office of Compliance
+      settled with Massa's victims for $100,000.
     link: http://abcnews.go.com/Politics/congress-secretly-paid-100000-settle-harassment-claims-disgraced/story?id=51494871
     tags: settlement
   - date: 2011-07-14
@@ -1487,18 +1721,26 @@
     body: House Committee on Ethics
     text: had not completed its investigation
     link: https://www.congress.gov/112/crpt/hrpt739/CRPT-112hrpt739.pdf
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 300040
   name: John Ensign
-  text: In 2011 Ensign was investigated for violating lobbying rules in order to cover up an affair. The Senate Select Committee on Ethics [referred the matter to the Department of Justice and the Federal Election Commission](https://www.ethics.senate.gov/public/index.cfm/pressreleases?ID=451C2D6E-643F-4026-B7C4-3F6587FCC2DC). Senator Ensign resigned May 3, 2011. The Department of Justice dropped its case in 2010 as did the FEC. However, the FEC reopened it after the Senate's report in 2011 and [levied fines in 2013](https://m.lasvegassun.com/news/2013/may/24/fec-fine-sad-end-sad-sage-ensign/).
+  text: In 2011 Ensign was investigated for violating lobbying rules in order to cover
+    up an affair. The Senate Select Committee on Ethics [referred the matter to the
+    Department of Justice and the Federal Election Commission](https://www.ethics.senate.gov/public/index.cfm/pressreleases?ID=451C2D6E-643F-4026-B7C4-3F6587FCC2DC).
+    Senator Ensign resigned May 3, 2011. The Department of Justice dropped its case
+    in 2010 as did the FEC. However, the FEC reopened it after the Senate's report
+    in 2011 and [levied fines in 2013](https://m.lasvegassun.com/news/2013/may/24/fec-fine-sad-end-sad-sage-ensign/).
   allegation: violating lobbying rules in order to cover up an affair
   consequences:
   - date: 2011-05-03
     body: Senate Select Committee on Ethics
-    action: referred the matter to the Department of Justice and the Federal Election Commission
+    action: referred the matter to the Department of Justice and the Federal Election
+      Commission
     link: https://www.ethics.senate.gov/public/index.cfm/pressreleases?ID=451C2D6E-643F-4026-B7C4-3F6587FCC2DC
   - date: 2011-05-03
-    text: Senator Ensign resigned. The Department of Justice dropped its case in 2010 as did the FEC. However, the FEC reopened it after the Senate's report in 2011 and levied fines in 2013.
+    text: Senator Ensign resigned. The Department of Justice dropped its case in 2010
+      as did the FEC. However, the FEC reopened it after the Senate's report in 2011
+      and levied fines in 2013.
     link: https://m.lasvegassun.com/news/2013/may/24/fec-fine-sad-end-sad-sage-ensign/
     tags: resignation
   tags: ethics resolved
@@ -1507,11 +1749,13 @@
   text: In 2010 Crowley was investigated for soliciting campaign contributions from
     entities affected by legislation then under consideration in 2009. The House Committee
     on Ethics [recommended no further action](https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-member-regarding-representatives-john-campbell).
-  allegation: soliciting campaign contributions from entities affected by legislation then under consideration in 2009
+  allegation: soliciting campaign contributions from entities affected by legislation
+    then under consideration in 2009
   consequences:
   - date: 2010-11-03
     body: House Office of Congressional Ethics
-    action: recommended that the Committee on Standards of Official Conduct further review the allegations
+    action: recommended that the Committee on Standards of Official Conduct further
+      review the allegations
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-crowley
   - date: 2011-01-26
     body: House Committee on Ethics
@@ -1567,7 +1811,8 @@
 - person: 400616
   name: G. K. Butterfield
   text: In 2010 Butterfield was investigated for keeping the difference between his
-    requested travel per diems and the amount he actually spent. The House Committee on Standards of Official Conduct [recommended no further action](https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives).
+    requested travel per diems and the amount he actually spent. The House Committee
+    on Standards of Official Conduct [recommended no further action](https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives).
   allegation: keeping the difference between his requested travel per diems and the
     amount he actually spent
   consequences:
@@ -1584,7 +1829,8 @@
 - person: 400170
   name: Alcee L. Hastings
   text: In 2010 Hastings was investigated for keeping the difference between his requested
-    travel per diems and the amount he actually spent. The House Committee on Standards of Official Conduct [recommended no further action](https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives).
+    travel per diems and the amount he actually spent. The House Committee on Standards
+    of Official Conduct [recommended no further action](https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives).
   allegation: keeping the difference between his requested travel per diems and the
     amount he actually spent
   consequences:
@@ -1601,7 +1847,8 @@
 - person: 400302
   name: Solomon Ortiz
   text: In 2010 Ortiz was investigated for keeping the difference between his requested
-    travel per diems and the amount he actually spent. The House Committee on Standards of Official Conduct [recommended no further action](https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives).
+    travel per diems and the amount he actually spent. The House Committee on Standards
+    of Official Conduct [recommended no further action](https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives).
     In 2012, Representative Ortiz lost reelection.
   allegation: keeping the difference between his requested travel per diems and the
     amount he actually spent
@@ -1621,7 +1868,8 @@
 - person: 400433
   name: Joe Wilson
   text: In 2010 Wilson was investigated for keeping the difference between his requested
-    travel per diems and the amount he actually spent. The House Committee on Standards of Official Conduct [recommended no further action](https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives).
+    travel per diems and the amount he actually spent. The House Committee on Standards
+    of Official Conduct [recommended no further action](https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives).
   allegation: keeping the difference between his requested travel per diems and the
     amount he actually spent
   consequences:
@@ -1638,7 +1886,8 @@
 - person: 400004
   name: Robert B. Aderholt
   text: In 2010 Aderholt was investigated for keeping the difference between his requested
-    travel per diems and the amount he actually spent. The House Committee on Standards of Official Conduct [recommended no further action](https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives).
+    travel per diems and the amount he actually spent. The House Committee on Standards
+    of Official Conduct [recommended no further action](https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives).
   allegation: keeping the difference between his requested travel per diems and the
     amount he actually spent
   consequences:
@@ -1655,7 +1904,8 @@
 - person: 400122
   name: Eliot L. Engel
   text: In 2010 Engel was investigated for keeping the difference between his requested
-    travel per diems and the amount he actually spent. The House Committee on Standards of Official Conduct [recommended no further action](https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives).
+    travel per diems and the amount he actually spent. The House Committee on Standards
+    of Official Conduct [recommended no further action](https://ethics.house.gov/press-release/statement-and-report-chair-and-ranking-republican-member-regarding-representatives).
   allegation: keeping the difference between his requested travel per diems and the
     amount he actually spent
   consequences:
@@ -1690,11 +1940,14 @@
   tags: crime ethics resolved
 - person: 400433
   name: Joe Wilson
-  text: In September 2009, Rep. Wilson heckled President Obama during an address to Congress by yelling "You lie!". A week later, the [House reprimanded him, 240-179](https://www.govtrack.us/congress/votes/111-2009/h699).
-  allegation: heckled President Obama during an address to Congress by yelling "You lie!"
+  text: In September 2009, Rep. Wilson heckled President Obama during an address to
+    Congress by yelling "You lie!". A week later, the [House reprimanded him, 240-179](https://www.govtrack.us/congress/votes/111-2009/h699).
+  allegation: heckled President Obama during an address to Congress by yelling "You
+    lie!"
   consequences:
   - date: 2009-09-09
-    action: heckled President Obama during an address to Congress by yelling "You lie!"
+    action: heckled President Obama during an address to Congress by yelling "You
+      lie!"
     link: http://www.cnn.com/2009/POLITICS/09/09/joe.wilson/
   - date: 2009-09-15
     body: House
@@ -1705,16 +1958,19 @@
   name: Laura Richardson
   text: In 2009 Richardson was investigated for violating gift and financial disclosure
     rules with respect to her home, its foreclosure and yard work from 2007 to 2008.
-    The House Committee on Standards of Official Conduct [concluded that Representative Richardson did not
-    knowingly receive and/or fail to disclose gifts with respect to her home, its
-    foreclosure or yard work](https://www.congress.gov/112/crpt/hrpt642/CRPT-112hrpt642.pdf).
+    The House Committee on Standards of Official Conduct [concluded that Representative
+    Richardson did not knowingly receive and/or fail to disclose gifts with respect
+    to her home, its foreclosure or yard work](https://www.congress.gov/112/crpt/hrpt642/CRPT-112hrpt642.pdf).
     In 2012, Representative Richardson lost her bid for reelection in 2012.
   allegation: violating gift and financial disclosure rules with respect to her home,
     its foreclosure and yard work from 2007 to 2008
   consequences:
   - date: 2009-08-06
     body: House Office of Congressional Ethics
-    action: recommended that the Committee on Standards of Official Conduct further review the allegation of a violation of the gift rule but dismiss the allegations of a violation of the financial disclosure rule and receipt of professional services from her neighbors
+    action: recommended that the Committee on Standards of Official Conduct further
+      review the allegation of a violation of the gift rule but dismiss the allegations
+      of a violation of the financial disclosure rule and receipt of professional
+      services from her neighbors
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-richardson
   - date: 2010-06-30
     body: House Committee on Standards of Official Conduct
@@ -1745,8 +2001,8 @@
 - person: 400073
   name: Donna M. Christensen
   text: In 2009 Christensen was investigated for receiving impermissible travel gifts.
-    The House Committee on Standards of Official Conduct [concluded Representative Christensen did not knowingly
-    accept impermissble travel gifts](https://www.congress.gov/congressional-report/111th-congress/house-report/422).
+    The House Committee on Standards of Official Conduct [concluded Representative
+    Christensen did not knowingly accept impermissble travel gifts](https://www.congress.gov/congressional-report/111th-congress/house-report/422).
     In 2014, Christensen did not seek reelection.
   allegation: receiving impermissible travel gifts
   consequences:
@@ -1766,8 +2022,8 @@
 - person: 400217
   name: Carolyn Kilpatrick
   text: In 2009 Kilpatrick was investigated for receiving impermissible travel gifts.
-    The House Committee on Standards of Official Conduct [concluded Representative Kilpatrick did not knowingly
-    accept impermissble travel gifts](https://www.congress.gov/congressional-report/111th-congress/house-report/422).
+    The House Committee on Standards of Official Conduct [concluded Representative
+    Kilpatrick did not knowingly accept impermissble travel gifts](https://www.congress.gov/congressional-report/111th-congress/house-report/422).
     In 2010, Representative Kilpatrick lost the Democratic primary.
   allegation: receiving impermissible travel gifts
   consequences:
@@ -1786,8 +2042,9 @@
   tags: ethics resolved
 - person: 400312
   name: Donald Payne
-  text: In 2009 Payne was investigated for receiving impermissible travel gifts. The House Committee on Standards of Official Conduct [concluded Representative Payne did not knowingly accept
-    impermissble travel gifts](https://www.congress.gov/congressional-report/111th-congress/house-report/422).
+  text: In 2009 Payne was investigated for receiving impermissible travel gifts. The
+    House Committee on Standards of Official Conduct [concluded Representative Payne
+    did not knowingly accept impermissble travel gifts](https://www.congress.gov/congressional-report/111th-congress/house-report/422).
   allegation: receiving impermissible travel gifts
   consequences:
   - date: 2009-06-08
@@ -1797,14 +2054,15 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-payne
   - date: 2010-02-26
     body: House Committee on Standards of Official Conduct
-    action: concluded Representative Payne did not knowingly accept impermissble travel gifts
+    action: concluded Representative Payne did not knowingly accept impermissble travel
+      gifts
     link: https://www.congress.gov/congressional-report/111th-congress/house-report/422
   tags: ethics resolved
 - person: 400333
   name: Charles B. Rangel
   text: In 2009 Rangel was investigated for receiving impermissible travel gifts.
-    The House Committee on Standards of Official Conduct [concluded Rangel did knowingly accept impermissble
-    travel gifts and ordered him to repay them](https://www.congress.gov/congressional-report/111th-congress/house-report/422).
+    The House Committee on Standards of Official Conduct [concluded Rangel did knowingly
+    accept impermissble travel gifts and ordered him to repay them](https://www.congress.gov/congressional-report/111th-congress/house-report/422).
   allegation: receiving impermissible travel gifts
   consequences:
   - date: 2009-06-08
@@ -1821,8 +2079,8 @@
 - person: 400402
   name: Bennie G. Thompson
   text: In 2009 Thompson was investigated for receiving impermissible travel gifts.
-    The House Committee on Standards of Official Conduct [concluded Thompson did not knowingly accept impermissble
-    travel gifts](https://www.congress.gov/congressional-report/111th-congress/house-report/422).
+    The House Committee on Standards of Official Conduct [concluded Thompson did not
+    knowingly accept impermissble travel gifts](https://www.congress.gov/congressional-report/111th-congress/house-report/422).
   allegation: receiving impermissible travel gifts
   consequences:
   - date: 2009-06-08
@@ -1839,7 +2097,8 @@
 - person: 400405
   name: Todd Tiahrt
   text: In 2009 Tiahrt was investigated for soliciting campaign contributions in exchange
-    for legislative outcomes. The House Committee on Standards of Official Conduct [dismissed the charges](https://www.congress.gov/111/crpt/hrpt423/CRPT-111hrpt423.pdf).
+    for legislative outcomes. The House Committee on Standards of Official Conduct
+    [dismissed the charges](https://www.congress.gov/111/crpt/hrpt423/CRPT-111hrpt423.pdf).
     In 2010, Representative Tiahrt ran for the Senate and lost.
   allegation: soliciting campaign contributions in exchange for legislative outcomes
   consequences:
@@ -1858,8 +2117,8 @@
 - person: 400417
   name: Peter J. Visclosky
   text: In 2009 Visclosky was investigated for soliciting campaign contributions in
-    exchange for legislative outcomes. The House Committee on Standards of Official Conduct [dismissed the
-    charges](https://www.congress.gov/111/crpt/hrpt423/CRPT-111hrpt423.pdf).
+    exchange for legislative outcomes. The House Committee on Standards of Official
+    Conduct [dismissed the charges](https://www.congress.gov/111/crpt/hrpt423/CRPT-111hrpt423.pdf).
   allegation: soliciting campaign contributions in exchange for legislative outcomes
   consequences:
   - date: 2009-12-02
@@ -1875,7 +2134,8 @@
 - person: 400109
   name: Norman D. Dicks
   text: In 2009 Dicks was investigated for soliciting campaign contributions in exchange
-    for legislative outcomes. The House Committee on Standards of Official Conduct [dismissed the charges](https://www.congress.gov/111/crpt/hrpt423/CRPT-111hrpt423.pdf).
+    for legislative outcomes. The House Committee on Standards of Official Conduct
+    [dismissed the charges](https://www.congress.gov/111/crpt/hrpt423/CRPT-111hrpt423.pdf).
     In 2012, Dicks did not seek reelection.
   allegation: soliciting campaign contributions in exchange for legislative outcomes
   consequences:
@@ -1894,7 +2154,8 @@
 - person: 400211
   name: Marcy Kaptur
   text: In 2009 Kaptur was investigated for soliciting campaign contributions in exchange
-    for legislative outcomes. The House Committee on Standards of Official Conduct [dismissed the charges](https://www.congress.gov/111/crpt/hrpt423/CRPT-111hrpt423.pdf).
+    for legislative outcomes. The House Committee on Standards of Official Conduct
+    [dismissed the charges](https://www.congress.gov/111/crpt/hrpt423/CRPT-111hrpt423.pdf).
   allegation: soliciting campaign contributions in exchange for legislative outcomes
   consequences:
   - date: 2009-12-02
@@ -1910,7 +2171,8 @@
 - person: 400283
   name: James P. Moran
   text: In 2009 Moran was investigated for soliciting campaign contributions in exchange
-    for legislative outcomes. The House Committee on Standards of Official Conduct [dismissed the charges](https://www.congress.gov/111/crpt/hrpt423/CRPT-111hrpt423.pdf).
+    for legislative outcomes. The House Committee on Standards of Official Conduct
+    [dismissed the charges](https://www.congress.gov/111/crpt/hrpt423/CRPT-111hrpt423.pdf).
     In 2014, Representative Moran announced he would not seek reelection.
   allegation: soliciting campaign contributions in exchange for legislative outcomes
   consequences:
@@ -1929,7 +2191,8 @@
 - person: 400286
   name: John Murtha
   text: In 2009 Murtha was investigated for soliciting campaign contributions in exchange
-    for legislative outcomes. The House Committee on Standards of Official Conduct [dismissed the charges](https://www.congress.gov/111/crpt/hrpt423/CRPT-111hrpt423.pdf).
+    for legislative outcomes. The House Committee on Standards of Official Conduct
+    [dismissed the charges](https://www.congress.gov/111/crpt/hrpt423/CRPT-111hrpt423.pdf).
     On February 8, 2010, Representative Murtha died.
   allegation: soliciting campaign contributions in exchange for legislative outcomes
   consequences:
@@ -1948,7 +2211,8 @@
 - person: 400439
   name: C. W. Bill Young
   text: In 2009 Young was investigated for soliciting campaign contributions in exchange
-    for legislative outcomes. The House Committee on Standards of Official Conduct [dismissed the charges](https://www.congress.gov/111/crpt/hrpt423/CRPT-111hrpt423.pdf).
+    for legislative outcomes. The House Committee on Standards of Official Conduct
+    [dismissed the charges](https://www.congress.gov/111/crpt/hrpt423/CRPT-111hrpt423.pdf).
     On October 18, 2013, Representative Young died.
   allegation: soliciting campaign contributions in exchange for legislative outcomes
   consequences:
@@ -1967,8 +2231,9 @@
 - person: 400387
   name: Fortney Pete Stark
   text: In 2009 Stark was investigated for claiming tax credits for a residence which
-    was not his primary residence. The House Committee on Standards of Official Conduct [dismissed the charges
-    as Representative Stark neither sought credits improperly nor did he receive them](https://www.congress.gov/111/crpt/hrpt409/CRPT-111hrpt409.pdf).
+    was not his primary residence. The House Committee on Standards of Official Conduct
+    [dismissed the charges as Representative Stark neither sought credits improperly
+    nor did he receive them](https://www.congress.gov/111/crpt/hrpt409/CRPT-111hrpt409.pdf).
     In 2012, Representative Stark announced his retirement from Congress.
   allegation: claiming tax credits for a residence which was not his primary residence
   consequences:
@@ -2013,8 +2278,8 @@
 - person: 400158
   name: Sam Graves
   text: In 2009 Graves was investigated for inviting improper hearing witnesses. The
-    House Committee on Standards of Official Conduct [dismissed the charges as Representative Graves did
-    not act improperly](https://www.congress.gov/111/crpt/hrpt320/CRPT-111hrpt320.pdf).
+    House Committee on Standards of Official Conduct [dismissed the charges as Representative
+    Graves did not act improperly](https://www.congress.gov/111/crpt/hrpt320/CRPT-111hrpt320.pdf).
   allegation: inviting improper hearing witnesses
   consequences:
   - date: 2009-08-06
@@ -2065,19 +2330,22 @@
   tags: ethics resolved
 - person: 412197
   name: Mahoney
-  text: In Oct. 2008 Rep. Mahoney was [accused of paying off an ex-staffer](https://en.wikipedia.org/wiki/Tim_Mahoney#Residency_and_Sex_Scandals) to head off a sexual harassment lawsuit. The next month he lost the election.
+  text: In Oct. 2008 Rep. Mahoney was [accused of paying off an ex-staffer](https://en.wikipedia.org/wiki/Tim_Mahoney#Residency_and_Sex_Scandals)
+    to head off a sexual harassment lawsuit. The next month he lost the election.
   allegation: sexual harassment
   consequences:
   - date: 2008-10-13
-    text: ABC News reported that Mahoney had paid an ex-staffer to head off a sexual harassment lawsuit.
+    text: ABC News reported that Mahoney had paid an ex-staffer to head off a sexual
+      harassment lawsuit.
     link: https://en.wikipedia.org/wiki/Tim_Mahoney#Residency_and_Sex_Scandals
   - date: 2008-11-04
     text: Defeated in election.
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 400336
   name: Rick Renzi
   text: In 2013 Renzi was convicted for allegations of personal gain in a land swap
-    deal. The House Committee on Standards of Official Conduct [deferred to the Department of Justice](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Press%20Statement%20Renzi.pdf).
+    deal. The House Committee on Standards of Official Conduct [deferred to the Department
+    of Justice](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Press%20Statement%20Renzi.pdf).
     Representative Renzi did not run for reelection in 2008 and in 2013 Renzi was
     convicted and was sentenced to serve three years in prison.
   allegation: personal gain in a land swap deal
@@ -2206,7 +2474,7 @@
       were that he used government computers to engage in illegal activities such
       as sexually explicit texting with minors.
     link: http://www.cnn.com/2008/POLITICS/09/19/foley.investigation/
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 400293
   name: Ney
   allegation: involvement in the Jack Abramoff influence-peddling investigation
@@ -2345,7 +2613,9 @@
 - person: 400276
   name: Miller
   allegation: threatening to retaliate against a member for a particular vote
-  text: On Oct. 4, 2004, the House Committee on Standards of Official Conduct investigated Miller for threatening to retaliate against a member for a particular vote and [issued a report finding Miller's behavior inappropriate](https://www.congress.gov/108/crpt/hrpt722/CRPT-108hrpt722.pdf).
+  text: On Oct. 4, 2004, the House Committee on Standards of Official Conduct investigated
+    Miller for threatening to retaliate against a member for a particular vote and
+    [issued a report finding Miller's behavior inappropriate](https://www.congress.gov/108/crpt/hrpt722/CRPT-108hrpt722.pdf).
   consequences:
   - date: 2004-10-04
     body: House Committee on Standards of Official Conduct
@@ -2518,8 +2788,9 @@
   allegation: accepting illegal corporate and foreign contributions
   text: On Oct. 6, 1998, the House Committee on Standards of Official Conduct investigated
     Kim for accepting illegal corporate and foreign contributions and [adopted a six
-    count statement of alleged violations](https://www.congress.gov/105/crpt/hrpt797/CRPT-105hrpt797.pdf). On Aug. 11, 1997, he pleaded guilty in
-    federal court. On Jun. 2, 1998, he was defeated in the primary.
+    count statement of alleged violations](https://www.congress.gov/105/crpt/hrpt797/CRPT-105hrpt797.pdf).
+    On Aug. 11, 1997, he pleaded guilty in federal court. On Jun. 2, 1998, he was
+    defeated in the primary.
   consequences:
   - date: 1997-08-11
     text: Pleaded guilty in federal court.
@@ -2607,20 +2878,28 @@
   text: On Jan. 2, 1997, the House Committee on Standards of Official Conduct investigated
     Rose-Collins for misuse of official resources, campaign resources, and scholarship
     funds. On Sept. 12, 1996 11-count statement of alleged violation was adopted,
-    but the [subcommittee recommended that no further action be taken](https://www.congress.gov/104/crpt/hrpt876/CRPT-104hrpt876.pdf) due to pending
-    loss of jurisdiction since Rose-Collins was defeated in the August primary.
+    but the [subcommittee recommended that no further action be taken](https://www.congress.gov/104/crpt/hrpt876/CRPT-104hrpt876.pdf)
+    due to pending loss of jurisdiction since Rose-Collins was defeated in the August
+    primary.
   consequences:
   - date: 1996-08-06
     text: Defeated in the primary.
   - date: 1997-01-02
     body: House Committee on Standards of Official Conduct
-    action: preliminary inquiry voted (Dec. 5, 1995); 11-count statement of alleged violation adopted (Sept. 12, 1996); Subcommittee recommended that no further action be taken due to pending loss of jurisdiction on Oct. 25, 1996; committee took no further action and filed report
+    action: preliminary inquiry voted (Dec. 5, 1995); 11-count statement of alleged
+      violation adopted (Sept. 12, 1996); Subcommittee recommended that no further
+      action be taken due to pending loss of jurisdiction on Oct. 25, 1996; committee
+      took no further action and filed report
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
   tags: elections ethics resolved
 - person: 400146
   name: Gephardt
-  allegation: inadequate financial disclosure on a series of land sales and financial agreements regarding property purchased and exchanged in North Carolina
-  text: On Sep. 28, 1997, the House Committee on Standards of Official Conduct investigated Gephardt for inadequate financial disclosure on a series of land sales and financial agreements regarding property purchased and exchanged in North Carolina. The committee [dismissed the complaint](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf).
+  allegation: inadequate financial disclosure on a series of land sales and financial
+    agreements regarding property purchased and exchanged in North Carolina
+  text: On Sep. 28, 1997, the House Committee on Standards of Official Conduct investigated
+    Gephardt for inadequate financial disclosure on a series of land sales and financial
+    agreements regarding property purchased and exchanged in North Carolina. The committee
+    [dismissed the complaint](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf).
   consequences:
   - date: 1997-09-28
     body: House Committee on Standards of Official Conduct
@@ -2646,21 +2925,30 @@
 - person: 404587
   name: Gringrich
   allegation: improper use of services of volunteer in congressional office
-  text: In 1996, the House Committee on Standards of Official Conduct investigated Gringrich for improper use of services of volunteer in congressional office via a complaint known as the Third Miller Complaint. The [charges were dismissed](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf) on Sep. 19, 1996.
+  text: In 1996, the House Committee on Standards of Official Conduct investigated
+    Gringrich for improper use of services of volunteer in congressional office via
+    a complaint known as the Third Miller Complaint. The [charges were dismissed](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf)
+    on Sep. 19, 1996.
   consequences:
   - date: 1996-09-19
     body: House Committee on Standards of Official Conduct
-    action: member complaint filed on behalf of outside organization (Apr. 22, 1996) (“Third Miller Complaint”); dismissed the complaint
+    action: member complaint filed on behalf of outside organization (Apr. 22, 1996)
+      (“Third Miller Complaint”); dismissed the complaint
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
   tags: ethics resolved
 - person: 410147
   name: Solomon
   allegation: retaliation for political disagreement
-  text: In 1996, the House Committee on Standards of Official Conduct investigated Solomon for a press release and letter sent to a New York state assemblyman which included language that implied possible retaliation for political disagreement. On May. 8, 1996, the [complaint was dismissed](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf) after Solomon indicated he had not retaliated and had never intended to retaliate.
+  text: In 1996, the House Committee on Standards of Official Conduct investigated
+    Solomon for a press release and letter sent to a New York state assemblyman which
+    included language that implied possible retaliation for political disagreement.
+    On May. 8, 1996, the [complaint was dismissed](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf)
+    after Solomon indicated he had not retaliated and had never intended to retaliate.
   consequences:
   - date: 1996-05-08
     body: House Committee on Standards of Official Conduct
-    action: dismissed the complaint after Solomon indicated he had not retaliated and had never intended to retaliate
+    action: dismissed the complaint after Solomon indicated he had not retaliated
+      and had never intended to retaliate
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
   tags: ethics resolved
 - person: 400527
@@ -2688,7 +2976,10 @@
 - person: 404587
   name: Gingrich
   allegation: improper use of services of volunteer in congressional offices
-  text: On Mar. 29, 1996, the House Committee on Standards of Official Conduct investigated Gingrich for the improper use of the services of a volunteer in congressional offices and [concluded that the volunteer service, which had terminated by the time of the complaint, did not comply with the applicable guidelines](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf).
+  text: On Mar. 29, 1996, the House Committee on Standards of Official Conduct investigated
+    Gingrich for the improper use of the services of a volunteer in congressional
+    offices and [concluded that the volunteer service, which had terminated by the
+    time of the complaint, did not comply with the applicable guidelines](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf).
   consequences:
   - date: 1996-03-29
     body: House Committee on Standards of Official Conduct
@@ -2698,8 +2989,14 @@
   tags: ethics resolved
 - person: 300156
   name: Torricelli
-  allegation: using congressional fax machine to send a press release having a political purpose (accusation made by Zimmer)
-  text: In 1996, in an accusation made by Zimmer, the House Committee on Standards of Official Conduct investigated Torricelli for using congressional fax machine to send a press release having a political purpose. On Mar. 29, 1996, the committee [determined use of the fax machine violated applicable rules](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf) on use of official resources and Torricelli reimbursed the use of the fax. On Nov. 5, 1996, Zimmer lost his bid for a New Jersey Senate seat to Torricelli.
+  allegation: using congressional fax machine to send a press release having a political
+    purpose (accusation made by Zimmer)
+  text: In 1996, in an accusation made by Zimmer, the House Committee on Standards
+    of Official Conduct investigated Torricelli for using congressional fax machine
+    to send a press release having a political purpose. On Mar. 29, 1996, the committee
+    [determined use of the fax machine violated applicable rules](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf)
+    on use of official resources and Torricelli reimbursed the use of the fax. On
+    Nov. 5, 1996, Zimmer lost his bid for a New Jersey Senate seat to Torricelli.
   consequences:
   - date: 1996-03-29
     body: House Committee on Standards of Official Conduct
@@ -2711,8 +3008,19 @@
   tags: ethics resolved
 - person: 412001
   name: Zimmer
-  allegation: using congressional fax machine for non-official purpose, specifically to send a press release entitled "Zimmer Wallops Torricelli in N.J. Congressional Softball Tourney" which was a personal attack and therefore violated usage rules (accusation made by Torricelli)
-  text: In 1996, based on an accusation made by Torricelli, the House Committee on Standards of Official Conduct investigated Zimmer for using a congressional fax machine for a non-official purpose, specifically to send a press release entitled "Zimmer Wallops Torricelli in N.J. Congressional Softball Tourney" which was alleged to be a personal attack and therefore a violation of usage rules. The complaint was returned on Jan. 5, 1996 for failing to meet standards of committee procedures and subsequently rel-submitted. The complaint was [dismissed](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf) on March 29, 1996 for lack of merit. On Nov. 5, 1996, Zimmer lost his bid for a New Jersey Senate seat to Torricelli.
+  allegation: using congressional fax machine for non-official purpose, specifically
+    to send a press release entitled "Zimmer Wallops Torricelli in N.J. Congressional
+    Softball Tourney" which was a personal attack and therefore violated usage rules
+    (accusation made by Torricelli)
+  text: In 1996, based on an accusation made by Torricelli, the House Committee on
+    Standards of Official Conduct investigated Zimmer for using a congressional fax
+    machine for a non-official purpose, specifically to send a press release entitled
+    "Zimmer Wallops Torricelli in N.J. Congressional Softball Tourney" which was alleged
+    to be a personal attack and therefore a violation of usage rules. The complaint
+    was returned on Jan. 5, 1996 for failing to meet standards of committee procedures
+    and subsequently rel-submitted. The complaint was [dismissed](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf)
+    on March 29, 1996 for lack of merit. On Nov. 5, 1996, Zimmer lost his bid for
+    a New Jersey Senate seat to Torricelli.
   consequences:
   - date: 1996-03-29
     body: House Committee on Standards of Official Conduct
@@ -2733,12 +3041,13 @@
     McIntosh for distributing at a committee meeting and displaying on the House floor
     a document attributed to an outside group that was instead created by his staff
     and allowing subcommittee staff to improperly question a witness regarding their
-    observance of a religious holiday. The committee [sent a letter](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf) to McIntosh on
-    March 14, 1996 indicating that forging an outside organization's letterhead for
-    staff-created documents was inappropriate as was any questioning of a witness's
-    religious observances. On Mar. 14, 1996, McIntosh apologized and formalized a
-    written policy for his staff regarding harassing, insensitive or discriminatory
-    behavior. The committee voted not to make letter public, 5-4 on March 20, 1996.
+    observance of a religious holiday. The committee [sent a letter](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf)
+    to McIntosh on March 14, 1996 indicating that forging an outside organization's
+    letterhead for staff-created documents was inappropriate as was any questioning
+    of a witness's religious observances. On Mar. 14, 1996, McIntosh apologized and
+    formalized a written policy for his staff regarding harassing, insensitive or
+    discriminatory behavior. The committee voted not to make letter public, 5-4 on
+    March 20, 1996.
   consequences:
   - date: 1996-03-14
     body: House Committee on Standards of Official Conduct
@@ -2778,8 +3087,8 @@
     used for political purposes
   text: In 1995, the House Committee on Standards of Official Conduct investigated
     Gingrich for improper statements on House floor for political reasons and using
-    official resource for political purposes. The complaints were [dismissed](https://www.congress.gov/104/crpt/hrpt401/CRPT-104hrpt401.pdf) in a public
-    letter on Dec. 6, 1995 and a public report issued on Dec. 12, 1995.
+    official resource for political purposes. The complaints were [dismissed](https://www.congress.gov/104/crpt/hrpt401/CRPT-104hrpt401.pdf)
+    in a public letter on Dec. 6, 1995 and a public report issued on Dec. 12, 1995.
   consequences:
   - date: 1995-12-12
     body: House Committee on Standards of Official Conduct
@@ -2794,8 +3103,8 @@
     gifts/solicitation)
   text: In 1995, the House Committee on Standards of Official Conduct investigated
     Gingrich for accepting free cable television coverage of college lectures  as
-    improper gifts/solicitation. The complaint was [dismissed](https://www.congress.gov/104/crpt/hrpt401/CRPT-104hrpt401.pdf) in a public letter on
-    Dec. 6, 1995 and a public report issued on Dec. 12, 1995.
+    improper gifts/solicitation. The complaint was [dismissed](https://www.congress.gov/104/crpt/hrpt401/CRPT-104hrpt401.pdf)
+    in a public letter on Dec. 6, 1995 and a public report issued on Dec. 12, 1995.
   consequences:
   - date: 1995-12-12
     body: House Committee on Standards of Official Conduct
@@ -2811,7 +3120,8 @@
     Gingrich for improperly using the services of a volunteer for official purposes
     in a complaint known as the First Miller Complaint. The committee found violations
     and sent a public letter to Gingrich and took no further action on Dec. 6, 1995.
-    The committee [published its report](https://www.congress.gov/104/crpt/hrpt401/CRPT-104hrpt401.pdf) on Dec. 12, 1995.
+    The committee [published its report](https://www.congress.gov/104/crpt/hrpt401/CRPT-104hrpt401.pdf)
+    on Dec. 12, 1995.
   consequences:
   - date: 1995-12-12
     body: House Committee on Standards of Official Conduct
@@ -2863,7 +3173,7 @@
     text: Resigned.
     link: http://articles.latimes.com/1995-09-08/news/mn-43532_1_senator-packwood-resigns
     tags: resignation
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 411725
   name: Wilson
   allegation: improper use of campaign funds and inadequate financial disclosure
@@ -2913,7 +3223,7 @@
       income tax return for four consecutive years
     link: https://en.wikipedia.org/wiki/Mel_Reynolds#Later_career
     tags: conviction
-  tags: ethics sexual-harassment-abuse resolved
+  tags: ethics resolved sexual-harassment-abuse
 - person: 400551
   name: Armey
   allegation: improper use of congressional stationery
@@ -3061,13 +3371,14 @@
   tags: ethics resolved
 - person: 400692
   name: Adams
-  text: In 1992, Adams was [accused of rape and sexual harassment](http://www.nytimes.com/1992/03/02/us/brock-adams-quits-senate-race-amid-sex-misconduct-allegations.html) and quit his Senate race as a result.
+  text: In 1992, Adams was [accused of rape and sexual harassment](http://www.nytimes.com/1992/03/02/us/brock-adams-quits-senate-race-amid-sex-misconduct-allegations.html)
+    and quit his Senate race as a result.
   allegation: rape and sexual harassment
   consequences:
   - date: 1992-03-02
     text: Quit election race.
     link: http://www.nytimes.com/1992/03/02/us/brock-adams-quits-senate-race-amid-sex-misconduct-allegations.html
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 408632
   name: Perkins
   allegation: bank fraud and lying to investigators
@@ -3161,7 +3472,7 @@
   - date: 1990-10-04
     text: Resigned.
     tags: resignation
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 403669
   name: Durenberger
   allegation: a wide range of financial misconduct
@@ -3250,7 +3561,7 @@
     body: House Committee on Standards of Official Conduct
     action: issued a public report disapproving of his conduct, 12-0
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt101-397_0.pdf
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 404422
   name: Garcia
   allegation: conspiracy and Travel Act violations (receipt of $170,000 in payments,
@@ -3287,7 +3598,7 @@
   - date: 1989
     text: Admitted to violations and wrote personal letter of apology.
     link: https://www.rollcall.com/news/politics/congress-took-three-decades-come-far-sexual-harassment-victim-says
-  tags: elections ethics sexual-harassment-abuse resolved
+  tags: elections ethics resolved sexual-harassment-abuse
 - person: 411912
   name: Wright, Jr.
   allegation: improper lobbying efforts on behalf of a constituent with whom Rep.
@@ -3586,7 +3897,7 @@
       420-3
     link: https://www.govtrack.us/congress/votes/98-1983/h246
     tags: censure
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 402985
   name: Crane
   allegation: a sexual relationship with a 17-year old female House page in 1980
@@ -3608,7 +3919,7 @@
     tags: censure
   - date: 1984-11-06
     text: Defeated in the election.
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 409208
   name: Richmond
   allegation: evading federal taxes, two misdemeanors involving a government contract,
