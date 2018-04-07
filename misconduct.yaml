@@ -710,6 +710,7 @@
     link:
     - http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court
     - https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458
+    tags: settlement
   - date: 2017-12-07
     body: House Committee on Ethics
     action: re-opened the investigation
@@ -729,7 +730,8 @@
   - date: 2018-04-06
     text: Farenthold resigned.
     link: https://www.thedailybeast.com/rep-blake-farenthold-resigns-amid-sexual-harassment-claims
-tags: corruption elections sexual-harassment-abuse settlement resignation resolved
+    tags: resignation
+  tags: corruption elections sexual-harassment-abuse resolved
 - person: 412558
   name: Michelle Lujan Grisham
   text: In 2015 Grisham was investigated for travel funded or organized by one or
