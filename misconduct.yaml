@@ -1,7 +1,12 @@
 - person: 412397
   name: Paul Gosar
-  text: In February 2018, a resolution to reprimand Rep. Gosar for attempting to pressure Capitol Police via Twitter to arrest State of the Union 2018 guests he described as "illegal aliens" [was tabled (i.e. failed) on party lines, 231-187](https://www.govtrack.us/congress/votes/115-2018/h53). Several Democratic representatives brought undocumented immigrants who are currently part of the DACA program to the speech.
-  allegation: attempting to pressure Capitol Police via Twitter to arrest State of the Union 2018 guests he described as "illegal aliens"
+  text: In February 2018, a resolution to reprimand Rep. Gosar for attempting to pressure
+    Capitol Police via Twitter to arrest State of the Union 2018 guests he described
+    as "illegal aliens" [was tabled (i.e. failed) on party lines, 231-187](https://www.govtrack.us/congress/votes/115-2018/h53).
+    Several Democratic representatives brought undocumented immigrants who are currently
+    part of the DACA program to the speech.
+  allegation: attempting to pressure Capitol Police via Twitter to arrest State of
+    the Union 2018 guests he described as "illegal aliens"
   consequences:
   - date: 2018-01-30
     text: Asked Capitol Police to arrest DACA recipients attending the 2018 State
@@ -731,7 +736,7 @@
     text: Farenthold resigned.
     link: https://www.thedailybeast.com/rep-blake-farenthold-resigns-amid-sexual-harassment-claims
     tags: resignation
-  tags: corruption elections sexual-harassment-abuse resolved
+  tags: corruption elections resolved sexual-harassment-abuse
 - person: 412558
   name: Michelle Lujan Grisham
   text: In 2015 Grisham was investigated for travel funded or organized by one or
@@ -1927,8 +1932,8 @@
     lie!"
   consequences:
   - date: 2009-09-09
-    text: Wilson heckled President Obama during an address to Congress by yelling "You
-      lie!".
+    text: Wilson heckled President Obama during an address to Congress by yelling
+      "You lie!".
     link: http://www.cnn.com/2009/POLITICS/09/09/joe.wilson/
   - date: 2009-09-15
     body: House
