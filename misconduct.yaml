@@ -203,9 +203,9 @@
   allegation: groping, sexually suggestive comments, and unwanted advances
   consequences:
   - date: 2013-10-13
-    text: Pleaded guilty.
+    text: Pleaded guilty to groping, sexually suggestive comments and unwanted advances
+      as mayor of San Diego, CA.
     link: http://www.nytimes.com/2013/10/16/us/criminal-charges-for-bob-filner-former-san-diego-mayor.html
-    tags: plea
   - date: 2017-11-20
     text: Rep. Diana DeGette alleged that Filner had groped her while he was still
       in Congress.
@@ -215,8 +215,8 @@
   name: Robert Menendez
   text: Menendez is being investigated for unspecified misconduct in 2012, presumably
     including the corruption and bribery charges for which he faced a trial that resulted
-    in a mistrial. Select Committee on Ethics [reopened its investigation now that
-    Senator Menendez's corruption and bribery case has ended in a mistrial](https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=686EB556-1D6D-4B2F-AB19-9DFA579C1699).
+    in a mistrial. The Senate Select Committee on Ethics [reopened its investigation
+    now that Senator Menendez's corruption and bribery case has ended in a mistrial](https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=686EB556-1D6D-4B2F-AB19-9DFA579C1699).
   allegation: corruption and bribery
   consequences:
   - date: 2017-11-16
