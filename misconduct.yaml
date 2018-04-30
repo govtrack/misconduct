@@ -213,10 +213,8 @@
   tags: resolved sexual-harassment-abuse
 - person: 400272
   name: Robert Menendez
-  text: Menendez is being investigated for unspecified misconduct in 2012, presumably
-    including the corruption and bribery charges for which he faced a trial that resulted
-    in a mistrial. The Senate Select Committee on Ethics [reopened its investigation
-    now that Senator Menendez's corruption and bribery case has ended in a mistrial](https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=686EB556-1D6D-4B2F-AB19-9DFA579C1699).
+  text: Menendez was investigated for unspecified misconduct in 2012. The Senate investigation was halted during his investigation and trial for corruption and bribery which resulted
+    in a mistrial. In April 2018, the Senate Select Committee on Ethics [admonished Senator Menendez](https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=49C12C75-7A26-4FE6-B070-19FCEF4D7532) for violating Senate rules and ordered him to repay any remaining outstanding value of impermissable gifts.
   allegation: corruption and bribery
   consequences:
   - date: 2017-11-16
@@ -224,7 +222,11 @@
     action: reopened its investigation after Menendez's corruption and bribery case
       ended in a mistrial
     link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=686EB556-1D6D-4B2F-AB19-9DFA579C1699
-  tags: corruption unresolved
+  - date: 2018-04-26
+    body: Senate Select Committee on Ethics
+    action: admonished Senator Menendez for violating Senate rules and ordered him to repay any remaining outstanding value of impermissable gifts
+    link: https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=49C12C75-7A26-4FE6-B070-19FCEF4D7532   
+  tags: corruption resolved reprimand
 - person: 400426
   name: Weiner
   allegation: sending sexually explicit texts to women who were not his wife
@@ -700,7 +702,7 @@
     resolved in 2015](http://www.rollcall.com/news/home/farenthold-sexual-harassment-case-settled-court)
     with a [taxpayer-funded settlement](https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458)
     that was revealed in 2017, and the House Committee on Ethics investigation was
-    re-opened. On April 6, 2018, Farenthold resigned.
+    re-opened. On April 6, 2018, Farenthold resigned. On April 12, the House Committee on Ethics [closed the investigation due to loss of jurisdiction](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-17).
   allegation: sexual harassment on the basis of a 2014 lawsuit filed against him alleging
     sexual harassment
   consequences:
@@ -735,8 +737,11 @@
   - date: 2018-04-06
     text: Farenthold resigned.
     link: https://www.thedailybeast.com/rep-blake-farenthold-resigns-amid-sexual-harassment-claims
-    tags: resignation
-  tags: corruption elections resolved sexual-harassment-abuse
+  - date: 2018-04-12
+    body: House Committee on Ethics
+    action: closed its investigation due to loss of jurisdiction
+    link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-17
+  tags: corruption elections resolved sexual-harassment-abuse resignation
 - person: 412558
   name: Michelle Lujan Grisham
   text: In 2015 Grisham was investigated for travel funded or organized by one or
