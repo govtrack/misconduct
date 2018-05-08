@@ -4013,12 +4013,15 @@
   name: Lederer
   allegation: bribery, acceptance of an unlawful gratuity, conspiracy and Travel Act
     violations
-  text: On Apr. 28, 1981, the House Committee on Standards of Official Conduct recommended
-    expulsion, 10-2 for Lederer for bribery, acceptance of an unlawful gratuity, conspiracy
-    and Travel Act violations (convicted) On Apr. 29, 1981, he [resigned](http://www.nytimes.com/1981/04/30/us/lederer-quits-congress-over-conviction-in-abscam.html).
-    On May. 20, 1981, the House Committee on Standards of Official Conduct [filed
-    its report](https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt97-110.pdf).
+  text: Lederer resigned April 29, 1981 after the House Committee on Standards of
+    Official Conduct [recommended expulsion](https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt97-110.pdf),
+    10-2, following his conviction on charges of bribery. He was accused of bribery,
+    acceptance of an unlawful gratuity, conspiracy and Travel Act violations.
   consequences:
+  - date: 1981-01-09
+    text: Convicted of bribery.
+    link: https://www.nytimes.com/1981/04/30/us/lederer-quits-congress-over-conviction-in-abscam.html
+    tags: conviction
   - date: 1981-04-28
     body: House Committee on Standards of Official Conduct
     action: recommended expulsion, 10-2
@@ -4035,13 +4038,15 @@
 - person: 410779
   name: Thompson
   allegation: bribery charges in the ABSCAM investigation
-  text: Thompson faced an allegation of bribery charges in the ABSCAM investigation
-    (convicted). On Nov. 4, 1980, he [lost the election](http://bioguide.congress.gov/scripts/biodisplay.pl?index=T000200).
-    On Dec. 29, 1980, he [resigned](http://bioguide.congress.gov/scripts/biodisplay.pl?index=T000200).
+  text: Thompson was convicted in 1980 of bribery charges in the ABSCAM investigation.
   consequences:
   - date: 1980-11-04
     text: Lost the election.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=T000200
+  - date: 1980
+    text: Convicted of bribery and conspiracy.
+    link: https://www.nytimes.com/1989/07/24/obituaries/frank-thompson-70-career-in-congress-ended-with-abscam.html
+    tags: conviction
   - date: 1980-12-29
     text: Resigned.
     link: http://bioguide.congress.gov/scripts/biodisplay.pl?index=T000200
@@ -4050,13 +4055,14 @@
 - person: 406001
   name: Jenrette, Jr.
   allegation: bribery and conspiracy for accepting money in return for promising to
-    use official influence as part of ABSCAM investigation (convicted)
-  text: Jenrette faced an allegation of bribery and conspiracy for accepting money
-    in return for promising to use official influence as part of ABSCAM investigation
-    (convicted). On Nov. 4, 1980, he lost the election. On Dec. 10, 1980, he [resigned](http://bioguide.congress.gov/scripts/biodisplay.pl?index=J000099).
-    On Dec. 16, 1980, the House Committee on Standards of Official Conduct [terminated
-    the sanction hearing due to resignation and filed the report](https://ethics.house.gov/committee-report/matter-representative-john-w-jenrette-jr).
+    use official influence as part of ABSCAM investigation
+  text: Jenrette was convicted of bribery and conspiracy for accepting money in return
+    for promising to use official influence as part of the ABSCAM investigation.
   consequences:
+  - date: 1980-10
+    text: Convicted.
+    link: https://www.nytimes.com/1983/12/10/us/ex-rep-jenrette-gets-two-years-in-abscam-case.html
+    tags: conviction
   - date: 1980-11-04
     text: Lost the election.
   - date: 1980-12-10
@@ -4070,13 +4076,16 @@
   tags: corruption resolved
 - person: 408094
   name: Myers
-  allegation: bribery, conspiracy and Travel Act violations as part of ABSCAM investigation
-    (convicted)
-  text: On Sep. 24, 1980, the House Committee on Standards of Official Conduct investigated
-    Myers for bribery, conspiracy and Travel Act violations as part of ABSCAM investigation
-    (convicted) and recommended expulsion, 10-2. On Oct. 2, 1980, the House of Representatives
-    [expelled him, 376-30](https://www.govtrack.us/congress/votes/96-1980/h1222).
+  allegation: bribery, conspiracy and Travel Act violations as part of the ABSCAM
+    investigation
+  text: Meyers was convicted of bribery in 1980 as part of the ABSCAM investigation
+    and on Oct. 2, 1980, the House of Representatives [expelled him](https://www.govtrack.us/congress/votes/96-1980/h1222)
+    in a 376-30 vote.
   consequences:
+  - date: 1980-08-30
+    text: Convicted of bribery.
+    link: https://www.washingtonpost.com/archive/politics/1980/08/30/rep-myers-is-convicted-of-bribery/5626a409-adae-4ce3-b7e7-ec847f5214b6/
+    tags: conviction
   - date: 1980-09-24
     body: House Committee on Standards of Official Conduct
     action: recommended expulsion, 10-2 (Sept. 24, 1980)
@@ -4167,12 +4176,18 @@
 - person: 403462
   name: Diggs, Jr.
   allegation: mail fraud and false statements
-  text: On Jul. 31, 1979, the House Committee on Standards of Official Conduct investigated
-    Diggs, Jr. for mail fraud and false statements (convicted) and recommended censure,
-    11-0. On Jul. 31, 1979, the House of Representatives [censured him, 414-0](https://www.govtrack.us/congress/votes/96-1979/h366).
-    On Nov. 7, 1978, he was [re-elected after conviction](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
-    On Jun. 3, 1980, he [resigned after losing the criminal appeal](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+  text: In October 1978, Diggs was convicted of taking kickbacks. He was re-elected
+    the next month, but on July 31, 1979, the House of Representatives [censured him](https://www.govtrack.us/congress/votes/96-1979/h366)
+    in a 414-0 vote and in 1980 he [resigned after losing the criminal appeal](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   consequences:
+  - date: 1978-10
+    text: Convicted on charges that he had taken kickbacks from three of his Congressional
+      employees.
+    link: https://www.nytimes.com/1998/08/26/us/charles-diggs-75-congressman-censured-over-kickbacks.html
+    tags: conviction
+  - date: 1978-11-07
+    text: Re-elected after conviction.
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   - date: 1979-07-31
     body: House Committee on Standards of Official Conduct
     action: recommended censure, 11-0
@@ -4182,10 +4197,6 @@
     action: censured, 414-0
     link: https://www.govtrack.us/congress/votes/96-1979/h366
     tags: censure
-  - date: 1978-11-07
-    text: Re-elected after conviction.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
-    tags: conviction
   - date: 1980-06-03
     text: Resigned after losing criminal appeal.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
@@ -4283,12 +4294,15 @@
 - person: 405493
   name: Hinshaw
   allegation: state bribery charges for conduct prior to election
-  text: On Sep. 1, 1976, the House Committee on Standards of Official Conduct investigated
-    Hinshaw for state bribery charges for conduct prior to election (convicted) and
-    recommended against expulsion due to lack of jurisdiction for actions committed
-    prior to service in House, 10-2. On Oct. 1, 1976, the House of Representatives
-    expulsion resolution was tabled On Jun. 8, 1976, he [lost the primary](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+  text: On Jan. 26, 1976, Hinshaw was [convicted of state bribery charges](https://www.nytimes.com/1976/07/11/archives/hinshaw-expulsion-from-house-urged-conviction-is-cited.html)
+    for conduct prior to election but the House Committee on Standards of Official
+    Conduct recommended against expulsion due to lack of jurisdiction for actions
+    committed prior to service in House, 10-2.
   consequences:
+  - date: 1976-01-26
+    text: Convicted of bribery.
+    link: https://www.nytimes.com/1976/07/11/archives/hinshaw-expulsion-from-house-urged-conviction-is-cited.html
+    tags: conviction
   - date: 1976-06-08
     text: Lost the primary.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
@@ -4394,17 +4408,18 @@
   name: Dowdy
   allegation: conspiracy to violate a bribery statute and an obstruction of justice
     statute, interstate travel to facilitate bribery and perjury with respect to receipt
-    of $25,000 to hinder a federal investigation of a Maryland company in 1965 (convicted)
-  text: On Mar. 12, 1975, the House Committee on Standards of Official Conduct investigated
-    Dowdy for conspiracy to violate a bribery statute and an obstruction of justice
-    statute, interstate travel to facilitate bribery and perjury with respect to receipt
-    of $25,000 to hinder a federal investigation of a Maryland company in 1965 (convicted)
-    and unanimously adopted H. Res. 46. On Apr. 16, 1975, the House of Representatives
+    of $25,000 to hinder a federal investigation of a Maryland company in 1965
+  text: In 1971 Dowdy was [convicted](https://www.nytimes.com/1971/12/31/archives/dowdy-convicted-of-taking-a-bribe-representative-from-texas-could.html)
+    of bribery, conspiracy, and perjury related to accepting $25,000 to hinder a federal
+    investigation of a Maryland company in 1965. On Apr. 16, 1975, the House of Representatives
     [passed H. Res. 46, 360-37 adding clause 10 to the Code of Official Conduct, stating
     the policy of the House that a member convicted of a serious crime voluntarily
-    refrain from voting](https://www.govtrack.us/congress/votes/94-1975/h82). In 1972,
-    he had declined to run for re-election.
+    refrain from voting](https://www.govtrack.us/congress/votes/94-1975/h82).
   consequences:
+  - date: 1971-12-30
+    text: Convicted of bribery, conspiracy, and perjury.
+    link: https://www.nytimes.com/1971/12/31/archives/dowdy-convicted-of-taking-a-bribe-representative-from-texas-could.html
+    tags: conviction
   - date: 1972
     text: Declined to run for re-election.
   - date: 1975-03-12
@@ -4417,7 +4432,6 @@
       stating the policy of the House that member convicted of a serious crime voluntarily
       refrain from voting
     link: https://www.govtrack.us/congress/votes/94-1975/h82
-    tags: conviction
   tags: corruption resolved
 - person: 401730
   name: Brasco
@@ -5368,12 +5382,12 @@
 - person: 402096
   name: Burton
   allegation: accepting compensation for services before a federal agency
-  text: Burton faced an allegation of accepting compensation for services before a
-    federal agency (convicted). On May. 21, 1906, his final conviction was upheld
-    after the first had been overturned and he'd been convicted again. From 1904 to
-    this point, Burton had not voted in the Senate to avoid triggering an explusion
-    vote. On May 22, 1906, the issue was referred to the Committee on Privileges and
-    Elections. On Jun. 4, 1906, he [resigned](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=309).
+  text: Burton was convicted of accepting compensation for services before a federal
+    agency. On May. 21, 1906, his final conviction was upheld after the first had
+    been overturned and he'd been convicted again. From 1904 to this point, Burton
+    had not voted in the Senate to avoid triggering an explusion vote. On May 22,
+    1906, the issue was referred to the Committee on Privileges and Elections. On
+    Jun. 4, 1906, he [resigned](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=309).
   consequences:
   - date: 1906-05-21
     text: His final conviction was upheld after the first had been overturned and
