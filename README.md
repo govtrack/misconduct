@@ -12,7 +12,7 @@ This database contains:
 * Failed votes on simple resolutions sanctioning a member without a formal investigation when we came across them.
 * As many monetary settlements that we are aware of, e.g. those administered by Congress's [Office of Compliance](https://www.compliance.gov/) regarding sexual harassment claims, but many settlements are not known to the public.
 * Resignations and announcements of an intention not to run for re-election that we believe to be likely relevant to an allegation of misconduct, because Members of Congress often resign to head-off a Congressional investigation.
-* Law enforcement investigations, convictions, and guilty pleas that we are aware of, except in cases when the investigation resulted in exoneration, was not conducted by Congress, and was not related to the Member's official duties.
+* Felony convictions and other cases of misconduct with national significance before and after the Member's time in Congress.
 
 Investigations, settlements, and resignations **do not imply guilt**. Some investigations are motivated by politics or a personal grudge, settlements are often used when it would be less costly than defending a law suit, and Members of Congress often resign when they are likely to lose re-election (regardless of why). We include investigations even if the Member of Congress is exonerated, per the above rubrik, because the investigation and exoneration are themselves important events not to be forgotten. Conversely, an investigation that ends without a guilty determination **does not imply innocence** --- Congress polices itself in many cases and Members of Congress are reluctant to punish their peers.
 

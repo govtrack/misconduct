@@ -1542,13 +1542,18 @@
   tags: resolved sexual-harassment-abuse
 - person: 400518
   name: Rod Blagojevich
-  text: In 2011, Blagojevich, a former representative for IL-5, was [convicted of a broad range of corruption](https://www.nytimes.com/2011/06/28/us/28blagojevich.html) as Governor of Illinois which included attempting to sell the appointment to the Senate seat vacated by Barack Obama after Obama won the 2008 presidential election. 
-  allegation: corruption including selling the Senate seat vacated by Barack Obama after Obama won the 2008 presidential election
+  text: In 2011, Blagojevich, a former representative for IL-5, was [convicted of
+    a broad range of corruption](https://www.nytimes.com/2011/06/28/us/28blagojevich.html)
+    as Governor of Illinois which included attempting to sell the appointment to the
+    Senate seat vacated by Barack Obama after Obama won the 2008 presidential election.
+  allegation: corruption including selling the Senate seat vacated by Barack Obama
+    after Obama won the 2008 presidential election
   consequences:
   - date: 2011-06-27
-    text: convicted of corruption
+    text: Convicted of corruption.
     link: https://www.nytimes.com/2011/06/28/us/28blagojevich.html
-  tags: resolved crime corruption 
+    tags: conviction
+  tags: corruption crime resolved
 - person: 400422
   name: Maxine Waters
   text: In 2009 Waters was investigated for a conflict of interest with respect to
