@@ -1,23 +1,33 @@
-  - person: 412730
-    name: Pramila Jayapal
-    text: On June 28, Rep. Jayapal was arrested for crowding, obstructing, or incommoding, during a protest inside a Senate Office Building in Washington, D.C. The House Committee on Ethics concluded that [no further investigation was needed](https://www.congress.gov/115/crpt/hrpt876/CRPT-115hrpt876.pdf) since Rep. Jayapal had paid a $50 fine and charges were dropped.
-    allegation: crowding, obstructing, or incommoding, during a protest inside a Senate Office Building in Washington, D.C.
-    consequences:
-    - date: 2018-06-25
-      body: House Committee on Ethics
-      action: concluded that no further investigation was needed since Rep. Jayapal had paid a $50 fine and charges were dropped.
-      link: https://www.congress.gov/115/crpt/hrpt876/CRPT-115hrpt876.pdf
-    tags: ethics resolved
+- person: 412730
+  name: Pramila Jayapal
+  text: On June 28, Rep. Jayapal was arrested for crowding, obstructing, or incommoding,
+    during a protest inside a Senate Office Building in Washington, D.C. The House
+    Committee on Ethics concluded that [no further investigation was needed](https://www.congress.gov/115/crpt/hrpt876/CRPT-115hrpt876.pdf)
+    since Rep. Jayapal had paid a $50 fine and charges were dropped.
+  allegation: crowding, obstructing, or incommoding, during a protest inside a Senate
+    Office Building in Washington, D.C.
+  consequences:
+  - date: 2018-06-25
+    body: House Committee on Ethics
+    action: concluded that no further investigation was needed since Rep. Jayapal
+      had paid a $50 fine and charges were dropped.
+    link: https://www.congress.gov/115/crpt/hrpt876/CRPT-115hrpt876.pdf
+  tags: ethics resolved
 - person: 412399
   name: David Schweikert
-  text: In 2018, Rep. Schweikert was accused of using or authorizing impermissable expenditures from his Members’ Representational Allowance and receiving improper campaign contributions. In June 2018, the House Committee on Ethics [established an Investigative Subcommittee](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-19).
-  allegation: using or authorizing impermissable expenditures from Representative Schweikert’s Members’ Representational Allowance and receiving improper campaign contributions
+  text: In 2018, Rep. Schweikert was accused of using or authorizing impermissable
+    expenditures from his Members’ Representational Allowance and receiving improper
+    campaign contributions. In June 2018, the House Committee on Ethics [established
+    an Investigative Subcommittee](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-19).
+  allegation: using or authorizing impermissable expenditures from Representative
+    Schweikert’s Members’ Representational Allowance and receiving improper campaign
+    contributions
   consequences:
   - date: 2018-06-28
     body: House Committee on Ethics
     action: established an Investigative Subcommittee.
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-19
-  tags: elections corruption unresolved
+  tags: corruption elections unresolved
 - person: 412397
   name: Paul Gosar
   text: In February 2018, a resolution to reprimand Rep. Gosar for attempting to pressure
