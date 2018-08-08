@@ -314,10 +314,10 @@
 - person: 412563
   name: Chris Collins
   text: In 2017 Collins was investigated for sharing material nonpublic information
-    in the purchase of Innate stock, may have used his status to purchase discounted
-    stock and in 2013 may have directed an NIH employee to meet with Innate staff
+    in the purchase of Innate stock, using his status to purchase discounted
+    stock and in 2013 directing an NIH employee to meet with Innate staff
     to discuss a clinical trial. The House Committee on Ethics recommended further
-    review.
+    review. On Aug. 8, 2018, Collins was [arrested and indicted on charges of insider trading of Innate stock](https://www.businessinsider.com/chris-collins-arrested-insider-trading-charges-2018-8) by the FBI.
   allegation: sharing material nonpublic information in the purchase of Innate stock,
     using his status to purchase discounted stock and directing an NIH employee to
     meet with Innate staff to discuss a clinical trial
@@ -335,6 +335,10 @@
     action: published the Office of Congressional Ethics Report and Findings and Rep.
       Collins's response.
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-3
+  - date: 2018-08-08
+    body: Federal Bureau of Investigation (FBI)
+    action: arrested and indicted on charges of insider trading of Innate stock
+    link: https://www.businessinsider.com/chris-collins-arrested-insider-trading-charges-2018-8
   tags: ethics unresolved
 - person: 400163
   name: Luis V. Gutiérrez
