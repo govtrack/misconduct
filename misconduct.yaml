@@ -313,7 +313,7 @@
   tags: corruption resolved
 - person: 412563
   name: Chris Collins
-  text: On Aug. 8, 2018, Collins was [arrested and indicted on charges of insider
+  text: On Aug. 11, 2018, Collins announced he [would not run for re-election](https://www.nytimes.com/2018/08/11/nyregion/chris-collins-new-york.html). On Aug. 8, 2018, Collins was [arrested and indicted on charges of insider
     trading of Innate stock](https://www.businessinsider.com/chris-collins-arrested-insider-trading-charges-2018-8)
     by the FBI. He had been under investigation by the House Office of Congressional
     Ethics since 2017 for sharing material nonpublic information in the purchase of
@@ -340,6 +340,13 @@
     body: Federal Bureau of Investigation (FBI)
     action: arrested and indicted on charges of insider trading of Innate stock
     link: https://www.businessinsider.com/chris-collins-arrested-insider-trading-charges-2018-8
+  - date: 2018-08-08
+    body: House of Representatives
+    action: removed Collins from the House Energy & Commerce Committee after he offered his resignation from the committee
+    link: https://medium.com/demand-progress/what-does-rep-collins-exit-say-about-the-speaker-s-power-to-police-member-behavior-f5d9ab3c1a3c
+  - date: 2018-08-11
+    text: Collins announced he would not run for re-election
+    link: https://www.nytimes.com/2018/08/11/nyregion/chris-collins-new-york.html
   tags: ethics unresolved
 - person: 400163
   name: Luis V. Gutiérrez
