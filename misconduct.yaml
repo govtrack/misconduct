@@ -1318,8 +1318,8 @@
   name: Markwayne Mullin
   text: In 2013 Mullin was investigated for receiving excess outside earned income,
     endorsing companies or products as part of outside employment and serving as a
-    board member or officer for outside companies. As of 2018, the House Committee
-    on Ethics [has yet to conclude its review](https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf).
+    board member or officer for outside companies. In August 2018, the Committee reported that Rep. Mullin was already consulting with the House Committee on Ethics about how to handle his relationship to his family's businesses (aka the outside companies) when the Office of Congressional Ethics began a separate investigation. So, the Committee decided that Rep. Mullins had been making a good faith effort to be in compliance with House rules. The House Committee
+    on Ethics [thus concluded that hat apart from rectifying a $40,000 accounting error, no further action was warranted](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-21). 
   allegation: receiving excess outside earned income, endorsing companies or products
     as part of outside employment and serving as a board member or officer for outside
     companies
@@ -1341,7 +1341,11 @@
     body: House Committee on Ethics
     action: reported that the review would continue into the next Congress.
     link: https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf
-  tags: ethics unresolved
+  - date: 2018-08-10
+    body: House Committee on Ethics
+    action: concluded that because Rep. Mullin was already consulting with the House Committee on Ethics about how to handle his relationship to his family's businesses when the Office of Congressional Ethics began a separate investigation, the House Committee on Ethics concluded that Rep. Mullins was making a good faith effort to be in compliance with House rules and that apart from rectifying a $40,000 accounting error, no further action was warranted.
+    link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-21
+  tags: ethics resolved
 - person: 400008
   name: Robert E. Andrews
   text: In 2013 Andrews was investigated for improper use of campaign funds for personal
