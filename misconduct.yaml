@@ -313,8 +313,9 @@
   tags: corruption resolved
 - person: 412563
   name: Chris Collins
-  text: On Aug. 11, 2018, Collins announced he [would not run for re-election](https://www.nytimes.com/2018/08/11/nyregion/chris-collins-new-york.html). On Aug. 8, 2018, Collins was [arrested and indicted on charges of insider
-    trading of Innate stock](https://www.businessinsider.com/chris-collins-arrested-insider-trading-charges-2018-8)
+  text: On Aug. 11, 2018, Collins announced he [would not run for re-election](https://www.nytimes.com/2018/08/11/nyregion/chris-collins-new-york.html).
+    On Aug. 8, 2018, Collins was [arrested and indicted on charges of insider trading
+    of Innate stock](https://www.businessinsider.com/chris-collins-arrested-insider-trading-charges-2018-8)
     by the FBI. He had been under investigation by the House Office of Congressional
     Ethics since 2017 for sharing material nonpublic information in the purchase of
     Innate stock, using his status to purchase discounted stock, and in 2013 directing
@@ -342,10 +343,11 @@
     link: https://www.businessinsider.com/chris-collins-arrested-insider-trading-charges-2018-8
   - date: 2018-08-08
     body: House of Representatives
-    action: removed Collins from the House Energy & Commerce Committee after he offered his resignation from the committee
+    action: removed Collins from the House Energy & Commerce Committee after he offered
+      his resignation from the committee
     link: https://medium.com/demand-progress/what-does-rep-collins-exit-say-about-the-speaker-s-power-to-police-member-behavior-f5d9ab3c1a3c
   - date: 2018-08-11
-    text: Collins announced he would not run for re-election
+    text: Collins announced he would not run for re-election.
     link: https://www.nytimes.com/2018/08/11/nyregion/chris-collins-new-york.html
   tags: ethics unresolved
 - person: 400163
@@ -1325,8 +1327,12 @@
   name: Markwayne Mullin
   text: In 2013 Mullin was investigated for receiving excess outside earned income,
     endorsing companies or products as part of outside employment and serving as a
-    board member or officer for outside companies. In August 2018, the Committee reported that Rep. Mullin was already consulting with the House Committee on Ethics about how to handle his relationship to his family's businesses (aka the outside companies) when the Office of Congressional Ethics began a separate investigation. So, the Committee decided that Rep. Mullins had been making a good faith effort to be in compliance with House rules. The House Committee
-    on Ethics [thus concluded that hat apart from rectifying a $40,000 accounting error, no further action was warranted](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-21). 
+    board member or officer of outside companies --- his family's businesses. Because
+    Mullin was already consulting with the House Committee on Ethics about how to
+    handle his relationship with his family's businesses when the Office of Congressional
+    Ethics began its investigation, the House Committee on Ethics concluded that Mullin
+    had been making a good faith effort to be compliant with House rules and [that
+    apart from rectifying a $40,000 accounting error, no further action was warranted](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-21).
   allegation: receiving excess outside earned income, endorsing companies or products
     as part of outside employment and serving as a board member or officer for outside
     companies
@@ -1350,7 +1356,12 @@
     link: https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf
   - date: 2018-08-10
     body: House Committee on Ethics
-    action: concluded that because Rep. Mullin was already consulting with the House Committee on Ethics about how to handle his relationship to his family's businesses when the Office of Congressional Ethics began a separate investigation, the House Committee on Ethics concluded that Rep. Mullins was making a good faith effort to be in compliance with House rules and that apart from rectifying a $40,000 accounting error, no further action was warranted.
+    action: concluded that because Rep. Mullin was already consulting with the House
+      Committee on Ethics about how to handle his relationship to his family's businesses
+      when the Office of Congressional Ethics began a separate investigation, the
+      House Committee on Ethics concluded that Rep. Mullins was making a good faith
+      effort to be in compliance with House rules and that apart from rectifying a
+      $40,000 accounting error, no further action was warranted.
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-21
   tags: ethics resolved
 - person: 400008
