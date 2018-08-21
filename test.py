@@ -73,7 +73,7 @@ for incident in misconduct:
 			pass # good, a full date or a year
 		elif not isinstance(cons.get("date"), (int, str)):
 			error(incident, cons, "Consequence is missing or has an invalid date.")
-		elif not re.match(r"(\d\d\d\d)(-(\d\d)(-(\d\d))?)?", str(cons["date"])):
+		elif not re.match(r"(\d\d\d\d)(-(\d\d)(-(\d\d))?)?$", str(cons["date"])):
 			error(incident, cons, "Consequence has an invalid date.")
 
 		if "body" not in cons and "text" not in cons:
