@@ -494,7 +494,7 @@
   name: Duncan Hunter
   text: In 2016 Hunter was investigated for converting funds from his congressional
     campaign committee for personal use. The House Committee on Ethics [deferred to
-    the Department of Justice](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative).
+    the Department of Justice](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative). In Aug. 2018, Hunter was [indicted](https://www.washingtonpost.com/world/national-security/congressman-duncan-hunter-wife-charged-with-spending-campaign-money-on-personal-expenses/2018/08/21/) on charges of converting campaign funds to personal use.
   allegation: converting funds from his congressional campaign committee for personal
     use
   consequences:
@@ -510,6 +510,10 @@
     body: House Committee on Ethics
     action: deferred to the Department of Justice
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-16
+  - date: 2018-08=21
+    body: Federal Bureau of Investigations
+    action: indicted Hunter and his wife for converting campaign funds to personal use.
+    link: https://www.washingtonpost.com/world/national-security/congressman-duncan-hunter-wife-charged-with-spending-campaign-money-on-personal-expenses/2018/08/21/
   tags: crime elections unresolved
 - person: 400169
   name: Dennis “Denny” Hastert
