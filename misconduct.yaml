@@ -319,7 +319,7 @@
     by the FBI. He had been under investigation by the House Office of Congressional
     Ethics since 2017 for sharing material nonpublic information in the purchase of
     Innate stock, using his status to purchase discounted stock, and in 2013 directing
-    an NIH employee to meet with Innate staff to discuss a clinical trial.
+    an NIH employee to meet with Innate staff to discuss a clinical trial. In Sept. 2018, the House Ethics Committee [deferred further investigation](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-22) to the Department of Justice.
   allegation: sharing material nonpublic information in the purchase of Innate stock,
     using his status to purchase discounted stock and directing an NIH employee to
     meet with Innate staff to discuss a clinical trial
@@ -349,6 +349,10 @@
   - date: 2018-08-11
     text: Collins announced he would not run for re-election.
     link: https://www.nytimes.com/2018/08/11/nyregion/chris-collins-new-york.html
+  - date: 2018-09-06
+    body: House Committee on Ethics
+    action: established an Investigative Subcommittee and simultaneously deferred further investigation to the Department of Justice.
+    link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-22
   tags: ethics unresolved
 - person: 400163
   name: Luis V. Gutiérrez
@@ -496,7 +500,7 @@
     campaign committee for personal use. The House Committee on Ethics [deferred to
     the Department of Justice](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative).
     In Aug. 2018, Hunter was [indicted](https://www.washingtonpost.com/world/national-security/congressman-duncan-hunter-wife-charged-with-spending-campaign-money-on-personal-expenses/2018/08/21/)
-    on charges of converting campaign funds to personal use.
+    on charges of converting campaign funds to personal use. In Sept. 2018, the House Ethics Committee [deferred further investigation](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-23) to the Department of Justice.
   allegation: converting funds from his congressional campaign committee for personal
     use
   consequences:
@@ -517,7 +521,11 @@
     action: indicted Hunter and his wife for converting campaign funds to personal
       use.
     link: https://www.washingtonpost.com/world/national-security/congressman-duncan-hunter-wife-charged-with-spending-campaign-money-on-personal-expenses/2018/08/21/
-  tags: crime elections unresolved
+  - date: 2018-0-9-06
+    body: House Committee on Ethics
+    action: established an Investigative Subcommittee and simultaneously deferred further investigation to the Department of Justice
+    link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-23
+tags: crime elections unresolved
 - person: 400169
   name: Dennis “Denny” Hastert
   text: In 2016 Hastert pleaded guilty to child molestation, 10 years after leaving
