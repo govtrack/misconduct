@@ -3535,8 +3535,8 @@
   name: Alan Cranston
   text: In 1989, Sen. Cranston (along with Sens. DeConcini, Glenn, McCain and Riegle)
     was accused of improperly intervening with federal banking regulators on behalf
-    of Charles Keating, Jr. and his savings and loan business. Because Mr. Keating's
-    campaign contributions came so close in time to Sen. Cranston's actions, he was
+    of Charles Keating, Jr. and his savings and loan business. Because Keating's
+    campaign contributions came so close in time to Cranston's actions, he was
     [reprimanded by the Senate Select Committee on Ethics in front of the full Senate](https://alamedamgr.files.wordpress.com/2018/04/cq-almanac-online-edition-keating-five.pdf).
     An odd aspect of Cranston's "punishment" was that he was allowed to rebut his
     reprimand on the floor of the Senate. To his colleagues' displeasure, he declared
@@ -3556,7 +3556,7 @@
       Comm. on Ethics, Investigation of Sen. Alan Cranston, S. Rep. 102-223, 102d
       Cong., 1st Sess. (1991))
   - date: 1992
-    text: did not run for re-election
+    text: Did not run for re-election.
     link: https://en.wikipedia.org/wiki/Keating_Five#Aftermath
   tags: ethics resolved
 - person: 403346
@@ -3576,7 +3576,7 @@
       (Senate Select Comm. on Ethics, Investigation of Sen. Alan Cranston, S. Rep.
       102-223, 102d Cong., 1st Sess. (1991))
   - date: 1994
-    text: DeConcini did not seek re-election
+    text: DeConcini did not seek re-election.
   tags: ethics resolved
 - person: 409225
   name: Donald Riegle, Jr.
@@ -3595,7 +3595,7 @@
       Select Comm. on Ethics, Investigation of Sen. Alan Cranston, S. Rep. 102-223,
       102d Cong., 1st Sess. (1991))
   - date: 1994
-    text: Riegle did not seek re-election
+    text: Riegle did not seek re-election.
   tags: ethics resolved
 - person: 404598
   name: John Glenn
