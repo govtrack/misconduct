@@ -313,13 +313,13 @@
   tags: corruption resolved
 - person: 412563
   name: Chris Collins
-  text: On Aug. 8, 2018, Collins was [arrested and indicted on charges of insider trading
-    of Innate stock](https://www.businessinsider.com/chris-collins-arrested-insider-trading-charges-2018-8)
+  text: On Aug. 8, 2018, Collins was [arrested and indicted on charges of insider
+    trading of Innate stock](https://www.businessinsider.com/chris-collins-arrested-insider-trading-charges-2018-8)
     by the FBI. He had been under investigation by the House Office of Congressional
     Ethics since 2017 for sharing material nonpublic information in the purchase of
     Innate stock, using his status to purchase discounted stock, and in 2013 directing
-    an NIH employee to meet with Innate staff to discuss a clinical trial. He did not seek
-    reelection.
+    an NIH employee to meet with Innate staff to discuss a clinical trial. He did
+    not seek reelection.
   allegation: sharing material nonpublic information in the purchase of Innate stock,
     using his status to purchase discounted stock and directing an NIH employee to
     meet with Innate staff to discuss a clinical trial
@@ -3533,59 +3533,103 @@
   tags: ethics resolved
 - person: 402990
   name: Alan Cranston
-  text: In 1989, Sen. Cranston (along with Sens. DeConcini, Glenn, McCain and Riegle) was accused of improperly intervening with federal banking regulators on behalf of Charles Keating, Jr. and his savings and loan business. Because Mr. Keating's campaign contributions came so close in time to Sen. Cranston's actions, he was [reprimanded by the Senate Select Committee on Ethics in front of the full Senate](https://alamedamgr.files.wordpress.com/2018/04/cq-almanac-online-edition-keating-five.pdf). An odd aspect of Cranston's "punishment" was that he was allowed to rebut his reprimand on the floor of the Senate. To his colleagues' displeasure, he declared that [if he was guilty of wrongdoing, then so was the entire Senate](https://alamedamgr.files.wordpress.com/2018/04/cq-almanac-online-edition-keating-five.pdf). He did not run for re-election in 1992.
-  allegation: improperly intervening on behalf of Charles Keating, Jr. and his savings and loan business
+  text: In 1989, Sen. Cranston (along with Sens. DeConcini, Glenn, McCain and Riegle)
+    was accused of improperly intervening with federal banking regulators on behalf
+    of Charles Keating, Jr. and his savings and loan business. Because Mr. Keating's
+    campaign contributions came so close in time to Sen. Cranston's actions, he was
+    [reprimanded by the Senate Select Committee on Ethics in front of the full Senate](https://alamedamgr.files.wordpress.com/2018/04/cq-almanac-online-edition-keating-five.pdf).
+    An odd aspect of Cranston's "punishment" was that he was allowed to rebut his
+    reprimand on the floor of the Senate. To his colleagues' displeasure, he declared
+    that [if he was guilty of wrongdoing, then so was the entire Senate](https://alamedamgr.files.wordpress.com/2018/04/cq-almanac-online-edition-keating-five.pdf).
+    He did not run for re-election in 1992.
+  allegation: improperly intervening on behalf of Charles Keating, Jr. and his savings
+    and loan business
   consequences:
   - date: 1991
     body: Senate Select Committee on Ethics
-    action: issued a reprimand on behalf of and in front of the full U.S. Senate, but no formal action was taken by the full Senate
+    action: issued a reprimand on behalf of and in front of the full U.S. Senate,
+      but no formal action was taken by the full Senate
     link: https://alamedamgr.files.wordpress.com/2018/04/cq-almanac-online-edition-keating-five.pdf
   - date: 1991-11-20
     body: Senate Select Committee on Ethics
-    action: published a report on the investigation of Sen. Cranston (Senate Select Comm. on Ethics, Investigation of Sen. Alan Cranston, S. Rep. 102-223, 102d Cong., 1st Sess. (1991))
+    action: published a report on the investigation of Sen. Cranston (Senate Select
+      Comm. on Ethics, Investigation of Sen. Alan Cranston, S. Rep. 102-223, 102d
+      Cong., 1st Sess. (1991))
   - date: 1992
     text: did not run for re-election
     link: https://en.wikipedia.org/wiki/Keating_Five#Aftermath
   tags: ethics resolved
 - person: 403346
   name: Dennis DeConcini
-  text: In 1989, Sen. DeConcini was accused of improperly intervening with federal banking regulators on behalf of Charles Keating, Jr. and his savings and loan business. The Senate Select Committee on Ethics published a report in which DeConcini was criticized for giving the appearance of impropriety, but not punished because he had not violated any Senate rules.
-  allegation: improperly intervening on behalf of Charles Keating, Jr. and his savings and loan business
+  text: In 1989, Sen. DeConcini was accused of improperly intervening with federal
+    banking regulators on behalf of Charles Keating, Jr. and his savings and loan
+    business. The Senate Select Committee on Ethics published a report in which DeConcini
+    was criticized for giving the appearance of impropriety, but not punished because
+    he had not violated any Senate rules.
+  allegation: improperly intervening on behalf of Charles Keating, Jr. and his savings
+    and loan business
   consequences:
   - date: 1991-11-20
     body: Senate Select Committee on Ethics
-    action: published a report in which DeConcini was critized for giving the appearance of impropriety, but not punished because he had not violated any Senate rules (Senate Select Comm. on Ethics, Investigation of Sen. Alan Cranston, S. Rep. 102-223, 102d Cong., 1st Sess. (1991))
+    action: published a report in which DeConcini was critized for giving the appearance
+      of impropriety, but not punished because he had not violated any Senate rules
+      (Senate Select Comm. on Ethics, Investigation of Sen. Alan Cranston, S. Rep.
+      102-223, 102d Cong., 1st Sess. (1991))
   - date: 1994
     text: DeConcini did not seek re-election
   tags: ethics resolved
 - person: 409225
   name: Donald Riegle, Jr.
-  text: In 1989, Sen. Riegle was accused of improperly intervening with federal banking regulators on behalf of Charles Keating, Jr. and his savings and loan business. The Senate Select Committee on Ethics published a report in which Riegle was criticized for giving the appearance of impropriety, but not punished because he had not violated any Senate rules.
-  allegation: improperly intervening on behalf of Charles Keating, Jr. and his savings and loan business
+  text: In 1989, Sen. Riegle was accused of improperly intervening with federal banking
+    regulators on behalf of Charles Keating, Jr. and his savings and loan business.
+    The Senate Select Committee on Ethics published a report in which Riegle was criticized
+    for giving the appearance of impropriety, but not punished because he had not
+    violated any Senate rules.
+  allegation: improperly intervening on behalf of Charles Keating, Jr. and his savings
+    and loan business
   consequences:
   - date: 1991-11-20
     body: Senate Select Committee on Ethics
-    action: published a report in which Riegle was critized for giving the appearance of impropriety, but not punished because he had not violated any Senate rules  (Senate Select Comm. on Ethics, Investigation of Sen. Alan Cranston, S. Rep. 102-223, 102d Cong., 1st Sess. (1991))
+    action: published a report in which Riegle was critized for giving the appearance
+      of impropriety, but not punished because he had not violated any Senate rules  (Senate
+      Select Comm. on Ethics, Investigation of Sen. Alan Cranston, S. Rep. 102-223,
+      102d Cong., 1st Sess. (1991))
   - date: 1994
     text: Riegle did not seek re-election
   tags: ethics resolved
 - person: 404598
   name: John Glenn
-  text: In 1989, Sen. Glenn was accused of improperly intervening with federal banking regulators on behalf of Charles Keating, Jr. and his savings and loan business. In 1991, the Senate Select Committee on Ethics published a report in which charges were dismissed.
-  allegation: improperly intervening on behalf of Charles Keating, Jr. and his savings and loan business
+  text: In 1989, Sen. Glenn was accused of improperly intervening with federal banking
+    regulators on behalf of Charles Keating, Jr. and his savings and loan business.
+    In 1991, the Senate Select Committee on Ethics published a report in which charges
+    were dismissed.
+  allegation: improperly intervening on behalf of Charles Keating, Jr. and his savings
+    and loan business
   consequences:
   - date: 1991-11-20
     body: Senate Select Committee on Ethics
-    action: published a report in which charges were dismissed (Senate Select Comm. on Ethics, Investigation of Sen. Alan Cranston, S. Rep. 102-223, 102d Cong., 1st Sess. (1991))
+    action: published a report in which charges were dismissed (Senate Select Comm.
+      on Ethics, Investigation of Sen. Alan Cranston, S. Rep. 102-223, 102d Cong.,
+      1st Sess. (1991))
   tags: ethics resolved
 - person: 300071
   name: John McCain
-  text: In 1989, Sen. McCain was accused of improperly intervening with federal banking regulators on behalf of Charles Keating, Jr. and his savings and loan business. In 1991, the Senate Select Committee on Ethics published a report in which charges were dismissed even though they did indicate that McCain had demonstrated poor judgement in attending a meeting with federal regulators on Keating's behalf. McCain remained in the Senate until his death in 2018. In the intervening years, he [testified against Keating (the only one of the five to do so)](https://en.wikipedia.org/wiki/Keating_Five#Aftermath) in a civil trial and became an [advocate of campaign finance reform](https://www.politifact.com/truth-o-meter/article/2018/aug/31/sen-john-mccain-fought-clean-money-politics-are-we/).
-  allegation: improperly intervening on behalf of Charles Keating, Jr. and his savings and loan business
+  text: In 1989, Sen. McCain was accused of improperly intervening with federal banking
+    regulators on behalf of Charles Keating, Jr. and his savings and loan business.
+    In 1991, the Senate Select Committee on Ethics published a report in which charges
+    were dismissed even though they did indicate that McCain had demonstrated poor
+    judgement in attending a meeting with federal regulators on Keating's behalf.
+    McCain remained in the Senate until his death in 2018. In the intervening years,
+    he [testified against Keating (the only one of the five to do so)](https://en.wikipedia.org/wiki/Keating_Five#Aftermath)
+    in a civil trial and became an [advocate of campaign finance reform](https://www.politifact.com/truth-o-meter/article/2018/aug/31/sen-john-mccain-fought-clean-money-politics-are-we/).
+  allegation: improperly intervening on behalf of Charles Keating, Jr. and his savings
+    and loan business
   consequences:
   - date: 1991-11-20
     body: Senate Select Committee on Ethics
-    action: published a report in which charges were dismissed (Senate Select Comm. on Ethics, Investigation of Sen. Alan Cranston, S. Rep. 102-223, 102d Cong., 1st Sess. (1991))
+    action: published a report in which charges were dismissed (Senate Select Comm.
+      on Ethics, Investigation of Sen. Alan Cranston, S. Rep. 102-223, 102d Cong.,
+      1st Sess. (1991))
   tags: ethics resolved
 - person: 406995
   name: Lukens
