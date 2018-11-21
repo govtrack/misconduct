@@ -129,8 +129,13 @@
 - person: 412716
   name: Ruben Kihuen
   text: On Dec. 15, 2017, the House Committee on Ethics announced that it had begun
-    an investigation into allegations of sexual harassment by Kihuen. On November 16, 2018, the Committee the Committee found that Representative
-Kihuen made persistent and unwanted advances towards women who were required to interact with him as part of their professional responsibilities. As a result, the Committee voted to adopt the Investigative Subcommittee's report, which along with the Committee's report [will serve as a reproval](https://ethics.house.gov/sites/ethics.house.gov/files/Kihuen%20Com%20Report%20with%20Sigs.pdf) of Kihuen.
+    an investigation into allegations of sexual harassment by Kihuen. On November
+    16, 2018, the Committee the Committee found that Representative Kihuen made persistent
+    and unwanted advances towards women who were required to interact with him as
+    part of their professional responsibilities. As a result, the Committee voted
+    to adopt the Investigative Subcommittee's report, which along with the Committee's
+    report [will serve as a reproval](https://ethics.house.gov/sites/ethics.house.gov/files/Kihuen%20Com%20Report%20with%20Sigs.pdf)
+    of Kihuen.
   allegation: sexual harassment
   consequences:
   - date: 2017-12-15
@@ -150,9 +155,10 @@ Kihuen made persistent and unwanted advances towards women who were required to 
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-11
   - date: 2018-11-15
     body: House Committee on Ethics
-    action: voted to adopt the Investigative Subcommittee's report, which along with the Committee's report will serve as a reproval of Kihuen.
+    action: voted to adopt the Investigative Subcommittee's report, which along with
+      the Committee's report will serve as a reproval of Kihuen.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Kihuen%20Com%20Report%20with%20Sigs.pdf
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 400163
   name: Luis V. Gutiérrez
   text: In 2017 Gutiérrez was investigated for having been arrested during a December
@@ -657,7 +663,14 @@ Kihuen made persistent and unwanted advances towards women who were required to 
   name: Mark Meadows
   text: In 2016 Meadows was investigated for retaining an employee through 2015 who
     did not perform duties after 2014 commensurate with the compensation the employee
-    received. This employee, Mr. West, had been demoted after Meadows learned of West's sexual harassment of other Meadows' staff. Meadows commissioned his own investigation and ignored the recommendation to fire West. Further, Meadows did not seek guidance on whether continuing to pay West was in accordance with House Rules and his separatist approach to keeping West on staff, but away from women staff was effectively discriminatory since it precluded their access to to Meadows. For these reasons, the Committee [unanimously voted to reprove Meadows and to require him to repay West's excess two month's salary of $40,625.02](https://ethics.house.gov/sites/ethics.house.gov/files/Meadows%20Report%20FINAL%20with%20sigs.pdf).
+    received. This employee, Mr. West, had been demoted after Meadows learned of West's
+    sexual harassment of other Meadows' staff. Meadows commissioned his own investigation
+    and ignored the recommendation to fire West. Further, Meadows did not seek guidance
+    on whether continuing to pay West was in accordance with House Rules and his separatist
+    approach to keeping West on staff, but away from women staff was effectively discriminatory
+    since it precluded their access to to Meadows. For these reasons, the Committee
+    [unanimously voted to reprove Meadows and to require him to repay West's excess
+    two month's salary of $40,625.02](https://ethics.house.gov/sites/ethics.house.gov/files/Meadows%20Report%20FINAL%20with%20sigs.pdf).
   allegation: retaining an employee through 2015 who did not perform duties after
     2014 commensurate with the compensation the employee received
   consequences:
@@ -672,9 +685,12 @@ Kihuen made persistent and unwanted advances towards women who were required to 
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-mark-0
   - date: 2018-11-16
     body: House Committee on Ethics
-    action: the Committee unanimously voted to issue this Report, which will serve as a reproval of Representative Meadows’ conduct, and to require Representative Meadows to reimburse the U.S. Treasury for the overpayment of Mr. West, in the amount of $40,625.02.
+    action: the Committee unanimously voted to issue this Report, which will serve
+      as a reproval of Representative Meadows’ conduct, and to require Representative
+      Meadows to reimburse the U.S. Treasury for the overpayment of Mr. West, in the
+      amount of $40,625.02.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Meadows%20Report%20FINAL%20with%20sigs.pdf
-  tags: ethics sexual-harassment-abuse resolved
+  tags: ethics resolved sexual-harassment-abuse
 - person: 400431
   name: Ed Whitfield
   text: In 2016 Whitfield received a letter of reproval for permitting his spouse
@@ -3543,9 +3559,9 @@ Kihuen made persistent and unwanted advances towards women who were required to 
   name: Alan Cranston
   text: In 1989, Sen. Cranston (along with Sens. DeConcini, Glenn, McCain and Riegle)
     was accused of improperly intervening with federal banking regulators on behalf
-    of Charles Keating, Jr. and his savings and loan business. Because Keating's
-    campaign contributions came so close in time to Cranston's actions, he was
-    [reprimanded by the Senate Select Committee on Ethics in front of the full Senate](https://alamedamgr.files.wordpress.com/2018/04/cq-almanac-online-edition-keating-five.pdf).
+    of Charles Keating, Jr. and his savings and loan business. Because Keating's campaign
+    contributions came so close in time to Cranston's actions, he was [reprimanded
+    by the Senate Select Committee on Ethics in front of the full Senate](https://alamedamgr.files.wordpress.com/2018/04/cq-almanac-online-edition-keating-five.pdf).
     An odd aspect of Cranston's "punishment" was that he was allowed to rebut his
     reprimand on the floor of the Senate. To his colleagues' displeasure, he declared
     that [if he was guilty of wrongdoing, then so was the entire Senate](https://alamedamgr.files.wordpress.com/2018/04/cq-almanac-online-edition-keating-five.pdf).
