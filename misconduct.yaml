@@ -1,6 +1,12 @@
 - person: 412729
   name: Thomas Garrett
-  text: In May 2018, Garrett [announced he is an alcoholic](https://www.washingtonpost.com/local/virginia-politics/rep-garrett-announces-he-is-an-alcoholic-and-will-not-seek-re-election/2018/05/28/40e8839a-62b2-11e8-99d2-0d678ec08c2f_story.html?noredirect=on&utm_term=.83dc5ec2e388) and that he would not run for re-election at the same time that allegations that he had been using Congressional staff to perform unofficial work and personal errands emerged. In September 2018, the Office of Congressional Ethics [referred the allegations](https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-thomas-garrett) to the House Committee on Ethics. In December 2018, the House Committee on Ethics announced it was [extending its investigation](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-26).
+  text: In May 2018, Garrett [announced he is an alcoholic](https://www.washingtonpost.com/local/virginia-politics/rep-garrett-announces-he-is-an-alcoholic-and-will-not-seek-re-election/2018/05/28/40e8839a-62b2-11e8-99d2-0d678ec08c2f_story.html?noredirect=on&utm_term=.83dc5ec2e388)
+    and that he would not run for re-election at the same time that allegations that
+    he had been using Congressional staff to perform unofficial work and personal
+    errands emerged. In September 2018, the Office of Congressional Ethics [referred
+    the allegations](https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-thomas-garrett)
+    to the House Committee on Ethics. In December 2018, the House Committee on Ethics
+    announced it was [extending its investigation](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-26).
   allegations: using Congressional staff to perform unofficial work and personal errands
   consequences:
   - date: 2018-05-28
@@ -8,26 +14,34 @@
     link: https://www.washingtonpost.com/local/virginia-politics/rep-garrett-announces-he-is-an-alcoholic-and-will-not-seek-re-election/2018/05/28/40e8839a-62b2-11e8-99d2-0d678ec08c2f_story.html?noredirect=on&utm_term=.83dc5ec2e388
   - date: 2018-09-05
     body: Office of Congressional Ethics
-    action: referred the allegations to the House Committee on Ethics for further investigation.
+    action: referred the allegations to the House Committee on Ethics for further
+      investigation.
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-thomas-garrett
   - date: 2018-12-04
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response.
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-26
-  tags: unresolved corruption
+  tags: corruption unresolved
 - person: 412462
   name: James Renacci
-  text: In April 2018, the Ohio Democratic Party [filed a complaint against Renacci with the Office of Congressional Ethics](https://www.dispatch.com/news/20180430/ohio-democrats-file-ethics-complaint-against-renacci) for misusing his congressional office for campaign purposes. In November 2018, Renacci lost the Senate election to Sherrod Brown and the House Committee on Ethics [extended its investigation of the allegations](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jim).
+  text: In April 2018, the Ohio Democratic Party [filed a complaint against Renacci
+    with the Office of Congressional Ethics](https://www.dispatch.com/news/20180430/ohio-democrats-file-ethics-complaint-against-renacci)
+    for misusing his congressional office for campaign purposes. In November 2018,
+    Renacci lost the Senate election to Sherrod Brown and the House Committee on Ethics
+    [extended its investigation of the allegations](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jim).
   allegation: misusing his congressional office for campaign purposes
   consequences:
   - date: 2018-08-09
     body: Office of Congressional Ethics
-    action: referred the allegations to the House Committee on Ethics for further investigation.
+    action: referred the allegations to the House Committee on Ethics for further
+      investigation.
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jim
   - date: 2018-11-06
-    text: Renacci lost the Senate election against Sherrod Brown and leaves Congress at the end of the 115th Congress.
+    text: Renacci lost the Senate election against Sherrod Brown and leaves Congress
+      at the end of the 115th Congress.
     link: https://www.vox.com/2018/11/6/18056138/senate-midterm-results-ohio-sherrod-brown-winner
-  tags: unresolved corruption elections
+  tags: corruption elections unresolved
 - person: 412730
   name: Pramila Jayapal
   text: On June 28, Rep. Jayapal was arrested for crowding, obstructing, or incommoding,
