@@ -63,7 +63,9 @@
     expenditures from his Members’ Representational Allowance and receiving improper
     campaign contributions. In June 2018, the House Committee on Ethics [established
     an Investigative Subcommittee (ISC)](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-19).
-    In December of 2018, the ISC [expanded its investigation](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-28) to include more instances of improper uses of funds and to add alleged failure to make financial disclosures.
+    In December of 2018, the ISC [expanded its investigation](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-28)
+    to include more instances of improper uses of funds and to add alleged failure
+    to make financial disclosures.
   allegation: using or authorizing impermissable expenditures from Representative
     Schweikert’s Members’ Representational Allowance and receiving improper campaign
     contributions; failure to provide financial disclosure information
@@ -74,7 +76,8 @@
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-19
   - date: 2018-12-20
     body: House Committee on Ethics Investigative Subcommittee
-    action: expanded the inquiry into more instances of improper uses of funds and to add allegations of failure to provide financial disclosures.
+    action: expanded the inquiry into more instances of improper uses of funds and
+      to add allegations of failure to provide financial disclosures.
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-28
   tags: corruption elections unresolved
 - person: 412397
@@ -96,12 +99,14 @@
     action: tabled resolution of reprimand, 231-187
     link: https://www.govtrack.us/congress/votes/115-2018/h53
   tags: ethics resolved
-- person: 412524 
-  name: Elizabeth Esty 
+- person: 412524
+  name: Elizabeth Esty
   text: In April of 2018, Rep. Esty announced she would not seek reelection after
     she admitted that she had [failed to address sexual harassment](https://www.nytimes.com/2018/04/02/us/politics/elizabeth-esty-wont-run-reelection.html)
     by one staffer against another in a timely manner. She said she had also asked
-    for a review of her office's actions by the House Committee on Ethics. In December of 2018, the House Committee on Ethics [found that Esty had broken no House rules](https://ethics.house.gov/sites/ethics.house.gov/files/Esty%20Report%20FINAL%20with%20Signatures.pdf) but that she could have handled the situation better.
+    for a review of her office's actions by the House Committee on Ethics. In December
+    of 2018, the House Committee on Ethics [found that Esty had broken no House rules](https://ethics.house.gov/sites/ethics.house.gov/files/Esty%20Report%20FINAL%20with%20Signatures.pdf)
+    but that she could have handled the situation better.
   allegation: failed to address sexual harassment by one staffer against another in
     a timely manner
   consequences:
@@ -110,9 +115,10 @@
     link: https://www.nytimes.com/2018/04/02/us/politics/elizabeth-esty-wont-run-reelection.html
   - date: 2018-12-20
     body: House Committee on Ethics
-    action: found that Esty had not acted quickly to remove the staffer as she should have, but that she did not break any rules.
+    action: found that Esty had not acted quickly to remove the staffer as she should
+      have, but that she did not break any rules.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Esty%20Report%20FINAL%20with%20Signatures.pdf
-  tags: sexual-harassment-abuse resolved
+  tags: resolved sexual-harassment-abuse
 - person: 400297
   name: Devin Nunes
   text: In 2018, the [Federal Elections Commission (FEC) announced it was investigating
