@@ -1,3 +1,22 @@
+- person: 412627
+  name: Rod Blum
+  text: In July 2018, the Office of Congressional Ethics [referred the allegations to the House Committee on Ethics for further investigation](https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-rod-blum). In December 2018, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-ro-0). In January 2019, the Committee ceased investigating as its juridiction ended with the 115th Congress.
+  allegation: omitting required information from financial disclosure reports; permitting the use of official House resources for a private business in which he had a financial interest and the use of unfair or deceptive trade practices
+  consequences:
+  - date: 2018-07-19
+    body: Office of Congressional Ethics
+    action: referred the allegations to the House Committee on Ethics for further investigation.
+    link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-rod-blum
+  - date: 2018-11-06
+    text: Blum lost the election.
+  - date: 2018-12-17
+    text: published the Office of Congressional Ethics Report and Findings and the member's response
+    link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-ro-0
+  - date: 2019-01-02
+    body: House Committee on Ethics
+    action: ceased investigating on January 3, 2019 because Blum lost his election and the committee's jurisdiction ended.
+    link: https://www.congress.gov/115/crpt/hrpt1125/CRPT-115hrpt1125.pdf
+  tags: resolved corruption
 - person: 412729
   name: Thomas Garrett
   text: In May 2018, Garrett [announced he is an alcoholic](https://www.washingtonpost.com/local/virginia-politics/rep-garrett-announces-he-is-an-alcoholic-and-will-not-seek-re-election/2018/05/28/40e8839a-62b2-11e8-99d2-0d678ec08c2f_story.html?noredirect=on&utm_term=.83dc5ec2e388)
@@ -6,7 +25,7 @@
     errands emerged. In September 2018, the Office of Congressional Ethics [referred
     the allegations](https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-thomas-garrett)
     to the House Committee on Ethics. In December 2018, the House Committee on Ethics
-    announced it was [extending its investigation](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-26).
+    announced it was [extending its investigation](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-26) The investigation ceased with the end of the 115th Congress as Garrett is no longer in Congress.
   allegation: using Congressional staff to perform unofficial work and personal errands
   consequences:
   - date: 2018-05-28
@@ -22,14 +41,18 @@
     action: published the Office of Congressional Ethics Report and Findings and the
       member's response.
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-26
-  tags: corruption unresolved
+  - date: 2019-01-02
+    body: House Committee on Ethics
+    action: ceased investigating because jurisdiction ended with the 115th Congress.
+    link: https://www.congress.gov/115/crpt/hrpt1125/CRPT-115hrpt1125.pdf
+  tags: corruption resolved
 - person: 412462
   name: James Renacci
   text: In April 2018, the Ohio Democratic Party [filed a complaint against Renacci
     with the Office of Congressional Ethics](https://www.dispatch.com/news/20180430/ohio-democrats-file-ethics-complaint-against-renacci)
     for misusing his congressional office for campaign purposes. In November 2018,
     Renacci lost the Senate election to Sherrod Brown and the House Committee on Ethics
-    [extended its investigation of the allegations](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jim).
+    [extended its investigation of the allegations](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jim). The Committee ceased investigating at the end of the 115th because they no longer had jurisdiction.
   allegation: misusing his congressional office for campaign purposes
   consequences:
   - date: 2018-08-09
@@ -41,7 +64,11 @@
     text: Renacci lost the Senate election against Sherrod Brown and leaves Congress
       at the end of the 115th Congress.
     link: https://www.vox.com/2018/11/6/18056138/senate-midterm-results-ohio-sherrod-brown-winner
-  tags: corruption elections unresolved
+  - date: 2019-01-02
+    body: House Committee on Ethics
+    action: ceased investigating with the end of the 115th Congress because they no longer had jurisdiction.
+    link: https://www.congress.gov/115/crpt/hrpt1125/CRPT-115hrpt1125.pdf
+  tags: corruption elections resolved
 - person: 412730
   name: Pramila Jayapal
   text: On June 28, Rep. Jayapal was arrested for crowding, obstructing, or incommoding,
@@ -150,7 +177,7 @@
   text: While serving on the House Committee on Ethics, Meehan used taxpayer funds
     to settle a 2017 sexual harassment complaint privately, heading off an investigation.
     He was subsequently removed from the House Committee on Ethics. In March 2018,
-    the House Committee on Ethics had established and [staffed an Investigative Subcommittee](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-14).
+    the House Committee on Ethics had established and [staffed an Investigative Subcommittee](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-14) When Meehan resigned in April 2018, the Committee ceased investigating because he was no longer within their jurisdiction.
   allegation: sexual harassment
   consequences:
   - date: 2018-01-20
@@ -165,14 +192,16 @@
     body: House Committee on Ethics
     action: has established and staffed the Investigative Subcommittee
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-14
-  tags: sexual-harassment-abuse unresolved
+  - date: 2018-04-27
+    text: Meehan resigned.
+  - date: 2019-01-02
+    body: House Committee on Ethics
+    action: ceased investigating in April because the Committee's jurisdiction ended with his resignation.
+    link: https://www.congress.gov/115/crpt/hrpt1125/CRPT-115hrpt1125.pdf
+  tags: sexual-harassment-abuse resolved
 - person: 400116
   name: John J. Duncan, Jr.
-  text: In 2017, the Office of Congressional Ethics recommended further review of
-    allegations against Rep. Duncan, Jr. for converting campaign funds to personal
-    use and accepting contributions from staff while reimbursing them for those contributions
-    from the campaign committee. In 2018, the House Committee on Ethics [published
-    the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jo-3).
+  text: In 2017, the Office of Congressional Ethics recommended further review of allegations against Rep. Duncan, Jr. for converting campaign funds to personal use and accepting contributions from staff while reimbursing them for those contributions from the campaign committee. In 2018, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jo-3). In January 2019, the Committee ceased investigating as its jurisdiction ended with the 115th Congress.
   allegation: converting campaign funds to personal use and accepting contributions
     from staff while reimbursing them for those contributions from the campaign committee
   consequences:
@@ -184,7 +213,13 @@
     action: published the Office of Congressional Ethics Report and Findings and the
       member's response.
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jo-3
-  tags: elections unresolved
+  - date: 2018-11-06
+    text: Duncan lost the election
+  - date: 2019-01-02
+    body: House Committee on Ethics
+    action: ceased investigation as jurisdiction ended with 115th Congress
+    link: https://www.congress.gov/115/crpt/hrpt1125/CRPT-115hrpt1125.pdf
+  tags: elections resolved
 - person: 412716
   name: Ruben Kihuen
   text: On Dec. 15, 2017, the House Committee on Ethics announced that it had begun
@@ -833,7 +868,7 @@
     a fiduciary business, a real estate investment firm known as Pittenger Land Investments,
     Inc. The House Committee on Ethics [deferred to the Department of Justice](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-robe-2).
     In May 2017, the [FBI closed the investigation](http://www.charlotteobserver.com/news/business/article148497229.html)
-    without making any charges.
+    without making any charges. The Committee ceased investigating with the end of the 115th Congress because Pittenger lost his election and they no longer had jurisdiction.
   allegation: compensation for his involvement with a fiduciary business, a real estate
     investment firm known as Pittenger Land Investments, Inc.
   consequences:
@@ -848,7 +883,13 @@
   - date: 2017-05
     text: The FBI closed the investigation without making any charges.
     link: http://www.charlotteobserver.com/news/business/article148497229.html
-  tags: ethics unresolved
+  - date: 2018-11-06
+    text: Pittenger lost the election
+  - date: 2019-01-02
+    body: House Committee on Ethics
+    action: ceased investigating with the end of the 115th Congress because they no longer had jurisdiction.
+    link: https://www.congress.gov/115/crpt/hrpt1125/CRPT-115hrpt1125.pdf
+  tags: ethics resolved
 - person: 412482
   name: Blake Farenthold
   text: In 2015 Farenthold was investigated for sexual harassment on the basis of
@@ -1403,7 +1444,7 @@
     for campaign activities, paying a consultant for official services with funds
     from political committees, and combining official resources and campaign resources
     in furtherance of a campaign for a House leadership office from 2010 to 2012.
-    As of 2018, the House Committee on Ethics [has yet to conclude its review](https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf).
+    As of 2019, the House Committee on Ethics [has yet to conclude its review](https://www.congress.gov/115/crpt/hrpt1125/CRPT-115hrpt1125.pdf).
   allegation: using official resources, including staff, for campaign activities;
     paying a consultant for official services with funds from political committees;
     combining official resources and campaign resources in furtherance of a campaign
@@ -1426,6 +1467,10 @@
     body: House Committee on Ethics
     action: reported that the review would continue into the next Congress.
     link: https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf
+  - date: 2019-01-02
+  body: House Committee on Ethics
+  action: reported that the review would continue into the next Congress.
+  link: https://www.congress.gov/115/crpt/hrpt1125/CRPT-115hrpt1125.pdf
   tags: elections ethics unresolved
 - person: 412568
   name: Markwayne Mullin
