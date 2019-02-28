@@ -18,8 +18,9 @@
   - date: 2018-11-06
     text: Blum lost the election.
   - date: 2018-12-17
-    text: published the Office of Congressional Ethics Report and Findings and the
-      member's response
+    body: Office of Congressional Ethics
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response.
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-ro-0
   - date: 2019-01-02
     body: House Committee on Ethics
@@ -238,7 +239,7 @@
       member's response.
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jo-3
   - date: 2018-11-06
-    text: Duncan lost the election
+    text: Duncan lost the election.
   - date: 2019-01-02
     body: House Committee on Ethics
     action: ceased investigation as jurisdiction ended with 115th Congress
@@ -910,7 +911,7 @@
     text: The FBI closed the investigation without making any charges.
     link: http://www.charlotteobserver.com/news/business/article148497229.html
   - date: 2018-11-06
-    text: Pittenger lost the election
+    text: Pittenger lost the election.
   - date: 2019-01-02
     body: House Committee on Ethics
     action: ceased investigating with the end of the 115th Congress because they no
@@ -1494,7 +1495,6 @@
     body: House Committee on Ethics
     action: reported that the review would continue into the next Congress.
     link: https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf
-  - date: 2019-01-02
   body: House Committee on Ethics
   action: reported that the review would continue into the next Congress.
   link: https://www.congress.gov/115/crpt/hrpt1125/CRPT-115hrpt1125.pdf
