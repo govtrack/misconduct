@@ -1,3 +1,13 @@
+- person: 400172
+  name: Robin Hayes
+  text: In 2019, Mr. Hayes, the Republican representative for NC-8 from 1999-2008 and current chair of the North Carolina Republican Party, was indicted on charges of bribery and conspiracy to commit honest services wire fraud, along with several counts of making false statements in an effort to bribe North Carolina's insurance commissioner.
+  allegation: bribery and conspiracy to commit honest services wire fraud, along with several counts of making false statements
+  consequences:
+  - date: 2019-04-02
+    body: Federal Bureau of Investigation
+    action: indicted Mr. Hayes
+    link: https://www.nytimes.com/2019/04/02/us/robin-hayes-nc-indictment.html
+  tags: corruption elections unresolved
 - person: 412627
   name: Rod Blum
   text: In 2018, Blum was accused of omitting required information from financial disclosure reports; permitting
