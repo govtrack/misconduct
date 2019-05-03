@@ -120,7 +120,7 @@
     an Investigative Subcommittee (ISC)](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-19).
     In December of 2018, the ISC [expanded its investigation](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-28)
     to include more instances of improper uses of funds and to add alleged failure
-    to make financial disclosures In April of 2019, the Committee on Ethics [published the Office of Congressional Ethics report](https://ethics.house.gov/sites/ethics.house.gov/files/Report%20-%20OCE%20Review%20No.%2017-4790.pdf) on Schweikert which states that "there is substantial reason to believe" the allegations are true.
+    to make financial disclosures In April of 2019, the Committee on Ethics [published the Office of Congressional Ethics report](https://ethics.house.gov/sites/ethics.house.gov/files/Report%20-%20OCE%20Review%20No.%2017-4790.pdf) on Schweikert which states that "there is substantial reason to believe" the allegations are true. In May 2019, the Committee [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-davi-1) an Investigative subcommittee for the 116th Congress.
   allegation: using or authorizing impermissable expenditures from Representative
     Schweikert’s Members’ Representational Allowance and receiving improper campaign
     contributions; failure to provide financial disclosure information
@@ -138,6 +138,10 @@
     body: House Committee on Ethics
     action: published the Office of Congressional Ethics report as required when the Investigative Subcommittee has not completed its work one year after its establishment.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Report%20-%20OCE%20Review%20No.%2017-4790.pdf
+  - date: 2019-05-03
+    body: House Committee on Ethics
+    action: reauthorized for the Investigative Subcommittee for the 116th Congress.
+    link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-davi-1
   tags: corruption elections unresolved
 - person: 412397
   name: Paul Gosar
@@ -465,8 +469,8 @@
     by the FBI. He had been under investigation by the House Office of Congressional
     Ethics since 2017 for sharing material nonpublic information in the purchase of
     Innate stock, using his status to purchase discounted stock, and in 2013 directing
-    an NIH employee to meet with Innate staff to discuss a clinical trial. He did
-    not seek reelection.
+    an NIH employee to meet with Innate staff to discuss a clinical trial. He briefly suspended his reelection campaign, then unsuspended it and kept his seat. In May 2019, the House Committee on Ethics [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-chris) an Investigative Subcommittee and simultaneously deferred
+      further investigation to the Department of Justice.
   allegation: sharing material nonpublic information in the purchase of Innate stock,
     using his status to purchase discounted stock and directing an NIH employee to
     meet with Innate staff to discuss a clinical trial
@@ -501,6 +505,17 @@
     action: established an Investigative Subcommittee and simultaneously deferred
       further investigation to the Department of Justice.
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-22
+  - date: 2018-09-18
+    text: Collins reversed his August decision and did run for reelection.
+    link: https://www.npr.org/2018/09/19/649653362/indicted-congressman-reverses-course-says-he-will-campaign-for-re-election
+  - date: 2018-11-06
+    text: Collins won reelection.
+    link: https://www.cnbc.com/2018/11/07/rep-chris-collins-charged-with-insider-trading-projected-to-win.html
+  - date: 2019-05-03
+    body: House Committee on Ethics
+    action: established an Investigative Subcommittee and simultaneously deferred
+      further investigation to the Department of Justice.
+    link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-chris
   tags: ethics unresolved
 - person: 400163
   name: Luis V. Gutiérrez
@@ -650,7 +665,8 @@
     In Aug. 2018, Hunter was [indicted](https://www.washingtonpost.com/world/national-security/congressman-duncan-hunter-wife-charged-with-spending-campaign-money-on-personal-expenses/2018/08/21/)
     on charges of converting campaign funds to personal use. In Sept. 2018, the House
     Ethics Committee [deferred further investigation](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-23)
-    to the Department of Justice.
+    to the Department of Justice. In May 2019, the Committee [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-0) an Investigative Subcommittee for the 116th Congress and simultaneously deferred
+      further investigation to the Department of Justice.
   allegation: converting funds from his congressional campaign committee for personal
     use
   consequences:
@@ -676,6 +692,11 @@
     action: established an Investigative Subcommittee and simultaneously deferred
       further investigation to the Department of Justice
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-23
+  - date: 2019-05-03
+    body: House Committee on Ethics
+    action: reauthorized for the Investigative Subcommittee for the 116th Congress and simultaneously deferred
+      further investigation to the Department of Justice
+    link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-0
   tags: crime elections unresolved
 - person: 400169
   name: Dennis “Denny” Hastert
