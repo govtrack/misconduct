@@ -679,8 +679,8 @@
     In Aug. 2018, Hunter was [indicted](https://www.washingtonpost.com/world/national-security/congressman-duncan-hunter-wife-charged-with-spending-campaign-money-on-personal-expenses/2018/08/21/)
     on charges of converting campaign funds to personal use. In Sept. 2018, the House
     Ethics Committee [deferred further investigation](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-23)
-    to the Department of Justice. In May 2019, the Committee [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-0) an Investigative Subcommittee for the 116th Congress and simultaneously deferred
-      further investigation to the Department of Justice.
+    to the Department of Justice. In November of 2018, Hunter was reelected despite the indictment and desptie a series of anti-Muslim ads run against his opponent. In May 2019, the Committee [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-0) an Investigative Subcommittee for the 116th Congress and simultaneously deferred
+      further investigation to the Department of Justice. In June 2019, Hunter's wife [pleaded guilty](https://www.buzzfeednews.com/article/juliareinstein/duncan-margaret-hunter-california-congressman-guilty-plea) and said that she and Hunter misused over $200,000 in campaign funds for personal purposes.
   allegation: converting funds from his congressional campaign committee for personal
     use
   consequences:
@@ -706,11 +706,17 @@
     action: established an Investigative Subcommittee and simultaneously deferred
       further investigation to the Department of Justice
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-23
+  - date: 2018-11-06
+    text: Hunter was reelected.
+    link: https://www.latimes.com/politics/la-na-pol-duncan-hunter-reelected-indicted-20181107-story.html
   - date: 2019-05-03
     body: House Committee on Ethics
     action: reauthorized for the Investigative Subcommittee for the 116th Congress and simultaneously deferred
       further investigation to the Department of Justice
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-0
+  - date: 2019-06-13
+    text: Hunter's wife changed her plea to guilty and said that she and Hunter misused over $200,000 in campaign funds for personal purposes.
+    link: https://www.buzzfeednews.com/article/juliareinstein/duncan-margaret-hunter-california-congressman-guilty-plea
   tags: crime elections unresolved
 - person: 400169
   name: Dennis “Denny” Hastert
