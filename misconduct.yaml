@@ -1,3 +1,21 @@
+- person: 400162
+  name: Raúl Grijalva
+  text: At an unspecified date during Rep. Grijalva's service in Congress, he was accused of creating a hostile work environment and being frequently drunk. The claims, always denied by Grijalva, were resolved with a severance payment in 2015 although none of this became public until 2017. According to news reports, Grijalva was cleared by the House Ethics Committee [letter](https://www.rollcall.com/news/politics/house-ethics-clears-rep-raul-grijalva-wrongdoing) in Dec 2018. Now, his case is apparently [being reviewed by the House Committee on Ethics](https://www.azcentral.com/story/news/politics/arizona/2019/06/14/rep-raul-grijalva-under-scrutiny-house-ethics-committee-over-workplace-allegations/1460308001/), although what for and why is unknown.
+  allegation: the representative created a hostile work environment and was frequently drunk
+  consequences:
+  - date: 2018-05-15
+    body: Office of Congressional Ethics
+    action: recommended further review by the House Committee on Ethics
+    link: https://www.rollcall.com/news/politics/house-ethics-clears-rep-raul-grijalva-wrongdoing
+  - date: 2018-12-14
+    body: House Committee on Ethics
+    action: dismissed complaint.
+    link: https://www.rollcall.com/news/politics/house-ethics-clears-rep-raul-grijalva-wrongdoing
+  - date: 2019-06-17
+    body: House Committee on Ethics
+    action: reviewing the same complaint.
+    link: https://www.azcentral.com/story/news/politics/arizona/2019/06/14/rep-raul-grijalva-under-scrutiny-house-ethics-committee-over-workplace-allegations/1460308001/
+  tags: ethics unresolved
 - person: 412690
   name: Matt Gaetz
   text: In February 2019, Gaetz posted a threatening tweet aimed at Michael Cohen, President Trump's former personal attorney the night before Cohen was scheduled to testify before the House Judiciary Committee regarding crimes for which Cohen had been found guilty and in which, according to federal prosecutors, the President participated. Gaetz was [referred to the Florida Bar for investigation](http://www.tampabay.com/florida-politics/buzz/2019/02/27/matt-gaetz-under-investigation-by-the-florida-bar-for-tweet-at-michael-cohen/) and possible discipline. In May 2019, the Florida Bar announced that they would [proceed to the next step of review](http://www.tampabay.com/florida-politics/buzz/2019/05/08/further-investigation-into-matt-gaetz-is-needed-for-tweet-at-michael-cohen-florida-bar-determines/) and not dismiss the complaint against him.
