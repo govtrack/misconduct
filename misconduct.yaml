@@ -18,7 +18,7 @@
   tags: ethics unresolved
 - person: 412690
   name: Matt Gaetz
-  text: In February 2019, Gaetz posted a threatening tweet aimed at Michael Cohen, President Trump's former personal attorney the night before Cohen was scheduled to testify before the House Judiciary Committee regarding crimes for which Cohen had been found guilty and in which, according to federal prosecutors, the President participated. Gaetz was [referred to the Florida Bar for investigation](http://www.tampabay.com/florida-politics/buzz/2019/02/27/matt-gaetz-under-investigation-by-the-florida-bar-for-tweet-at-michael-cohen/) and possible discipline. In May 2019, the Florida Bar announced that they would [proceed to the next step of review](http://www.tampabay.com/florida-politics/buzz/2019/05/08/further-investigation-into-matt-gaetz-is-needed-for-tweet-at-michael-cohen-florida-bar-determines/) and not dismiss the complaint against him.
+  text: In February 2019, Gaetz posted a threatening tweet aimed at Michael Cohen, President Trump's former personal attorney the night before Cohen was scheduled to testify before the House Judiciary Committee regarding crimes for which Cohen had been found guilty and in which, according to federal prosecutors, the President participated. Gaetz was [referred to the Florida Bar for investigation](http://www.tampabay.com/florida-politics/buzz/2019/02/27/matt-gaetz-under-investigation-by-the-florida-bar-for-tweet-at-michael-cohen/) and possible discipline. In May 2019, the Florida Bar announced that they would [proceed to the next step of review](http://www.tampabay.com/florida-politics/buzz/2019/05/08/further-investigation-into-matt-gaetz-is-needed-for-tweet-at-michael-cohen-florida-bar-determines/) and not dismiss the complaint against him. In March 2019, the Ethics Committee began a review of Gaetz's actions. Because of his [repeated refusals](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-matt) to respond to committee requests for interviews, an Investigative Subcommittee was established in June 2019.
   allegation: violating the Florida Supreme Court's rules for attorney by attempting to intimidate a witness scheduled to testify before the House Judiciary Committee.
   consequences:
   - date: 2019-02-27
@@ -29,6 +29,17 @@
     body: Florida Bar Association
     action: moved the investigation to the Grievance Committee to decide whether or not there is probable cause that Gaetz broke Florida Supreme Court rules for lawyers.
     link: http://www.tampabay.com/florida-politics/buzz/2019/05/08/further-investigation-into-matt-gaetz-is-needed-for-tweet-at-michael-cohen-florida-bar-determines/
+  - date: 2019-03-13
+    body: House Committee on Ethics
+    action: after receipt of a member complaint, the committee began a review of Gaetz's tweet.
+    link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-matt
+  - date: 2019-05-13
+    text: Gaetz refused to appear for an interview with the committee.
+    link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-matt
+  - date: 2019-06-28
+    body: House Committee on Ethics
+    action: on May 16 the Committee warned Gaetz that further non-compliance would result in an Investigative Subcommittee; he continued to refuse to appear for an interview and they established the Investigative Subcommittee in June.
+    link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-matt
   tags: ethics corruption unresolved
 - person: 400172
   name: Robin Hayes
