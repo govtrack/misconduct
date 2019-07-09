@@ -708,7 +708,7 @@
     In Aug. 2018, Hunter was [indicted](https://www.washingtonpost.com/world/national-security/congressman-duncan-hunter-wife-charged-with-spending-campaign-money-on-personal-expenses/2018/08/21/)
     on charges of converting campaign funds to personal use. In Sept. 2018, the House
     Ethics Committee [deferred further investigation](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-23)
-    to the Department of Justice. In November of 2018, Hunter was reelected despite the indictment and desptie a series of anti-Muslim ads run against his opponent. In May 2019, the Committee [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-0) an Investigative Subcommittee for the 116th Congress and simultaneously deferred
+    to the Department of Justice. In November of 2018, Hunter was reelected despite the indictment and despite a series of anti-Muslim ads run against his opponent. In May 2019, the Committee [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-0) an Investigative Subcommittee for the 116th Congress and simultaneously deferred
       further investigation to the Department of Justice. In June 2019, Hunter's wife [pleaded guilty](https://www.buzzfeednews.com/article/juliareinstein/duncan-margaret-hunter-california-congressman-guilty-plea) and said that she and Hunter misused over $200,000 in campaign funds for personal purposes.
   allegation: converting funds from his congressional campaign committee for personal
     use
@@ -1331,7 +1331,7 @@
   name: Thomas E. Petri
   text: In 2014 Petri was investigated for performing official work on behalf of companies
     in which he had a financial interest from 2008 to 2013. The House Committee on
-    Ethics [recommended no further action](https://www.congress.gov/113/crpt/hrpt666/CRPT-113hrpt666-pt1.pdf).
+    Ethics [recommended no further action](https://www.congress.gov/113/crpt/hrpt666/CRPT-113hrpt666.pdf).
     Petri announced in November 2014 he would not seek reelection.
   allegation: performing official work on behalf of companies in which he had a financial
     interest from 2008 to 2013
@@ -1343,7 +1343,7 @@
   - date: 2014-12-11
     body: House Committee on Ethics
     action: recommended no further action
-    link: https://www.congress.gov/113/crpt/hrpt666/CRPT-113hrpt666-pt1.pdf
+    link: https://www.congress.gov/113/crpt/hrpt666/CRPT-113hrpt666.pdf
   - date: 2014-11
     text: Petri announced he would not seek reelection.
   tags: ethics resolved
@@ -1877,7 +1877,7 @@
   name: Maxine Waters
   text: In 2009 Waters was investigated for a conflict of interest with respect to
     meetings with a bank in which she had a financial interest. The House Committee
-    on Ethics [concluded that Representative Waters' chief of state was at fault for
+    on Ethics [concluded that Representative Waters' chief of staff was at fault for
     creating the appearance of conflict, but Waters was not](https://www.congress.gov/112/crpt/hrpt690/CRPT-112hrpt690.pdf).
   allegation: a conflict of interest with respect to meetings with a bank in which
     she had a financial interest
@@ -1889,7 +1889,7 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-waters
   - date: 2012-09-25
     body: House Committee on Ethics
-    action: concluded that Representative Waters' chief of state was at fault for
+    action: concluded that Representative Waters' chief of staff was at fault for
       creating the appearance of conflict, but Waters was not
     link: https://www.congress.gov/112/crpt/hrpt690/CRPT-112hrpt690.pdf
   tags: ethics resolved
