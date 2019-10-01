@@ -517,7 +517,7 @@
     Ethics since 2017 for sharing material nonpublic information in the purchase of
     Innate stock, using his status to purchase discounted stock, and in 2013 directing
     an NIH employee to meet with Innate staff to discuss a clinical trial. He briefly suspended his reelection campaign, then unsuspended it and kept his seat. In May 2019, the House Committee on Ethics [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-chris) an Investigative Subcommittee and simultaneously deferred
-      further investigation to the Department of Justice.
+      further investigation to the Department of Justice. On Sept. 30, 2019, Collins [resigned](https://www.foxnews.com/politics/new-yorks-collins-to-resign-house-seat-ahead-of-expected-guilty-plea-for-insider-trading) from Congress and on Oct. 1, 2019, he [pleaded guilty](https://www.nytimes.com/2019/10/01/nyregion/chris-collins-guilty-congress.html) to conspiracy to commit securities fraud and lying to federal investigators.
   allegation: sharing material nonpublic information in the purchase of Innate stock,
     using his status to purchase discounted stock and directing an NIH employee to
     meet with Innate staff to discuss a clinical trial
@@ -563,7 +563,13 @@
     action: established an Investigative Subcommittee and simultaneously deferred
       further investigation to the Department of Justice.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-chris
-  tags: ethics unresolved
+  - date: 2019-09-30
+    action: Collins resigned from Congress.
+    link: https://www.foxnews.com/politics/new-yorks-collins-to-resign-house-seat-ahead-of-expected-guilty-plea-for-insider-trading
+  - date: 2019-10-01
+    action: Collins pleaded guilty to conspiracy to commit securities fraud and lying to federal investigators.
+    link: https://www.nytimes.com/2019/10/01/nyregion/chris-collins-guilty-congress.html
+  tags: ethics resolved
 - person: 400163
   name: Luis V. Gutiérrez
   text: In 2017 Gutiérrez was investigated for having been arrested during a protest
