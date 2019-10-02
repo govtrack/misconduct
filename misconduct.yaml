@@ -1,7 +1,15 @@
 - person: 400162
   name: Raúl Grijalva
-  text: At an unspecified date during Rep. Grijalva's service in Congress, he was accused of creating a hostile work environment and being frequently drunk. The claims, always denied by Grijalva, were resolved with a severance payment in 2015 although none of this became public until 2017. According to news reports, Grijalva was cleared by the House Ethics Committee [letter](https://www.rollcall.com/news/politics/house-ethics-clears-rep-raul-grijalva-wrongdoing) in Dec 2018. Now, his case is apparently [being reviewed by the House Committee on Ethics](https://www.azcentral.com/story/news/politics/arizona/2019/06/14/rep-raul-grijalva-under-scrutiny-house-ethics-committee-over-workplace-allegations/1460308001/), although what for and why is unknown.
-  allegation: the representative created a hostile work environment and was frequently drunk
+  text: At an unspecified date during Rep. Grijalva's service in Congress, he was
+    accused of creating a hostile work environment and being frequently drunk. The
+    claims, always denied by Grijalva, were resolved with a severance payment in 2015
+    although none of this became public until 2017. According to news reports, Grijalva
+    was cleared by the House Ethics Committee [letter](https://www.rollcall.com/news/politics/house-ethics-clears-rep-raul-grijalva-wrongdoing)
+    in Dec 2018. Now, his case is apparently [being reviewed by the House Committee
+    on Ethics](https://www.azcentral.com/story/news/politics/arizona/2019/06/14/rep-raul-grijalva-under-scrutiny-house-ethics-committee-over-workplace-allegations/1460308001/),
+    although what for and why is unknown.
+  allegation: the representative created a hostile work environment and was frequently
+    drunk
   consequences:
   - date: 2018-05-15
     body: Office of Congressional Ethics
@@ -18,8 +26,22 @@
   tags: ethics unresolved
 - person: 412690
   name: Matt Gaetz
-  text: In February 2019, Gaetz posted a threatening tweet aimed at Michael Cohen, President Trump's former personal attorney the night before Cohen was scheduled to testify before the House Judiciary Committee regarding crimes for which Cohen had been found guilty and in which, according to federal prosecutors, the President participated. Gaetz was [referred to the Florida Bar for investigation](http://www.tampabay.com/florida-politics/buzz/2019/02/27/matt-gaetz-under-investigation-by-the-florida-bar-for-tweet-at-michael-cohen/) and possible discipline. In May 2019, the Florida Bar announced that they would [proceed to the next step of review](http://www.tampabay.com/florida-politics/buzz/2019/05/08/further-investigation-into-matt-gaetz-is-needed-for-tweet-at-michael-cohen-florida-bar-determines/) and not dismiss the complaint against him. In March 2019, the Ethics Committee began a review of Gaetz's actions. In August 2019, the [Florida Bar announced it had found "no probable cause"](https://www.tampabay.com/florida-politics/buzz/2019/08/14/no-probable-cause-matt-gaetz-violated-florida-bar-rules-in-tweets-at-michael-cohen/) that Gaetz had violated its rules and closed its investigation. Because of his [repeated refusals](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-matt) to respond to committee requests for interviews, an Investigative Subcommittee was established in June 2019.
-  allegation: violating the Florida Supreme Court's rules for attorney by attempting to intimidate a witness scheduled to testify before the House Judiciary Committee.
+  text: In February 2019, Gaetz posted a threatening tweet aimed at Michael Cohen,
+    President Trump's former personal attorney the night before Cohen was scheduled
+    to testify before the House Judiciary Committee regarding crimes for which Cohen
+    had been found guilty and in which, according to federal prosecutors, the President
+    participated. Gaetz was [referred to the Florida Bar for investigation](http://www.tampabay.com/florida-politics/buzz/2019/02/27/matt-gaetz-under-investigation-by-the-florida-bar-for-tweet-at-michael-cohen/)
+    and possible discipline. In May 2019, the Florida Bar announced that they would
+    [proceed to the next step of review](http://www.tampabay.com/florida-politics/buzz/2019/05/08/further-investigation-into-matt-gaetz-is-needed-for-tweet-at-michael-cohen-florida-bar-determines/)
+    and not dismiss the complaint against him. In March 2019, the Ethics Committee
+    began a review of Gaetz's actions. In August 2019, the [Florida Bar announced
+    it had found "no probable cause"](https://www.tampabay.com/florida-politics/buzz/2019/08/14/no-probable-cause-matt-gaetz-violated-florida-bar-rules-in-tweets-at-michael-cohen/)
+    that Gaetz had violated its rules and closed its investigation. Because of his
+    [repeated refusals](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-matt)
+    to respond to committee requests for interviews, an Investigative Subcommittee
+    was established in June 2019.
+  allegation: violating the Florida Supreme Court's rules for attorney by attempting
+    to intimidate a witness scheduled to testify before the House Judiciary Committee.
   consequences:
   - date: 2019-02-27
     body: Florida Bar Association
@@ -27,28 +49,38 @@
     link: http://www.tampabay.com/florida-politics/buzz/2019/02/27/matt-gaetz-under-investigation-by-the-florida-bar-for-tweet-at-michael-cohen/
   - date: 2019-05-08
     body: Florida Bar Association
-    action: moved the investigation to the Grievance Committee to decide whether or not there is probable cause that Gaetz broke Florida Supreme Court rules for lawyers.
+    action: moved the investigation to the Grievance Committee to decide whether or
+      not there is probable cause that Gaetz broke Florida Supreme Court rules for
+      lawyers.
     link: http://www.tampabay.com/florida-politics/buzz/2019/05/08/further-investigation-into-matt-gaetz-is-needed-for-tweet-at-michael-cohen-florida-bar-determines/
   - date: 2019-03-13
     body: House Committee on Ethics
-    action: after receipt of a member complaint, the committee began a review of Gaetz's tweet.
+    action: after receipt of a member complaint, the committee began a review of Gaetz's
+      tweet.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-matt
   - date: 2019-05-13
     text: Gaetz refused to appear for an interview with the committee.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-matt
   - date: 2019-06-28
     body: House Committee on Ethics
-    action: on May 16 the Committee warned Gaetz that further non-compliance would result in an Investigative Subcommittee; he continued to refuse to appear for an interview and they established the Investigative Subcommittee in June.
+    action: on May 16 the Committee warned Gaetz that further non-compliance would
+      result in an Investigative Subcommittee; he continued to refuse to appear for
+      an interview and they established the Investigative Subcommittee in June.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-matt
   - date: 2019-08-14
     body: Florida Bar Association
     action: closed its investigation with a finding of no probable cause of rule violation.
     link: https://www.tampabay.com/florida-politics/buzz/2019/08/14/no-probable-cause-matt-gaetz-violated-florida-bar-rules-in-tweets-at-michael-cohen/
-  tags: ethics corruption unresolved
+  tags: corruption ethics unresolved
 - person: 400172
   name: Robin Hayes
-  text: In 2019, Mr. Hayes, the Republican representative for NC-8 from 1999-2008 and current chair of the North Carolina Republican Party, was indicted on charges of bribery and conspiracy to commit honest services wire fraud, along with several counts of making false statements in an effort to bribe North Carolina's insurance commissioner.
-  allegation: bribery and conspiracy to commit honest services wire fraud, along with several counts of making false statements
+  text: In 2019, Mr. Hayes, the Republican representative for NC-8 from 1999-2008
+    and current chair of the North Carolina Republican Party, was indicted on charges
+    of bribery and conspiracy to commit honest services wire fraud, along with several
+    counts of making false statements in an effort to bribe North Carolina's insurance
+    commissioner.
+  allegation: bribery and conspiracy to commit honest services wire fraud, along with
+    several counts of making false statements
   consequences:
   - date: 2019-04-02
     body: Federal Bureau of Investigation
@@ -57,10 +89,11 @@
   tags: corruption elections unresolved
 - person: 412627
   name: Rod Blum
-  text: In 2018, Blum was accused of omitting required information from financial disclosure reports; permitting
-    the use of official House resources for a private business in which he had a financial
-    interest and the use of unfair or deceptive trade practices. In July 2018, the Office of Congressional Ethics [referred the allegations
-    to the House Committee on Ethics for further investigation](https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-rod-blum).
+  text: In 2018, Blum was accused of omitting required information from financial
+    disclosure reports; permitting the use of official House resources for a private
+    business in which he had a financial interest and the use of unfair or deceptive
+    trade practices. In July 2018, the Office of Congressional Ethics [referred the
+    allegations to the House Committee on Ethics for further investigation](https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-rod-blum).
     In December 2018, the House Committee on Ethics [published the Office of Congressional
     Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-ro-0).
     In January 2019, the Committee ceased investigating as its juridiction ended with
@@ -167,7 +200,11 @@
     an Investigative Subcommittee (ISC)](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-19).
     In December of 2018, the ISC [expanded its investigation](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-28)
     to include more instances of improper uses of funds and to add alleged failure
-    to make financial disclosures In April of 2019, the Committee on Ethics [published the Office of Congressional Ethics report](https://ethics.house.gov/sites/ethics.house.gov/files/Report%20-%20OCE%20Review%20No.%2017-4790.pdf) on Schweikert which states that "there is substantial reason to believe" the allegations are true. In May 2019, the Committee [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-davi-1) an Investigative subcommittee for the 116th Congress.
+    to make financial disclosures In April of 2019, the Committee on Ethics [published
+    the Office of Congressional Ethics report](https://ethics.house.gov/sites/ethics.house.gov/files/Report%20-%20OCE%20Review%20No.%2017-4790.pdf)
+    on Schweikert which states that "there is substantial reason to believe" the allegations
+    are true. In May 2019, the Committee [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-davi-1)
+    an Investigative subcommittee for the 116th Congress.
   allegation: using or authorizing impermissable expenditures from Representative
     Schweikert’s Members’ Representational Allowance and receiving improper campaign
     contributions; failure to provide financial disclosure information
@@ -183,7 +220,8 @@
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-28
   - date: 2019-04-17
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics report as required when the Investigative Subcommittee has not completed its work one year after its establishment.
+    action: published the Office of Congressional Ethics report as required when the
+      Investigative Subcommittee has not completed its work one year after its establishment.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Report%20-%20OCE%20Review%20No.%2017-4790.pdf
   - date: 2019-05-03
     body: House Committee on Ethics
@@ -516,8 +554,13 @@
     by the FBI. He had been under investigation by the House Office of Congressional
     Ethics since 2017 for sharing material nonpublic information in the purchase of
     Innate stock, using his status to purchase discounted stock, and in 2013 directing
-    an NIH employee to meet with Innate staff to discuss a clinical trial. He briefly suspended his reelection campaign, then unsuspended it and kept his seat. In May 2019, the House Committee on Ethics [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-chris) an Investigative Subcommittee and simultaneously deferred
-      further investigation to the Department of Justice. On Sept. 30, 2019, Collins [resigned](https://www.foxnews.com/politics/new-yorks-collins-to-resign-house-seat-ahead-of-expected-guilty-plea-for-insider-trading) from Congress and on Oct. 1, 2019, he [pleaded guilty](https://www.nytimes.com/2019/10/01/nyregion/chris-collins-guilty-congress.html) to conspiracy to commit securities fraud and lying to federal investigators.
+    an NIH employee to meet with Innate staff to discuss a clinical trial. He briefly
+    suspended his reelection campaign, then unsuspended it and kept his seat. In May
+    2019, the House Committee on Ethics [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-chris)
+    an Investigative Subcommittee and simultaneously deferred further investigation
+    to the Department of Justice. On Sept. 30, 2019, Collins [resigned](https://www.foxnews.com/politics/new-yorks-collins-to-resign-house-seat-ahead-of-expected-guilty-plea-for-insider-trading)
+    from Congress and on Oct. 1, 2019, he [pleaded guilty](https://www.nytimes.com/2019/10/01/nyregion/chris-collins-guilty-congress.html)
+    to conspiracy to commit securities fraud and lying to federal investigators.
   allegation: sharing material nonpublic information in the purchase of Innate stock,
     using his status to purchase discounted stock and directing an NIH employee to
     meet with Innate staff to discuss a clinical trial
@@ -564,10 +607,11 @@
       further investigation to the Department of Justice.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-chris
   - date: 2019-09-30
-    action: Collins resigned from Congress.
+    text: Collins resigned from Congress.
     link: https://www.foxnews.com/politics/new-yorks-collins-to-resign-house-seat-ahead-of-expected-guilty-plea-for-insider-trading
   - date: 2019-10-01
-    action: Collins pleaded guilty to conspiracy to commit securities fraud and lying to federal investigators.
+    text: Collins pleaded guilty to conspiracy to commit securities fraud and lying
+      to federal investigators.
     link: https://www.nytimes.com/2019/10/01/nyregion/chris-collins-guilty-congress.html
   tags: ethics resolved
 - person: 400163
@@ -718,8 +762,14 @@
     In Aug. 2018, Hunter was [indicted](https://www.washingtonpost.com/world/national-security/congressman-duncan-hunter-wife-charged-with-spending-campaign-money-on-personal-expenses/2018/08/21/)
     on charges of converting campaign funds to personal use. In Sept. 2018, the House
     Ethics Committee [deferred further investigation](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-23)
-    to the Department of Justice. In November of 2018, Hunter was reelected despite the indictment and despite a series of anti-Muslim ads run against his opponent. In May 2019, the Committee [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-0) an Investigative Subcommittee for the 116th Congress and simultaneously deferred
-      further investigation to the Department of Justice. In June 2019, Hunter's wife [pleaded guilty](https://www.buzzfeednews.com/article/juliareinstein/duncan-margaret-hunter-california-congressman-guilty-plea) and said that she and Hunter misused over $200,000 in campaign funds for personal purposes.
+    to the Department of Justice. In November of 2018, Hunter was reelected despite
+    the indictment and despite a series of anti-Muslim ads run against his opponent.
+    In May 2019, the Committee [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-0)
+    an Investigative Subcommittee for the 116th Congress and simultaneously deferred
+    further investigation to the Department of Justice. In June 2019, Hunter's wife
+    [pleaded guilty](https://www.buzzfeednews.com/article/juliareinstein/duncan-margaret-hunter-california-congressman-guilty-plea)
+    and said that she and Hunter misused over $200,000 in campaign funds for personal
+    purposes.
   allegation: converting funds from his congressional campaign committee for personal
     use
   consequences:
@@ -750,11 +800,12 @@
     link: https://www.latimes.com/politics/la-na-pol-duncan-hunter-reelected-indicted-20181107-story.html
   - date: 2019-05-03
     body: House Committee on Ethics
-    action: reauthorized for the Investigative Subcommittee for the 116th Congress and simultaneously deferred
-      further investigation to the Department of Justice
+    action: reauthorized for the Investigative Subcommittee for the 116th Congress
+      and simultaneously deferred further investigation to the Department of Justice
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-0
   - date: 2019-06-13
-    text: Hunter's wife changed her plea to guilty and said that she and Hunter misused over $200,000 in campaign funds for personal purposes.
+    text: Hunter's wife changed her plea to guilty and said that she and Hunter misused
+      over $200,000 in campaign funds for personal purposes.
     link: https://www.buzzfeednews.com/article/juliareinstein/duncan-margaret-hunter-california-congressman-guilty-plea
   tags: crime elections unresolved
 - person: 400169
