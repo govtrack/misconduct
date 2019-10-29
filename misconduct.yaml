@@ -8,7 +8,7 @@
     action: began an investigation.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-katie
   - date: 2019-10-27
-    action: resigned from Congress.
+    text: Resigned from Congress.
     link: https://twitter.com/RepKatieHill/status/1188591520531779584?s=20
   tags: sexual-harassment-abuse resolved
 - person: 400162
@@ -100,7 +100,7 @@
     action: indicted Mr. Hayes.
     link: https://www.nytimes.com/2019/04/02/us/robin-hayes-nc-indictment.html
   - date: 2019-10-02
-    action: pleaded guilty to lying to the FBI while being investigated for conspiracy and bribery.
+    text: Pleaded guilty to lying to the FBI while being investigated for conspiracy and bribery.
     link: https://www.washingtonpost.com/politics/2019/10/02/former-north-carolina-state-political-party-chairman-pleads-guilty-making-false-statement-fbi/
   tags: corruption elections resolved
 - person: 412627
