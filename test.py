@@ -5,6 +5,10 @@ import re
 import sys
 import rtyaml
 
+acceptable_allegation_length = 750
+acceptable_text_length = 800
+acceptable_text_length_ratio_above = .86
+
 has_error = False
 def error(*args):
 	global has_error
@@ -119,13 +123,21 @@ for incident in misconduct:
 			if bad_tags:
 				error(incident, cons, "Consequence has invalid 'tags': {}.".format(bad_tags))
 
+	stripped_text_length = len(remove_markdown_link_urls(incident["text"]))
+	stripped_cons_length = len(" ".join(remove_markdown_link_urls(str(cons)) for cons in incident["consequences"]))
+
 	# Suggest incidents whose allegation or text fields probably could be shortened.
-	if len(incident["allegation"]) > 750:
+	if len(incident["allegation"]) > acceptable_allegation_length:
 		error(incident, "'allegation' could probably be shorter.")
-	if len(incident["consequences"]) > 2 and len(remove_markdown_link_urls(incident["text"])) > 800:
-		error(incident, "'text' could probably be shorter.")
-	elif len(incident["consequences"]) > 2 and len(incident["text"]) > 400 and len(remove_markdown_link_urls(incident["text"])) > .8 * (len(incident["allegation"]) + len(" ".join(remove_markdown_link_urls(str(cons)) for cons in incident["consequences"]))):
-		error(incident, "'text' could probably be shorter.")
+
+	if len(incident["consequences"]) > 2:
+		if stripped_text_length > acceptable_text_length:
+			error(incident, "'text' is too long. Goal %d, found %d." % acceptable_text_length , stripped_text_length)
+
+		else:
+
+			if len(incident["text"]) > acceptable_text_length/2 and (stripped_text_length > (acceptable_text_length_ratio_above * (len(incident["allegation"]) + stripped_cons_length))):
+				error(incident, "'text' could should be shorter based on length of allegations and consequences. Goal %d, found %d." % ((acceptable_text_length_ratio_above * (len(incident["allegation"]) + stripped_cons_length)), stripped_text_length ))
 
 
 if has_error:
