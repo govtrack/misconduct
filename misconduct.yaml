@@ -1,7 +1,11 @@
 - person: 412781
   name: Lori Trahan
-  text: In September 2019, Trahan was accused of accepting excessive campaign contributions and failing to file required disclosure documents. In December 2019, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lori-0).
-  allegation: accepting excessive campaign contributions and failing to file required disclosure documents
+  text: In September 2019, Trahan was accused of accepting excessive campaign contributions
+    and failing to file required disclosure documents. In December 2019, the House
+    Committee on Ethics [published the Office of Congressional Ethics Report and Findings
+    and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lori-0).
+  allegation: accepting excessive campaign contributions and failing to file required
+    disclosure documents
   consequences:
   - date: 2019-08-18
     body: Office of Congressional Ethics
@@ -9,7 +13,8 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-lori-trahan
   - date: 2019-12-17
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lori-0
   tags: elections unresolved
 - person: 412787
@@ -877,15 +882,17 @@
   text: In 2016 Hunter was investigated for converting funds from his congressional
     campaign committee for personal use. The House Committee on Ethics [deferred to
     the Department of Justice](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative).
-    In Aug. 2018, Hunter was [indicted](https://www.washingtonpost.com/world/national-security/congressman-duncan-hunter-wife-charged-with-spending-campaign-money-on-personal-expenses/2018/08/21/)
-    on charges of converting campaign funds to personal use. In November of 2018,
-    Hunter was reelected despite the indictment and despite a series of anti-Muslim
-    ads run against his opponent. In May 2019, the Committee [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-0)
+    In August 2018, Hunter was [indicted](https://www.washingtonpost.com/world/national-security/congressman-duncan-hunter-wife-charged-with-spending-campaign-money-on-personal-expenses/2018/08/21/).
+    In May 2019, the Committee [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-0)
     an Investigative Subcommittee for the 116th Congress and simultaneously deferred
     further investigation to the Department of Justice. In June 2019, Hunter's wife
     [pleaded guilty](https://www.buzzfeednews.com/article/juliareinstein/duncan-margaret-hunter-california-congressman-guilty-plea)
     and said that she and Hunter misused over $200,000 in campaign funds for personal
-    purposes. In December 2019, Hunter pleaded guilty to one count of conspiring to misuse campaign funds. The House Committee on Ethics [released the findings of the Office of Congressional Ethics](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-2) and resumed its investigation. Hunter has yet to announce whether he will resign from Congress.
+    purposes. In December 2019, Hunter pleaded guilty to one count of conspiring to
+    misuse campaign funds. The House Committee on Ethics [released the findings of
+    the Office of Congressional Ethics](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-2)
+    and resumed its investigation. Hunter has yet to announce whether he will resign
+    from Congress.
   allegation: converting funds from his congressional campaign committee for personal
     use
   consequences:
@@ -923,12 +930,13 @@
     text: Hunter's wife changed her plea to guilty and said that she and Hunter misused
       over $200,000 in campaign funds for personal purposes.
     link: https://www.buzzfeednews.com/article/juliareinstein/duncan-margaret-hunter-california-congressman-guilty-plea
-  - date: 2019-12-3
+  - date: 2019-12-03
     text: Hunter pleaded guilty to one count of conspiring to misuse campaign funds.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-2
-  - date: 2019-12-9
+  - date: 2019-12-09
     body: House Committee on Ethics
-    action: resumed its investigation as the Department of Justice has completed its work and released the findings of the Office of Congressional Ethics.
+    action: resumed its investigation as the Department of Justice has completed its
+      work and released the findings of the Office of Congressional Ethics.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-2
   tags: crime elections unresolved
 - person: 400169
@@ -1742,7 +1750,9 @@
     for campaign activities, paying a consultant for official services with funds
     from political committees, and combining official resources and campaign resources
     in furtherance of a campaign for a House leadership office from 2010 to 2012.
-    As of 2019, the House Committee on Ethics [has yet to conclude its review](https://www.congress.gov/115/crpt/hrpt1125/CRPT-115hrpt1125.pdf). In December 2019, the Committee completed its review. It ordered Rodgers to [reimburse the House $7575.95 and reproved her for her sloppiness in managing her funds](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-cath-1).
+    As of 2019, the House Committee on Ethics [has yet to conclude its review](https://www.congress.gov/115/crpt/hrpt1125/CRPT-115hrpt1125.pdf).
+    In December 2019, the Committee completed its review. It ordered Rodgers to [reimburse
+    the House $7575.95 and reproved her for her sloppiness in managing her funds](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-cath-1).
   allegation: using official resources, including staff, for campaign activities;
     paying a consultant for official services with funds from political committees;
     combining official resources and campaign resources in furtherance of a campaign
@@ -1765,12 +1775,14 @@
     body: House Committee on Ethics
     action: reported that the review would continue into the next Congress.
     link: https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf
-  body: House Committee on Ethics
-  action: reported that the review would continue into the next Congress.
-  link: https://www.congress.gov/115/crpt/hrpt1125/CRPT-115hrpt1125.pdf
+  - date: 2019-01-02
+    body: House Committee on Ethics
+    action: reported that the review would continue into the next Congress.
+    link: https://www.congress.gov/115/crpt/hrpt1125/CRPT-115hrpt1125.pdf
   - date: 2019-12-19
     body: House Committee on Ethics
-    action: required Rodgers to reimburse the House $7575.95 for misused funds and issued a report which is also a reproval.
+    action: required Rodgers to reimburse the House $7575.95 for misused funds and
+      issued a report which is also a reproval.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-cath-1
   tags: elections ethics resolved
 - person: 412568
