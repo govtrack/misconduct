@@ -2064,14 +2064,16 @@
   text: In 2011, Blagojevich, a former representative for IL-5, was [convicted of
     a broad range of corruption](https://www.nytimes.com/2011/06/28/us/28blagojevich.html)
     as Governor of Illinois which included attempting to sell the appointment to the
-    Senate seat vacated by Barack Obama after Obama won the 2008 presidential election.
+    Senate seat vacated by Barack Obama after Obama won the 2008 presidential election. In 2020, President Trump [commuted Blagojevich's sentence](https://www.npr.org/2020/02/18/807117741/president-trump-offers-clemency-to-blagojevich-kerik-milken-others) and on Feb. 19, 2020, he was released from jail.
   allegation: corruption including selling the Senate seat vacated by Barack Obama
     after Obama won the 2008 presidential election
   consequences:
   - date: 2011-06-27
     text: Convicted of corruption.
     link: https://www.nytimes.com/2011/06/28/us/28blagojevich.html
-    tags: conviction
+  - date: 2020-02-18
+    text: Blagojevich's sentence commuted by President Trump.
+    link: https://www.npr.org/2020/02/18/807117741/president-trump-offers-clemency-to-blagojevich-kerik-milken-others
   tags: corruption crime resolved
 - person: 400422
   name: Maxine Waters
