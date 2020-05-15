@@ -4,17 +4,17 @@
   allegation: covid19 stock profiteering
   consequences:
   - date: 2020-03-17
-    action: Sen. Burr asked the Senate Select Committee on Ethics to open an investigation into his actions
+    text: Sen. Burr asked the Senate Select Committee on Ethics to open an investigation into his actions.
     link: https://www.cnn.com/2020/03/19/politics/richard-burr-coronavirus-comments/index.html
   - date: 2020-03-30
     body: Federal Bureau of Investigations (FBI) and the Securities & Exchange Commission (SEC)
     action: began an investigation
     link: https://www.charlotteobserver.com/news/politics-government/article241646666.html
   - date: 2020-05-13
-    action: The FBI seized Sen. Burr's mobile phone 
+    text: The FBI seized Sen. Burr's mobile phone.
     link: https://www.usatoday.com/story/news/politics/2020/05/14/sen-richard-burrs-phone-seized-fbi-serves-warrant-stock-probe/5188726002/
   - date: 2020-05-14
-    action: Sen. Burr stepped down as chair of the Senate Intelligence Committee
+    text: Sen. Burr stepped down as chair of the Senate Intelligence Committee.
     link: https://www.usatoday.com/story/news/politics/2020/05/14/sen-richard-burrs-phone-seized-fbi-serves-warrant-stock-probe/5188726002/
   tags: corruption unresolved
 - person: 412781
@@ -902,9 +902,7 @@
     campaign committee for personal use. The House Committee on Ethics [deferred to
     the Department of Justice](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative).
     In August 2018, Hunter was [indicted](https://www.washingtonpost.com/world/national-security/congressman-duncan-hunter-wife-charged-with-spending-campaign-money-on-personal-expenses/2018/08/21/).
-    In May 2019, the Committee [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-0)
-    an Investigative Subcommittee for the 116th Congress and simultaneously deferred
-    further investigation to the Department of Justice. In June 2019, Hunter's wife
+    In June 2019, Hunter's wife
     [pleaded guilty](https://www.buzzfeednews.com/article/juliareinstein/duncan-margaret-hunter-california-congressman-guilty-plea)
     and said that she and Hunter misused over $200,000 in campaign funds for personal
     purposes. In December 2019, Hunter pleaded guilty to one count of conspiring to
