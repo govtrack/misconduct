@@ -1,3 +1,22 @@
+- person: 400054
+  name: Richard Burr
+  text: In March 2020, Sen. Burr was accused of covid19 stock profiteering by selling stocks based on information learned in non-public briefings. On March 20, Sen. Burr asked the Senate Select Committee on Ethics to [open an investigation](https://www.cnn.com/2020/03/19/politics/richard-burr-coronavirus-comments/index.html) into his actions. There is no indication that the Committee has acted on his request. On March 30, news reports indicated that the Federal Bureau of Investigations (FBI) and the Securities & Exchange Commission (SEC) [were investigating](https://www.charlotteobserver.com/news/politics-government/article241646666.html) Sen. Burr. On May 14, Sen. Burr stepped down as chair of the Senate Intelligence Committee after it was reported that [the FBI had seized his mobile phone](https://www.usatoday.com/story/news/politics/2020/05/14/sen-richard-burrs-phone-seized-fbi-serves-warrant-stock-probe/5188726002/).
+  allegation: covid19 stock profiteering
+  consequences:
+  - date: 2020-03-17
+    action: Sen. Burr asked the Senate Select Committee on Ethics to open an investigation into his actions
+    link: https://www.cnn.com/2020/03/19/politics/richard-burr-coronavirus-comments/index.html
+  - date: 2020-03-30
+    body: Federal Bureau of Investigations (FBI) and the Securities & Exchange Commission (SEC)
+    action: began an investigation
+    link: https://www.charlotteobserver.com/news/politics-government/article241646666.html
+  - date: 2020-05-13
+    action: The FBI seized Sen. Burr's mobile phone 
+    link: https://www.usatoday.com/story/news/politics/2020/05/14/sen-richard-burrs-phone-seized-fbi-serves-warrant-stock-probe/5188726002/
+  - date: 2020-05-14
+    action: Sen. Burr stepped down as chair of the Senate Intelligence Committee
+    link: https://www.usatoday.com/story/news/politics/2020/05/14/sen-richard-burrs-phone-seized-fbi-serves-warrant-stock-probe/5188726002/
+  tags: corruption unresolved
 - person: 412781
   name: Lori Trahan
   text: In September 2019, Trahan was accused of accepting excessive campaign contributions
