@@ -1,13 +1,22 @@
 - person: 400054
   name: Richard Burr
-  text: In March 2020, Sen. Burr was accused of covid19 stock profiteering by selling stocks based on information learned in non-public briefings. On March 20, Sen. Burr asked the Senate Select Committee on Ethics to [open an investigation](https://www.cnn.com/2020/03/19/politics/richard-burr-coronavirus-comments/index.html) into his actions. There is no indication that the Committee has acted on his request. On March 30, news reports indicated that the Federal Bureau of Investigations (FBI) and the Securities & Exchange Commission (SEC) [were investigating](https://www.charlotteobserver.com/news/politics-government/article241646666.html) Sen. Burr. On May 14, Sen. Burr stepped down as chair of the Senate Intelligence Committee after it was reported that [the FBI had seized his mobile phone](https://www.usatoday.com/story/news/politics/2020/05/14/sen-richard-burrs-phone-seized-fbi-serves-warrant-stock-probe/5188726002/).
+  text: In March 2020, Sen. Burr was accused of covid19 stock profiteering by selling
+    stocks based on information learned in non-public briefings. On March 20, Sen.
+    Burr asked the Senate Select Committee on Ethics to [open an investigation](https://www.cnn.com/2020/03/19/politics/richard-burr-coronavirus-comments/index.html)
+    into his actions. There is no indication that the Committee has acted on his request.
+    On March 30, news reports indicated that the Federal Bureau of Investigations
+    (FBI) and the Securities & Exchange Commission (SEC) [were investigating](https://www.charlotteobserver.com/news/politics-government/article241646666.html)
+    Sen. Burr. On May 14, Sen. Burr stepped down as chair of the Senate Intelligence
+    Committee after it was reported that [the FBI had seized his mobile phone](https://www.usatoday.com/story/news/politics/2020/05/14/sen-richard-burrs-phone-seized-fbi-serves-warrant-stock-probe/5188726002/).
   allegation: covid19 stock profiteering
   consequences:
   - date: 2020-03-17
-    text: Sen. Burr asked the Senate Select Committee on Ethics to open an investigation into his actions.
+    text: Sen. Burr asked the Senate Select Committee on Ethics to open an investigation
+      into his actions.
     link: https://www.cnn.com/2020/03/19/politics/richard-burr-coronavirus-comments/index.html
   - date: 2020-03-30
-    body: Federal Bureau of Investigations (FBI) and the Securities & Exchange Commission (SEC)
+    body: Federal Bureau of Investigations (FBI) and the Securities & Exchange Commission
+      (SEC)
     action: began an investigation
     link: https://www.charlotteobserver.com/news/politics-government/article241646666.html
   - date: 2020-05-13
@@ -902,8 +911,7 @@
     campaign committee for personal use. The House Committee on Ethics [deferred to
     the Department of Justice](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative).
     In August 2018, Hunter was [indicted](https://www.washingtonpost.com/world/national-security/congressman-duncan-hunter-wife-charged-with-spending-campaign-money-on-personal-expenses/2018/08/21/).
-    In June 2019, Hunter's wife
-    [pleaded guilty](https://www.buzzfeednews.com/article/juliareinstein/duncan-margaret-hunter-california-congressman-guilty-plea)
+    In June 2019, Hunter's wife [pleaded guilty](https://www.buzzfeednews.com/article/juliareinstein/duncan-margaret-hunter-california-congressman-guilty-plea)
     and said that she and Hunter misused over $200,000 in campaign funds for personal
     purposes. In December 2019, Hunter pleaded guilty to one count of conspiring to
     misuse campaign funds. The House Committee on Ethics [released the findings of
@@ -2081,7 +2089,9 @@
   text: In 2011, Blagojevich, a former representative for IL-5, was [convicted of
     a broad range of corruption](https://www.nytimes.com/2011/06/28/us/28blagojevich.html)
     as Governor of Illinois which included attempting to sell the appointment to the
-    Senate seat vacated by Barack Obama after Obama won the 2008 presidential election. In 2020, President Trump [commuted Blagojevich's sentence](https://www.npr.org/2020/02/18/807117741/president-trump-offers-clemency-to-blagojevich-kerik-milken-others) and on Feb. 19, 2020, he was released from jail.
+    Senate seat vacated by Barack Obama after Obama won the 2008 presidential election.
+    In 2020, President Trump [commuted Blagojevich's sentence](https://www.npr.org/2020/02/18/807117741/president-trump-offers-clemency-to-blagojevich-kerik-milken-others)
+    and on Feb. 19, 2020, he was released from jail.
   allegation: corruption including selling the Senate seat vacated by Barack Obama
     after Obama won the 2008 presidential election
   consequences:
