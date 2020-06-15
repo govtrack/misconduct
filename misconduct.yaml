@@ -104,7 +104,10 @@
   name: Alcee Hastings
   text: In 2019, Hastings was alleged to have engaged in improper relationship with
     a staff member and received improper gifts and/or forebearance from the staff
-    member. The House Committee on Ethics began an investigation. In 2020, the House Committee on Ethics [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-10) since the employee was his spouse, gifts from family are acceptable and their employment did not violate any House rules when they were hired.
+    member. The House Committee on Ethics began an investigation. In 2020, the House
+    Committee on Ethics [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-10)
+    since the employee was his spouse, gifts from family are acceptable and their
+    employment did not violate any House rules when they were hired.
   allegation: engaging in improper relationship with a staff member and receiving
     improper gifts and/or forebearance from the staff member
   consequences:
@@ -114,15 +117,20 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-alce-2
   - date: 2020-06-12
     body: House Committee on Ethics
-    action: closed the investigation since Hastings employee was his spouse, gifts from family are acceptable and her employment did not violate any House rules when she was hired.
+    action: closed the investigation since Hastings employee was his spouse, gifts
+      from family are acceptable and her employment did not violate any House rules
+      when she was hired.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-10
-  tags: corruption sexual-harassment-abuse resolved
+  tags: corruption resolved sexual-harassment-abuse
 - person: 412770
   name: Michael F. Q. San Nicolas
   text: In 2019, San Nicolas was alleged to have engaged in a sexual relationship
     with a staff member, converted campaign funds to personal use and/or accepted
     improper or excessive campaign contributions. The House Committee on Ethics began
-    an investigation. In 2020, the House Committee on Ethics[established an Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-f-0) to further investigate the allegations following a referral from the Office of Congressional Ethics.
+    an investigation. In 2020, the House Committee on Ethics[established an Investigative
+    Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-f-0)
+    to further investigate the allegations following a referral from the Office of
+    Congressional Ethics.
   allegation: engaging in a sexual relationship with a staff member, converting campaign
     funds to personal use and/or accepting improper or excessive campaign contributions
   consequences:
@@ -130,10 +138,11 @@
     body: House Committee on Ethics
     action: began an investigation
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-f-q
- - date: 2020-06-12
-   body: House Committee on Ethics
-   action: established an Investigative Subcommittee following a referral from the Office of Congressional Ethics
-   link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-f-0
+  - date: 2020-06-12
+    body: House Committee on Ethics
+    action: established an Investigative Subcommittee following a referral from the
+      Office of Congressional Ethics
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-f-0
   tags: elections sexual-harassment-abuse unresolved
 - person: 412756
   name: Katie Hill
