@@ -52,7 +52,7 @@
   text: In September 2019, Trahan was accused of accepting excessive campaign contributions
     and failing to file required disclosure documents. In December 2019, the House
     Committee on Ethics [published the Office of Congressional Ethics Report and Findings
-    and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lori-0).
+    and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lori-0). In July 2020, the House Committee on Ethics [published its report dismissing the charges](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_17.pdf) since the alleged excessive contributions were part of joint holdings with her spouse and any reporting errors were unintentional.
   allegation: accepting excessive campaign contributions and failing to file required
     disclosure documents
   consequences:
@@ -65,7 +65,11 @@
     action: published the Office of Congressional Ethics Report and Findings and the
       member's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lori-0
-  tags: elections unresolved
+  - date: 2020-07-16
+    body: House Committee on Ethics
+    action: published its report dismissing the charges since the alleged excessive contributions were part of joint holdings with her spouse and any reporting errors were unintentional.
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_17.pdf
+  tags: elections resolved
 - person: 412787
   name: Rashida Tlaib
   text: In 2019, Tlaib was accused of reporting improper campaign expenditures. In
