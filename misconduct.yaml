@@ -1,22 +1,33 @@
 - person: 456790
   name: Kelly Loeffler
-  text: At some point between March 2020 when news broke that stocks owned by Sen. Loeffler were sold right after a committee briefing on the possible trajectory of covid19 and June 17, 2020, the Senate Ethics Committee opened an investigation into the trades. On June 17, they [sent a letter](https://www.washingtonpost.com/politics/senate-ethics-panel-dismisses-probe-into-sen-loeffler-for-insider-trading/2020/06/16/f8ca3196-b01e-11ea-8f56-63f38c990077_story.html) to Sen. Loeffler informing her than since the Department of Justice had ended its investigation, they would too. No record of the investigation or the letter are available publicly.
-  allegation: trading stock based on learning non-public information in committee meetings
+  text: At some point between March 2020 when news broke that stocks owned by Sen.
+    Loeffler were sold right after a committee briefing on the possible trajectory
+    of covid19 and June 17, 2020, the Senate Ethics Committee opened an investigation
+    into the trades. On June 17, they [sent a letter](https://www.washingtonpost.com/politics/senate-ethics-panel-dismisses-probe-into-sen-loeffler-for-insider-trading/2020/06/16/f8ca3196-b01e-11ea-8f56-63f38c990077_story.html)
+    to Sen. Loeffler informing her than since the Department of Justice had ended
+    its investigation, they would too. No record of the investigation or the letter
+    are available publicly.
+  allegation: trading stock based on learning non-public information in committee
+    meetings
   consequences:
   - date: 2020-06-17
     body: Senate Committee on Ethics
-    action: closed an investigation after the Department of Justice also closed its investigation
+    action: closed an investigation after the Department of Justice also closed its
+      investigation
     link: https://www.washingtonpost.com/politics/senate-ethics-panel-dismisses-probe-into-sen-loeffler-for-insider-trading/2020/06/16/f8ca3196-b01e-11ea-8f56-63f38c990077_story.html
   tags: corruption resolved
-
 - person: 400030
   name: Sanford Bishop
-  text: In June 2020, the House Committee on Ethics announced it would [continue an investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-11) into Rep. Bishop for unstated reasons based on an unpublished February 2020 referral from the Office of Congressional Ethics.
+  text: In June 2020, the House Committee on Ethics announced it would [continue an
+    investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-11)
+    into Rep. Bishop for unstated reasons based on an unpublished February 2020 referral
+    from the Office of Congressional Ethics.
   allegation: unstated
   consequences:
   - date: 2020-06-16
     body: House Committee on Ethics
-    action: continue an investigation based on an unpublished February 2020 referral from the Office of Congressional Ethics
+    action: continue an investigation based on an unpublished February 2020 referral
+      from the Office of Congressional Ethics
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-11
   tags: unresolved
 - person: 400054
@@ -52,7 +63,11 @@
   text: In September 2019, Trahan was accused of accepting excessive campaign contributions
     and failing to file required disclosure documents. In December 2019, the House
     Committee on Ethics [published the Office of Congressional Ethics Report and Findings
-    and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lori-0). In July 2020, the House Committee on Ethics [published its report dismissing the charges](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_17.pdf) since the alleged excessive contributions were part of joint holdings with her spouse and any reporting errors were unintentional.
+    and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lori-0).
+    In July 2020, the House Committee on Ethics [published its report dismissing the
+    charges](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_17.pdf)
+    since the alleged excessive contributions were part of joint holdings with her
+    spouse and any reporting errors were unintentional.
   allegation: accepting excessive campaign contributions and failing to file required
     disclosure documents
   consequences:
@@ -67,7 +82,9 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lori-0
   - date: 2020-07-16
     body: House Committee on Ethics
-    action: published its report dismissing the charges since the alleged excessive contributions were part of joint holdings with her spouse and any reporting errors were unintentional.
+    action: published its report dismissing the charges since the alleged excessive
+      contributions were part of joint holdings with her spouse and any reporting
+      errors were unintentional.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_17.pdf
   tags: elections resolved
 - person: 412787
