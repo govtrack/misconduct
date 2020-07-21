@@ -4,10 +4,10 @@
   allegation: interfering with law enforcement by providing false information, voting without being qualified and unlawful advance voting
   consequences:
   - date: 2020-07-14
-    action: the district attorney of Shawnee County, KS, charged Rep. Watkins with three felonies
+    text: The district attorney of Shawnee County, KS, charged Rep. Watkins with three felonies.
     link: https://www.nytimes.com/2020/07/14/us/steve-watkins-voter-fraud-kansas.html
   - date: 2020-07-17
-    action: in accordance with House GOP conference rules, Rep. Watkins stepped down from his committee positions
+    text: In accordance with House GOP conference rules, Rep. Watkins stepped down from his committee positions.
     link: https://www.kansascity.com/news/politics-government/article244299452.html
   tags: elections unresolved
 - person: 456790
