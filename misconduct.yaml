@@ -1,3 +1,15 @@
+- person: 412779
+  name: Steve Watkins
+  text: In 2020, the district attorney of Shawnee County, KS, charged Rep. Watkins [with three felonies](https://www.nytimes.com/2020/07/14/us/steve-watkins-voter-fraud-kansas.html) after he voted in the wrong city council district in a 2019 municipal election and subsequently lied to law enforcement. On July 17, 2020, in accordance with House GOP conference rules, [Rep. Watkins stepped down from his committee positions](https://www.kansascity.com/news/politics-government/article244299452.html).
+  allegation: interfering with law enforcement by providing false information, voting without being qualified and unlawful advance voting
+  consequences:
+  - date: 2020-07-14
+    action: the district attorney of Shawnee County, KS, charged Rep. Watkins with three felonies
+    link: https://www.nytimes.com/2020/07/14/us/steve-watkins-voter-fraud-kansas.html
+  - date: 2020-07-17
+    action: in accordance with House GOP conference rules, Rep. Watkins stepped down from his committee positions
+    link: https://www.kansascity.com/news/politics-government/article244299452.html
+  tags: elections unresolved
 - person: 456790
   name: Kelly Loeffler
   text: At some point between March 2020 when news broke that stocks owned by Sen.
