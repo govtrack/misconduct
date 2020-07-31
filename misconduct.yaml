@@ -433,7 +433,7 @@
     the Office of Congressional Ethics report](https://ethics.house.gov/sites/ethics.house.gov/files/Report%20-%20OCE%20Review%20No.%2017-4790.pdf)
     on Schweikert which states that "there is substantial reason to believe" the allegations
     are true. In May 2019, the Committee [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-davi-1)
-    an Investigative subcommittee for the 116th Congress.
+    an Investigative subcommittee for the 116th Congress. On July 30, 2020, the House Committee on Ethics published their report, [concluded he was guilty of all charges](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-13), recommended a reprimand and fined Schweikert $50,000. On July 31, 2020, the [House voted unanimously](https://www.washingtonpost.com/powerpost/house-votes-to-reprimand-gop-rep-schweikert-for-11-ethics-violations/2020/07/31/2490303e-d327-11ea-9038-af089b63ac21_story.html) in a voice vote to formally reprimand Rep. Schweikert.
   allegation: using or authorizing impermissable expenditures from Representative
     Schweikert’s Members’ Representational Allowance and receiving improper campaign
     contributions; failure to provide financial disclosure information
@@ -456,7 +456,15 @@
     body: House Committee on Ethics
     action: reauthorized for the Investigative Subcommittee for the 116th Congress.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-davi-1
-  tags: corruption elections unresolved
+  - date: 2020-07-30
+    body: House Committee on Ethics
+    action: published their report, concluded he was guilty of all charges, recommended a reprimand and fined Schweikert $50,000.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-13
+  - date: 2020-07-31
+    body: House of Representatives
+    action: voted unanimously by voice to reprimand Rep. Schweikert.
+    link: https://www.washingtonpost.com/powerpost/house-votes-to-reprimand-gop-rep-schweikert-for-11-ethics-violations/2020/07/31/2490303e-d327-11ea-9038-af089b63ac21_story.html
+  tags: corruption elections reprimand resolved
 - person: 412397
   name: Paul Gosar
   text: In February 2018, a resolution to reprimand Rep. Gosar for attempting to pressure
