@@ -40,15 +40,19 @@
   text: In June 2020, the House Committee on Ethics announced it would [continue an
     investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-11)
     into Rep. Bishop for unstated reasons based on an unpublished February 2020 referral
-    from the Office of Congressional Ethics.
-  allegation: unstated
+    from the Office of Congressional Ethics. On July 31, the House Committee on Ethics [published the Office of Congressional Ethics (OCE) Report and Findings](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-14) and the member's response. The OCE reported that the allegations were of spending Members’ Representational Allowance (MRA) funds on holiday events in his district and converting campaign funds to personal use
+  allegation: spending Members’ Representational Allowance (MRA) funds on holiday events in his district and converting campaign funds to personal use
   consequences:
   - date: 2020-06-16
     body: House Committee on Ethics
     action: continue an investigation based on an unpublished February 2020 referral
       from the Office of Congressional Ethics
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-11
-  tags: unresolved
+  - date: 2020-07-31
+    body: House Committee on Ethics
+    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-14
+  tags: elections corruption unresolved
 - person: 400054
   name: Richard Burr
   text: In March 2020, Sen. Burr was accused of covid19 stock profiteering by selling
