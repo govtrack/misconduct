@@ -4,7 +4,7 @@
     [with three felonies](https://www.nytimes.com/2020/07/14/us/steve-watkins-voter-fraud-kansas.html)
     after he voted in the wrong city council district in a 2019 municipal election
     and subsequently lied to law enforcement. On July 17, 2020, in accordance with
-    House GOP conference rules, [Rep. Watkins stepped down from his committee positions](https://www.kansascity.com/news/politics-government/article244299452.html).
+    House GOP conference rules, [Rep. Watkins stepped down from his committee positions](https://www.kansascity.com/news/politics-government/article244299452.html). In August 2020, Rep. Watkins [lost in the Kansas primary](https://www.politico.com/news/2020/07/14/kansas-gop-rep-watkins-indicted-for-voter-fraud-362072) and will leave Congress in January 2021.
   allegation: interfering with law enforcement by providing false information, voting
     without being qualified and unlawful advance voting
   consequences:
@@ -16,6 +16,9 @@
     text: In accordance with House GOP conference rules, Rep. Watkins stepped down
       from his committee positions.
     link: https://www.kansascity.com/news/politics-government/article244299452.html
+  - date: 2020-08-04
+    text: Watkins lost in the Kansas Republican primary.
+    link: https://www.politico.com/news/2020/07/14/kansas-gop-rep-watkins-indicted-for-voter-fraud-362072
   tags: elections unresolved
 - person: 456790
   name: Kelly Loeffler
@@ -115,7 +118,7 @@
   text: In 2019, Tlaib was accused of reporting improper campaign expenditures. In
     August, the Office of Congressional Ethics [recommended further review](https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-rashida-tlaib)
     by the House Committee on Ethics. In November, the House Committee on Ethics [published
-    the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-17).
+    the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-17). In August 2020, the House Committee on Ethics found that while Rep. Tlaib did receive campaign funds for personal use after the 2018 general election, it was an error and not malfeasance. She is fined $10,800, the amount she received after the election.
   allegation: reporting improper campaign expenditures
   consequences:
   - date: 2019-08-16
@@ -127,7 +130,11 @@
     action: published the Office of Congressional Ethics Report and Findings and the
       member's response.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-17
-  tags: elections unresolved
+  - date: 2020-08-07
+    body: House Committee on Ethics
+    action: fined Rep. Tlaib $10,800, the amount of campaign funds she received after the election and concluded that it was an error, not malfeasance.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-15
+  tags: elections resolved
 - person: 412765
   name: Ross Spano
   text: In 2019, Spano was accused of receiving improper and excessive loans for his
