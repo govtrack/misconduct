@@ -1,3 +1,13 @@
+ person: 400344
+  name: Ileana Ros-Lehtinen
+  text: Former Rep. Ileana Ros-Lehtinen is under federal investigation by the Justice Department for allegedly spending campaign money on [personal trips](https://miami.cbslocal.com/2020/09/25/former-florida-representative-ileana-ros-lehtinen-federal-investigation/) while in her final Congressional term.
+  allegation: using campaign funds for personal expenses
+  consequences:
+  - date: 2020-09-25
+    body: Federal Bureau of Investigation
+    text: Former Rep. Ileana Ros-Lehtinen is under federal investigation by the Justice Department for allegedly spending campaign money on personal trips
+    link: https://miami.cbslocal.com/2020/09/25/former-florida-representative-ileana-ros-lehtinen-federal-investigation/
+  tags: elections unresolved
 - person: 412779
   name: Steve Watkins
   text: In 2020, the district attorney of Shawnee County, KS, charged Rep. Watkins
