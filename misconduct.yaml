@@ -1,11 +1,13 @@
- person: 400344
+- person: 400344
   name: Ileana Ros-Lehtinen
-  text: Former Rep. Ileana Ros-Lehtinen is under federal investigation by the Justice Department for allegedly spending campaign money on [personal trips](https://miami.cbslocal.com/2020/09/25/former-florida-representative-ileana-ros-lehtinen-federal-investigation/) while in her final Congressional term.
+  text: Former Rep. Ileana Ros-Lehtinen is under federal investigation by the Justice
+    Department for allegedly spending campaign money on [personal trips](https://miami.cbslocal.com/2020/09/25/former-florida-representative-ileana-ros-lehtinen-federal-investigation/)
+    while in her final Congressional term.
   allegation: using campaign funds for personal expenses
   consequences:
   - date: 2020-09-25
-    body: Federal Bureau of Investigation
-    text: Former Rep. Ileana Ros-Lehtinen is under federal investigation by the Justice Department for allegedly spending campaign money on personal trips
+    text: Former Rep. Ileana Ros-Lehtinen is under federal investigation by the Justice
+      Department for allegedly spending campaign money on personal trips.
     link: https://miami.cbslocal.com/2020/09/25/former-florida-representative-ileana-ros-lehtinen-federal-investigation/
   tags: elections unresolved
 - person: 412779
@@ -16,7 +18,8 @@
     and subsequently lied to law enforcement. On July 17, 2020, in accordance with
     House GOP conference rules, [Rep. Watkins stepped down from his committee positions](https://www.kansascity.com/news/politics-government/article244299452.html).
     In August 2020, Rep. Watkins [lost in the Kansas primary](https://www.politico.com/news/2020/07/14/kansas-gop-rep-watkins-indicted-for-voter-fraud-362072)
-    and will leave Congress in January 2021. On August 14, the House Ethics Committee [established an Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-steve).
+    and will leave Congress in January 2021. On August 14, the House Ethics Committee
+    [established an Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-steve).
   allegation: interfering with law enforcement by providing false information, voting
     without being qualified and unlawful advance voting
   consequences:
@@ -301,7 +304,9 @@
     that Gaetz had violated its rules and closed its investigation. Because of his
     [repeated refusals](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-matt)
     to respond to House Committee on Ethics requests for interviews, an Investigative
-    Subcommittee was established in June 2019. In August 2020, the House Committee on Ethics published the report of the Investigative Subcommittee [admonishing Gaetz for unprofessional behavior](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_21.pdf).
+    Subcommittee was established in June 2019. In August 2020, the House Committee
+    on Ethics published the report of the Investigative Subcommittee [admonishing
+    Gaetz for unprofessional behavior](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_21.pdf).
   allegation: violating the Florida Supreme Court's rules for attorney by attempting
     to intimidate a witness scheduled to testify before the House Judiciary Committee.
   consequences:
@@ -335,7 +340,8 @@
     link: https://www.tampabay.com/florida-politics/buzz/2019/08/14/no-probable-cause-matt-gaetz-violated-florida-bar-rules-in-tweets-at-michael-cohen/
   - date: 2020-08-21
     body: House Committee on Ethics
-    action: published the report of the Investigative Subcommittee admonishing Gaetz for unprofessional behavior.
+    action: published the report of the Investigative Subcommittee admonishing Gaetz
+      for unprofessional behavior.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_21.pdf
   tags: corruption ethics resolved
 - person: 400172
