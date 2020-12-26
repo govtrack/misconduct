@@ -301,13 +301,9 @@
     participated. Gaetz was [referred to the Florida Bar for investigation](http://www.tampabay.com/florida-politics/buzz/2019/02/27/matt-gaetz-under-investigation-by-the-florida-bar-for-tweet-at-michael-cohen/)
     and possible discipline. In August 2019, the [Florida Bar announced it had found
     "no probable cause"](https://www.tampabay.com/florida-politics/buzz/2019/08/14/no-probable-cause-matt-gaetz-violated-florida-bar-rules-in-tweets-at-michael-cohen/)
-    that Gaetz had violated its rules and closed its investigation. Because of his
-    [repeated refusals](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-matt)
-    to respond to House Committee on Ethics requests for interviews, an Investigative
-    Subcommittee was established in June 2019. In August 2020, the House Committee
-    on Ethics published the report of the Investigative Subcommittee [admonishing
-    Gaetz for unprofessional behavior](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_21.pdf).
-  allegation: violating the Florida Supreme Court's rules for attorney by attempting
+    that Gaetz had violated its rules and closed its investigation. In August 2020,
+    the House Committee on Ethics [admonished Gaetz for unprofessional behavior](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_21.pdf).
+  allegation: violating the Florida Supreme Court's rules for attornies by attempting
     to intimidate a witness scheduled to testify before the House Judiciary Committee.
   consequences:
   - date: 2019-02-27
@@ -842,12 +838,11 @@
     Ethics since 2017 for sharing material nonpublic information in the purchase of
     Innate stock, using his status to purchase discounted stock, and in 2013 directing
     an NIH employee to meet with Innate staff to discuss a clinical trial. He briefly
-    suspended his reelection campaign, then unsuspended it and kept his seat. In May
-    2019, the House Committee on Ethics [reauthorized](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-chris)
-    deferred further investigation to the Department of Justice. On Sept. 30, 2019,
-    Collins [resigned](https://www.foxnews.com/politics/new-yorks-collins-to-resign-house-seat-ahead-of-expected-guilty-plea-for-insider-trading)
+    suspended his reelection campaign, then unsuspended it and kept his seat. On Sept.
+    30, 2019, Collins [resigned](https://www.foxnews.com/politics/new-yorks-collins-to-resign-house-seat-ahead-of-expected-guilty-plea-for-insider-trading)
     from Congress and on Oct. 1, 2019, he [pleaded guilty](https://www.nytimes.com/2019/10/01/nyregion/chris-collins-guilty-congress.html)
-    to conspiracy to commit securities fraud and lying to federal investigators. On December 22, 2020, Collins was [pardoned by impeached President Trump](https://nymag.com/intelligencer/article/trump-pardons-duncan-hunter-blackwater-murderer-and-more.html_).
+    to conspiracy to commit securities fraud and lying to federal investigators. On
+    December 22, 2020, Collins was [pardoned by impeached President Trump](https://nymag.com/intelligencer/article/trump-pardons-duncan-hunter-blackwater-murderer-and-more.html_).
   allegation: sharing material nonpublic information in the purchase of Innate stock,
     using his status to purchase discounted stock and directing an NIH employee to
     meet with Innate staff to discuss a clinical trial
@@ -901,7 +896,7 @@
       to federal investigators.
     link: https://www.nytimes.com/2019/10/01/nyregion/chris-collins-guilty-congress.html
   - date: 2020-12-22
-    action: pardoned by impeached President Trump.
+    text: Pardoned by impeached President Trump.
     link: https://nymag.com/intelligencer/article/trump-pardons-duncan-hunter-blackwater-murderer-and-more.html
   tags: ethics resolved
 - person: 400163
@@ -1055,7 +1050,8 @@
     purposes. In December 2019, Hunter pleaded guilty to one count of conspiring to
     misuse campaign funds. The House Committee on Ethics [released the findings of
     the Office of Congressional Ethics](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-2)
-    and resumed its investigation. Hunter resigned from Congress in January 2020 and was [pardoned on December 22, 2020 by impeached President Trump](https://nymag.com/intelligencer/article/trump-pardons-duncan-hunter-blackwater-murderer-and-more.html).
+    and resumed its investigation. Hunter resigned from Congress in January 2020 and
+    was [pardoned on December 22, 2020 by impeached President Trump](https://nymag.com/intelligencer/article/trump-pardons-duncan-hunter-blackwater-murderer-and-more.html).
   allegation: converting funds from his congressional campaign committee for personal
     use
   consequences:
@@ -1102,10 +1098,10 @@
       work and released the findings of the Office of Congressional Ethics.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-2
   - date: 2020-01-07
-    action: submitted his resignation from Congress.
+    text: Submitted his resignation from Congress.
     link: https://apnews.com/article/21f9320c1ab116538a9244941c11192b
   - date: 2020-12-22
-    action: pardoned by impeached President Trump.
+    text: Pardoned by impeached President Trump.
     link: https://nymag.com/intelligencer/article/trump-pardons-duncan-hunter-blackwater-murderer-and-more.html
   tags: crime elections resolved
 - person: 400169
@@ -1847,7 +1843,8 @@
     the House began an [investigation](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-stev-0)
     into conspiring to accept contributions to his congressional campaign committee
     from individuals who were employed by his congressional office. Stockman lost
-    the 2014 Senate primary and did not win re-election to his House seat. On December 22, 2020, Stockman was [pardoned by impeached President Trump](https://nymag.com/intelligencer/article/trump-pardons-duncan-hunter-blackwater-murderer-and-more.html).
+    the 2014 Senate primary and did not win re-election to his House seat. On December
+    22, 2020, Stockman was [pardoned by impeached President Trump](https://nymag.com/intelligencer/article/trump-pardons-duncan-hunter-blackwater-murderer-and-more.html).
   allegation: conspiring to accept contributions to his congressional campaign committee
     from individuals who were employed by his congressional office
   consequences:
@@ -1872,7 +1869,7 @@
     link: https://www.texastribune.org/2018/04/12/texas-congressman-steve-stockman-found-guilty-felony-charges/
     tags: conviction
   - date: 2020-12-22
-    action: pardoned by impeached President Trump.
+    text: Pardoned by impeached President Trump.
     link: https://nymag.com/intelligencer/article/trump-pardons-duncan-hunter-blackwater-murderer-and-more.html
   tags: elections ethics resolved
 - person: 400163
