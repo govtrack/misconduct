@@ -359,6 +359,7 @@
     text: Pleaded guilty to lying to the FBI while being investigated for conspiracy
       and bribery.
     link: https://www.washingtonpost.com/politics/2019/10/02/former-north-carolina-state-political-party-chairman-pleads-guilty-making-false-statement-fbi/
+    tags: plea
   tags: corruption elections resolved
 - person: 412627
   name: Rod Blum
@@ -755,6 +756,7 @@
     text: Pleaded guilty to groping, sexually suggestive comments and unwanted advances
       as mayor of San Diego, CA.
     link: http://www.nytimes.com/2013/10/16/us/criminal-charges-for-bob-filner-former-san-diego-mayor.html
+    tags: plea
   - date: 2017-11-20
     text: Rep. Diana DeGette alleged that Filner had groped her while he was still
       in Congress.
@@ -895,6 +897,7 @@
     text: Collins pleaded guilty to conspiracy to commit securities fraud and lying
       to federal investigators.
     link: https://www.nytimes.com/2019/10/01/nyregion/chris-collins-guilty-congress.html
+    tags: plea
   - date: 2020-12-22
     text: Pardoned by President Trump.
     link: https://nymag.com/intelligencer/article/trump-pardons-duncan-hunter-blackwater-murderer-and-more.html
@@ -1092,6 +1095,7 @@
   - date: 2019-12-03
     text: Hunter pleaded guilty to one count of conspiring to misuse campaign funds.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dunc-2
+    tags: plea
   - date: 2019-12-09
     body: House Committee on Ethics
     action: resumed its investigation as the Department of Justice has completed its

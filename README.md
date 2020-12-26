@@ -141,7 +141,7 @@ list of tags from the following set:
 * `exclusion` - A member-elect was prevented from being seated by the Senate or House.
 * `settlement` - Monetary settlement.
 * `conviction` - Conviction in a court.
-* `plea` - Pleaded in a court.
+* `plea` - Pleaded guilty or no contest in a court.
 
 ## Public domain
 
