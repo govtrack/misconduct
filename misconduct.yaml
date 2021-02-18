@@ -1,3 +1,23 @@
+- person: 412773
+  name: Ross Fulcher
+  allegation: assaulting a Capitol Police officer when refusing to fully comply with security procedures before entering the House floor on January 12, 2021.
+  text: Rep. Fulcher was accused of assaulting a Capitol Police officer when [refusing to fully comply with security procedures before entering the House floor on January 12, 2021](https://www.huffpost.com/entry/capitol-police-investigate-member-incidents-metal-detectors-house-chamber_n_602dd485c5b67c32961b2d8e?aod). That the Capitol Police were investigating became public when they interviewed a Huffington Post reporter who'd witnessed the event as part of the investigation.
+  consequences:
+  - date: 2021-02-17
+    body: U.S. Capitol Police
+    action: interviewed a Huffington Post reporter who'd observed and reported the incident being investigated.
+    link: https://www.huffpost.com/entry/capitol-police-investigate-member-incidents-metal-detectors-house-chamber_n_602dd485c5b67c32961b2d8e?aod
+  tags: crime unresolved
+- person: 412434
+  name: Andy Harris
+  allegation: attempting to carry a concealed firearm onto the House floor on January 21, 2021.
+  text: Rep. Harris was accused of [attempting to carry a concealed firearm onto the House floor on January 21, 2021](https://www.huffpost.com/entry/house-congressman-gun-andy-harris_n_600a0874c5b674575ae423ae?gjl). That [the Capitol Police were investigating](https://www.huffpost.com/entry/capitol-police-investigate-member-incidents-metal-detectors-house-chamber_n_602dd485c5b67c32961b2d8e?aod) became public when they interviewed a Huffington Post reporter who'd witnessed the event as part of the investigation.
+  consequences:
+  - date: 2021-02-17
+    body: U.S. Capitol Police
+    action: interviewed a Huffington Post reporter who'd observed and reported the incident being investigated.
+    link: https://www.huffpost.com/entry/capitol-police-investigate-member-incidents-metal-detectors-house-chamber_n_602dd485c5b67c32961b2d8e?aod
+  tags: crime unresolved
 - person: 400344
   name: Ileana Ros-Lehtinen
   text: Former Rep. Ileana Ros-Lehtinen is under federal investigation by the Justice
