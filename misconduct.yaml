@@ -1,3 +1,36 @@
+- person: 412690
+  name: Matt Gaetz
+  allegation: engaging in a sexual relationship with underage girl
+  text: On March 30, 2021, the New York Times reported that the Department of Justice was investigating Rep. Matt Gaetz over allegedly engaging in a sexual relationship with underage girl. 
+  consequences:
+  - date: 2021-03-30
+    text: the New York Times reported that the Department of Justice was investigating Rep. Matt Gaetz over allegedly engaging in a sexual relationship with underage girl
+    link: https://www.nytimes.com/2021/03/30/us/politics/matt-gaetz-sex-trafficking-investigation.html
+  tags: unresolved sexual-harassment-abuse crime
+- person: 400651
+  name: Louie Gohmert
+  allegation: failing to complete security screening on February 4, 2021.
+  text: Rep. Gohmert was accused of [failing to complete security screening on February 4, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-louis) by the House Committee on Ethics. He appealed on February 26 and the appeal was denied by a majority of the committee on March 30, 2021.
+  consequences:
+  - date: 2021-03-11
+    body: House Committee on Ethics
+    action: began a review of the member's appeal of his fine.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-louis
+  - date: 2021-03-30
+    body: House Committee on Ethics
+    action: announced that Gohmert's February 26 appeal was denied.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-21
+  tags: unresolved ethics
+- person: 456813
+  name: Andrew Clyde
+  allegation: failing to complete security screening on February 3, 2021.
+  text: Rep. Clyde was accused of [failing to complete security screening on February 3, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-20) by the House Committee on Ethics. He is allowed to, and is, appealing the fine.
+  consequences:
+  - date: 2021-03-11
+    body: House Committee on Ethics
+    action: began a review of the member's appeal of his fine.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-20
+  tags: unresolved ethics
 - person: 412773
   name: Ross Fulcher
   allegation: assaulting a Capitol Police officer when refusing to fully comply with
