@@ -1,16 +1,30 @@
+- person: 412393
+  name: Tom Reed
+  allegation: engaging in sexual misconduct
+  text: On April 9, 2021, the House Committee on Ethics [opened an investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tom) into allegations that Reed was engaging in sexual misconduct.
+  consequences:
+  - date: 2021-04-09
+    body: House Committee on Ethics
+    action: opened an investigation into Reed.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tom
+  tags: sexual-harassment-abuse unresolved
 - person: 412690
   name: Matt Gaetz
-  allegation: engaging in a sexual relationship with underage girl
+  allegation: engaging in a sexual relationship with underage girl, using illicit drugs, sharing inappropriate images or videos on the House floor, misusing state identification records, converting campaign funds to personal use, and/or accepting a bribe, improper gratuity, or impermissible gift
   text: On March 30, 2021, the New York Times reported that the Department of Justice
     was investigating Rep. Matt Gaetz over allegedly engaging in a sexual relationship
-    with an underage girl.
+    with an underage girl. Over the ensuing two weeks, the allegations expanded signficantly and on April 9 the House Committee on Ethics [opened an investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-22) into allegations that Gaetz was engaging in a sexual relationship with underage girl, using illicit drugs, sharing inappropriate images or videos on the House floor, misusing state identification records, converting campaign funds to personal use, and/or accepting a bribe, improper gratuity, or impermissible gift.
   consequences:
   - date: 2021-03-30
     text: The New York Times reported that the Department of Justice was investigating
       Rep. Matt Gaetz over allegedly engaging in a sexual relationship with an underage
       girl.
     link: https://www.nytimes.com/2021/03/30/us/politics/matt-gaetz-sex-trafficking-investigation.html
-  tags: crime sexual-harassment-abuse unresolved
+  - date: 2021-04-09
+    body: House Committee on Ethics
+    action: opened an investigation into Gaetz.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-22
+  tags: crime sexual-harassment-abuse elections corruption ethics unresolved
 - person: 400651
   name: Louie Gohmert
   allegation: failing to complete security screening on February 4, 2021.
@@ -27,19 +41,23 @@
     body: House Committee on Ethics
     action: announced that Gohmert's February 26 appeal was denied.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-21
-  tags: ethics unresolved
+  tags: ethics resolved
 - person: 456813
   name: Andrew Clyde
   allegation: failing to complete security screening on February 3, 2021.
   text: Rep. Clyde was accused of [failing to complete security screening on February
     3, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-20)
-    by the House Committee on Ethics. He is allowed to, and is, appealing the fine.
+    by the House Committee on Ethics. He is allowed to, and is, appealing the fine. On April 12, the [Committee rejected Clyde's appeals]().
   consequences:
   - date: 2021-03-11
     body: House Committee on Ethics
     action: began a review of the member's appeal of his fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-20
-  tags: ethics unresolved
+  - date: 2021-04-12
+    body: House Committee on Ethics
+    action: a majority of the Committee refused to accept Clyde's appeal and his fines stand.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-23
+  tags: ethics resolved
 - person: 412773
   name: Ross Fulcher
   allegation: assaulting a Capitol Police officer when refusing to fully comply with
