@@ -1,3 +1,14 @@
+- person: 400340
+  name: Harold "Hal" Rogers
+  allegation: failing to complete security screening on April 14, 2021.
+  text: Rep. Clyde was accused of [failing to complete security screening on April 14, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hal)
+    by the House Committee on Ethics. He is allowed to, and is, appealing the fine.
+  consequences:
+  - date: 2021-04-20
+    body: House Committee on Ethics
+    action: began a review of the member's appeal of his fine.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hal
+  tags: ethics unresolved
 - person: 412393
   name: Tom Reed
   allegation: engaging in sexual misconduct
@@ -57,7 +68,7 @@
   text: Rep. Clyde was accused of [failing to complete security screening on February
     3, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-20)
     by the House Committee on Ethics. He is allowed to, and is, appealing the fine.
-    On April 12, the [Committee rejected Clyde's appeals]().
+    On April 12, the [Committee rejected Clyde's appeals](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-23).
   consequences:
   - date: 2021-03-11
     body: House Committee on Ethics
