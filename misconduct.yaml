@@ -1,3 +1,14 @@
+- person: 400075
+  name: James "Jim" Clyburn
+  allegation: failing to complete security screening on April 20, 2021.
+  text: Rep. Clyburn was accused of [failing to complete security screening on April 20, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-james)
+    by the House Committee on Ethics. He is allowed to, and is, appealing the fine.
+  consequences:
+  - date: 2021-04-23
+    body: House Committee on Ethics
+    action: began a review of the member's appeal of his fine.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-james
+  tags: ethics unresolved
 - person: 400340
   name: Harold "Hal" Rogers
   allegation: failing to complete security screening on April 14, 2021.
