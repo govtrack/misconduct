@@ -1,25 +1,55 @@
+- person: 412722
+  name: Lloyd Smucker
+  allegation: failure to complete security screening on May 19
+  text: Rep. Smucker was accused of [failing to complete security screening on May 19, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lloyd)
+    by the House Committee on Ethics. He has 30 days to appeal the fine.
+  consequences:
+  - date: 2021-05-24
+    body: House Committee on Ethics
+    action: announced the member's fine
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lloyd
+  tags: 
+- person: 400643
+  name: Virginia Foxx
+  allegation: failure to complete security screening on May 13
+  text: Rep. Foxx was accused of [failing to complete security screening on May 13, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-24)
+    by the House Committee on Ethics. She has 30 days to appeal the fine.
+  consequences:
+  - date: 2020-05-18
+    body: House Committee on Ethics
+    action: announced the member's fine
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-24
+  tags: ethics unresolved
 - person: 400075
   name: James "Jim" Clyburn
   allegation: failing to complete security screening on April 20, 2021.
   text: Rep. Clyburn was accused of [failing to complete security screening on April 20, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-james)
-    by the House Committee on Ethics. He is allowed to, and is, appealing the fine.
+    by the House Committee on Ethics. He is allowed to, and is, appealing the fine. On May 20, a majority of the Committee [agreed to Clyburn's appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-25).
   consequences:
   - date: 2021-04-23
     body: House Committee on Ethics
     action: began a review of the member's appeal of his fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-james
-  tags: ethics unresolved
-- person: 400340
+  - date: 2021-05-20
+    body: House Committee on Ethics
+    action: agreed to the member's appeal of his fine.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-25
+  tags: ethics resolved
+  - person: 400340
   name: Harold "Hal" Rogers
   allegation: failing to complete security screening on April 14, 2021.
   text: Rep. Rogers was accused of [failing to complete security screening on April 14, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hal)
-    by the House Committee on Ethics. He is allowed to, and is, appealing the fine.
+    by the House Committee on Ethics. He is allowed to, and is, appealing the fine. On May 20, a majority of the Committee [agreed to Roger's appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hal-0).
   consequences:
   - date: 2021-04-20
     body: House Committee on Ethics
     action: began a review of the member's appeal of his fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hal
-  tags: ethics unresolved
+  - date: 2021-05-20
+    body: House Committee on Ethics
+    action: agreed to the member's appeal of his fine.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hal-0
+  tags: ethics resolved
 - person: 412393
   name: Tom Reed
   allegation: engaging in sexual misconduct
@@ -357,7 +387,7 @@
     an investigation. In 2020, the House Committee on Ethics[established an Investigative
     Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-f-0)
     to further investigate the allegations following a referral from the Office of
-    Congressional Ethics.
+    Congressional Ethics. In 2021, the [Investigative Subcommittee was reauthorized](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-0) for the 117th Congress.
   allegation: engaging in a sexual relationship with a staff member, converting campaign
     funds to personal use and/or accepting improper or excessive campaign contributions
   consequences:
@@ -370,6 +400,10 @@
     action: established an Investigative Subcommittee following a referral from the
       Office of Congressional Ethics
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-f-0
+  - date: 2021-05-20
+    body: House Committee on Ethics
+    action: reauthorized the Investigative Subcommittee for the 117th Congress
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-0
   tags: elections sexual-harassment-abuse unresolved
 - person: 412756
   name: Katie Hill
