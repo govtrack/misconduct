@@ -1,15 +1,66 @@
+- person: 412698
+  name: Brian Mast
+  allegation: failing to wear a mask on the House floor
+  text: On May 20, 2021, Rep. Mast was accused of failing to wear a mask on the House floor and the House Ethics Committee issued a fine. On May 24th, the member appealed and on June 25, the Committee [rejected the appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-brain).
+  consequences:
+  - date: 2021-05-20
+    body: House Committee on Ethics
+    action: announced the member's fine for failing to wear a mask on the House floor.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-brain
+  - date: 2021-05-24
+    action: member appealed the fine
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/05.24.2021%20Mast%20Mask%20%20Violation%20Appeal.pdf
+  - date: 2021-06-25
+    body: House Committee on Ethics
+    action: rejected the member's appeal.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-brain
+  tags: ethics resolved
+- person: 456817
+  name: Mariannette Miller-Meeks
+  allegation: failing to wear a mask on the House floor
+  text: On May 20, 2021, Rep. Miller-Meeks was accused of failing to wear a mask on the House floor and the House Ethics Committee issued a fine. On June 25, the Committee [published the fine](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-26).
+  consequences:
+  - date: 2021-05-20
+    body: House Committee on Ethics
+    action: announced the member's fine for failing to wear a mask on the House floor.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-brain
+  - date: 2021-06-25
+    body: House Committee on Ethics
+    action: published the fine.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-26
+  tags: ethics resolved
+- person: 456850
+  name: Beth Van Duyne
+  allegation: failing to wear a mask on the House floor
+  text: On May 20, 2021, Rep. Van Duyne was accused of failing to wear a mask on the House floor and the House Ethics Committee issued a fine. On May 24th, the member appealed and on June 25, the Committee [rejected the appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-beth).
+  consequences:
+  - date: 2021-05-20
+    body: House Committee on Ethics
+    action: announced the member's fine for failing to wear a mask on the House floor.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-beth
+  - date: 2021-05-24
+    action: member appealed the fine
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Rep.%20Van%20Duyne%20Appeal%20Letter.pdf
+  - date: 2021-06-25
+    body: House Committee on Ethics
+    action: rejected the member's appeal.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-beth
+  tags: ethics resolved
 - person: 412722
   name: Lloyd Smucker
   allegation: failure to complete security screening on May 19
-  text: Rep. Smucker was accused of [failing to complete security screening on May
-    19, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lloyd)
-    by the House Committee on Ethics. He has 30 days to appeal the fine.
+  text: Rep. Smucker was accused of [failing to complete security screening on May 19, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lloyd)
+    by the House Committee on Ethics. Smucker appealed and on June 28, 2021, the Committee [rejected his appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-27).
   consequences:
   - date: 2021-05-24
     body: House Committee on Ethics
-    action: announced the member's fine
+    action: announced the member's fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lloyd
-  tags: ethics unresolved
+  - date: 2021-06-28
+    body: House Committee on Ethics
+    action: did not agree with the member's appeal of the fine
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-27
+  tags: ethics resolved
 - person: 400643
   name: Virginia Foxx
   allegation: failure to complete security screening on May 13
