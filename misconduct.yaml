@@ -1,14 +1,17 @@
 - person: 456814
   name: Marjorie Taylor Greene
   allegation: failing to wear a mask on the House floor
-  text: On May 20, 2021, Rep. Greene was accused of failing to wear a mask on the House floor and the House Ethics Committee issued a fine. On June 18, the member appealed and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Greene.pdf).
+  text: On May 20, 2021, Rep. Greene was accused of failing to wear a mask on the
+    House floor and the House Ethics Committee issued a fine. On June 18, the member
+    appealed and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Greene.pdf).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: informed the member of the member's fine for failing to wear a mask on the House floor.
+    action: informed the member of the member's fine for failing to wear a mask on
+      the House floor.
     link: https://ethics.house.gov/press-releases/statement-chair-and-ranking-member-committee-ethics-regarding-representative-marjorie
   - date: 2021-06-18
-    action: member appealed the fine
+    text: Member appealed the fine.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Marjorie%20Taylor%20Greene%20Mask%20Fine%20Appeal%20Letter%20%286.18.21%29.pdf
   - date: 2021-07-20
     body: House Committee on Ethics
@@ -18,14 +21,17 @@
 - person: 412738
   name: Ralph Norman
   allegation: failing to wear a mask on the House floor
-  text: On May 20, 2021, Rep. Norman was accused of failing to wear a mask on the House floor and the House Ethics Committee issued a fine. On June 16, the member appealed and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Norman.pdf).
+  text: On May 20, 2021, Rep. Norman was accused of failing to wear a mask on the
+    House floor and the House Ethics Committee issued a fine. On June 16, the member
+    appealed and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Norman.pdf).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: informed the member of the member's fine for failing to wear a mask on the House floor.
+    action: informed the member of the member's fine for failing to wear a mask on
+      the House floor.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ralph
   - date: 2021-06-16
-    action: member appealed the fine
+    text: Member appealed the fine.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Rep.%20Norman%20Ethics%20Appeal.pdf
   - date: 2021-07-20
     body: House Committee on Ethics
@@ -35,14 +41,17 @@
 - person: 412503
   name: Thomas Massie
   allegation: failing to wear a mask on the House floor
-  text: On May 20, 2021, Rep. Massie was accused of failing to wear a mask on the House floor and the House Ethics Committee issued a fine. On June 15, the member appealed and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Massie%20%281%29.pdf).
+  text: On May 20, 2021, Rep. Massie was accused of failing to wear a mask on the
+    House floor and the House Ethics Committee issued a fine. On June 15, the member
+    appealed and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Massie%20%281%29.pdf).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: informed the member of the member's fine for failing to wear a mask on the House floor.
+    action: informed the member of the member's fine for failing to wear a mask on
+      the House floor.
     link: https://ethics.house.gov/press-releases/statement-chair-and-ranking-member-committee-ethics-regarding-representative-thomas
   - date: 2021-06-15
-    action: member appealed the fine
+    text: Member appealed the fine.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/20210615%20Massie%20Appeal%20Letter.pdf
   - date: 2021-07-20
     body: House Committee on Ethics
@@ -52,24 +61,28 @@
 - person: 412698
   name: Brian Mast
   allegation: failing to wear a mask on the House floor
-  text: On May 20, 2021, Rep. Mast was accused of failing to wear a mask on the House floor and the House Ethics Committee issued a fine. On May 24th, the member appealed and on June 25, the Committee [rejected the appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-brain).
+  text: On May 20, 2021, Rep. Mast was accused of failing to wear a mask on the House
+    floor and the House Ethics Committee issued a fine. On May 24th, the member appealed
+    and on June 25, the Committee [rejected the appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-brain).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: announced the member's fine for failing to wear a mask on the House floor.
+    action: announced the member's fine for failing to wear a mask on the House floor
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-brain
   - date: 2021-05-24
-    action: member appealed the fine
+    text: Member appealed the fine.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/05.24.2021%20Mast%20Mask%20%20Violation%20Appeal.pdf
   - date: 2021-06-25
     body: House Committee on Ethics
-    action: rejected the member's appeal.
+    action: rejected the member's appeal
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-brain
   tags: ethics resolved
 - person: 456817
   name: Mariannette Miller-Meeks
   allegation: failing to wear a mask on the House floor
-  text: On May 20, 2021, Rep. Miller-Meeks was accused of failing to wear a mask on the House floor and the House Ethics Committee issued a fine. On June 25, the Committee [published the fine](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-26).
+  text: On May 20, 2021, Rep. Miller-Meeks was accused of failing to wear a mask on
+    the House floor and the House Ethics Committee issued a fine. On June 25, the
+    Committee [published the fine](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-26).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
@@ -83,25 +96,29 @@
 - person: 456850
   name: Beth Van Duyne
   allegation: failing to wear a mask on the House floor
-  text: On May 20, 2021, Rep. Van Duyne was accused of failing to wear a mask on the House floor and the House Ethics Committee issued a fine. On May 24th, the member appealed and on June 25, the Committee [rejected the appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-beth).
+  text: On May 20, 2021, Rep. Van Duyne was accused of failing to wear a mask on the
+    House floor and the House Ethics Committee issued a fine. On May 24th, the member
+    appealed and on June 25, the Committee [rejected the appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-beth).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: announced the member's fine for failing to wear a mask on the House floor.
+    action: announced the member's fine for failing to wear a mask on the House floor
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-beth
   - date: 2021-05-24
-    action: member appealed the fine
+    text: Member appealed the fine.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Rep.%20Van%20Duyne%20Appeal%20Letter.pdf
   - date: 2021-06-25
     body: House Committee on Ethics
-    action: rejected the member's appeal.
+    action: rejected the member's appeal
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-beth
   tags: ethics resolved
 - person: 412722
   name: Lloyd Smucker
   allegation: failure to complete security screening on May 19
-  text: Rep. Smucker was accused of [failing to complete security screening on May 19, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lloyd)
-    by the House Committee on Ethics. Smucker appealed and on June 28, 2021, the Committee [rejected his appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-27).
+  text: Rep. Smucker was accused of [failing to complete security screening on May
+    19, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lloyd)
+    by the House Committee on Ethics. Smucker appealed and on June 28, 2021, the Committee
+    [rejected his appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-27).
   consequences:
   - date: 2021-05-24
     body: House Committee on Ethics
