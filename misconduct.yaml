@@ -1,3 +1,54 @@
+- person: 456814
+  name: Marjorie Taylor Greene
+  allegation: failing to wear a mask on the House floor
+  text: On May 20, 2021, Rep. Greene was accused of failing to wear a mask on the House floor and the House Ethics Committee issued a fine. On June 18, the member appealed and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Greene.pdf).
+  consequences:
+  - date: 2021-05-20
+    body: House Committee on Ethics
+    action: informed the member of the member's fine for failing to wear a mask on the House floor.
+    link: https://ethics.house.gov/press-releases/statement-chair-and-ranking-member-committee-ethics-regarding-representative-marjorie
+  - date: 2021-06-18
+    action: member appealed the fine
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Marjorie%20Taylor%20Greene%20Mask%20Fine%20Appeal%20Letter%20%286.18.21%29.pdf
+  - date: 2021-07-20
+    body: House Committee on Ethics
+    action: rejected the member's appeal.
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Greene.pdf
+  tags: ethics resolved
+- person: 412738
+  name: Ralph Norman
+  allegation: failing to wear a mask on the House floor
+  text: On May 20, 2021, Rep. Norman was accused of failing to wear a mask on the House floor and the House Ethics Committee issued a fine. On June 16, the member appealed and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Norman.pdf).
+  consequences:
+  - date: 2021-05-20
+    body: House Committee on Ethics
+    action: informed the member of the member's fine for failing to wear a mask on the House floor.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ralph
+  - date: 2021-06-16
+    action: member appealed the fine
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Rep.%20Norman%20Ethics%20Appeal.pdf
+  - date: 2021-07-20
+    body: House Committee on Ethics
+    action: rejected the member's appeal.
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Norman.pdf
+  tags: ethics resolved
+- person: 412503
+  name: Thomas Massie
+  allegation: failing to wear a mask on the House floor
+  text: On May 20, 2021, Rep. Massie was accused of failing to wear a mask on the House floor and the House Ethics Committee issued a fine. On June 15, the member appealed and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Massie%20%281%29.pdf).
+  consequences:
+  - date: 2021-05-20
+    body: House Committee on Ethics
+    action: informed the member of the member's fine for failing to wear a mask on the House floor.
+    link: https://ethics.house.gov/press-releases/statement-chair-and-ranking-member-committee-ethics-regarding-representative-thomas
+  - date: 2021-06-15
+    action: member appealed the fine
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/20210615%20Massie%20Appeal%20Letter.pdf
+  - date: 2021-07-20
+    body: House Committee on Ethics
+    action: rejected the member's appeal.
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Massie%20%281%29.pdf
+  tags: ethics resolved
 - person: 412698
   name: Brian Mast
   allegation: failing to wear a mask on the House floor
