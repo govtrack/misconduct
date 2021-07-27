@@ -1,29 +1,34 @@
 - person: 412565
   name: Joyce Beatty
   allegation: getting arrested at a protest
-  text: In July 2021, Rep. Beatty was accused of getting arrested at a protest. The House Committee on Ethics acknowledged the arrest and that she paid the fine and [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-joyce).
+  text: In July 2021, Rep. Beatty was accused of getting arrested at a protest. The
+    House Committee on Ethics acknowledged the arrest and that she paid the fine and
+    [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-joyce).
   consequences:
   - date: 2021-07-26
     body: House Committee on Ethics
-    action: acknowledged the arrest and that she paid the fine and closed the investigation.
+    action: acknowledged the arrest and that she paid the fine and closed the investigation
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-joyce
   tags: ethics resolved
 - person: 456851
   name: Blake Moore
   allegation: violating the STOCK Act
-  text: In July 2021, Rep. Moore acknowledged that he violated the STOCK Act by failing to meet a financial disclosure deadline and [paid a fine](https://www.sltrib.com/news/politics/2021/07/26/this-utah-congressman/).
+  text: In July 2021, Rep. Moore acknowledged that he violated the STOCK Act by failing
+    to meet a financial disclosure deadline and [paid a fine](https://www.sltrib.com/news/politics/2021/07/26/this-utah-congressman/).
   consequences:
   - date: 2021-07-27
-    text: paid a fine.
+    text: Paid a fine.
     link: https://www.sltrib.com/news/politics/2021/07/26/this-utah-congressman/
   tags: crime resolved
 - person: 456796
   name: Tommy Tuberville
   allegation: violating the STOCK Act
-  text: In July 2021, Sen. Tuberville acknowledged that he violated the STOCK Act by [failing to meet a financial disclosure deadline](https://www.cnbc.com/2021/07/27/china-critic-sen-tommy-tuberville-of-alabama-violated-stock-act.html).
+  text: In July 2021, Sen. Tuberville acknowledged that he violated the STOCK Act
+    by [failing to meet a financial disclosure deadline](https://www.cnbc.com/2021/07/27/china-critic-sen-tommy-tuberville-of-alabama-violated-stock-act.html).
   consequences:
   - date: 2021-07-27
-    text: acknowledged that he violated the STOCK Act by failing to meet a financial disclosure deadline.
+    text: Acknowledged that he violated the STOCK Act by failing to meet a financial
+      disclosure deadline.
     link: https://www.cnbc.com/2021/07/27/china-critic-sen-tommy-tuberville-of-alabama-violated-stock-act.html
   tags: crime resolved
 - person: 456814
