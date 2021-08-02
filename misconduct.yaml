@@ -1,3 +1,13 @@
+- person: 412199
+  name: Hank Johnson
+  allegation: getting arrested at a protest
+  text: In July 2021, Rep. Johnson  was accused of getting arrested at a protest. The House Committee on Ethics acknowledged the arrest and that he paid the fine and [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hank).
+  consequences:
+  - date: 2021-07-30
+    body: House Committee on Ethics
+    action: acknowledged the arrest and that he paid the fine and closed the investigation.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hank
+  tags: ethics resolved
 - person: 412565
   name: Joyce Beatty
   allegation: getting arrested at a protest
