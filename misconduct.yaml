@@ -1,7 +1,8 @@
 - person: 412437
   name: Bill Huizenga
   allegation: failure to complete security screening on May 19
-  text: Rep. Huizenga was accused of [failing to complete security screening on Aug. 25, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-29)
+  text: Rep. Huizenga was accused of [failing to complete security screening on Aug.
+    25, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-29)
     by the House Committee on Ethics. The member has yet to appeal the fine.
   consequences:
   - date: 2021-08-25
@@ -12,7 +13,8 @@
 - person: 412662
   name: Alexander Mooney
   allegation: using campaign funds for personal expenses
-  text: Rep. Mooney was accused of using campaign funds for personal expenses. According to Roll Call, [he is being investigated by the House Committee on Ethics](https://www.rollcall.com/2021/08/25/ethics-office-rep-mooney-tapped-campaign-funds-for-family-vacations-fast-food/).
+  text: Rep. Mooney was accused of using campaign funds for personal expenses. According
+    to Roll Call, [he is being investigated by the House Committee on Ethics](https://www.rollcall.com/2021/08/25/ethics-office-rep-mooney-tapped-campaign-funds-for-family-vacations-fast-food/).
   consequences:
   - date: 2021-08-25
     body: House Committee on Ethics
@@ -22,7 +24,9 @@
 - person: 412199
   name: Hank Johnson
   allegation: getting arrested at a protest
-  text: In July 2021, Rep. Johnson  was accused of getting arrested at a protest. The House Committee on Ethics acknowledged the arrest and that he paid the fine and [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hank).
+  text: In July 2021, Rep. Johnson  was accused of getting arrested at a protest.
+    The House Committee on Ethics acknowledged the arrest and that he paid the fine
+    and [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hank).
   consequences:
   - date: 2021-07-30
     body: House Committee on Ethics
