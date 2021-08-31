@@ -9,16 +9,16 @@
     action: announced the member's fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-29
   tags: ethics unresolved
-  - person: 412662
-    name: Alexander Mooney
-    allegation: using campaign funds for personal expenses
-    text: Rep. Mooney was accused of using campaign funds for personal expenses. According to Roll Call, [he is being investigated by the House Committee on Ethics](https://www.rollcall.com/2021/08/25/ethics-office-rep-mooney-tapped-campaign-funds-for-family-vacations-fast-food/).
-    consequences:
-    - date: 2021-08-25
-      body: House Committee on Ethics
-      text: is being investigated by the House Committee on Ethics.
-      link: https://www.rollcall.com/2021/08/25/ethics-office-rep-mooney-tapped-campaign-funds-for-family-vacations-fast-food/
-    tags: elections unresolved
+- person: 412662
+  name: Alexander Mooney
+  allegation: using campaign funds for personal expenses
+  text: Rep. Mooney was accused of using campaign funds for personal expenses. According to Roll Call, [he is being investigated by the House Committee on Ethics](https://www.rollcall.com/2021/08/25/ethics-office-rep-mooney-tapped-campaign-funds-for-family-vacations-fast-food/).
+  consequences:
+  - date: 2021-08-25
+    body: House Committee on Ethics
+    action: is being investigated by the House Committee on Ethics
+    link: https://www.rollcall.com/2021/08/25/ethics-office-rep-mooney-tapped-campaign-funds-for-family-vacations-fast-food/
+  tags: elections unresolved
 - person: 412199
   name: Hank Johnson
   allegation: getting arrested at a protest
@@ -482,8 +482,7 @@
       errors were unintentional.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_17.pdf
   tags: elections resolved
-- person: 4127
-87
+- person: 412787
   name: Rashida Tlaib
   text: In 2019, Tlaib was accused of reporting improper campaign expenditures. In
     August, the Office of Congressional Ethics [recommended further review](https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-rashida-tlaib)
@@ -529,7 +528,7 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ross-0
   tags: crime elections unresolved
 - person: 412437
-  n
+  name: Bill Huizenga
   text: In 2019, Huizenga was accused of accepting campaign contributions from staff
     and making improper campaign expenditures. In August, the Office of Congressional
     Ethics [recommended further review](https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-bill-huizenga)
