@@ -1,8 +1,8 @@
 - person: 412820
   name: Dan Crenshaw
   allegation: failing to complete security screening
-  text: In September 2021, Crenshaw was accused of failing to complete security
-    screening to enter the House Floor. He has 30 days to file an appeal.
+  text: In September 2021, Crenshaw was accused of failing to complete security screening
+    to enter the House Floor. He has 30 days to file an appeal.
   consequences:
   - date: 2021-09-24
     body: House Committee on Ethics
@@ -28,8 +28,8 @@
 - person: 412826
   name: Chip Roy
   allegation: failing to wear a mask
-  text: In August 2021, Roy was accused of failing to wear a mask on the House
-    Floor. He was fined and did not appeal.
+  text: In August 2021, Roy was accused of failing to wear a mask on the House Floor.
+    He was fined and did not appeal.
   consequences:
   - date: 2021-08-02
     body: House Committee on Ethics
@@ -61,9 +61,9 @@
 - person: 400653
   name: Al Green
   allegation: getting arrested at a protest
-  text: In August 2021, Green was accused of getting arrested at a protest. In
-    September 2021, the House Committee on Ethics acknowledged the arrest and that
-    the fine was paid and [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-al).
+  text: In August 2021, Green was accused of getting arrested at a protest. In September
+    2021, the House Committee on Ethics acknowledged the arrest and that the fine
+    was paid and [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-al).
   consequences:
   - date: 2021-09-28
     body: House Committee on Ethics
@@ -114,8 +114,8 @@
   name: Mike Kelly
   allegation: unknown
   text: In July 2021, the Office of Congressional Ethics recommended further review
-    by the House Committee on Ethics of Kelly for unstated reasons. In September
-    2021, the House Committee on Ethics extended the investigation.
+    by the House Committee on Ethics of Kelly for unstated reasons. In September 2021,
+    the House Committee on Ethics extended the investigation.
   consequences:
   - date: 2021-07-23
     body: Office of Congressional Ethics
@@ -210,13 +210,12 @@
   name: Marjorie Taylor Greene
   allegation: failing to wear a mask on the House floor
   text: On May 20, 2021, Rep. Greene was accused of failing to wear a mask on the
-    House floor and the House Ethics Committee issued a fine. On June 18, Greene
-    appealed and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Greene.pdf).
+    House floor and the House Ethics Committee issued a fine. On June 18, Greene appealed
+    and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Greene.pdf).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: informed Greene of fine for failing to wear a mask on
-      the House floor.
+    action: informed Greene of fine for failing to wear a mask on the House floor.
     link: https://ethics.house.gov/press-releases/statement-chair-and-ranking-member-committee-ethics-regarding-representative-marjorie
   - date: 2021-06-18
     text: Member appealed the fine.
@@ -230,13 +229,12 @@
   name: Ralph Norman
   allegation: failing to wear a mask on the House floor
   text: On May 20, 2021, Rep. Norman was accused of failing to wear a mask on the
-    House floor and the House Ethics Committee issued a fine. On June 16, Norman
-    appealed and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Norman.pdf).
+    House floor and the House Ethics Committee issued a fine. On June 16, Norman appealed
+    and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Norman.pdf).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: informed Norman of the fine for failing to wear a mask on
-      the House floor.
+    action: informed Norman of the fine for failing to wear a mask on the House floor.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ralph
   - date: 2021-06-16
     text: Member appealed the fine.
@@ -250,13 +248,12 @@
   name: Thomas Massie
   allegation: failing to wear a mask on the House floor
   text: On May 20, 2021, Rep. Massie was accused of failing to wear a mask on the
-    House floor and the House Ethics Committee issued a fine. On June 15, Massie
-    appealed and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Massie%20%281%29.pdf).
+    House floor and the House Ethics Committee issued a fine. On June 15, Massie appealed
+    and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Massie%20%281%29.pdf).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: informed Massie of the fine for failing to wear a mask on
-      the House floor.
+    action: informed Massie of the fine for failing to wear a mask on the House floor.
     link: https://ethics.house.gov/press-releases/statement-chair-and-ranking-member-committee-ethics-regarding-representative-thomas
   - date: 2021-06-15
     text: Member appealed the fine.
@@ -294,7 +291,8 @@
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: announced Miller-Meeks's fine for failing to wear a mask on the House floor.
+    action: announced Miller-Meeks's fine for failing to wear a mask on the House
+      floor.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-brain
   - date: 2021-06-25
     body: House Committee on Ethics
@@ -2306,9 +2304,9 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-bobb-0
   - date: 2018-03-22
     body: House Committee on Ethics
-    action: with publication of its report, the committee reproved Rush for
-      accepting a gift of rent-free office space even if it did not amount to a campaign
-      contribution and ordered him to repay the value of the gift.
+    action: with publication of its report, the committee reproved Rush for accepting
+      a gift of rent-free office space even if it did not amount to a campaign contribution
+      and ordered him to repay the value of the gift.
   tags: elections resolved
 - person: 400661
   name: Gwen Moore
@@ -3957,12 +3955,11 @@
   allegation: lodging for member provided at premises owned or controlled by an imprisoned
     foreign national and gift of an automobile to Brown’s adult daughter in 1997.
   text: On Sep. 21, 2000, the House Committee on Standards of Official Conduct investigated
-    Brown for a gift of lodging provided at premises owned or controlled
-    by an imprisoned foreign national and a gift of an automobile to Brown’s adult
-    daughter in 1997. The committe established an investigative subcommittee on June
-    9, 1999, the subcommittee recommended no further action and the full committee
-    accepted the recommendation on Sept. 20, 2000. A press statement was released
-    on Sept. 21, 2000.
+    Brown for a gift of lodging provided at premises owned or controlled by an imprisoned
+    foreign national and a gift of an automobile to Brown’s adult daughter in 1997.
+    The committe established an investigative subcommittee on June 9, 1999, the subcommittee
+    recommended no further action and the full committee accepted the recommendation
+    on Sept. 20, 2000. A press statement was released on Sept. 21, 2000.
   consequences:
   - date: 2000-09-21
     body: House Committee on Standards of Official Conduct
