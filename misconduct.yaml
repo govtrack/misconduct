@@ -1,67 +1,67 @@
 - person: 412820
   name: Dan Crenshaw
   allegation: failing to complete security screening
-  text: In September 2021, the member was accused of failing to complete security
-    screening to enter the House Floor. The member has 30 days to file an appeal.
+  text: In September 2021, Crenshaw was accused of failing to complete security
+    screening to enter the House Floor. He has 30 days to file an appeal.
   consequences:
   - date: 2021-09-24
     body: House Committee on Ethics
-    action: notified the member of a fine for failing to complete security screening
+    action: notified Crenshaw of a fine for failing to complete security screening
       to enter the House Floor.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20of%20Fine%20-%20Crenshaw%2C%20Dan%209.27.21.pdf
   tags: ethics unresolved
 - person: 456814
   name: Marjorie Taylor Greene
   allegation: failing to wear a mask
-  text: In August 2021, the member was accused of failing to wear a mask on the House
-    Floor. The member was fined and did not appeal.
+  text: In August 2021, Greene was accused of failing to wear a mask on the House
+    Floor. Greene was fined and did not appeal.
   consequences:
   - date: 2021-08-02
     body: House Committee on Ethics
-    action: fined the member for not wearing a mask on the House Floor.
+    action: fined Greene for not wearing a mask on the House Floor.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/20210907%20COE%20to%20Speaker%20re%20Greene.pdf
   - date: 2021-09-08
     body: House Committee on Ethics
-    action: announced that the member had not appealed the fine.
+    action: announced that Greene had not appealed the fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-30
   tags: ethics resolved
 - person: 412826
   name: Chip Roy
   allegation: failing to wear a mask
-  text: In August 2021, the member was accused of failing to wear a mask on the House
-    Floor. The member was fined and did not appeal.
+  text: In August 2021, Roy was accused of failing to wear a mask on the House
+    Floor. He was fined and did not appeal.
   consequences:
   - date: 2021-08-02
     body: House Committee on Ethics
-    action: fined the member for not wearing a mask on the House Floor.
+    action: fined Roy for not wearing a mask on the House Floor.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/20210907%20COE%20to%20Speaker%20re%20Roy.pdf
   - date: 2021-09-08
     body: House Committee on Ethics
-    action: announced that the member had not appealed the fine.
+    action: announced that Roy had not appealed the fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-chip
   tags: ethics resolved
 - person: 456820
   name: Mary Miller
   allegation: failing to wear a mask
-  text: In August 2021, the member was accused of failing to wear a mask on the House
-    Floor. The member was fined and appealed. In September 2021, the appeal was denied.
+  text: In August 2021, Miller was accused of failing to wear a mask on the House
+    Floor. She was fined and appealed. In September 2021, the appeal was denied.
   consequences:
   - date: 2021-08-02
     body: House Committee on Ethics
-    action: fined the member for not wearing a mask on the House Floor.
+    action: fined Miller for not wearing a mask on the House Floor.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-mary
   - date: 2021-08-25
-    text: The member appealed the fine.
+    text: Miller appealed the fine.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Rep.%20Miller%20Fine%20Appeal%20Letter.pdf
   - date: 2021-09-08
     body: House Committee on Ethics
-    action: announced that the member had appealed the fine, but the appeal was denied.
+    action: announced that Miller had appealed the fine, but the appeal was denied.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal_12.pdf
   tags: ethics resolved
 - person: 400653
   name: Al Green
   allegation: getting arrested at a protest
-  text: In August 2021, the member was accused of getting arrested at a protest. In
+  text: In August 2021, Green was accused of getting arrested at a protest. In
     September 2021, the House Committee on Ethics acknowledged the arrest and that
     the fine was paid and [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-al).
   consequences:
@@ -73,7 +73,7 @@
 - person: 400199
   name: Sheila Jackson Lee
   allegation: getting arrested at a protest
-  text: In July 2021, the member was accused of getting arrested at a protest. In
+  text: In July 2021, Jackson Lee was accused of getting arrested at a protest. In
     September 2021, the House Committee on Ethics acknowledged the arrest and that
     the fine was paid and [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-31).
   consequences:
@@ -87,18 +87,18 @@
   allegation: failure to complete security screening on May 19
   text: Rep. Huizenga was accused of [failing to complete security screening on Aug.
     25, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-29)
-    by the House Committee on Ethics. The member has yet to appeal the fine.
+    by the House Committee on Ethics. Huizenga has yet to appeal the fine.
   consequences:
   - date: 2021-08-25
     body: House Committee on Ethics
-    action: announced the member's fine.
+    action: announced the fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-29
   tags: ethics unresolved
 - person: 412788
   name: Jim Hagedorn
   allegation: unknown
   text: In July 2021, the Office of Congressional Ethics recommended further review
-    by the House Committee on Ethics of the member for unstated reasons. In September
+    by the House Committee on Ethics of Hagedorn for unstated reasons. In September
     2021, the House Committee on Ethics extended the investigation.
   consequences:
   - date: 2021-07-23
@@ -114,7 +114,7 @@
   name: Mike Kelly
   allegation: unknown
   text: In July 2021, the Office of Congressional Ethics recommended further review
-    by the House Committee on Ethics of the member for unstated reasons. In September
+    by the House Committee on Ethics of Kelly for unstated reasons. In September
     2021, the House Committee on Ethics extended the investigation.
   consequences:
   - date: 2021-07-23
@@ -130,7 +130,7 @@
   name: Tom Malinowski
   allegation: unknown
   text: In July 2021, the Office of Congressional Ethics recommended further review
-    by the House Committee on Ethics of the member for unstated reasons. In September
+    by the House Committee on Ethics of Malinowski for unstated reasons. In September
     2021, the House Committee on Ethics extended the investigation.
   consequences:
   - date: 2021-07-23
@@ -210,12 +210,12 @@
   name: Marjorie Taylor Greene
   allegation: failing to wear a mask on the House floor
   text: On May 20, 2021, Rep. Greene was accused of failing to wear a mask on the
-    House floor and the House Ethics Committee issued a fine. On June 18, the member
+    House floor and the House Ethics Committee issued a fine. On June 18, Greene
     appealed and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Greene.pdf).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: informed the member of the member's fine for failing to wear a mask on
+    action: informed Greene of fine for failing to wear a mask on
       the House floor.
     link: https://ethics.house.gov/press-releases/statement-chair-and-ranking-member-committee-ethics-regarding-representative-marjorie
   - date: 2021-06-18
@@ -223,19 +223,19 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Marjorie%20Taylor%20Greene%20Mask%20Fine%20Appeal%20Letter%20%286.18.21%29.pdf
   - date: 2021-07-20
     body: House Committee on Ethics
-    action: rejected the member's appeal.
+    action: rejected Greene's appeal.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Greene.pdf
   tags: ethics resolved
 - person: 412738
   name: Ralph Norman
   allegation: failing to wear a mask on the House floor
   text: On May 20, 2021, Rep. Norman was accused of failing to wear a mask on the
-    House floor and the House Ethics Committee issued a fine. On June 16, the member
+    House floor and the House Ethics Committee issued a fine. On June 16, Norman
     appealed and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Norman.pdf).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: informed the member of the member's fine for failing to wear a mask on
+    action: informed Norman of the fine for failing to wear a mask on
       the House floor.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ralph
   - date: 2021-06-16
@@ -243,19 +243,19 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Rep.%20Norman%20Ethics%20Appeal.pdf
   - date: 2021-07-20
     body: House Committee on Ethics
-    action: rejected the member's appeal.
+    action: rejected Norman's appeal.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Norman.pdf
   tags: ethics resolved
 - person: 412503
   name: Thomas Massie
   allegation: failing to wear a mask on the House floor
   text: On May 20, 2021, Rep. Massie was accused of failing to wear a mask on the
-    House floor and the House Ethics Committee issued a fine. On June 15, the member
+    House floor and the House Ethics Committee issued a fine. On June 15, Massie
     appealed and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Massie%20%281%29.pdf).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: informed the member of the member's fine for failing to wear a mask on
+    action: informed Massie of the fine for failing to wear a mask on
       the House floor.
     link: https://ethics.house.gov/press-releases/statement-chair-and-ranking-member-committee-ethics-regarding-representative-thomas
   - date: 2021-06-15
@@ -263,26 +263,26 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/20210615%20Massie%20Appeal%20Letter.pdf
   - date: 2021-07-20
     body: House Committee on Ethics
-    action: rejected the member's appeal.
+    action: rejected Massie's appeal.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Massie%20%281%29.pdf
   tags: ethics resolved
 - person: 412698
   name: Brian Mast
   allegation: failing to wear a mask on the House floor
   text: On May 20, 2021, Rep. Mast was accused of failing to wear a mask on the House
-    floor and the House Ethics Committee issued a fine. On May 24th, the member appealed
+    floor and the House Ethics Committee issued a fine. On May 24th, Mast appealed
     and on June 25, the Committee [rejected the appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-brain).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: announced the member's fine for failing to wear a mask on the House floor
+    action: announced Mast's fine for failing to wear a mask on the House floor
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-brain
   - date: 2021-05-24
     text: Member appealed the fine.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/05.24.2021%20Mast%20Mask%20%20Violation%20Appeal.pdf
   - date: 2021-06-25
     body: House Committee on Ethics
-    action: rejected the member's appeal
+    action: rejected Mast's appeal
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-brain
   tags: ethics resolved
 - person: 456817
@@ -294,7 +294,7 @@
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: announced the member's fine for failing to wear a mask on the House floor.
+    action: announced Miller-Meeks's fine for failing to wear a mask on the House floor.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-brain
   - date: 2021-06-25
     body: House Committee on Ethics
@@ -305,19 +305,19 @@
   name: Beth Van Duyne
   allegation: failing to wear a mask on the House floor
   text: On May 20, 2021, Rep. Van Duyne was accused of failing to wear a mask on the
-    House floor and the House Ethics Committee issued a fine. On May 24th, the member
+    House floor and the House Ethics Committee issued a fine. On May 24th, Van Duyne
     appealed and on June 25, the Committee [rejected the appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-beth).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: announced the member's fine for failing to wear a mask on the House floor
+    action: announced Van Duyne's fine for failing to wear a mask on the House floor
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-beth
   - date: 2021-05-24
     text: Member appealed the fine.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Rep.%20Van%20Duyne%20Appeal%20Letter.pdf
   - date: 2021-06-25
     body: House Committee on Ethics
-    action: rejected the member's appeal
+    action: rejected Van Duyne's appeal
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-beth
   tags: ethics resolved
 - person: 412722
@@ -330,11 +330,11 @@
   consequences:
   - date: 2021-05-24
     body: House Committee on Ethics
-    action: announced the member's fine.
+    action: announced Smucker's fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lloyd
   - date: 2021-06-28
     body: House Committee on Ethics
-    action: did not agree with the member's appeal of the fine
+    action: did not agree with Smucker's appeal of the fine
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-27
   tags: ethics resolved
 - person: 400643
@@ -346,7 +346,7 @@
   consequences:
   - date: 2020-05-18
     body: House Committee on Ethics
-    action: announced the member's fine
+    action: announced Foxx's fine
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-24
   tags: ethics unresolved
 - person: 400075
@@ -359,11 +359,11 @@
   consequences:
   - date: 2021-04-23
     body: House Committee on Ethics
-    action: began a review of the member's appeal of his fine.
+    action: began a review of Clyburn's appeal of his fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-james
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: agreed to the member's appeal of his fine.
+    action: agreed to Clyburn's appeal of his fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-25
   tags: ethics resolved
 - person: 400340
@@ -376,11 +376,11 @@
   consequences:
   - date: 2021-04-20
     body: House Committee on Ethics
-    action: began a review of the member's appeal of his fine.
+    action: began a review of Rogers's appeal of his fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hal
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: agreed to the member's appeal of his fine.
+    action: agreed to Rogers's appeal of his fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hal-0
   tags: ethics resolved
 - person: 412393
@@ -429,7 +429,7 @@
   consequences:
   - date: 2021-03-11
     body: House Committee on Ethics
-    action: began a review of the member's appeal of his fine.
+    action: began a review of Gohmert's appeal of his fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-louis
   - date: 2021-03-30
     body: House Committee on Ethics
@@ -446,7 +446,7 @@
   consequences:
   - date: 2021-03-11
     body: House Committee on Ethics
-    action: began a review of the member's appeal of his fine.
+    action: began a review of Clyde's appeal of his fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-20
   - date: 2021-04-12
     body: House Committee on Ethics
@@ -552,7 +552,7 @@
     into Rep. Bishop for unstated reasons based on an unpublished February 2020 referral
     from the Office of Congressional Ethics. On July 31, the House Committee on Ethics
     [published the Office of Congressional Ethics (OCE) Report and Findings](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-14)
-    and the member's response. The OCE reported that the allegations were of spending
+    and Bishop's response. The OCE reported that the allegations were of spending
     Members’ Representational Allowance (MRA) funds on holiday events in his district
     and converting campaign funds to personal use
   allegation: spending Members’ Representational Allowance (MRA) funds on holiday
@@ -602,7 +602,7 @@
   text: In September 2019, Trahan was accused of accepting excessive campaign contributions
     and failing to file required disclosure documents. In December 2019, the House
     Committee on Ethics [published the Office of Congressional Ethics Report and Findings
-    and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lori-0).
+    and Trahan's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lori-0).
     In July 2020, the House Committee on Ethics [published its report dismissing the
     charges](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_17.pdf)
     since the alleged excessive contributions were part of joint holdings with her
@@ -631,7 +631,7 @@
   text: In 2019, Tlaib was accused of reporting improper campaign expenditures. In
     August, the Office of Congressional Ethics [recommended further review](https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-rashida-tlaib)
     by the House Committee on Ethics. In November, the House Committee on Ethics [published
-    the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-17).
+    the Office of Congressional Ethics Report and Findings and Tlaib's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-17).
     In August 2020, the House Committee on Ethics found that while Rep. Tlaib did
     receive campaign funds for personal use after the 2018 general election, it was
     an error and not malfeasance. She is fined $10,800, the amount she received after
@@ -866,7 +866,7 @@
     trade practices. In July 2018, the Office of Congressional Ethics [referred the
     allegations to the House Committee on Ethics for further investigation](https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-rod-blum).
     In December 2018, the House Committee on Ethics [published the Office of Congressional
-    Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-ro-0).
+    Ethics Report and Findings and Blum's response](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-ro-0).
     In January 2019, the Committee ceased investigating as its juridiction ended with
     the 115th Congress.
   allegation: omitting required information from financial disclosure reports; permitting
@@ -1110,7 +1110,7 @@
     allegations against Rep. Duncan, Jr. for converting campaign funds to personal
     use and accepting contributions from staff while reimbursing them for those contributions
     from the campaign committee. In 2018, the House Committee on Ethics [published
-    the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jo-3).
+    the Office of Congressional Ethics Report and Findings and Duncan's response](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-jo-3).
     In January 2019, the Committee ceased investigating as its jurisdiction ended
     with the 115th Congress.
   allegation: converting campaign funds to personal use and accepting contributions
@@ -1664,7 +1664,7 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-alan-0
   - date: 2017-01-02
     body: House Committee on Ethics
-    action: reported that the end of the member's term ended the committee's jurisdiction.
+    action: reported that the end of Grayson's term ended the committee's jurisdiction.
     link: https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf
   tags: ethics resolved
 - person: 400185
@@ -2108,14 +2108,14 @@
     tags: resignation
   - date: 2017-01-02
     body: House Committee on Ethics
-    action: reported that the member's resignation ended the committee's jurisdiction.
+    action: reported that Schock's resignation ended the committee's jurisdiction.
     link: https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf
   tags: crime elections ethics resolved
 - person: 412252
   name: Paul C. Broun
   text: In 2014 Broun was investigated for using official resources for campaign purposes.
     The House Committee on Ethics [published the Office of Congressional Ethics Report
-    and Findings and the member's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-paul-0).
+    and Findings and Broun's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-paul-0).
     Broun lost his 2014 election.
   allegation: using official resources for campaign purposes
   consequences:
@@ -2132,7 +2132,7 @@
     text: Broun lost reelection.
   - date: 2015-01-02
     body: House Committee on Ethics
-    action: reported that the end of the member's term ended the committee's jurisdiction.
+    action: reported that the end of Broun's term ended the committee's jurisdiction.
     link: https://www.congress.gov/113/crpt/hrpt727/CRPT-113hrpt727.pdf
   tags: elections ethics resolved
 - person: 412216
@@ -2157,14 +2157,14 @@
     text: Bachmann did not seek reelection.
   - date: 2015-01-02
     body: House Committee on Ethics
-    action: reported that the end of the member's term ended the committee's jurisdiction.
+    action: reported that the end of Bachmann's term ended the committee's jurisdiction.
     link: https://www.congress.gov/113/crpt/hrpt727/CRPT-113hrpt727.pdf
   tags: elections resolved
 - person: 400031
   name: Timothy H. Bishop
   text: In 2013 Bishop was investigated for soliciting campaign contributions in exchange
     for constituent services in 2012. The House Committee on Ethics [published the
-    Office of Congressional Ethics Report and Findings and the member's response.](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tim-1).
+    Office of Congressional Ethics Report and Findings and Bishop's response.](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tim-1).
     Representative Bishop lost the 2014 election.
   allegation: soliciting campaign contributions in exchange for constituent services
     in 2012
@@ -2182,7 +2182,7 @@
     text: Bishop lost reelection.
   - date: 2015-01-02
     body: House Committee on Ethics
-    action: reported that the end of the member's term ended the committee's jurisdiction.
+    action: reported that the end of Bishop's term ended the committee's jurisdiction.
     link: https://www.congress.gov/113/crpt/hrpt727/CRPT-113hrpt727.pdf
   tags: corruption elections resolved
 - person: 400318
@@ -2306,7 +2306,7 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-bobb-0
   - date: 2018-03-22
     body: House Committee on Ethics
-    action: with publication of its report, the committee reproved the member for
+    action: with publication of its report, the committee reproved Rush for
       accepting a gift of rent-free office space even if it did not amount to a campaign
       contribution and ordered him to repay the value of the gift.
   tags: elections resolved
@@ -2363,7 +2363,7 @@
       seat.
   - date: 2015-01-02
     body: House Committee on Ethics
-    action: reported that the end of the member's term ended the committee's jurisdiction.
+    action: reported that the end of Stockman's term ended the committee's jurisdiction.
     link: https://www.congress.gov/113/crpt/hrpt727/CRPT-113hrpt727.pdf
   - date: 2018-04-12
     text: Convicted of 23 felonies.
@@ -2501,7 +2501,7 @@
   text: In 2013 Andrews was investigated for improper use of campaign funds for personal
     use. The House Committee on Ethics [established an independent subcommittee](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-robe-1).
     In 2014, Andrews resigned from Congress and House Committee on Ethics' jurisdiction
-    over the member ended.
+    over Andrews ended.
   allegation: improper use of campaign funds for personal use
   consequences:
   - date: 2012-04-02
@@ -2517,7 +2517,7 @@
     tags: resignation
   - date: 2015-01-02
     body: House Committee on Ethics
-    action: reported that the member's resignation ended the committee's jurisdiction.
+    action: reported that Andrew's resignation ended the committee's jurisdiction.
     link: https://www.congress.gov/113/crpt/hrpt727/CRPT-113hrpt727.pdf
   tags: elections resolved
 - person: 412528
@@ -2610,9 +2610,9 @@
   name: Silvestre Reyes
   text: In 2012 Reyes was investigated for improper use of campaign funds for personal
     use. The House Committee on Ethics [published the Office of Congressional Ethics
-    Report and Findings and the member's response](https://ethics.house.gov/press-release/statement-ot-chairman-and-ranking-member-committee-ethics-regarding-representative).
+    Report and Findings and Reyes's response](https://ethics.house.gov/press-release/statement-ot-chairman-and-ranking-member-committee-ethics-regarding-representative).
     Reyes lost the 2012 election and the House Committe on Ethics' jurisdiction end
-    with the member's term.
+    with Reyes's term.
   allegation: improper use of campaign funds for personal use
   consequences:
   - date: 2012-08-30
@@ -2628,7 +2628,7 @@
     link: https://ethics.house.gov/press-release/statement-ot-chairman-and-ranking-member-committee-ethics-regarding-representative
   - date: 2012-12-31
     body: House Committee on Ethics
-    action: reported that the end of the member's term ended the committee's jurisdiction.
+    action: reported that the end of Reyes's term ended the committee's jurisdiction.
     link: https://www.congress.gov/112/crpt/hrpt739/CRPT-112hrpt739.pdf
   tags: elections resolved
 - person: 400024
@@ -2708,7 +2708,7 @@
     tags: resignation
   - date: 2012-12-31
     body: House Committee on Ethics
-    action: reported that the member's resignation ended the committee's jurisdiction.
+    action: reported that Jackson's resignation ended the committee's jurisdiction.
     link: https://www.congress.gov/112/crpt/hrpt739/CRPT-112hrpt739.pdf
   - date: 2013
     text: Jackson pleaded guilty to misuse of campaign funds.
@@ -3569,7 +3569,7 @@
     text: Renzi did not run for reelection.
   - date: 2009-01-03
     body: House Committee on Standards of Official Conduct
-    action: reported that the end of the member's term ended the committee's jurisdiction.
+    action: reported that the end of Renzi's term ended the committee's jurisdiction.
     link: https://www.congress.gov/110/crpt/hrpt938/CRPT-110hrpt938.pdf
   - date: 2013
     text: Renzi was convicted and was sentenced to serve three years in prison.
@@ -3957,7 +3957,7 @@
   allegation: lodging for member provided at premises owned or controlled by an imprisoned
     foreign national and gift of an automobile to Brown’s adult daughter in 1997.
   text: On Sep. 21, 2000, the House Committee on Standards of Official Conduct investigated
-    Brown for a gift of lodging for the member provided at premises owned or controlled
+    Brown for a gift of lodging provided at premises owned or controlled
     by an imprisoned foreign national and a gift of an automobile to Brown’s adult
     daughter in 1997. The committe established an investigative subcommittee on June
     9, 1999, the subcommittee recommended no further action and the full committee
