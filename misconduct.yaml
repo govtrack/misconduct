@@ -22,7 +22,7 @@
     action: announced that the member had not appealed the fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-30
   tags: resolved ethics
-  - person: 412826
+- person: 412826
   name: Chip Roy
   allegation: failing to wear a mask
   text: In August 2021, the member was accused of failing to wear a mask on the House Floor. The member was fined and did not appeal.
@@ -46,7 +46,7 @@
     action: fined the member for not wearing a mask on the House Floor.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-mary
   - date: 2021-08-25
-    text: the member appealed the fine
+    text: The member appealed the fine.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Rep.%20Miller%20Fine%20Appeal%20Letter.pdf
   - date: 2021-09-08
     body: House Committee on Ethics
