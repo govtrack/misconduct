@@ -1,17 +1,20 @@
 - person: 412820
   name: Dan Crenshaw
   allegation: failing to complete security screening
-  text: In September 2021, the member was accused of failing to complete security screening to enter the House Floor. The member has 30 days to file an appeal.
+  text: In September 2021, the member was accused of failing to complete security
+    screening to enter the House Floor. The member has 30 days to file an appeal.
   consequences:
   - date: 2021-09-24
     body: House Committee on Ethics
-    action: notified the member of a fine for failing to complete security screening to enter the House Floor.
+    action: notified the member of a fine for failing to complete security screening
+      to enter the House Floor.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20of%20Fine%20-%20Crenshaw%2C%20Dan%209.27.21.pdf
   tags: ethics unresolved
 - person: 456814
   name: Marjorie Taylor Greene
   allegation: failing to wear a mask
-  text: In August 2021, the member was accused of failing to wear a mask on the House Floor. The member was fined and did not appeal.
+  text: In August 2021, the member was accused of failing to wear a mask on the House
+    Floor. The member was fined and did not appeal.
   consequences:
   - date: 2021-08-02
     body: House Committee on Ethics
@@ -21,11 +24,12 @@
     body: House Committee on Ethics
     action: announced that the member had not appealed the fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-30
-  tags: resolved ethics
+  tags: ethics resolved
 - person: 412826
   name: Chip Roy
   allegation: failing to wear a mask
-  text: In August 2021, the member was accused of failing to wear a mask on the House Floor. The member was fined and did not appeal.
+  text: In August 2021, the member was accused of failing to wear a mask on the House
+    Floor. The member was fined and did not appeal.
   consequences:
   - date: 2021-08-02
     body: House Committee on Ethics
@@ -35,11 +39,12 @@
     body: House Committee on Ethics
     action: announced that the member had not appealed the fine.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-chip
-  tags: resolved ethics
+  tags: ethics resolved
 - person: 456820
   name: Mary Miller
   allegation: failing to wear a mask
-  text: In August 2021, the member was accused of failing to wear a mask on the House Floor. The member was fined and appealed. In September 2021, the appeal was denied.
+  text: In August 2021, the member was accused of failing to wear a mask on the House
+    Floor. The member was fined and appealed. In September 2021, the appeal was denied.
   consequences:
   - date: 2021-08-02
     body: House Committee on Ethics
@@ -52,13 +57,13 @@
     body: House Committee on Ethics
     action: announced that the member had appealed the fine, but the appeal was denied.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal_12.pdf
-  tags: resolved ethics
+  tags: ethics resolved
 - person: 400653
   name: Al Green
   allegation: getting arrested at a protest
-  text: In August 2021, the member was accused of getting arrested at a protest.
-    In September 2021, the House Committee on Ethics acknowledged the arrest and that the fine was paid
-    and [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-al).
+  text: In August 2021, the member was accused of getting arrested at a protest. In
+    September 2021, the House Committee on Ethics acknowledged the arrest and that
+    the fine was paid and [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-al).
   consequences:
   - date: 2021-09-28
     body: House Committee on Ethics
@@ -68,9 +73,9 @@
 - person: 400199
   name: Sheila Jackson Lee
   allegation: getting arrested at a protest
-  text: In July 2021, the member was accused of getting arrested at a protest.
-    In September 2021, the House Committee on Ethics acknowledged the arrest and that the fine was paid
-    and [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-31).
+  text: In July 2021, the member was accused of getting arrested at a protest. In
+    September 2021, the House Committee on Ethics acknowledged the arrest and that
+    the fine was paid and [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-31).
   consequences:
   - date: 2021-09-28
     body: House Committee on Ethics
@@ -92,7 +97,9 @@
 - person: 412788
   name: Jim Hagedorn
   allegation: unknown
-  text: In July 2021, the Office of Congressional Ethics recommended further review by the House Committee on Ethics of the member for unstated reasons. In September 2021, the House Committee on Ethics extended the investigation.
+  text: In July 2021, the Office of Congressional Ethics recommended further review
+    by the House Committee on Ethics of the member for unstated reasons. In September
+    2021, the House Committee on Ethics extended the investigation.
   consequences:
   - date: 2021-07-23
     body: Office of Congressional Ethics
@@ -106,7 +113,9 @@
 - person: 412465
   name: Mike Kelly
   allegation: unknown
-  text: In July 2021, the Office of Congressional Ethics recommended further review by the House Committee on Ethics of the member for unstated reasons. In September 2021, the House Committee on Ethics extended the investigation.
+  text: In July 2021, the Office of Congressional Ethics recommended further review
+    by the House Committee on Ethics of the member for unstated reasons. In September
+    2021, the House Committee on Ethics extended the investigation.
   consequences:
   - date: 2021-07-23
     body: Office of Congressional Ethics
@@ -116,11 +125,13 @@
     body: House Committee on Ethics
     action: extended its investigation.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-mike
-  tags: unresolved 
+  tags: unresolved
 - person: 412798
   name: Tom Malinowski
   allegation: unknown
-  text: In July 2021, the Office of Congressional Ethics recommended further review by the House Committee on Ethics of the member for unstated reasons. In September 2021, the House Committee on Ethics extended the investigation.
+  text: In July 2021, the Office of Congressional Ethics recommended further review
+    by the House Committee on Ethics of the member for unstated reasons. In September
+    2021, the House Committee on Ethics extended the investigation.
   consequences:
   - date: 2021-07-23
     body: Office of Congressional Ethics
@@ -130,7 +141,7 @@
     body: House Committee on Ethics
     action: extended its investigation.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tom-0
-  tags: unresolved 
+  tags: unresolved
 - person: 412662
   name: Alexander Mooney
   allegation: using campaign funds for personal expenses
@@ -139,7 +150,7 @@
   consequences:
   - date: 2021-07-23
     body: Office of Congressional Ethics
-    action: recommended further review by the House Committee on Ethics. 
+    action: recommended further review by the House Committee on Ethics.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-alex
   - date: 2021-08-25
     body: House Committee on Ethics
