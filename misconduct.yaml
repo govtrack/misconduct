@@ -1,3 +1,12 @@
+- person: 400640
+  name: Jeff Fortenberry
+  allegation: lying to the FBI about having received campaign contributions from a foreign national
+  text: Rep. Fortenberry is accused of lying to the FBI about having received campaign contributions from a foreign national. In October 2019, he released a [video](https://www.youtube.com/watch?v=VHcIBNazStw) in which he said he expected to be indicted on charges for lying, but not (so far) on the contributions themselves.
+  consequences:
+  - date: 2021-10-19
+    text: Fortenberry released a video in which he said he expected to be indicted on lying to the FBI.
+    link: https://www.youtube.com/watch?v=VHcIBNazStw
+  tags: elections unresolved
 - person: 412820
   name: Dan Crenshaw
   allegation: failing to complete security screening
