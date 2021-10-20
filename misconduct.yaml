@@ -1,29 +1,20 @@
 - person: 400640
   name: Jeff Fortenberry
-  allegation: lying to the FBI about having received campaign contributions from a
-    foreign national
+  allegation: scheming to falsify and conceal material facts and making false statements to federal investigators
   text: Rep. Fortenberry is accused of lying to the FBI about having received campaign
-    contributions from a foreign national. In October 2021, he released a [video](https://www.youtube.com/watch?v=VHcIBNazStw)
+    contributions from a foreign national and his knowledge of it. In October 2021, he released a [video](https://www.youtube.com/watch?v=VHcIBNazStw)
     in which he said he expected to be indicted on charges for lying, but not (so
-    far) on the contributions themselves.
+    far) on the contributions themselves. Later the same day, he was indicted on [three counts](https://www.justice.gov/usao-cdca/pr/us-rep-jeff-fortenberry-charged-scheme-deceive-federal-investigators-probing-illegal) - one of scheming to falsify and conceal material facts and two of making false statements to federal investigators.
   consequences:
   - date: 2021-10-19
     text: Fortenberry released a video in which he said he expected to be indicted
       on lying to the FBI.
     link: https://www.youtube.com/watch?v=VHcIBNazStw
+  - date: 2021-10-19
+    body: Department of Justice
+    action: indicted on three counts - one of scheming to falsify and conceal material facts and two of making false statements to federal investigators.
+    link: https://www.justice.gov/usao-cdca/pr/us-rep-jeff-fortenberry-charged-scheme-deceive-federal-investigators-probing-illegal
   tags: elections unresolved
-- person: 412820
-  name: Dan Crenshaw
-  allegation: failing to complete security screening
-  text: In September 2021, Crenshaw was accused of failing to complete security screening
-    to enter the House Floor. He has 30 days to file an appeal.
-  consequences:
-  - date: 2021-09-24
-    body: House Committee on Ethics
-    action: notified Crenshaw of a fine for failing to complete security screening
-      to enter the House Floor.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20of%20Fine%20-%20Crenshaw%2C%20Dan%209.27.21.pdf
-  tags: ethics unresolved
 - person: 456814
   name: Marjorie Taylor Greene
   allegation: failing to wear a mask
