@@ -101,10 +101,10 @@
   tags: ethics unresolved
 - person: 412788
   name: Jim Hagedorn
-  allegation: unknown
+  allegation: using official funds for impermissible expenditures
   text: In July 2021, the Office of Congressional Ethics recommended further review
     by the House Committee on Ethics of Hagedorn for unstated reasons. In September
-    2021, the House Committee on Ethics extended the investigation.
+    2021, the House Committee on Ethics extended the investigation. In October 2021, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jim-0). The nature of the allegations - using official funds for impermissible expenditures - also became public at this time.
   consequences:
   - date: 2021-07-23
     body: Office of Congressional Ethics
@@ -114,13 +114,17 @@
     body: House Committee on Ethics
     action: extended its investigation.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jim
-  tags: unresolved
+  - date: 2021-10-21
+    body: House Committee on Ethics
+    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jim-0
+  tags: corruption unresolved
 - person: 412465
   name: Mike Kelly
-  allegation: unknown
+  allegation: insider trading
   text: In July 2021, the Office of Congressional Ethics recommended further review
     by the House Committee on Ethics of Kelly for unstated reasons. In September 2021,
-    the House Committee on Ethics extended the investigation.
+    the House Committee on Ethics extended the investigation. In October 2021, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-32). The nature of the allegations - insider trading - also became public at this time.
   consequences:
   - date: 2021-07-23
     body: Office of Congressional Ethics
@@ -130,13 +134,17 @@
     body: House Committee on Ethics
     action: extended its investigation.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-mike
-  tags: unresolved
+  - date: 2021-10-21
+    body: House Committee on Ethics
+    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-32
+  tags: corruption unresolved
 - person: 412798
   name: Tom Malinowski
-  allegation: unknown
+  allegation: failing to properly disclose stock purchases
   text: In July 2021, the Office of Congressional Ethics recommended further review
     by the House Committee on Ethics of Malinowski for unstated reasons. In September
-    2021, the House Committee on Ethics extended the investigation.
+    2021, the House Committee on Ethics extended the investigation. In October 2021, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tom-1). The nature of the allegations - failing to properly disclose stock purchases - also became public at this time.
   consequences:
   - date: 2021-07-23
     body: Office of Congressional Ethics
@@ -146,12 +154,16 @@
     body: House Committee on Ethics
     action: extended its investigation.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tom-0
-  tags: unresolved
+  - date: 2021-10-21
+    body: House Committee on Ethics
+    action: published the Office of Congressional Ethics Report and Findings and the member's response.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tom-1
+  tags: corruption unresolved
 - person: 412662
   name: Alexander Mooney
   allegation: using campaign funds for personal expenses
   text: Rep. Mooney was accused of using campaign funds for personal expenses. According
-    to Roll Call, [he is being investigated by the House Committee on Ethics](https://www.rollcall.com/2021/08/25/ethics-office-rep-mooney-tapped-campaign-funds-for-family-vacations-fast-food/).
+    to Roll Call, [he is being investigated by the House Committee on Ethics](https://www.rollcall.com/2021/08/25/ethics-office-rep-mooney-tapped-campaign-funds-for-family-vacations-fast-food/). In October 2021, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-33).
   consequences:
   - date: 2021-07-23
     body: Office of Congressional Ethics
@@ -165,6 +177,10 @@
     body: House Committee on Ethics
     action: extended its investigation.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-alex
+  - date: 2021-10-21
+    body: House Committee on Ethics
+    action: published the Office of Congressional Ethics Report and Findings.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-33
   tags: elections unresolved
 - person: 412199
   name: Hank Johnson
