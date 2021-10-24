@@ -132,16 +132,22 @@ valid YAML.
 #### Tags
 
 Consequences may also have `tags`. The `tags` field is a space-separated, alphabetical
-list of tags from the following set:
+list of tags from the following sets. This first set marks that the legislator was found guilty of the misconuct (i.e. the allegation was upheld):
 
 * `expulsion` - Expulsion by the Senate or House.
 * `censure` - Censure by the Senate or House. (Committee recommendations of censure are not tagged.)
 * `reprimand` - Admonishment, reprimand, or letter of reproval.
-* `resignation` - Resignation from office because of the allegation.
+* `fined` - Fined by the Senate or House.
 * `exclusion` - A member-elect was prevented from being seated by the Senate or House.
-* `settlement` - Monetary settlement.
 * `conviction` - Conviction in a court.
 * `plea` - Pleaded guilty or no contest in a court.
+
+In a small number of cases the consequence was reversed (e.g. on appeal), and in those cases the tag should _not_ be used so that the legislator is not incorrectly flagged as guilty.
+
+These additional tags may be used but don't indicate guilt:
+
+* `resignation` - Resignation from office because of the allegation.
+* `settlement` - Monetary settlement.
 
 ## Public domain
 

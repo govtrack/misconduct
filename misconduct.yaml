@@ -1,10 +1,8 @@
 - person: 400640
   name: Jeff Fortenberry
   allegation: scheming to falsify and conceal material facts and making false statements to federal investigators
-  text: Rep. Fortenberry is accused of lying to the FBI about having received campaign
-    contributions from a foreign national and his knowledge of it. In October 2021, he released a [video](https://www.youtube.com/watch?v=VHcIBNazStw)
-    in which he said he expected to be indicted on charges for lying, but not (so
-    far) on the contributions themselves. Later the same day, he was indicted on [three counts](https://www.justice.gov/usao-cdca/pr/us-rep-jeff-fortenberry-charged-scheme-deceive-federal-investigators-probing-illegal) - one of scheming to falsify and conceal material facts and two of making false statements to federal investigators.
+  text: |
+    Rep. Fortenberry was indicted on [three counts](https://www.justice.gov/usao-cdca/pr/us-rep-jeff-fortenberry-charged-scheme-deceive-federal-investigators-probing-illegal): one of scheming to falsify and conceal material facts and two of making false statements to federal investigators, in 2019, related to campaign contributions from a foreign national to his 2016 re-election campaign.
   consequences:
   - date: 2021-10-19
     text: Fortenberry released a video in which he said he expected to be indicted
@@ -17,94 +15,98 @@
   tags: elections unresolved
 - person: 456814
   name: Marjorie Taylor Greene
-  allegation: failing to wear a mask
-  text: In August 2021, Greene was accused of failing to wear a mask on the House
-    Floor. Greene was fined and did not appeal.
+  allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
+  text: In the summer of 2021, Rep. Greene was fined for failing to wear a mask on the House
+    floor during the COVID-19 pandemic.
   consequences:
   - date: 2021-08-02
     body: House Committee on Ethics
-    action: fined Greene for not wearing a mask on the House Floor.
+    action: reported that Greene had been fined by the Sergeant at Arms
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/20210907%20COE%20to%20Speaker%20re%20Greene.pdf
+    tags: fined
   - date: 2021-09-08
     body: House Committee on Ethics
-    action: announced that Greene had not appealed the fine.
+    action: announced that Greene had not appealed the fine
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-30
   tags: ethics resolved
 - person: 412826
   name: Chip Roy
-  allegation: failing to wear a mask
-  text: In August 2021, Roy was accused of failing to wear a mask on the House Floor.
-    He was fined and did not appeal.
+  allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
+  text: In the summer of 2021, Rep. Roy was fined for failing to wear a mask on the House
+    floor during the COVID-19 pandemic.
   consequences:
   - date: 2021-08-02
     body: House Committee on Ethics
-    action: fined Roy for not wearing a mask on the House Floor.
+    action: reported that Roy had been fined by the Sergeant at Arms
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/20210907%20COE%20to%20Speaker%20re%20Roy.pdf
+    tags: fined
   - date: 2021-09-08
     body: House Committee on Ethics
-    action: announced that Roy had not appealed the fine.
+    action: announced that Roy had not appealed the fine
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-chip
   tags: ethics resolved
 - person: 456820
   name: Mary Miller
-  allegation: failing to wear a mask
-  text: In August 2021, Miller was accused of failing to wear a mask on the House
-    Floor. She was fined and appealed. In September 2021, the appeal was denied.
+  allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
+  text: In the summer of 2021, Rep. Miller was fined for failing to wear a mask on the House
+    floor during the COVID-19 pandemic. Miller's appeal was rejected.
   consequences:
   - date: 2021-08-02
-    body: House Committee on Ethics
-    action: fined Miller for not wearing a mask on the House Floor.
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-mary
+    text: Miller was fined by the Sergeant at Arms.
+    tags: fined
   - date: 2021-08-25
     text: Miller appealed the fine.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Rep.%20Miller%20Fine%20Appeal%20Letter.pdf
-  - date: 2021-09-08
+  - date: 2021-09-28
     body: House Committee on Ethics
-    action: announced that Miller had appealed the fine, but the appeal was denied.
+    action: announced that Miller had appealed the fine, but the appeal was rejected.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal_12.pdf
   tags: ethics resolved
 - person: 400653
   name: Al Green
   allegation: getting arrested at a protest
-  text: In August 2021, Green was accused of getting arrested at a protest. In September
-    2021, the House Committee on Ethics acknowledged the arrest and that the fine
+  text: In August 2021, Rep. Green was arrested at a protest. In September
+    2021, the House Committee on Ethics reported that a fine
     was paid and [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-al).
   consequences:
   - date: 2021-09-28
     body: House Committee on Ethics
-    action: acknowledged the arrest and that the fine was paid and closed the investigation.
+    action: reported the arrest and that a fine was paid, and closed the investigation.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-al
+    tags: fined
   tags: ethics resolved
 - person: 400199
   name: Sheila Jackson Lee
   allegation: getting arrested at a protest
-  text: In July 2021, Jackson Lee was accused of getting arrested at a protest. In
-    September 2021, the House Committee on Ethics acknowledged the arrest and that
-    the fine was paid and [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-31).
+  text: In July 2021, Jackson Lee was arrested at a protest. In
+    September 2021, the House Committee on Ethics reported that
+    a fine was paid and [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-31).
   consequences:
   - date: 2021-09-28
     body: House Committee on Ethics
-    action: acknowledged the arrest and that the fine was paid and closed the investigation.
+    action: reported the arrest and that a fine was paid, and closed the investigation.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-31
+    tags: fined
   tags: ethics resolved
 - person: 412437
   name: Bill Huizenga
-  allegation: failure to complete security screening on May 19
-  text: Rep. Huizenga was accused of [failing to complete security screening on Aug.
-    25, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-29)
-    by the House Committee on Ethics. Huizenga has yet to appeal the fine.
+  allegation: failure to complete a security screening
+  text: Rep. Huizenga [failed to complete a security screening prior to entering the House Chamber on August 23, 2021 and was fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-29).
   consequences:
+  - date: 2021-08-24
+    body: House Sergeant at Arms
+    action: fined Rep. Huizenga $5,000 for failing to complete a security screening prior to entering the House Chamber on August 23, 2021
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-29
+    tags: fined
   - date: 2021-08-25
     body: House Committee on Ethics
-    action: announced the fine.
+    action: announced the fine
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-29
   tags: ethics unresolved
 - person: 412788
   name: Jim Hagedorn
-  allegation: using official funds for impermissible expenditures
-  text: In July 2021, the Office of Congressional Ethics recommended further review
-    by the House Committee on Ethics of Hagedorn for unstated reasons. In September
-    2021, the House Committee on Ethics extended the investigation. In October 2021, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jim-0). The nature of the allegations - using official funds for impermissible expenditures - also became public at this time.
+  allegation: using official funds for impermissible expenditures and receiving an unreported in-kind contribution
+  text: Rep. Hagerdon "allowed nearly half a million dollars of official funds to be directed to companies owned by his employees" in 2019-2020 and "received rent-free or below-market-value use of campaign office space from a political donor" in 2018.
   consequences:
   - date: 2021-07-23
     body: Office of Congressional Ethics
@@ -122,9 +124,7 @@
 - person: 412465
   name: Mike Kelly
   allegation: insider trading
-  text: In July 2021, the Office of Congressional Ethics recommended further review
-    by the House Committee on Ethics of Kelly for unstated reasons. In September 2021,
-    the House Committee on Ethics extended the investigation. In October 2021, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-32). The nature of the allegations - insider trading - also became public at this time.
+  text: Rep. Mike Kelly is accused of making a stock purchase, through his wife, based on nonpublic information he learned in his official duties.
   consequences:
   - date: 2021-07-23
     body: Office of Congressional Ethics
@@ -141,10 +141,8 @@
   tags: corruption unresolved
 - person: 412798
   name: Tom Malinowski
-  allegation: failing to properly disclose stock purchases
-  text: In July 2021, the Office of Congressional Ethics recommended further review
-    by the House Committee on Ethics of Malinowski for unstated reasons. In September
-    2021, the House Committee on Ethics extended the investigation. In October 2021, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tom-1). The nature of the allegations - failing to properly disclose stock purchases - also became public at this time.
+  allegation: failing to disclose stock transactions
+  text: Rep. Malinowski is accused of failing to disclose stock transactions made in 2019-2020 as required by law.
   consequences:
   - date: 2021-07-23
     body: Office of Congressional Ethics
@@ -161,17 +159,16 @@
   tags: corruption unresolved
 - person: 412662
   name: Alexander Mooney
-  allegation: using campaign funds for personal expenses
-  text: Rep. Mooney was accused of using campaign funds for personal expenses. According
-    to Roll Call, [he is being investigated by the House Committee on Ethics](https://www.rollcall.com/2021/08/25/ethics-office-rep-mooney-tapped-campaign-funds-for-family-vacations-fast-food/). In October 2021, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-33).
+  allegation: using campaign funds for personal purposes and failing to properly report reimbursements to himself
+  text: Rep. Mooney is accused of using campaign funds for personal purposes and for failing to properly report reimbursements to himself.
   consequences:
   - date: 2021-07-23
     body: Office of Congressional Ethics
     action: recommended further review by the House Committee on Ethics.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-alex
   - date: 2021-08-25
-    body: House Committee on Ethics
-    action: is being investigated by the House Committee on Ethics
+    body: Roll Call
+    action: reported the nature of the investigation
     link: https://www.rollcall.com/2021/08/25/ethics-office-rep-mooney-tapped-campaign-funds-for-family-vacations-fast-food/
   - date: 2021-09-07
     body: House Committee on Ethics
@@ -185,61 +182,64 @@
 - person: 412199
   name: Hank Johnson
   allegation: getting arrested at a protest
-  text: In July 2021, Rep. Johnson  was accused of getting arrested at a protest.
-    The House Committee on Ethics acknowledged the arrest and that he paid the fine
+  text: In July 2021, Rep. Johnson was arrested at a protest.
+    The House Committee on Ethics reported that he paid a fine
     and [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hank).
   consequences:
   - date: 2021-07-30
     body: House Committee on Ethics
-    action: acknowledged the arrest and that he paid the fine and closed the investigation.
+    action: reported the arrest and that he paid the fine, and closed the investigation.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hank
+    tags: fined
   tags: ethics resolved
 - person: 412565
   name: Joyce Beatty
   allegation: getting arrested at a protest
-  text: In July 2021, Rep. Beatty was accused of getting arrested at a protest. The
-    House Committee on Ethics acknowledged the arrest and that she paid the fine and
+  text: In July 2021, Rep. Beatty was arrested at a protest. The
+    House Committee on Ethics reported that she paid a fine and
     [closed the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-joyce).
   consequences:
   - date: 2021-07-26
     body: House Committee on Ethics
-    action: acknowledged the arrest and that she paid the fine and closed the investigation.
+    action: reported the arrest and that she paid a fine, and closed the investigation.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-joyce
+    tags: fined
   tags: ethics resolved
 - person: 456851
   name: Blake Moore
   allegation: violating the STOCK Act
-  text: In July 2021, Rep. Moore acknowledged that he violated the STOCK Act by failing
+  text: In July 2021, Rep. Moore violated the STOCK Act by failing
     to meet a financial disclosure deadline and [paid a fine](https://www.sltrib.com/news/politics/2021/07/26/this-utah-congressman/).
   consequences:
   - date: 2021-07-27
     text: Paid a fine.
     link: https://www.sltrib.com/news/politics/2021/07/26/this-utah-congressman/
+    tags: fined
   tags: ethics resolved
 - person: 456796
   name: Tommy Tuberville
   allegation: violating the STOCK Act
-  text: In July 2021, Sen. Tuberville acknowledged that he violated the STOCK Act
+  text: In July 2021, Sen. Tuberville was accused of violating the STOCK Act
     by [failing to meet a financial disclosure deadline](https://www.cnbc.com/2021/07/27/china-critic-sen-tommy-tuberville-of-alabama-violated-stock-act.html).
   consequences:
   - date: 2021-07-27
-    text: Acknowledged that he violated the STOCK Act by failing to meet a financial
-      disclosure deadline.
+    text: CNBC reported the accusation.
     link: https://www.cnbc.com/2021/07/27/china-critic-sen-tommy-tuberville-of-alabama-violated-stock-act.html
   tags: ethics resolved
 - person: 456814
   name: Marjorie Taylor Greene
   allegation: failing to wear a mask on the House floor
-  text: On May 20, 2021, Rep. Greene was accused of failing to wear a mask on the
-    House floor and the House Ethics Committee issued a fine. On June 18, Greene appealed
+  text: On May 20, 2021, Rep. Greene failed to wear a mask on the
+    House floor during the COVID-19 pandemic and was fined. On June 18, Greene appealed
     and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Greene.pdf).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: informed Greene of fine for failing to wear a mask on the House floor.
+    action: reported that Greene had been fined by the Sergeant at Arms
     link: https://ethics.house.gov/press-releases/statement-chair-and-ranking-member-committee-ethics-regarding-representative-marjorie
+    tags: fined
   - date: 2021-06-18
-    text: Member appealed the fine.
+    text: Greene appealed the fine.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Marjorie%20Taylor%20Greene%20Mask%20Fine%20Appeal%20Letter%20%286.18.21%29.pdf
   - date: 2021-07-20
     body: House Committee on Ethics
@@ -249,16 +249,17 @@
 - person: 412738
   name: Ralph Norman
   allegation: failing to wear a mask on the House floor
-  text: On May 20, 2021, Rep. Norman was accused of failing to wear a mask on the
-    House floor and the House Ethics Committee issued a fine. On June 16, Norman appealed
+  text: On May 20, 2021, Rep. Norman failed to wear a mask on the
+    House floor during the COVID-19 pandemic and was fined. On June 16, Norman appealed
     and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Norman.pdf).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: informed Norman of the fine for failing to wear a mask on the House floor.
+    action: reported that Norman had been fined by the Sergeant at Arms
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ralph
+    tags: fined
   - date: 2021-06-16
-    text: Member appealed the fine.
+    text: Norman appealed the fine.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Rep.%20Norman%20Ethics%20Appeal.pdf
   - date: 2021-07-20
     body: House Committee on Ethics
@@ -268,16 +269,17 @@
 - person: 412503
   name: Thomas Massie
   allegation: failing to wear a mask on the House floor
-  text: On May 20, 2021, Rep. Massie was accused of failing to wear a mask on the
-    House floor and the House Ethics Committee issued a fine. On June 15, Massie appealed
+  text: On May 20, 2021, Rep. Massie failed to wear a mask on the
+    House floor during the COVID-19 pandeimc and was fined. On June 15, Massie appealed
     and on July 20, the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Massie%20%281%29.pdf).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: informed Massie of the fine for failing to wear a mask on the House floor.
+    action: reported that Massie had been fined by the Sergeant at Arms
     link: https://ethics.house.gov/press-releases/statement-chair-and-ranking-member-committee-ethics-regarding-representative-thomas
+    tags: fined
   - date: 2021-06-15
-    text: Member appealed the fine.
+    text: Massie appealed the fine.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/20210615%20Massie%20Appeal%20Letter.pdf
   - date: 2021-07-20
     body: House Committee on Ethics
@@ -287,16 +289,17 @@
 - person: 412698
   name: Brian Mast
   allegation: failing to wear a mask on the House floor
-  text: On May 20, 2021, Rep. Mast was accused of failing to wear a mask on the House
-    floor and the House Ethics Committee issued a fine. On May 24th, Mast appealed
+  text: On May 20, 2021, Rep. Mast failed to wear a mask on the House
+    floor during the COVID-19 pandemic and was fined. On May 24th, Mast appealed
     and on June 25, the Committee [rejected the appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-brain).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: announced Mast's fine for failing to wear a mask on the House floor
+    action: reported that Mast had been fined by the Sergeant at Arms
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-brain
+    tags: fined
   - date: 2021-05-24
-    text: Member appealed the fine.
+    text: Mast appealed the fine.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/05.24.2021%20Mast%20Mask%20%20Violation%20Appeal.pdf
   - date: 2021-06-25
     body: House Committee on Ethics
@@ -306,15 +309,14 @@
 - person: 456817
   name: Mariannette Miller-Meeks
   allegation: failing to wear a mask on the House floor
-  text: On May 20, 2021, Rep. Miller-Meeks was accused of failing to wear a mask on
-    the House floor and the House Ethics Committee issued a fine. On June 25, the
+  text: On May 20, 2021, Rep. Miller-Meeks failed to wear a mask on
+    the House floor and was fined. On June 25, the
     Committee [published the fine](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-26).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: announced Miller-Meeks's fine for failing to wear a mask on the House
-      floor.
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-brain
+    action: received notification that Miller-Meeks had been fined by the Sergeant at Arms
+    tags: fined
   - date: 2021-06-25
     body: House Committee on Ethics
     action: published the fine.
@@ -323,14 +325,14 @@
 - person: 456850
   name: Beth Van Duyne
   allegation: failing to wear a mask on the House floor
-  text: On May 20, 2021, Rep. Van Duyne was accused of failing to wear a mask on the
-    House floor and the House Ethics Committee issued a fine. On May 24th, Van Duyne
+  text: On May 20, 2021, Rep. Van Duyne failed to wear a mask on the
+    House floor and was fined. On May 24th, Van Duyne
     appealed and on June 25, the Committee [rejected the appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-beth).
   consequences:
   - date: 2021-05-20
     body: House Committee on Ethics
-    action: announced Van Duyne's fine for failing to wear a mask on the House floor
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-beth
+    action: received notification that Van Duyne had been fined by the Sergeant at Arms
+    tags: fined
   - date: 2021-05-24
     text: Member appealed the fine.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Rep.%20Van%20Duyne%20Appeal%20Letter.pdf
@@ -342,39 +344,39 @@
 - person: 412722
   name: Lloyd Smucker
   allegation: failure to complete security screening on May 19
-  text: Rep. Smucker was accused of [failing to complete security screening on May
-    19, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lloyd)
-    by the House Committee on Ethics. Smucker appealed and on June 28, 2021, the Committee
+  text: Rep. Smucker [failed to complete security screening on May
+    19, 2021 and was fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lloyd).
+    Smucker appealed and on June 28, 2021, the Committee
     [rejected his appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-27).
   consequences:
   - date: 2021-05-24
     body: House Committee on Ethics
-    action: announced Smucker's fine.
+    action: announced that Smucker had been fined by the Sergeant at Arms.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-lloyd
+    tags: fined
   - date: 2021-06-28
     body: House Committee on Ethics
-    action: did not agree with Smucker's appeal of the fine
+    action: rejected Smucker's appeal of the fine
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-27
   tags: ethics resolved
 - person: 400643
   name: Virginia Foxx
   allegation: failure to complete security screening on May 13
-  text: Rep. Foxx was accused of [failing to complete security screening on May 13,
-    2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-24)
-    by the House Committee on Ethics. She has 30 days to appeal the fine.
+  text: Rep. Foxx [failed to complete security screening on May 13,
+    2021 and was fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-24).
   consequences:
   - date: 2020-05-18
     body: House Committee on Ethics
-    action: announced Foxx's fine
+    action: announced that Foxx had been fined by the Sergeant at Arms.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-24
+    tags: fined
   tags: ethics unresolved
 - person: 400075
   name: James "Jim" Clyburn
   allegation: failing to complete security screening on April 20, 2021
   text: Rep. Clyburn was accused of [failing to complete security screening on April
-    20, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-james)
-    by the House Committee on Ethics. He is allowed to, and is, appealing the fine.
-    On May 20, a majority of the Committee [agreed to Clyburn's appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-25).
+    20, 2021](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-james)
+    but on May 20, the House Committee on Ethics [agreed to Clyburn's appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-25).
   consequences:
   - date: 2021-04-23
     body: House Committee on Ethics
@@ -389,13 +391,12 @@
   name: Harold "Hal" Rogers
   allegation: failing to complete security screening on April 14, 2021.
   text: Rep. Rogers was accused of [failing to complete security screening on April
-    14, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hal)
-    by the House Committee on Ethics. He is allowed to, and is, appealing the fine.
-    On May 20, a majority of the Committee [agreed to Roger's appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hal-0).
+    14, 2021](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hal).
+    On May 20, the House Committee on Ethics [agreed to Roger's appeal](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hal-0).
   consequences:
   - date: 2021-04-20
     body: House Committee on Ethics
-    action: began a review of Rogers's appeal of his fine.
+    action: reported that the House Sergeant at Arms fined Rogers and began a review of Rogers's appeal
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hal
   - date: 2021-05-20
     body: House Committee on Ethics
@@ -441,15 +442,16 @@
 - person: 400651
   name: Louie Gohmert
   allegation: failing to complete security screening on February 4, 2021.
-  text: Rep. Gohmert was accused of [failing to complete security screening on February
-    4, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-louis)
-    by the House Committee on Ethics. He appealed on February 26 and the appeal was
-    denied by a majority of the committee on March 30, 2021.
+  text: Rep. Gohmert [failed to complete security screening on February
+    4, 2021 and was fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-louis).
+    He appealed on February 26 and the appeal was
+    denied by the committee on March 30, 2021.
   consequences:
   - date: 2021-03-11
     body: House Committee on Ethics
-    action: began a review of Gohmert's appeal of his fine.
+    action: reported that the House Sergeant at Arms fined Gohmert and began a review of Gohmert's appeal
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-louis
+    tags: fined
   - date: 2021-03-30
     body: House Committee on Ethics
     action: announced that Gohmert's February 26 appeal was denied.
@@ -458,25 +460,24 @@
 - person: 456813
   name: Andrew Clyde
   allegation: failing to complete security screening on February 3, 2021.
-  text: Rep. Clyde was accused of [failing to complete security screening on February
-    3, 2021 and fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-20)
-    by the House Committee on Ethics. He is allowed to, and is, appealing the fine.
+  text: Rep. Clyde [failed to complete security screening on February
+    3, 2021 and was fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-20).
     On April 12, the [Committee rejected Clyde's appeals](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-23).
   consequences:
   - date: 2021-03-11
     body: House Committee on Ethics
-    action: began a review of Clyde's appeal of his fine.
+    action: reported that the House Sergeant at Arms fined Clyde and began a review of his appeal
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-20
+    tags: fined
   - date: 2021-04-12
     body: House Committee on Ethics
-    action: a majority of the Committee refused to accept Clyde's appeal and his fines
-      stand.
+    action: rejected Clyde's appeal
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-23
   tags: ethics resolved
 - person: 412773
   name: Ross Fulcher
   allegation: assaulting a Capitol Police officer when refusing to fully comply with
-    security procedures before entering the House floor on January 12, 2021.
+    security procedures before entering the House floor on January 12, 2021
   text: Rep. Fulcher was accused of assaulting a Capitol Police officer when [refusing
     to fully comply with security procedures before entering the House floor on January
     12, 2021](https://www.huffpost.com/entry/capitol-police-investigate-member-incidents-metal-detectors-house-chamber_n_602dd485c5b67c32961b2d8e?aod).
@@ -566,14 +567,7 @@
   tags: corruption resolved
 - person: 400030
   name: Sanford Bishop
-  text: In June 2020, the House Committee on Ethics announced it would [continue an
-    investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-11)
-    into Rep. Bishop for unstated reasons based on an unpublished February 2020 referral
-    from the Office of Congressional Ethics. On July 31, the House Committee on Ethics
-    [published the Office of Congressional Ethics (OCE) Report and Findings](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-14)
-    and Bishop's response. The OCE reported that the allegations were of spending
-    Members’ Representational Allowance (MRA) funds on holiday events in his district
-    and converting campaign funds to personal use
+  text: Rep. Bishop was investigated for spending both House office funds and campaign funds for personal use, including on annual holiday gatherings and tuition.
   allegation: spending Members’ Representational Allowance (MRA) funds on holiday
     events in his district and converting campaign funds to personal use
   consequences:
@@ -763,12 +757,12 @@
   text: In October 2019, nude photos of Rep. Hill were published by conservative websites
     along with the allegation that she was having a sexual relationship with her Chief
     of Staff. Rep. Hill claimed that the photos & allegation came from her soon to
-    be ex-husband as part of their divorce. Rep. Hill denied that allegation, which
+    be ex-husband as part of their divorce. Rep. Hill denied the allegation, which
     would have been a violation of House rules, but did acknowledge a relationship
     with a campaign staff member which is not against House rules. A few days after
     the House Ethics Committee opened an investigation into Rep. Hill, she resigned
     from Congress.
-  allegation: had a sexual relationship with office staffer
+  allegation: having a sexual relationship with office staffer
   consequences:
   - date: 2019-10-23
     body: House Committee on Ethics
@@ -777,6 +771,7 @@
   - date: 2019-10-27
     text: Resigned from Congress.
     link: https://twitter.com/RepKatieHill/status/1188591520531779584?s=20
+    tags: resignation
   tags: resolved sexual-harassment-abuse
 - person: 400162
   name: Raúl Grijalva
@@ -1022,6 +1017,7 @@
     action: published their report, concluded he was guilty of all charges, recommended
       a reprimand and fined Schweikert $50,000.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-13
+    tags: fined
   - date: 2020-07-31
     body: House of Representatives
     action: voted unanimously by voice to reprimand Rep. Schweikert
@@ -4414,6 +4410,7 @@
     action: dismissed the complaint and a letter released publicly after Wilson admitted
       his error and paid a $90,000 fine
     link: https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf
+    tags: fined
   tags: elections resolved
 - person: 409154
   name: Reynolds

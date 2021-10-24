@@ -114,7 +114,7 @@ for incident in misconduct:
 		elif "tags" in cons:
 			tags = set(cons["tags"].split(" "))
 			bad_tags = tags - {
-				"expulsion", "censure", "reprimand", "resignation", "exclusion",
+				"expulsion", "censure", "reprimand", "fined", "resignation", "exclusion",
 				"settlement", "conviction", "plea" }
 			if bad_tags:
 				error(incident, cons, "Consequence has invalid 'tags': {}.".format(bad_tags))
