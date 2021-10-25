@@ -1,3 +1,35 @@
+- person: 456814
+  name: Marjorie Taylor Greene
+  allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
+  text: In October 2021, Rep. Greene was fined for failing to wear a mask on
+    the House floor during the COVID-19 pandemic.
+  consequences:
+  - date: 2021-10-25
+    body: House Committee on Ethics
+    action: reported that Greene had been fined by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-35
+    tags: fined
+- person: 456813
+  name: Andrew Clyde
+  allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
+  text: In October 2021, Rep. Clyde was fined for failing to wear a mask on
+    the House floor during the COVID-19 pandemic.
+  consequences:
+  - date: 2021-10-25
+    body: House Committee on Ethics
+    action: reported that Clyde had been fined by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-34
+    tags: fined
+- person: 412820
+  name: Dan Crenshaw
+  allegation: failing to complete security screening to enter House Floor
+  text: In October 2021, the Committee agreed to Rep. Crenshaw's appeal of a fine for failing to complete security screening to enter House Floor.
+  consequences:
+  - date: 2021-10-25
+    body: House Committee on Ethics
+    action: reported that the Committee agreed to Crenshaw's appeal
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dan-0
+    tags: ethics resolved
 - person: 400640
   name: Jeff Fortenberry
   allegation: scheming to falsify and conceal material facts and making false statements
@@ -93,9 +125,9 @@
   tags: ethics resolved
 - person: 412437
   name: Bill Huizenga
-  allegation: failure to complete a security screening
-  text: Rep. Huizenga [failed to complete a security screening prior to entering the
-    House Chamber on August 23, 2021 and was fined $5,000](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-29).
+  allegation: failing to complete security screening to enter House Floor
+  text: Rep. Huizenga failed to complete a security screening prior to entering the
+    House Chamber on August 23, 2021. In October 2021, the House Committee on Ethics agreed to Huizenga's appeal of the fine.
   consequences:
   - date: 2021-08-24
     body: House Sergeant at Arms
@@ -107,7 +139,11 @@
     body: House Committee on Ethics
     action: announced the fine
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-29
-  tags: ethics unresolved
+  - date: 2021-10-25
+    body: House Committee on Ethics
+    action: agreed to the appeal
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-36
+  tags: ethics resolved
 - person: 412788
   name: Jim Hagedorn
   allegation: using official funds for impermissible expenditures and receiving an
