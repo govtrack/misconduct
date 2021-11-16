@@ -1,44 +1,90 @@
-- person: 456814
-  name: Marjorie Taylor Greene
-  allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
-  text: In November 2021, Rep. Greene was fined three additional times (Sept. 22, 27, 28) for failing to wear a mask on the House floor during the COVID-19 pandemic.
-  consequences:
-  - date: 2021-11-01
-    body: House Committee on Ethics
-    action: reported that Greene had been fined three additional times by the Sergeant at Arms
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-38
-    tags: fined
 - person: 456813
   name: Andrew Clyde
   allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
-  text: In November 2021, Rep. Clyde was fined three additional times (Sept. 22, 27, 28) for failing to wear a mask on the House floor during the COVID-19 pandemic.
+  text: In 2021, Rep. Clyde was many times for failing to wear a mask on the House floor during the COVID-19 pandemic.
   consequences:
-  - date: 2021-11-01
-    body: House Committee on Ethics
-    action: reported that Clyde had been fined three additional times by the Sergeant at Arms
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-37
-    tags: fined
-- person: 456814
-  name: Marjorie Taylor Greene
-  allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
-  text: In October 2021, Rep. Greene was fined for failing to wear a mask on
-    the House floor during the COVID-19 pandemic.
-  consequences:
-  - date: 2021-10-25
-    body: House Committee on Ethics
-    action: reported that Greene had been fined by the Sergeant at Arms
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-35
-    tags: fined
-- person: 456813
-  name: Andrew Clyde
-  allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
-  text: In October 2021, Rep. Clyde was fined for failing to wear a mask on
-    the House floor during the COVID-19 pandemic.
-  consequences:
-  - date: 2021-10-25
+  - date: 2021-09-21
     body: House Committee on Ethics
     action: reported that Clyde had been fined by the Sergeant at Arms
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-34
+  - date: 2021-09-22
+    body: House Committee on Ethics
+    action: reported that Clyde had been fined three additional times by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-37
+  - date: 2021-09-27
+    body: House Committee on Ethics
+    action: reported that Clyde had been fined three additional times by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-37
+  - date: 2021-09-28
+    body: House Committee on Ethics
+    action: reported that Clyde had been fined three additional times by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-37
+  - date: 2021-09-29
+    body: House Committee on Ethics
+    action: reported that Clyde had been fined three additional times by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-39
+  - date: 2021-09-30
+    body: House Committee on Ethics
+    action: reported that Clyde had been fined three additional times by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-39
+  - date: 2021-10-01
+    body: House Committee on Ethics
+    action: reported that Clyde had been fined three additional times by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-39
+    tags: fined
+- person: 456814
+  name: Marjorie Taylor Greene
+  allegation: repeatedly failing to wear a mask on the House floor during the COVID-19 pandemic
+  text: In 2021, Rep. Greene was fined many times for failing to wear a mask on the House floor during the COVID-19 pandemic.
+  consequences:
+  - date: 2021-05-20
+    body: House Committee on Ethics
+    action: reported that Greene had been fined by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chair-and-ranking-member-committee-ethics-regarding-representative-marjorie
+    tags: fined
+  - date: 2021-06-18
+    text: Greene appealed the fine.
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Marjorie%20Taylor%20Greene%20Mask%20Fine%20Appeal%20Letter%20%286.18.21%29.pdf
+  - date: 2021-07-20
+    body: House Committee on Ethics
+    action: rejected Greene's appeal.
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Greene.pdf
+  - date: 2021-08-02
+    body: House Committee on Ethics
+    action: reported that Greene had been fined by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-30
+  - date: 2021-09-21
+    body: House Committee on Ethics
+    action: reported that Greene had been fined by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-35
+  - date: 2021-09-22
+    body: House Committee on Ethics
+    action: reported that Greene had been fined by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-38
+  - date: 2021-09-27
+    body: House Committee on Ethics
+    action: reported that Greene had been fined by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-38
+  - date: 2021-09-28
+    body: House Committee on Ethics
+    action: reported that Greene had been fined by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-38
+  - date: 2021-09-29
+    body: House Committee on Ethics
+    action: reported that Greene had been fined by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-40
+  - date: 2021-09-30
+    body: House Committee on Ethics
+    action: reported that Greene had been fined by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-40
+  - date: 2021-10-01
+    body: House Committee on Ethics
+    action: reported that Greene had been fined by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-40
+  - date: 2021-10-04
+    body: House Committee on Ethics
+    action: reported that Greene had been fined by the Sergeant at Arms
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-40
     tags: fined
 - person: 412820
   name: Dan Crenshaw
@@ -70,22 +116,6 @@
       facts and two of making false statements to federal investigators.
     link: https://www.justice.gov/usao-cdca/pr/us-rep-jeff-fortenberry-charged-scheme-deceive-federal-investigators-probing-illegal
   tags: elections unresolved
-- person: 456814
-  name: Marjorie Taylor Greene
-  allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
-  text: In the summer of 2021, Rep. Greene was fined for failing to wear a mask on
-    the House floor during the COVID-19 pandemic.
-  consequences:
-  - date: 2021-08-02
-    body: House Committee on Ethics
-    action: reported that Greene had been fined by the Sergeant at Arms
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/20210907%20COE%20to%20Speaker%20re%20Greene.pdf
-    tags: fined
-  - date: 2021-09-08
-    body: House Committee on Ethics
-    action: announced that Greene had not appealed the fine
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-30
-  tags: ethics resolved
 - person: 412826
   name: Chip Roy
   allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
@@ -295,26 +325,6 @@
   - date: 2021-07-27
     text: CNBC reported the accusation.
     link: https://www.cnbc.com/2021/07/27/china-critic-sen-tommy-tuberville-of-alabama-violated-stock-act.html
-  tags: ethics resolved
-- person: 456814
-  name: Marjorie Taylor Greene
-  allegation: failing to wear a mask on the House floor
-  text: On May 20, 2021, Rep. Greene failed to wear a mask on the House floor during
-    the COVID-19 pandemic and was fined. On June 18, Greene appealed and on July 20,
-    the Committee [rejected the appeal](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Greene.pdf).
-  consequences:
-  - date: 2021-05-20
-    body: House Committee on Ethics
-    action: reported that Greene had been fined by the Sergeant at Arms
-    link: https://ethics.house.gov/press-releases/statement-chair-and-ranking-member-committee-ethics-regarding-representative-marjorie
-    tags: fined
-  - date: 2021-06-18
-    text: Greene appealed the fine.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Marjorie%20Taylor%20Greene%20Mask%20Fine%20Appeal%20Letter%20%286.18.21%29.pdf
-  - date: 2021-07-20
-    body: House Committee on Ethics
-    action: rejected Greene's appeal.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Notice%20Regarding%20Appeal%20re%20Greene.pdf
   tags: ethics resolved
 - person: 412738
   name: Ralph Norman
