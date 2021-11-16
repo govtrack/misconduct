@@ -18,6 +18,7 @@
     action: fined Clyde three additional times, on Sept. 29, 30, and Oct. 1, 2021.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-39
     tags: fined
+  tags: ethics resolved
 - person: 456814
   name: Marjorie Taylor Greene
   allegation: repeatedly failing to wear a mask on the House floor during the COVID-19 pandemic
@@ -55,6 +56,7 @@
     action: fined Greene four additional times on Sept. 29, 30, Oct. 1, and 4, 2021
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-40
     tags: fined
+  tags: ethics resolved
 - person: 412820
   name: Dan Crenshaw
   allegation: failing to complete security screening to enter House Floor
@@ -64,7 +66,7 @@
     body: House Committee on Ethics
     action: reported that the Committee agreed to Crenshaw's appeal
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-dan-0
-    tags: ethics resolved
+  tags: ethics resolved
 - person: 400640
   name: Jeff Fortenberry
   allegation: scheming to falsify and conceal material facts and making false statements
