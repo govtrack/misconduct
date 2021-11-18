@@ -1,7 +1,7 @@
 - person: 412397
   name: Paul Gosar
   allegation: posting a video clip altered with official Congressional resources to make it look like he killed his colleague, Rep. Ocasio-Cortez, and flew at President Biden with swords via his official social media accounts
-  text: On Nov. 7, 2021, Rep. Gosar posted on his official social media accounts a video clip taken from the opening credits of an animated show called Attack of the Titans. The clip was altered to add real people's faces to various characters. The result was a character with his face killing one with Rep. Ocasio-Cortez's face and flying at one, armed with swords, with President Biden's face. On Nov. 17, Rep. Gosar was [censured](https://www.govtrack.us/congress/bills/117/hres789/text) and removed from his committee assignments (one of which he shared with Rep. Ocasio-Cortez) by a vote of [223-207](https://twitter.com/CraigCaplan/status/1461084527271493638?s=20).
+  text: On Nov. 7, 2021, Rep. Gosar posted on his official social media accounts a video clip taken from the opening credits of an animated show called Attack of the Titans. The clip was altered to add real people's faces to various characters. The result was a character with his face killing one with Rep. Ocasio-Cortez's face and flying at one, armed with swords, with President Biden's face. On Nov. 17, Rep. Gosar was [censured](https://www.govtrack.us/congress/bills/117/hres789/text) and removed from his committee assignments (one of which he shared with Rep. Ocasio-Cortez) by a vote of [223-207](https://www.govtrack.us/congress/votes/117-2021/h379).
   consequences:
   - date: 2021-11-07
     text: Rep. Gosar posted the video clip.
@@ -9,7 +9,7 @@
   - date: 2021-11-17
     body: House of Representatives
     action: censured Rep. Gosar and removed him from committee assignments
-    link: https://twitter.com/CraigCaplan/status/1461084527271493638?s=20
+    link: https://www.govtrack.us/congress/votes/117-2021/h379
     tags: censure
   tags: ethics resolved
 - person: 456813
