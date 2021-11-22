@@ -1,3 +1,14 @@
+- person: 412777
+  name: Jim Baird
+  allegation: failing to complete security screening to enter House Floor
+  text: In Nov. 2021, Rep. Baird was accused of failing to complete security screening to enter House Floor. He was fined by the Sargeant at Arms and has 30 days to appeal the fine.
+  consequences:
+  - date: 2021-11-17
+    body: Sargeant at Arms
+    action: fined member for failing to complete security screening to enter House Floor
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jim-1
+    tags: fined
+  tags: ethics unresolved
 - person: 412397
   name: Paul Gosar
   allegation: posting a video clip altered with official Congressional resources to make it look like he killed his colleague, Rep. Ocasio-Cortez, and flew at President Biden with swords via his official social media accounts
