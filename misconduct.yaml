@@ -86,7 +86,17 @@
     action: fined Greene
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-41
     tags: fined
-  tags: ethics resolved
+  - date: 2021-10-21
+    body: House Sergeant at Arms
+    action: fined Greene
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-42
+    tags: fined
+  - date: 2021-10-22
+    body: House Sergeant at Arms
+    action: fined Greene
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-42
+    tags: fined
+tags: ethics resolved
 - person: 412820
   name: Dan Crenshaw
   allegation: failing to complete security screening to enter House Floor
