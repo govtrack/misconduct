@@ -1,3 +1,14 @@
+- person: 456853
+  name: Bob Good
+  allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
+  text: In 2021, Rep. Good was fined for failing to wear a mask on the House floor during the COVID-19 pandemic. The Rep. appealed his fine, but [the appeal was denied](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-bob).
+  consequences:
+  - date: 2021-09-27
+    body: House Sergeant at Arms
+    action: fined Good for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-bob
+    tags: fined     
+  tags: ethics resolved
 - person: 412777
   name: Jim Baird
   allegation: failing to complete security screening to enter House Floor
@@ -26,11 +37,11 @@
 - person: 456813
   name: Andrew Clyde
   allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
-  text: In 2021, Rep. Clyde was many times for failing to wear a mask on the House floor during the COVID-19 pandemic.
+  text: In 2021, Rep. Clyde was fined many times for failing to wear a mask on the House floor during the COVID-19 pandemic. The Rep. appealed his fines assessed for the latter half of October, but [all appeals were denied](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43).
   consequences:
   - date: 2021-09-21
     body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19 pandemic
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19 pandemic.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-34
     tags: fined
   - date: 2021-09-28
@@ -43,6 +54,36 @@
     action: fined Clyde three additional times, on Sept. 29, 30, and Oct. 1, 2021.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-39
     tags: fined
+  - date: 2021-10-14
+    body: House Sergeant at Arms
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
+    tags: fined
+  - date: 2021-10-21
+    body: House Sergeant at Arms
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
+    tags: fined
+  - date: 2021-10-22
+    body: House Sergeant at Arms
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
+    tags: fined
+  - date: 2021-10-26
+    body: House Sergeant at Arms
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
+    tags: fined
+   - date: 2021-10-27
+    body: House Sergeant at Arms
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
+    tags: fined
+  - date: 2021-10-28
+    body: House Sergeant at Arms
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
+    tags: fined     
   tags: ethics resolved
 - person: 456814
   name: Marjorie Taylor Greene
@@ -96,6 +137,26 @@
     action: fined Greene
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-42
     tags: fined
+  - date: 2021-10-26
+    body: House Sergeant at Arms
+    action: fined Greene
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-44
+    tags: fined
+  - date: 2021-10-27
+    body: House Sergeant at Arms
+    action: fined Greene
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-44
+    tags: fined
+  - date: 2021-10-28
+    body: House Sergeant at Arms
+    action: fined Greene
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-44
+    tags: fined
+  - date: 2021-11-02
+    body: House Sergeant at Arms
+    action: fined Greene
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-44
+    tags: fined
   tags: ethics resolved
 - person: 412820
   name: Dan Crenshaw
@@ -111,8 +172,7 @@
   name: Jeff Fortenberry
   allegation: scheming to falsify and conceal material facts and making false statements
     to federal investigators
-  text: >
-    Rep. Fortenberry was indicted on [three counts](https://www.justice.gov/usao-cdca/pr/us-rep-jeff-fortenberry-charged-scheme-deceive-federal-investigators-probing-illegal):
+  text: Rep. Fortenberry was indicted on [three counts](https://www.justice.gov/usao-cdca/pr/us-rep-jeff-fortenberry-charged-scheme-deceive-federal-investigators-probing-illegal):
     one of scheming to falsify and conceal material facts and two of making false
     statements to federal investigators, in 2019, related to campaign contributions
     from a foreign national to his 2016 re-election campaign.
@@ -126,6 +186,10 @@
     action: indicted on three counts - one of scheming to falsify and conceal material
       facts and two of making false statements to federal investigators.
     link: https://www.justice.gov/usao-cdca/pr/us-rep-jeff-fortenberry-charged-scheme-deceive-federal-investigators-probing-illegal
+  - date: 2021-12-03
+    body: House Committee on Ethics
+    action: established an Investigative Subcommittee, but deferred action pending the results of the Department of Justice investigation
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jeff
   tags: elections unresolved
 - person: 412826
   name: Chip Roy
