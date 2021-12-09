@@ -1,29 +1,44 @@
 - person: 456853
   name: Bob Good
   allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
-  text: In 2021, Rep. Good was fined for failing to wear a mask on the House floor during the COVID-19 pandemic. The Rep. appealed his fine, but [the appeal was denied](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-bob).
+  text: In 2021, Rep. Good was fined for failing to wear a mask on the House floor
+    during the COVID-19 pandemic. The Rep. appealed his fine, but [the appeal was
+    denied](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-bob).
   consequences:
   - date: 2021-09-27
     body: House Sergeant at Arms
-    action: fined Good for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    action: fined Good for failing to wear a mask on the House floor during the COVID-19
+      pandemic.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-bob
-    tags: fined     
+    tags: fined
   tags: ethics resolved
 - person: 412777
   name: Jim Baird
   allegation: failing to complete security screening to enter House Floor
-  text: In Nov. 2021, Rep. Baird was accused of failing to complete security screening to enter House Floor. He was fined by the Sargeant at Arms and has 30 days to appeal the fine.
+  text: In Nov. 2021, Rep. Baird was accused of failing to complete security screening
+    to enter House Floor. He was fined by the Sargeant at Arms and has 30 days to
+    appeal the fine.
   consequences:
   - date: 2021-11-17
     body: Sargeant at Arms
-    action: fined member for failing to complete security screening to enter House Floor
+    action: fined member for failing to complete security screening to enter House
+      Floor
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jim-1
     tags: fined
   tags: ethics unresolved
 - person: 412397
   name: Paul Gosar
-  allegation: posting a video clip altered with official Congressional resources to make it look like he killed his colleague, Rep. Ocasio-Cortez, and flew at President Biden with swords via his official social media accounts
-  text: On Nov. 7, 2021, Rep. Gosar posted on his official social media accounts a video clip taken from the opening credits of an animated show called Attack of the Titans. The clip was altered to add real people's faces to various characters. The result was a character with his face killing one with Rep. Ocasio-Cortez's face and flying at one, armed with swords, with President Biden's face. On Nov. 17, Rep. Gosar was [censured](https://www.govtrack.us/congress/bills/117/hres789/text) and removed from his committee assignments (one of which he shared with Rep. Ocasio-Cortez) by a vote of [223-207](https://www.govtrack.us/congress/votes/117-2021/h379).
+  allegation: posting a video clip altered with official Congressional resources to
+    make it look like he killed his colleague, Rep. Ocasio-Cortez, and flew at President
+    Biden with swords via his official social media accounts
+  text: On Nov. 7, 2021, Rep. Gosar posted on his official social media accounts a
+    video clip taken from the opening credits of an animated show called Attack of
+    the Titans. The clip was altered to add real people's faces to various characters.
+    The result was a character with his face killing one with Rep. Ocasio-Cortez's
+    face and flying at one, armed with swords, with President Biden's face. On Nov.
+    17, Rep. Gosar was [censured](https://www.govtrack.us/congress/bills/117/hres789/text)
+    and removed from his committee assignments (one of which he shared with Rep. Ocasio-Cortez)
+    by a vote of [223-207](https://www.govtrack.us/congress/votes/117-2021/h379).
   consequences:
   - date: 2021-11-07
     text: Rep. Gosar posted the video clip.
@@ -37,11 +52,14 @@
 - person: 456813
   name: Andrew Clyde
   allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
-  text: In 2021, Rep. Clyde was fined many times for failing to wear a mask on the House floor during the COVID-19 pandemic. The Rep. appealed his fines assessed for the latter half of October, but [all appeals were denied](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43).
+  text: In 2021, Rep. Clyde was fined many times for failing to wear a mask on the
+    House floor during the COVID-19 pandemic. The Rep. appealed his fines assessed
+    for the latter half of October, but [all appeals were denied](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43).
   consequences:
   - date: 2021-09-21
     body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
+      pandemic.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-34
     tags: fined
   - date: 2021-09-28
@@ -56,43 +74,52 @@
     tags: fined
   - date: 2021-10-14
     body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
+      pandemic.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
     tags: fined
   - date: 2021-10-21
     body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
+      pandemic.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
     tags: fined
   - date: 2021-10-22
     body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
+      pandemic.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
     tags: fined
   - date: 2021-10-26
     body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
+      pandemic.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
     tags: fined
-   - date: 2021-10-27
+  - date: 2021-10-27
     body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
+      pandemic.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
     tags: fined
   - date: 2021-10-28
     body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
+      pandemic.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
-    tags: fined     
+    tags: fined
   tags: ethics resolved
 - person: 456814
   name: Marjorie Taylor Greene
-  allegation: repeatedly failing to wear a mask on the House floor during the COVID-19 pandemic
-  text: In 2021, Rep. Greene was fined many times for failing to wear a mask on the House floor during the COVID-19 pandemic.
+  allegation: repeatedly failing to wear a mask on the House floor during the COVID-19
+    pandemic
+  text: In 2021, Rep. Greene was fined many times for failing to wear a mask on the
+    House floor during the COVID-19 pandemic.
   consequences:
   - date: 2021-05-20
     body: House Sergeant at Arms
-    action: fined Greene for failing to wear a mask on the House floor during the COVID-19 pandemic
+    action: fined Greene for failing to wear a mask on the House floor during the
+      COVID-19 pandemic
     link: https://ethics.house.gov/press-releases/statement-chair-and-ranking-member-committee-ethics-regarding-representative-marjorie
     tags: fined
   - date: 2021-06-18
@@ -161,7 +188,8 @@
 - person: 412820
   name: Dan Crenshaw
   allegation: failing to complete security screening to enter House Floor
-  text: In October 2021, the Committee agreed to Rep. Crenshaw's appeal of a fine for failing to complete security screening to enter House Floor.
+  text: In October 2021, the Committee agreed to Rep. Crenshaw's appeal of a fine
+    for failing to complete security screening to enter House Floor.
   consequences:
   - date: 2021-10-25
     body: House Committee on Ethics
@@ -172,7 +200,8 @@
   name: Jeff Fortenberry
   allegation: scheming to falsify and conceal material facts and making false statements
     to federal investigators
-  text: Rep. Fortenberry was indicted on [three counts](https://www.justice.gov/usao-cdca/pr/us-rep-jeff-fortenberry-charged-scheme-deceive-federal-investigators-probing-illegal):
+  text: >
+    Rep. Fortenberry was indicted on [three counts](https://www.justice.gov/usao-cdca/pr/us-rep-jeff-fortenberry-charged-scheme-deceive-federal-investigators-probing-illegal):
     one of scheming to falsify and conceal material facts and two of making false
     statements to federal investigators, in 2019, related to campaign contributions
     from a foreign national to his 2016 re-election campaign.
@@ -188,7 +217,8 @@
     link: https://www.justice.gov/usao-cdca/pr/us-rep-jeff-fortenberry-charged-scheme-deceive-federal-investigators-probing-illegal
   - date: 2021-12-03
     body: House Committee on Ethics
-    action: established an Investigative Subcommittee, but deferred action pending the results of the Department of Justice investigation
+    action: established an Investigative Subcommittee, but deferred action pending
+      the results of the Department of Justice investigation
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jeff
   tags: elections unresolved
 - person: 412826
@@ -199,7 +229,8 @@
   consequences:
   - date: 2021-08-02
     body: House Sergeant at Arms
-    action: fined Roy for failing to wear a mask on the House floor during the COVID-19 pandemic
+    action: fined Roy for failing to wear a mask on the House floor during the COVID-19
+      pandemic
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/20210907%20COE%20to%20Speaker%20re%20Roy.pdf
     tags: fined
   - date: 2021-09-08
@@ -252,7 +283,8 @@
   name: Bill Huizenga
   allegation: failing to complete security screening to enter House Floor
   text: Rep. Huizenga failed to complete a security screening prior to entering the
-    House Chamber on August 23, 2021. In October 2021, the House Committee on Ethics agreed to Huizenga's appeal of the fine.
+    House Chamber on August 23, 2021. In October 2021, the House Committee on Ethics
+    agreed to Huizenga's appeal of the fine.
   consequences:
   - date: 2021-08-24
     body: House Sergeant at Arms
@@ -4832,10 +4864,10 @@
   tags: ethics resolved
 - person: 402990
   name: Alan Cranston
-  text: In 1989, Sen. Cranston improperly intervened with federal banking regulators on behalf
-    of Charles Keating, Jr., a campaign donor, and his savings and loan business. Because Keating's campaign
-    contributions came so close in time to Cranston's actions, he was [reprimanded
-    by the Senate Select Committee on Ethics](https://alamedamgr.files.wordpress.com/2018/04/cq-almanac-online-edition-keating-five.pdf).
+  text: In 1989, Sen. Cranston improperly intervened with federal banking regulators
+    on behalf of Charles Keating, Jr., a campaign donor, and his savings and loan
+    business. Because Keating's campaign contributions came so close in time to Cranston's
+    actions, he was [reprimanded by the Senate Select Committee on Ethics](https://alamedamgr.files.wordpress.com/2018/04/cq-almanac-online-edition-keating-five.pdf).
     An odd aspect of Cranston's "punishment" was that he was allowed to rebut his
     reprimand on the floor of the Senate. To his colleagues' displeasure, he declared
     that [if he was guilty of wrongdoing, then so was the entire Senate](https://alamedamgr.files.wordpress.com/2018/04/cq-almanac-online-edition-keating-five.pdf).
@@ -7717,11 +7749,11 @@
   allegation: disloyalty to the Union
   text: Stark faced an allegation of disloyalty to the Union. On Feb. 27, 1862, the
     Senate voted to seat him 26-19 since his public statements came before he was
-    in the Senate. Stark requested another investigation, presumably
-    to more fully exonerate him, and on Apr. 22, a committee reported that based
-    on his public statements, he supported the rebellion, and Charles Sumner introduced
-    a resolution to expel him. On Jun. 6, the expulsion resolution was defeated
-    21-16, apparently because Stark had only a few more months to serve.
+    in the Senate. Stark requested another investigation, presumably to more fully
+    exonerate him, and on Apr. 22, a committee reported that based on his public statements,
+    he supported the rebellion, and Charles Sumner introduced a resolution to expel
+    him. On Jun. 6, the expulsion resolution was defeated 21-16, apparently because
+    Stark had only a few more months to serve.
   consequences:
   - date: 1862-02-27
     body: Senate
