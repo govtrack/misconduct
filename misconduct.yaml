@@ -1,3 +1,32 @@
+- person: 456819
+  name: Marie Newman
+  allegation: promising a Congressional staff position to someone if they did not run against her in the 2020 primary
+  text: In 2021, Rep. Newman was accused of [promising a staff position to a potential opponent](https://chicago.suntimes.com/columnists/2021/12/12/22831391/rep-marie-newman-democratic-primary-rep-sean-casten-faces-political-damage-ethics-probe) if he agreed not to run against her in the 2020 primary. She is also being investigated by the House Ethics Committee, although they have yet to say why.
+  consequences:
+  - date: 2021-10-25
+    body: Office of Congressional Ethics
+    action: recommended further review by the House Committee on Ethics
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-marie
+  - date: 2021-12-09
+    body: House Committee on Ethics
+    action: extended its review of the matter
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-marie
+  tags: ethics unresolved
+- person: 412191
+  name: Doug Lamborn
+  allegation: engaging in a wide variety of abusive behaviors towards Congressional staff
+  text: In 2021, Rep. Lamborn was sued for a [wide variety of abusive behaviors towards Congressional staff](https://www.rollcall.com/2021/05/14/doug-lamborn-likely-to-face-house-ethics-scrutiny/). He is also being investigated by the House Ethics Committee, although they have yet to say why.
+  consequences:
+  - date: 2021-10-25
+    body: Office of Congressional Ethics
+    action: recommended further review by the House Committee on Ethics
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-doug
+  - date: 2021-12-09
+    body: House Committee on Ethics
+    action: extended its review of the matter
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-doug
+  tags: ethics unresolved
+
 - person: 456853
   name: Bob Good
   allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
@@ -16,8 +45,7 @@
   name: Jim Baird
   allegation: failing to complete security screening to enter House Floor
   text: In Nov. 2021, Rep. Baird was accused of failing to complete security screening
-    to enter House Floor. He was fined by the Sargeant at Arms and has 30 days to
-    appeal the fine.
+    to enter House Floor. He was fined by the Sargeant at Arms, [appealed](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Rep.%20Baird%27s%20Appeal.pdf) and the Committee agreed to the appeal.
   consequences:
   - date: 2021-11-17
     body: Sargeant at Arms
@@ -25,7 +53,16 @@
       Floor
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jim-1
     tags: fined
-  tags: ethics unresolved
+  - date: 2021-12-03
+    action: member appealed fine
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Rep.%20Baird%27s%20Appeal.pdf
+    tags: appealed
+  - date: 2021-12-08
+    body: House Committee on Ethics
+    action: a majority of the committee agreed to the appeal and the fine was rescinded
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jim-2
+    tags: appeal-agreed-to
+  tags: ethics resolved
 - person: 412397
   name: Paul Gosar
   allegation: posting a video clip altered with official Congressional resources to
@@ -184,7 +221,22 @@
     action: fined Greene
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-44
     tags: fined
-  tags: ethics resolved
+  - date: 2021-11-04
+    body: House Sergeant at Arms
+    action: fined Greene
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-marjorie-taylor
+    tags: fined
+  - date: 2021-11-08
+    body: House Sergeant at Arms
+    action: fined Greene
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-marjorie-taylor
+    tags: fined
+  - date: 2021-11-09
+    body: House Sergeant at Arms
+    action: fined Greene
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-marjorie-taylor
+    tags: fined
+tags: ethics resolved
 - person: 412820
   name: Dan Crenshaw
   allegation: failing to complete security screening to enter House Floor
