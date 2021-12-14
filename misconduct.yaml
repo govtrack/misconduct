@@ -52,16 +52,13 @@
     action: fined member for failing to complete security screening to enter House
       Floor
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jim-1
-    tags: fined
   - date: 2021-12-03
-    action: member appealed fine
+    text: Member appealed fine.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Rep.%20Baird%27s%20Appeal.pdf
-    tags: appealed
   - date: 2021-12-08
     body: House Committee on Ethics
     action: a majority of the committee agreed to the appeal and the fine was rescinded
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jim-2
-    tags: appeal-agreed-to
   tags: ethics resolved
 - person: 412397
   name: Paul Gosar
@@ -236,7 +233,7 @@
     action: fined Greene
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-marjorie-taylor
     tags: fined
-tags: ethics resolved
+  tags: ethics resolved
 - person: 412820
   name: Dan Crenshaw
   allegation: failing to complete security screening to enter House Floor
