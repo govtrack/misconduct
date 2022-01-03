@@ -1781,8 +1781,7 @@
 - person: 400297
   name: Devin Nunes
   text: In 2017 Nunes was investigated for unauthorized disclosures of classified
-    information. The [investigation is closed](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-6)
-    as of 12/07/2017.
+    information, but the House Committee on Ethics later concluded that the information was not classified.
   allegation: unauthorized disclosures of classified information
   consequences:
   - date: 2017-04-06
