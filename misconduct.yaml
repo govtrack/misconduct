@@ -26,7 +26,6 @@
     action: extended its review of the matter
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-doug
   tags: ethics unresolved
-
 - person: 456853
   name: Bob Good
   allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
@@ -232,6 +231,11 @@
     body: House Sergeant at Arms
     action: fined Greene
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-marjorie-taylor
+    tags: fined
+  - date: 2021-11-18
+    body: House Sergeant at Arms
+    action: fined Greene twice
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-45
     tags: fined
   tags: ethics resolved
 - person: 412820
