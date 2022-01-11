@@ -1,3 +1,29 @@
+- person: 456805
+  name: Lauren Boebert
+  allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
+  text: In 2021, Rep. Boebert was [fined for failing to wear a mask on the House floor](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-46)
+    during the COVID-19 pandemic. 
+  consequences:
+  - date: 2021-11-30
+    body: House Sergeant at Arms
+    action: fined Good for failing to wear a mask on the House floor during the COVID-19
+      pandemic.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-46
+    tags: fined
+  tags: ethics resolved
+- person: 456817
+  name: Mariannette Miller-Meeks
+  allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
+  text: In 2021, Rep. Meeks was [fined for failing to wear a mask on the House floor](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-49)
+    during the COVID-19 pandemic. 
+  consequences:
+  - date: 2021-11-30
+    body: House Sergeant at Arms
+    action: fined Good for failing to wear a mask on the House floor during the COVID-19
+      pandemic.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-49
+    tags: fined
+  tags: ethics resolved
 - person: 456819
   name: Marie Newman
   allegation: promising a Congressional staff position to someone if they did not run against her in the 2020 primary
@@ -141,7 +167,47 @@
       pandemic.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
     tags: fined
-  tags: ethics resolved
+  - date: 2021-11-04
+    body: House Sergeant at Arms
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
+      pandemic.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
+    tags: fined
+  - date: 2021-11-08
+    body: House Sergeant at Arms
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
+      pandemic.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
+    tags: fined
+  - date: 2021-11-09
+    body: House Sergeant at Arms
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
+      pandemic.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
+    tags: fined
+  - date: 2021-11-18
+    body: House Sergeant at Arms
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
+      pandemic.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
+    tags: fined
+  - date: 2021-11-30
+    body: House Sergeant at Arms
+    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
+      pandemic.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
+  - date: 2021-11-30
+    body: House Committee on Ethics
+    action: Clyde appealed the fines for 11/4, 11/8, 11/9, 11/18, 11/30; all were denied
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
+    tags: fined
+  - date: 2021-12-03
+    body: House Sergeant at Arms
+    action: fined Clyde for three additional instances of failing to wear a mask on the House floor during the COVID-19
+      pandemic.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
+    tags: fined
+tags: ethics resolved
 - person: 456814
   name: Marjorie Taylor Greene
   allegation: repeatedly failing to wear a mask on the House floor during the COVID-19
@@ -237,7 +303,17 @@
     action: fined Greene twice
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-45
     tags: fined
-  tags: ethics resolved
+  - date: 2021-11-30
+    body: House Sergeant at Arms
+    action: fined Greene twice
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-48
+    tags: fined
+  - date: 2021-12-03
+    body: House Sergeant at Arms
+    action: fined Greene twice
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-48
+    tags: fined
+tags: ethics resolved
 - person: 412820
   name: Dan Crenshaw
   allegation: failing to complete security screening to enter House Floor
