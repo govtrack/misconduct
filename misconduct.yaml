@@ -2,7 +2,7 @@
   name: Lauren Boebert
   allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
   text: In 2021, Rep. Boebert was [fined for failing to wear a mask on the House floor](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-46)
-    during the COVID-19 pandemic. 
+    during the COVID-19 pandemic.
   consequences:
   - date: 2021-11-30
     body: House Sergeant at Arms
@@ -15,7 +15,7 @@
   name: Mariannette Miller-Meeks
   allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
   text: In 2021, Rep. Meeks was [fined for failing to wear a mask on the House floor](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-49)
-    during the COVID-19 pandemic. 
+    during the COVID-19 pandemic.
   consequences:
   - date: 2021-11-30
     body: House Sergeant at Arms
@@ -26,8 +26,12 @@
   tags: ethics resolved
 - person: 456819
   name: Marie Newman
-  allegation: promising a Congressional staff position to someone if they did not run against her in the 2020 primary
-  text: In 2021, Rep. Newman was accused of [promising a staff position to a potential opponent](https://chicago.suntimes.com/columnists/2021/12/12/22831391/rep-marie-newman-democratic-primary-rep-sean-casten-faces-political-damage-ethics-probe) if he agreed not to run against her in the 2020 primary. She is also being investigated by the House Ethics Committee, although they have yet to say why.
+  allegation: promising a Congressional staff position to someone if they did not
+    run against her in the 2020 primary
+  text: In 2021, Rep. Newman was accused of [promising a staff position to a potential
+    opponent](https://chicago.suntimes.com/columnists/2021/12/12/22831391/rep-marie-newman-democratic-primary-rep-sean-casten-faces-political-damage-ethics-probe)
+    if he agreed not to run against her in the 2020 primary. She is also being investigated
+    by the House Ethics Committee, although they have yet to say why.
   consequences:
   - date: 2021-10-25
     body: Office of Congressional Ethics
@@ -40,8 +44,12 @@
   tags: ethics unresolved
 - person: 412191
   name: Doug Lamborn
-  allegation: engaging in a wide variety of abusive behaviors towards Congressional staff
-  text: In 2021, Rep. Lamborn was sued for a [wide variety of abusive behaviors towards Congressional staff](https://www.rollcall.com/2021/05/14/doug-lamborn-likely-to-face-house-ethics-scrutiny/). He is also being investigated by the House Ethics Committee, although they have yet to say why.
+  allegation: engaging in a wide variety of abusive behaviors towards Congressional
+    staff
+  text: In 2021, Rep. Lamborn was sued for a [wide variety of abusive behaviors towards
+    Congressional staff](https://www.rollcall.com/2021/05/14/doug-lamborn-likely-to-face-house-ethics-scrutiny/).
+    He is also being investigated by the House Ethics Committee, although they have
+    yet to say why.
   consequences:
   - date: 2021-10-25
     body: Office of Congressional Ethics
@@ -70,7 +78,8 @@
   name: Jim Baird
   allegation: failing to complete security screening to enter House Floor
   text: In Nov. 2021, Rep. Baird was accused of failing to complete security screening
-    to enter House Floor. He was fined by the Sargeant at Arms, [appealed](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Rep.%20Baird%27s%20Appeal.pdf) and the Committee agreed to the appeal.
+    to enter House Floor. He was fined by the Sargeant at Arms, [appealed](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Rep.%20Baird%27s%20Appeal.pdf)
+    and the Committee agreed to the appeal.
   consequences:
   - date: 2021-11-17
     body: Sargeant at Arms
@@ -198,13 +207,14 @@
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
   - date: 2021-11-30
     body: House Committee on Ethics
-    action: Clyde appealed the fines for 11/4, 11/8, 11/9, 11/18, 11/30; all were denied
+    action: Clyde appealed the fines for 11/4, 11/8, 11/9, 11/18, 11/30; all were
+      denied
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
     tags: fined
   - date: 2021-12-03
     body: House Sergeant at Arms
-    action: fined Clyde for three additional instances of failing to wear a mask on the House floor during the COVID-19
-      pandemic.
+    action: fined Clyde for three additional instances of failing to wear a mask on
+      the House floor during the COVID-19 pandemic.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
     tags: fined
   - date: 2021-12-09
@@ -316,16 +326,16 @@
     tags: fined
   - date: 2021-12-03
     body: House Sergeant at Arms
-    action: fined Greene 
+    action: fined Greene
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-48
     tags: fined
   - date: 2021-12-09
     body: House Sergeant at Arms
-    action: fined Greene for failing to wear a mask on the House floor during the COVID-19
-      pandemic.
+    action: fined Greene for failing to wear a mask on the House floor during the
+      COVID-19 pandemic.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-51
     tags: fined
-tags: ethics resolved
+  tags: ethics resolved
 - person: 412820
   name: Dan Crenshaw
   allegation: failing to complete security screening to enter House Floor
@@ -1873,7 +1883,8 @@ tags: ethics resolved
 - person: 400297
   name: Devin Nunes
   text: In 2017 Nunes was investigated for unauthorized disclosures of classified
-    information, but the House Committee on Ethics later concluded that the information was not classified.
+    information, but the House Committee on Ethics later concluded that the information
+    was not classified.
   allegation: unauthorized disclosures of classified information
   consequences:
   - date: 2017-04-06
