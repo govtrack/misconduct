@@ -6,8 +6,8 @@
   consequences:
   - date: 2021-11-30
     body: House Sergeant at Arms
-    action: fined Good for failing to wear a mask on the House floor during the COVID-19
-      pandemic.
+    action: fined Boebert for failing to wear a mask on the House floor during the
+      COVID-19 pandemic.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-46
     tags: fined
   tags: ethics resolved
@@ -31,7 +31,7 @@
   text: In 2021, Rep. Newman was accused of [promising a staff position to a potential
     opponent](https://chicago.suntimes.com/columnists/2021/12/12/22831391/rep-marie-newman-democratic-primary-rep-sean-casten-faces-political-damage-ethics-probe)
     if he agreed not to run against her in the 2020 primary. She is also being investigated
-    by the House Ethics Committee, although they have yet to say why.
+    by the House Ethics Committee, although is has yet to say why.
   consequences:
   - date: 2021-10-25
     body: Office of Congressional Ethics
@@ -123,6 +123,9 @@
   text: In 2021, Rep. Clyde was fined many times for failing to wear a mask on the
     House floor during the COVID-19 pandemic. The Rep. appealed his fines assessed
     for the latter half of October, but [all appeals were denied](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43).
+    With a $500 fine for the first time and a $2,500 fine for each subsequent time,
+    it is believed that Clyde has been fined $53,000, taken out of his congressional
+    salary.
   consequences:
   - date: 2021-09-21
     body: House Sergeant at Arms
@@ -132,95 +135,37 @@
     tags: fined
   - date: 2021-09-28
     body: House Sergeant at Arms
-    action: fined Clyde three additional times, on Sept. 22, 27, and 28, 2021.
+    action: fined Clyde three additional times for failing to wear a mask on the House
+      floor during the COVID-19 pandemic on Sept. 22, 27, and 28, 2021.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-37
     tags: fined
   - date: 2021-10-01
     body: House Sergeant at Arms
-    action: fined Clyde three additional times, on Sept. 29, 30, and Oct. 1, 2021.
+    action: fined Clyde three additional times on Sept. 29, 30, and Oct. 1, 2021.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-39
-    tags: fined
-  - date: 2021-10-14
-    body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
-      pandemic.
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
-    tags: fined
-  - date: 2021-10-21
-    body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
-      pandemic.
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
-    tags: fined
-  - date: 2021-10-22
-    body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
-      pandemic.
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
-    tags: fined
-  - date: 2021-10-26
-    body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
-      pandemic.
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
-    tags: fined
-  - date: 2021-10-27
-    body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
-      pandemic.
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
     tags: fined
   - date: 2021-10-28
     body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
-      pandemic.
+    action: fined Clyde six additional times on Oct. 14, 21, 22, 26, 27, 28.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43
     tags: fined
-  - date: 2021-11-04
-    body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
-      pandemic.
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
-    tags: fined
-  - date: 2021-11-08
-    body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
-      pandemic.
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
-    tags: fined
-  - date: 2021-11-09
-    body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
-      pandemic.
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
-    tags: fined
-  - date: 2021-11-18
-    body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
-      pandemic.
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
-    tags: fined
   - date: 2021-11-30
     body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
-      pandemic.
+    action: fined Clyde five additional times on Nov. 4, 8, 9, 18, 30.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
+    tags: fined
   - date: 2021-11-30
     body: House Committee on Ethics
-    action: Clyde appealed the fines for 11/4, 11/8, 11/9, 11/18, 11/30; all were
-      denied
+    action: denied Clyde's appealed of the fines for 11/4, 11/8, 11/9, 11/18, 11/30
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
-    tags: fined
   - date: 2021-12-03
     body: House Sergeant at Arms
-    action: fined Clyde for three additional instances of failing to wear a mask on
-      the House floor during the COVID-19 pandemic.
+    action: fined Clyde three additional times
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
     tags: fined
   - date: 2021-12-09
     body: House Sergeant at Arms
-    action: fined Clyde for failing to wear a mask on the House floor during the COVID-19
-      pandemic.
+    action: fined Clyde an additional time
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-50
     tags: fined
   tags: ethics resolved
@@ -229,7 +174,9 @@
   allegation: repeatedly failing to wear a mask on the House floor during the COVID-19
     pandemic
   text: In 2021, Rep. Greene was fined many times for failing to wear a mask on the
-    House floor during the COVID-19 pandemic.
+    House floor during the COVID-19 pandemic. With a $500 fine for the first time
+    and a $2,500 fine for each subsequent time, it is believed that Greene has been
+    fined $68,000, taken out of her congressional salary.
   consequences:
   - date: 2021-05-20
     body: House Sergeant at Arms
@@ -266,73 +213,38 @@
     tags: fined
   - date: 2021-10-14
     body: House Sergeant at Arms
-    action: fined Greene
+    action: fined Greene an additional time
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-41
-    tags: fined
-  - date: 2021-10-21
-    body: House Sergeant at Arms
-    action: fined Greene
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-42
     tags: fined
   - date: 2021-10-22
     body: House Sergeant at Arms
-    action: fined Greene
+    action: fined Greene two additional times on Oct. 21 and 22
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-42
-    tags: fined
-  - date: 2021-10-26
-    body: House Sergeant at Arms
-    action: fined Greene
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-44
-    tags: fined
-  - date: 2021-10-27
-    body: House Sergeant at Arms
-    action: fined Greene
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-44
-    tags: fined
-  - date: 2021-10-28
-    body: House Sergeant at Arms
-    action: fined Greene
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-44
     tags: fined
   - date: 2021-11-02
     body: House Sergeant at Arms
-    action: fined Greene
+    action: fined Greene six additional times on Oct. 26 (twice), 27, 28 (twice),
+      and Nov. 2
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-44
-    tags: fined
-  - date: 2021-11-04
-    body: House Sergeant at Arms
-    action: fined Greene
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-marjorie-taylor
-    tags: fined
-  - date: 2021-11-08
-    body: House Sergeant at Arms
-    action: fined Greene
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-marjorie-taylor
     tags: fined
   - date: 2021-11-09
     body: House Sergeant at Arms
-    action: fined Greene
+    action: fined Greene four additional times on Nov. 4 (twice), 8, and 9
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-marjorie-taylor
     tags: fined
   - date: 2021-11-18
     body: House Sergeant at Arms
-    action: fined Greene twice
+    action: fined Greene two additional times
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-45
-    tags: fined
-  - date: 2021-11-30
-    body: House Sergeant at Arms
-    action: fined Greene twice
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-48
     tags: fined
   - date: 2021-12-03
     body: House Sergeant at Arms
-    action: fined Greene
+    action: fined Greene two additional times on Nov. 30 and Dec. 3.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-48
     tags: fined
   - date: 2021-12-09
     body: House Sergeant at Arms
-    action: fined Greene for failing to wear a mask on the House floor during the
-      COVID-19 pandemic.
+    action: fined Greene an additional time
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-51
     tags: fined
   tags: ethics resolved
