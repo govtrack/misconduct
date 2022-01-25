@@ -30,7 +30,9 @@
     run against her in the 2020 primary
   text: In 2021, Rep. Newman was accused of [promising a staff position to a potential
     opponent](https://chicago.suntimes.com/columnists/2021/12/12/22831391/rep-marie-newman-democratic-primary-rep-sean-casten-faces-political-damage-ethics-probe)
-    if he agreed not to run against her in the 2020 primary. In January of 2022, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-54).
+    if he agreed not to run against her in the 2020 primary. In January of 2022, the
+    House Committee on Ethics [published the Office of Congressional Ethics Report
+    and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-54).
   consequences:
   - date: 2021-10-25
     body: Office of Congressional Ethics
@@ -42,7 +44,8 @@
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-marie
   - date: 2022-01-24
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-54
   tags: ethics unresolved
 - person: 412191
@@ -51,7 +54,8 @@
     staff
   text: In 2021, Rep. Lamborn was sued for a [wide variety of abusive behaviors towards
     Congressional staff](https://www.rollcall.com/2021/05/14/doug-lamborn-likely-to-face-house-ethics-scrutiny/).
-    In January 2022, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-53).
+    In January 2022, the House Committee on Ethics [published the Office of Congressional
+    Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-53).
   consequences:
   - date: 2021-10-25
     body: Office of Congressional Ethics
@@ -63,7 +67,8 @@
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-doug
   - date: 2022-01-24
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-53
   tags: ethics unresolved
 - person: 456853
@@ -258,7 +263,7 @@
     action: fined Greene two additional times
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-52
     tags: fined
-tags: ethics resolved
+  tags: ethics resolved
 - person: 412820
   name: Dan Crenshaw
   allegation: failing to complete security screening to enter House Floor
@@ -274,7 +279,7 @@ tags: ethics resolved
   name: Jeff Fortenberry
   allegation: scheming to falsify and conceal material facts and making false statements
     to federal investigators
-  text: Rep. Fortenberry was indicted on [three counts](https://www.justice.gov/usao-cdca/pr/us-rep-jeff-fortenberry-charged-scheme-deceive-federal-investigators-probing-illegal):
+  text: Rep. Fortenberry was indicted on [three counts](https://www.justice.gov/usao-cdca/pr/us-rep-jeff-fortenberry-charged-scheme-deceive-federal-investigators-probing-illegal),
     one of scheming to falsify and conceal material facts and two of making false
     statements to federal investigators, in 2019, related to campaign contributions
     from a foreign national to his 2016 re-election campaign.
