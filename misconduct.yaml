@@ -214,7 +214,7 @@
     body: House Committee on Ethics
     action: denied Clyde's appeal of the fines for 12/14 and 12/16
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-clyde
-tags: ethics resolved
+  tags: ethics resolved
 - person: 456814
   name: Marjorie Taylor Greene
   allegation: repeatedly failing to wear a mask on the House floor during the COVID-19
@@ -298,17 +298,17 @@ tags: ethics resolved
     action: fined Greene two additional times
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-52
     tags: fined
- - date: 2022-01-18
+  - date: 2022-01-18
     body: House Sergeant at Arms
     action: fined Greene 
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-57
     tags: fined
- - date: 2022-01-20
+  - date: 2022-01-20
     body: House Sergeant at Arms
     action: fined Greene three additional times
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-58
     tags: fined
-tags: ethics resolved
+  tags: ethics resolved
 - person: 412820
   name: Dan Crenshaw
   allegation: failing to complete security screening to enter House Floor
@@ -510,7 +510,7 @@ tags: ethics resolved
     body: House Committee on Ethics
     action: published the Office of Congressional Ethics Report and Findings.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-33
- - date: 2022-02-07
+  - date: 2022-02-07
     body: House Committee on Ethics
     action: extended their review
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-56  
