@@ -1,3 +1,25 @@
+- person: 412574
+  name: Randy Weber
+  allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
+  text: In 2021, Rep. Good was fined for failing to wear a mask on the House floor
+    during the COVID-19 pandemic.
+  consequences:
+  - date: 2021-11-30
+    body: House Sergeant at Arms
+    action: fined the member for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-randy
+    tags: fined
+  tags: ethics resolved
+- person: 456839
+  name: Jamaal Bowman
+  allegation: protesting at the Capitol
+  text: In January 2022, Rep. Bowman was arrested while protesting at the Capitol. He informed the Committee he will pay the $200 fine and no further action will be taken by the Committee.
+  consequences:
+  - date: 2022-04-02
+    body: House Committee on Ethics
+    action: reported that Rep. Bowman was arrested while protesting at the Capitol. He informed the Committee he will pay the $200 fine and no further action will be taken by the Committee
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-55
+  tags: ethics resolved
 - person: 456805
   name: Lauren Boebert
   allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
@@ -132,10 +154,9 @@
   name: Andrew Clyde
   allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
   text: In 2021, Rep. Clyde was fined many times for failing to wear a mask on the
-    House floor during the COVID-19 pandemic. The Rep. appealed his fines assessed
-    for the latter half of October, but [all appeals were denied](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-43).
+    House floor during the COVID-19 pandemic. The Rep. appealed his fines several times, but all have been denied.
     With a $500 fine for the first time and a $2,500 fine for each subsequent time,
-    it is believed that Clyde has been fined $53,000, taken out of his congressional
+    it is believed that, as of March 2022, Clyde has been fined at least $70,500, taken out of his congressional
     salary.
   consequences:
   - date: 2021-09-21
@@ -167,7 +188,7 @@
     tags: fined
   - date: 2021-11-30
     body: House Committee on Ethics
-    action: denied Clyde's appealed of the fines for 11/4, 11/8, 11/9, 11/18, 11/30
+    action: denied Clyde's appeal of the fines for 11/4, 11/8, 11/9, 11/18, 11/30
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-47
   - date: 2021-12-03
     body: House Sergeant at Arms
@@ -179,15 +200,29 @@
     action: fined Clyde an additional time
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-50
     tags: fined
-  tags: ethics resolved
+  - date: 2021-12-14
+    body: House Sergeant at Arms
+    action: fined Clyde.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-clyde
+    tags: fined
+  - date: 2021-12-16
+    body: House Sergeant at Arms
+    action: fined Clyde two additional times.
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-clyde
+    tags: fined
+  - date: 2022-01-13
+    body: House Committee on Ethics
+    action: denied Clyde's appeal of the fines for 12/14 and 12/16
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-clyde
+tags: ethics resolved
 - person: 456814
   name: Marjorie Taylor Greene
   allegation: repeatedly failing to wear a mask on the House floor during the COVID-19
     pandemic
-  text: In 2021, Rep. Greene was fined many times for failing to wear a mask on the
+  text: In 2021 and 2022, Rep. Greene was fined many times for failing to wear a mask on the
     House floor during the COVID-19 pandemic. With a $500 fine for the first time
-    and a $2,500 fine for each subsequent time, it is believed that Greene has been
-    fined $68,000, taken out of her congressional salary.
+    and a $2,500 fine for each subsequent time, it is believed that, as of March 2022, Greene has been
+    fined at least $78,000, taken out of her congressional salary.
   consequences:
   - date: 2021-05-20
     body: House Sergeant at Arms
@@ -263,7 +298,17 @@
     action: fined Greene two additional times
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-52
     tags: fined
-  tags: ethics resolved
+ - date: 2022-01-18
+    body: House Sergeant at Arms
+    action: fined Greene 
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-57
+    tags: fined
+ - date: 2022-01-20
+    body: House Sergeant at Arms
+    action: fined Greene three additional times
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-58
+    tags: fined
+tags: ethics resolved
 - person: 412820
   name: Dan Crenshaw
   allegation: failing to complete security screening to enter House Floor
@@ -465,6 +510,10 @@
     body: House Committee on Ethics
     action: published the Office of Congressional Ethics Report and Findings.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-33
+ - date: 2022-02-07
+    body: House Committee on Ethics
+    action: extended their review
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-56  
   tags: elections unresolved
 - person: 412199
   name: Hank Johnson
