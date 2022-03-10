@@ -1,10 +1,13 @@
 - person: 456833
   name: Madison Cawthorn
   allegation: driving on a revoked license as well as speeding
-  text: In 2022, Rep. Cawthorn was cited for [driving with a revoked license and cited for speeding at least twice](https://www.citizen-times.com/story/news/2022/03/09/nc-rep-madison-cawthorn-charged-driving-revoked-license-court/9439056002/) His court date is May 6, 2022.
+  text: In 2022, Rep. Cawthorn was cited for [driving with a revoked license and cited
+    for speeding at least twice](https://www.citizen-times.com/story/news/2022/03/09/nc-rep-madison-cawthorn-charged-driving-revoked-license-court/9439056002/)
+    His court date is May 6, 2022.
   consequences:
   - date: 2022-03-09
-    text: Rep. Cawthorn was cited for driving with a revoked license and cited for speeding at least twice
+    text: Rep. Cawthorn was cited for driving with a revoked license and cited for
+      speeding at least twice.
     link: https://www.citizen-times.com/story/news/2022/03/09/nc-rep-madison-cawthorn-charged-driving-revoked-license-court/9439056002/
   tags: crime unresolved
 - person: 412574
@@ -15,18 +18,23 @@
   consequences:
   - date: 2021-11-30
     body: House Sergeant at Arms
-    action: fined the member for failing to wear a mask on the House floor during the COVID-19 pandemic.
+    action: fined the member for failing to wear a mask on the House floor during
+      the COVID-19 pandemic.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-randy
     tags: fined
   tags: ethics resolved
 - person: 456839
   name: Jamaal Bowman
   allegation: protesting at the Capitol
-  text: In January 2022, Rep. Bowman was arrested while protesting at the Capitol. He informed the Committee he will pay the $200 fine and no further action will be taken by the Committee.
+  text: In January 2022, Rep. Bowman was arrested while protesting at the Capitol.
+    He informed the Committee he will pay the $200 fine and no further action will
+    be taken by the Committee.
   consequences:
   - date: 2022-04-02
     body: House Committee on Ethics
-    action: reported that Rep. Bowman was arrested while protesting at the Capitol. He informed the Committee he will pay the $200 fine and no further action will be taken by the Committee
+    action: reported that Rep. Bowman was arrested while protesting at the Capitol.
+      He informed the Committee he will pay the $200 fine and no further action will
+      be taken by the Committee
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-55
   tags: ethics resolved
 - person: 456805
@@ -163,10 +171,10 @@
   name: Andrew Clyde
   allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
   text: In 2021, Rep. Clyde was fined many times for failing to wear a mask on the
-    House floor during the COVID-19 pandemic. The Rep. appealed his fines several times, but all have been denied.
-    With a $500 fine for the first time and a $2,500 fine for each subsequent time,
-    it is believed that, as of March 2022, Clyde has been fined at least $70,500, taken out of his congressional
-    salary.
+    House floor during the COVID-19 pandemic. The Rep. appealed his fines several
+    times, but all have been denied. With a $500 fine for the first time and a $2,500
+    fine for each subsequent time, it is believed that, as of March 2022, Clyde has
+    been fined at least $70,500, taken out of his congressional salary.
   consequences:
   - date: 2021-09-21
     body: House Sergeant at Arms
@@ -228,10 +236,10 @@
   name: Marjorie Taylor Greene
   allegation: repeatedly failing to wear a mask on the House floor during the COVID-19
     pandemic
-  text: In 2021 and 2022, Rep. Greene was fined many times for failing to wear a mask on the
-    House floor during the COVID-19 pandemic. With a $500 fine for the first time
-    and a $2,500 fine for each subsequent time, it is believed that, as of March 2022, Greene has been
-    fined at least $78,000, taken out of her congressional salary.
+  text: In 2021 and 2022, Rep. Greene was fined many times for failing to wear a mask
+    on the House floor during the COVID-19 pandemic. With a $500 fine for the first
+    time and a $2,500 fine for each subsequent time, it is believed that, as of March
+    2022, Greene has been fined at least $78,000, taken out of her congressional salary.
   consequences:
   - date: 2021-05-20
     body: House Sergeant at Arms
@@ -309,7 +317,7 @@
     tags: fined
   - date: 2022-01-18
     body: House Sergeant at Arms
-    action: fined Greene 
+    action: fined Greene
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-57
     tags: fined
   - date: 2022-01-20
@@ -522,7 +530,7 @@
   - date: 2022-02-07
     body: House Committee on Ethics
     action: extended their review
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-56  
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-56
   tags: elections unresolved
 - person: 412199
   name: Hank Johnson
