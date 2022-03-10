@@ -1,3 +1,12 @@
+- person: 456833
+  name: Madison Cawthorn
+  allegation: driving on a revoked license as well as speeding
+  text: In 2022, Rep. Cawthorn was cited for [driving with a revoked license and cited for speeding at least twice](https://www.citizen-times.com/story/news/2022/03/09/nc-rep-madison-cawthorn-charged-driving-revoked-license-court/9439056002/) His court date is May 6, 2022.
+  consequences:
+  - date: 2022-03-09
+    text: Rep. Cawthorn was cited for driving with a revoked license and cited for speeding at least twice
+    link: https://www.citizen-times.com/story/news/2022/03/09/nc-rep-madison-cawthorn-charged-driving-revoked-license-court/9439056002/
+  tags: crime unresolved
 - person: 412574
   name: Randy Weber
   allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
