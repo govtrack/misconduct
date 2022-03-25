@@ -1,15 +1,24 @@
 - person: 412791
   name: Ilhan Omar
-  allegation: ommitting required financial disclosures and accepting an advance on her memoir
-  text: In 2021, Rep. Omar was accused of ommitting required financial disclosures and accepting an advance on her memoir. The Office of Congressional Ethics [voted unanimously in December 2021 to recommend that the House Committee on Ethics dismiss the case](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report_5.pdf) for lack of evidence. In 2022, two of the four House Committee on Ethics members did not vote to dismiss, but House rules have no guidelines for how to proceed in this situation so [no further action will be taken](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ilhan).
+  allegation: ommitting required financial disclosures and accepting an advance on
+    her memoir
+  text: In 2021, Rep. Omar was accused of ommitting required financial disclosures
+    and accepting an advance on her memoir. The Office of Congressional Ethics [voted
+    unanimously in December 2021 to recommend that the House Committee on Ethics dismiss
+    the case](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report_5.pdf)
+    for lack of evidence. In 2022, two of the four House Committee on Ethics members
+    did not vote to dismiss, but House rules have no guidelines for how to proceed
+    in this situation so [no further action will be taken](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ilhan).
   consequences:
   - date: 2021-12-17
     body: Office of Congressional Ethics
-    action: voted unanimously to recommend that the House Committee on Ethics dismiss the case for lack of evidence
+    action: voted unanimously to recommend that the House Committee on Ethics dismiss
+      the case for lack of evidence
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report_5.pdf
   - date: 2022-03-22
     body: House Committee on Ethics
-    action: did not dismiss the case because a majority did not agree to that, but will not pursue further action based on the Office of Congressional Ethics recommendation.
+    action: did not dismiss the case because a majority did not agree to that, but
+      will not pursue further action based on the Office of Congressional Ethics recommendation.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ilhan
   tags: ethics resolved
 - person: 456805
@@ -357,7 +366,7 @@
     action: fined Greene tsix additional times
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-60
     tags: fined
-tags: ethics resolved
+  tags: ethics resolved
 - person: 412820
   name: Dan Crenshaw
   allegation: failing to complete security screening to enter House Floor
@@ -375,7 +384,7 @@ tags: ethics resolved
     to federal investigators
   text: Rep. Fortenberry was convicted on [three counts](https://journalstar.com/news/state-and-regional/govt-and-politics/with-closing-arguments-done-rep-fortenberrys-federal-trial-goes-to-the-jury/article_bc4a0240-3eb0-51f1-bf9c-9c28d974e994.html),
     one of scheming to falsify and conceal material facts and two of making false
-    statements to federal investigators, in 2022, related to campaign contributions
+    statements to federal investigators, in 2022, related to illegal campaign contributions
     from a foreign national to his 2016 re-election campaign.
   consequences:
   - date: 2021-10-19
@@ -384,7 +393,7 @@ tags: ethics resolved
     link: https://www.youtube.com/watch?v=VHcIBNazStw
   - date: 2021-10-19
     body: Department of Justice
-    action: indicted on three counts - one of scheming to falsify and conceal material
+    action: indicted Fortenberry on one count of scheming to falsify and conceal material
       facts and two of making false statements to federal investigators.
     link: https://www.justice.gov/usao-cdca/pr/us-rep-jeff-fortenberry-charged-scheme-deceive-federal-investigators-probing-illegal
   - date: 2021-12-03
@@ -393,11 +402,12 @@ tags: ethics resolved
       the results of the Department of Justice investigation
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-jeff
   - date: 2022-03-24
-    action: The member was convicted on three counts,
-    one of scheming to falsify and conceal material facts and two of making false
-    statements to federal investigators, in 2022, related to campaign contributions
-    from a foreign national to his 2016 re-election campaign.
+    text: Fortenberry was convicted on three counts, one of scheming to falsify and
+      conceal material facts and two of making false statements to federal investigators,
+      in 2022, related to campaign contributions from a foreign national to his 2016
+      re-election campaign.
     link: https://journalstar.com/news/state-and-regional/govt-and-politics/with-closing-arguments-done-rep-fortenberrys-federal-trial-goes-to-the-jury/article_bc4a0240-3eb0-51f1-bf9c-9c28d974e994.html
+    tags: conviction
   tags: elections resolved
 - person: 412826
   name: Chip Roy
