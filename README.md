@@ -140,7 +140,8 @@ list of tags from the following sets. This first set marks that the legislator w
 * `fined` - Fined by the Senate or House.
 * `exclusion` - A member-elect was prevented from being seated by the Senate or House.
 * `conviction` - Conviction in a court.
-* `plea` - Pleaded guilty or no contest in a court.
+* `plea` - Pleaded guilty or no contest in a court. (Sometimes we see this as a legislator paying a municipal fine.)
+* `confirmation` - The allegation is confirmed as true. This tag can be used in rare cases to indicate our assertion that the legislator is guilty when there was no actual adverse consequence.
 
 In a small number of cases the consequence was reversed (e.g. on appeal), and in those cases the tag should _not_ be used so that the legislator is not incorrectly flagged as guilty.
 

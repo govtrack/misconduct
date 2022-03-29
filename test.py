@@ -115,7 +115,7 @@ for incident in misconduct:
 			tags = set(cons["tags"].split(" "))
 			bad_tags = tags - {
 				"expulsion", "censure", "reprimand", "fined", "resignation", "exclusion",
-				"settlement", "conviction", "plea" }
+				"settlement", "conviction", "plea", "confirmation" }
 			if bad_tags:
 				error(incident, cons, "Consequence has invalid 'tags': {}.".format(bad_tags))
 

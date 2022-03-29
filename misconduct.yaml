@@ -72,6 +72,7 @@
       He informed the Committee he will pay the $200 fine and no further action will
       be taken by the Committee
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-55
+    tags: plea
   tags: ethics resolved
 - person: 456805
   name: Lauren Boebert
@@ -624,6 +625,7 @@
   - date: 2021-07-27
     text: CNBC reported the accusation.
     link: https://www.cnbc.com/2021/07/27/china-critic-sen-tommy-tuberville-of-alabama-violated-stock-act.html
+    tags: confirmation
   tags: ethics resolved
 - person: 412738
   name: Ralph Norman
@@ -1048,6 +1050,7 @@
     action: fined Rep. Tlaib $10,800, the amount of campaign funds she received after
       the election and concluded that it was an error, not malfeasance.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-15
+    tags: fined
   tags: elections resolved
 - person: 412765
   name: Ross Spano
@@ -1216,9 +1219,9 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-matt
   - date: 2019-06-28
     body: House Committee on Ethics
-    action: on May 16 the Committee warned Gaetz that further non-compliance would
-      result in an Investigative Subcommittee; he continued to refuse to appear for
-      an interview and they established the Investigative Subcommittee in June.
+    action: on May 16 warned Gaetz that further non-compliance would result in an
+      Investigative Subcommittee; he continued to refuse to appear for an interview
+      and they established the Investigative Subcommittee in June.
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-matt
   - date: 2019-08-14
     body: Florida Bar Association
@@ -1229,16 +1232,17 @@
     action: published the report of the Investigative Subcommittee admonishing Gaetz
       for unprofessional behavior.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_21.pdf
+    tags: reprimand
   tags: corruption ethics resolved
 - person: 400172
   name: Robin Hayes
-  text: In 2019, Mr. Hayes, the Republican representative for NC-8 from 1999-2008
-    and current chair of the North Carolina Republican Party, was indicted on charges
-    of bribery and conspiracy to commit honest services wire fraud, along with several
-    counts of making false statements in an effort to bribe North Carolina's insurance
-    commissioner. In October 2019, Mr. Hayes pleaded guilty to lying to the FBI while
-    being investigated for conspiracy and bribery. On January 20, 2021, Hayes was
-    [pardoned by President Trump](https://twitter.com/CraigCaplan/status/1351776040365019139?s=20).
+  text: Hayes, the former Republican representative for NC-8 from 1999-2008 and then-chair
+    of the North Carolina Republican Party, was indicted in 2019 on charges of bribery
+    and conspiracy to commit honest services wire fraud, along with several counts
+    of making false statements in an effort to bribe North Carolina's insurance commissioner.
+    In October 2019, Mr. Hayes pleaded guilty to lying to the FBI while being investigated
+    for conspiracy and bribery. On January 20, 2021, Hayes was [pardoned by President
+    Trump](https://twitter.com/CraigCaplan/status/1351776040365019139?s=20).
   allegation: bribery and conspiracy to commit honest services wire fraud, along with
     several counts of making false statements
   consequences:
@@ -1250,7 +1254,7 @@
     text: Pleaded guilty to lying to the FBI while being investigated for conspiracy
       and bribery.
     link: https://www.washingtonpost.com/politics/2019/10/02/former-north-carolina-state-political-party-chairman-pleads-guilty-making-false-statement-fbi/
-    tag: plea
+    tags: plea
   - date: 2021-01-20
     text: Pardoned by President Trump.
     link: https://twitter.com/CraigCaplan/status/1351776040365019139?s=20
@@ -1359,6 +1363,7 @@
     action: concluded that no further investigation was needed since Rep. Jayapal
       had paid a $50 fine and charges were dropped.
     link: https://www.congress.gov/115/crpt/hrpt876/CRPT-115hrpt876.pdf
+    tags: plea
   tags: ethics resolved
 - person: 412399
   name: David Schweikert
@@ -1496,6 +1501,7 @@
     link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-14
   - date: 2018-04-27
     text: Meehan resigned.
+    tags: resignation
   - date: 2019-01-02
     body: House Committee on Ethics
     action: ceased investigating in April because the Committee's jurisdiction ended
@@ -1590,6 +1596,7 @@
     body: House Committee on Ethics
     action: recommended no action as the fine was paid
     link: https://ethics.house.gov/sites/ethics.house.gov/files/DREAMER%20Protest%20Report_0.pdf
+    tags: plea
   tags: ethics resolved
 - person: 400141
   name: Trent Franks
@@ -1810,6 +1817,7 @@
     body: House Committee on Ethics
     action: adopted a report recommending no action as the fine was paid
     link: https://www.congress.gov/115/crpt/hrpt310/CRPT-115hrpt310.pdf
+    tags: plea
   - date: 2017-11-28
     text: Representative Gutiérrez announced he would not seek reelection to Congress.
   tags: ethics resolved
@@ -2079,8 +2087,8 @@
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-mike-honda
   - date: 2015-09-03
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and Rep.
-      Honda's response.
+    action: published the Office of Congressional Ethics Report and Findings recommending
+      that the matter be dismissed
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-14
   - date: 2017-01-02
     body: House Committee on Ethics
@@ -2522,9 +2530,10 @@
     action: recommended that the Committee on Ethics further review the allegation
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-paul-broun
   - date: 2015-10-29
-    body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the
-      member's response.
+    body: House Office of Congressional Ethics
+    action: found "substantial reason to believe that Representative Broun used MRA
+      funds to compensate an individual for services provided to one or more of his
+      election campaigns, in violation of House rules and federal law."
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-paul-0
   - date: 2014-11-04
     text: Broun lost reelection.
