@@ -14,7 +14,7 @@
   allegation: participating in a investment "pump and dump" scheme
   consequences:
   - date: 2022-04-23
-    text: a news article suggested that Cawthorn had participated in a "pump and dump" scheme with a brand of cryptocurrency
+    text: A news article suggested that Cawthorn had participated in a "pump and dump" scheme with a brand of cryptocurrency.
     link: https://www.washingtonexaminer.com/news/house/madison-cawthorn-implicated-in-potential-insider-trading-scheme-experts-say
   - date: 2022-05-17
     text: Cawthorn lost his primary.
@@ -55,7 +55,7 @@
     body: House Committee on Ethics
     action: extended the matter regarding the representative
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-john
-    - date: 2022-05-31
+  - date: 2022-05-31
     body: House Committee on Ethics
     action: published the Office of Congressional Ethics Report and Findings and the member's response
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-66
@@ -1600,7 +1600,7 @@
     action: sent a letter to Nunes' campaign treasurer
     link: http://docquery.fec.gov/pdf/285/201803200300001285/201803200300001285.pdf
   - date: 2012-10-27
-    text: the FEC appears to have had many interactions with the Nunes campaign for over a decade, which as of late 2021, appear to have been resolved via fines and revised discloures.
+    text: The FEC appears to have had many interactions with the Nunes campaign for over a decade, which as of late 2021, appear to have been resolved via fines and revised discloures.
     link: https://www.thedailybeast.com/who-messed-up-devin-nunes-campaign-records-this-bad-his-mom
   - date: 2022-01-01
     text: Nunes resigned.
@@ -7006,7 +7006,7 @@
     action: voted to expunge the document from the Congressional Record
     link: https://www.govinfo.gov/content/pkg/GPO-HPREC-CANNONS-V6/html/GPO-HPREC-CANNONS-V6-28.htm
   - date: 1921-10-27
-    text: Censured (“resolution of reprimand and censure”), 293-0
+    text: Censured (“resolution of reprimand and censure”), 293-0.
     link: https://www.govtrack.us/congress/votes/67-1/h120
     tags: censure
   - date: 1921-10-28
