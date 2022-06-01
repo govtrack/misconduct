@@ -1,6 +1,32 @@
+- person: 456793
+  name: Jacobs
+  text: In 2022, the House Committee on Ethics published the Office of Congressional Ethics Report and Findings and the member's response to allegations he failed to report stock trades in accordance with the STOCK Act.
+  allegation: failure to report stock trades
+  consequences:
+  - date: 2022-05-31
+    body: House Committee on Ethics
+    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-62
+  tags: crime unresolved
+- person: 456833
+  name: Cawthorn
+  text: In April 2022, Cawthorn was accused of particpating in a "pump and dump" investment scheme with a brand of cryptocurrency where he acted on non-pubic information to increase the currency price and then similarly to sell his shares before the currency's value dropped to zero. In May 2022, the House Committee on Ethics announced [they had impaneled an investigative subcommittee to review the allegations](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-64).
+  allegation: participating in a investment "pump and dump" scheme
+  consequences:
+  - date: 2022-04-23
+    text: a news article suggested that Cawthorn had participated in a "pump and dump" scheme with a brand of cryptocurrency
+    link: https://www.washingtonexaminer.com/news/house/madison-cawthorn-implicated-in-potential-insider-trading-scheme-experts-say
+  - date: 2022-05-17
+    text: Cawthorn lost his primary.
+    link: https://www.npr.org/2022/05/17/1099502290/north-carolina-11th-congressional-district-results-madison-cawthorn
+  - date: 2022-05-23
+    body: House Committee on Ethics 
+    action: established an investigative subcommittee
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-64
+  tags: crime unresolved
 - person: 456845
   name: Fallon
-  text: In 2022, the House Committee on Ethics announced it had extended the matter regarding [allegations that the representative had failed to disclose stock trades in the required time](https://www.forbes.com/sites/zacheverson/2022/04/20/house-ethics-committee-is-investigating-texas-republican-pat-fallon/?sh=21ea49f21c65).
+  text: In 2022, the House Committee on Ethics announced it had extended the matter regarding [allegations that the representative had failed to disclose stock trades in the required time](https://www.forbes.com/sites/zacheverson/2022/04/20/house-ethics-committee-is-investigating-texas-republican-pat-fallon/?sh=21ea49f21c65). In May 2022, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-pat-0).
   allegation: failing to disclose stock trades in the required time
   consequences:
   - date: 2022-03-02
@@ -11,11 +37,15 @@
     body: House Committee on Ethics
     action: extended the matter regarding the representative
     link: https://www.forbes.com/sites/zacheverson/2022/04/20/house-ethics-committee-is-investigating-texas-republican-pat-fallon/?sh=21ea49f21c65
+  - date: 2022-05-31
+    body: House Committee on Ethics
+    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-pat-0
   tags: ethics crime unresolved
 - person: 412692
   name: Rutherford
-  text: In 2022, the House Committee on Ethics announced an investigation into the representative. They did not indicate the subject matter, but it may be related to [a stock trade on the day Russia invaded Ukraine](https://www.politico.com/minutes/congress/04-14-2022/rutherford-house-ethics-investigation/).
-  allegation: stock trades based on non-public information
+  text: In 2022, the House Committee on Ethics announced an investigation into the representative. In May 2022, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-66). It appears that the allegation relates to a [failure to report stock trades in 2021](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-66).
+  allegation: failure to report stock trades
   consequences:
   - date: 2022-02-28
     body: Office of Congressional Ethics
@@ -24,7 +54,11 @@
   - date: 2022-04-14
     body: House Committee on Ethics
     action: extended the matter regarding the representative
-    link: https://www.politico.com/minutes/congress/04-14-2022/rutherford-house-ethics-investigation/
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-john
+    - date: 2022-05-31
+    body: House Committee on Ethics
+    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-66
   tags: ethics crime unresolved
 - person: 412717
   name: Suozzi
@@ -56,7 +90,31 @@
   - date: 2022-04-07
     text: Jackson's office said that the investigation concerned alleged campaign finance violations.
     link: https://abc7amarillo.com/news/local/house-ethics-committee-investigating-us-rep-ronny-jacksons-campaign-spending
+  - date: 2022-05-23
+    body: House Committee on Ethics 
+    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ronny
   tags: ethics elections unresolved
+- person: 456833
+  name: Cawthorn
+  text: In 2022, Rep. Cawthorn was cited for [driving with a revoked license and cited
+    for speeding at least twice](https://www.citizen-times.com/story/news/2022/03/09/nc-rep-madison-cawthorn-charged-driving-revoked-license-court/9439056002/)
+    His court date is May 6, 2022. On May 17, 2022, Cawthorn lost his primary. On May 23, the House Committee on Ethics [reported that Cawthorn had paid relevant fines and closed the investigation](https://www.congress.gov/117/crpt/hrpt339/CRPT-117hrpt339.pdf).
+  allegation: driving on a revoked license as well as speeding
+  consequences:
+  - date: 2022-03-09
+    text: Rep. Cawthorn was cited for driving with a revoked license and cited for
+      speeding at least twice.
+    link: https://www.citizen-times.com/story/news/2022/03/09/nc-rep-madison-cawthorn-charged-driving-revoked-license-court/9439056002/
+  - date: 2022-05-17
+    text: Cawthorn lost his primary.
+    link: https://www.npr.org/2022/05/17/1099502290/north-carolina-11th-congressional-district-results-madison-cawthorn
+  - date: 2022-05-23
+    body: House Committee on Ethics 
+    action: published a report indicating that since the member had already paid one fine and intended to pay any additional ones, the committee would end it's investigation
+    link: https://www.congress.gov/117/crpt/hrpt339/CRPT-117hrpt339.pdf
+    tags: fined
+  tags: crime resolved
 - person: 412791
   name: Omar
   text: In 2021, Rep. Omar was accused of ommitting required financial disclosures
@@ -99,21 +157,6 @@
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-46
     tags: fined
   tags: ethics resolved
-- person: 456833
-  name: Cawthorn
-  text: In 2022, Rep. Cawthorn was cited for [driving with a revoked license and cited
-    for speeding at least twice](https://www.citizen-times.com/story/news/2022/03/09/nc-rep-madison-cawthorn-charged-driving-revoked-license-court/9439056002/)
-    His court date is May 6, 2022. On May 17, 2022, Cawthorn lost his primary.
-  allegation: driving on a revoked license as well as speeding
-  consequences:
-  - date: 2022-03-09
-    text: Rep. Cawthorn was cited for driving with a revoked license and cited for
-      speeding at least twice.
-    link: https://www.citizen-times.com/story/news/2022/03/09/nc-rep-madison-cawthorn-charged-driving-revoked-license-court/9439056002/
-  - date: 2022-05-17
-    text: Cawthorn lost his primary.
-    link: https://www.npr.org/2022/05/17/1099502290/north-carolina-11th-congressional-district-results-madison-cawthorn
-  tags: crime unresolved
 - person: 412574
   name: Weber
   text: In 2021, Rep. Weber was fined for failing to wear a mask on the House floor
@@ -261,11 +304,11 @@
   tags: ethics resolved
 - person: 456813
   name: Clyde
-  text: In 2021, Rep. Clyde was fined many times for failing to wear a mask on the
+  text: Since 2021, Rep. Clyde was fined many times for failing to wear a mask on the
     House floor during the COVID-19 pandemic. The Rep. appealed his fines several
     times, but all have been denied. With a $500 fine for the first time and a $2,500
-    fine for each subsequent time, it is believed that, as of March 2022, Clyde has
-    been fined at least $70,500, taken out of his congressional salary.
+    fine for each subsequent time, it is believed that, as of June 2022, Clyde has
+    been fined at least $88,000, taken out of his congressional salary.
   allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
   consequences:
   - date: 2021-09-21
@@ -323,6 +366,14 @@
     body: House Committee on Ethics
     action: denied Clyde's appeal of the fines for 12/14 and 12/16
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-clyde
+  - date: 2022-02-15
+    body: House Sergeant at Arms
+    action: fined Clyde seven additional times
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-67
+  - date: 2022-05-31
+    body: House Committee on Ethics 
+    action: denied Clyde's appeal
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-67
   tags: ethics resolved
 - person: 456814
   name: Greene
@@ -645,6 +696,10 @@
     body: House Committee on Ethics
     action: extended their review
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-56
+  - date: 2022-05-23
+    body: House Committee on Ethics
+    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-63
   tags: elections unresolved
 - person: 412199
   name: Johnson
