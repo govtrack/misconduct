@@ -1,3 +1,13 @@
+- person: 408094
+  name: Myers
+  text: In June 2022, former Rep. Myers - convicted in 1980 of bribery in the ABSCAM scandal when he was a member of Congress - [pleaded guilty](https://www.washingtonexaminer.com/news/crime/former-pennsylvania-representative-pleads-guilty-to-election-fraud-charges) to conspiracy to deprive voters of civil rights, bribery, obstruction of justice, and falsification of voting records in state elections in Pennsylvania on behalf of candidates in the Democratic party from 2014-2018, and conspiring to vote illegally in a federal election.
+  allegation: conspiracy to deprive voters of civil rights, bribery, obstruction of justice, falsification of voting records, and conspiring to vote illegally in a federal election
+  consequences:
+  - date: 2022-06-08
+    text: pleaded guilty.
+    link: https://www.washingtonexaminer.com/news/crime/former-pennsylvania-representative-pleads-guilty-to-election-fraud-charges
+    tags: plea
+  tags: crimes elections resolved
 - person: 456793
   name: Jacobs
   text: In 2022, the House Committee on Ethics published the Office of Congressional Ethics Report and Findings and the member's response to allegations he failed to report stock trades in accordance with the STOCK Act.
@@ -185,6 +195,17 @@
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-55
     tags: plea
   tags: ethics resolved
+- person: 412552
+  name: Meadows
+  text: In December 2021, the [House of Representatives voted 220-208 to hold former Rep. Meadows in criminal contempt of Congress](https://www.govtrack.us/congress/votes/117-2021/h447).
+  allegation: being in criminal contempt of Congress
+  consequences:
+  - date: 2021-12-14
+    body: House of Representatives
+    action: voted 220-208 to hold Meadows in criminal contempt of Congress
+    link: https://www.govtrack.us/congress/votes/117-2021/h447
+    tags: contempt
+  tags: crimes resolved
 - person: 456817
   name: Miller-Meeks
   text: In 2021, Rep. Meeks was [fined for failing to wear a mask on the House floor](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-49)
@@ -5947,7 +5968,7 @@
   tags: corruption resolved
 - person: 408094
   name: Myers
-  text: Meyers was convicted of bribery in 1980 as part of the ABSCAM investigation
+  text: Myers was convicted of bribery in 1980 as part of the ABSCAM investigation
     and on Oct. 2, 1980, the House of Representatives [expelled him](https://www.govtrack.us/congress/votes/96-1980/h1222)
     in a 376-30 vote.
   allegation: bribery, conspiracy and Travel Act violations as part of the ABSCAM
