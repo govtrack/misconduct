@@ -136,6 +136,7 @@ list of tags from the following sets. This first set marks that the legislator w
 
 * `expulsion` - Expulsion by the Senate or House.
 * `censure` - Censure by the Senate or House. (Committee recommendations of censure are not tagged.)
+* `contempt` - Held in contempt of Congress by the Senate or House.
 * `reprimand` - Admonishment, reprimand, or letter of reproval.
 * `fined` - Fined by the Senate or House.
 * `exclusion` - A member-elect was prevented from being seated by the Senate or House.

@@ -4,10 +4,10 @@
   allegation: conspiracy to deprive voters of civil rights, bribery, obstruction of justice, falsification of voting records, and conspiring to vote illegally in a federal election
   consequences:
   - date: 2022-06-08
-    text: pleaded guilty.
+    text: Pleaded guilty.
     link: https://www.washingtonexaminer.com/news/crime/former-pennsylvania-representative-pleads-guilty-to-election-fraud-charges
     tags: plea
-  tags: crimes elections resolved
+  tags: crime elections resolved
 - person: 456793
   name: Jacobs
   text: In 2022, the House Committee on Ethics published the Office of Congressional Ethics Report and Findings and the member's response to allegations he failed to report stock trades in accordance with the STOCK Act.
@@ -205,7 +205,7 @@
     action: voted 220-208 to hold Meadows in criminal contempt of Congress for refusing to comply with a subpoena to appear before the January 6 Committee
     link: https://www.govtrack.us/congress/votes/117-2021/h447
     tags: contempt
-  tags: crimes resolved
+  tags: crime resolved
 - person: 456817
   name: Miller-Meeks
   text: In 2021, Rep. Meeks was [fined for failing to wear a mask on the House floor](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-49)
@@ -2266,7 +2266,7 @@
     text: Conviction vacated.
     link: https://twitter.com/schindy/status/1390446925200171008
   - date: 2022-05-18
-    text: pleaded guilty to one count of lying on her tax returns
+    text: Pleaded guilty to one count of lying on her tax returns.
     link: https://www.jacksonville.com/story/news/courts/2022/05/18/ex-u-s-rep-corrine-brown-pleads-guilty-1-charge-feds-drop-rest/9808489002/
     tags: plea
   tags: crime resolved
