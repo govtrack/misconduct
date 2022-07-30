@@ -1,6 +1,7 @@
 - person: 412379
   name: Chu
-  text: Rep. Chu was arrested in a protest at the Capitol on June 30, 2022. The House Committee on Ethics [released a report indicating she will pay the $50 fine](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_41.pdf).
+  text: Rep. Chu was arrested in a protest at the Capitol on June 30, 2022. The House
+    Committee on Ethics [released a report indicating she will pay the $50 fine](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_41.pdf).
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-22
@@ -10,8 +11,15 @@
   tags: crime resolved
 - person: 408094
   name: Myers
-  text: In June 2022, former Rep. Myers - convicted in 1980 of bribery in the ABSCAM scandal when he was a member of Congress - [pleaded guilty](https://www.washingtonexaminer.com/news/crime/former-pennsylvania-representative-pleads-guilty-to-election-fraud-charges) to conspiracy to deprive voters of civil rights, bribery, obstruction of justice, and falsification of voting records in state elections in Pennsylvania on behalf of candidates in the Democratic party from 2014-2018, and conspiring to vote illegally in a federal election.
-  allegation: conspiracy to deprive voters of civil rights, bribery, obstruction of justice, falsification of voting records, and conspiring to vote illegally in a federal election
+  text: In June 2022, former Rep. Myers - convicted in 1980 of bribery in the ABSCAM
+    scandal when he was a member of Congress - [pleaded guilty](https://www.washingtonexaminer.com/news/crime/former-pennsylvania-representative-pleads-guilty-to-election-fraud-charges)
+    to conspiracy to deprive voters of civil rights, bribery, obstruction of justice,
+    and falsification of voting records in state elections in Pennsylvania on behalf
+    of candidates in the Democratic party from 2014-2018, and conspiring to vote illegally
+    in a federal election.
+  allegation: conspiracy to deprive voters of civil rights, bribery, obstruction of
+    justice, falsification of voting records, and conspiring to vote illegally in
+    a federal election
   consequences:
   - date: 2022-06-08
     text: Pleaded guilty.
@@ -20,33 +28,45 @@
   tags: crime elections resolved
 - person: 456793
   name: Jacobs
-  text: In 2022, the House Committee on Ethics published the Office of Congressional Ethics Report and Findings and the member's response to allegations he failed to report stock trades in accordance with the STOCK Act.
+  text: In 2022, the House Committee on Ethics published the Office of Congressional
+    Ethics Report and Findings and the member's response to allegations he failed
+    to report stock trades in accordance with the STOCK Act.
   allegation: failure to report stock trades
   consequences:
   - date: 2022-05-31
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-62
   tags: crime unresolved
 - person: 456833
   name: Cawthorn
-  text: In April 2022, Cawthorn was accused of particpating in a "pump and dump" investment scheme with a brand of cryptocurrency where he acted on non-pubic information to increase the currency price and then similarly to sell his shares before the currency's value dropped to zero. In May 2022, the House Committee on Ethics announced [they had impaneled an investigative subcommittee to review the allegations](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-64).
+  text: In April 2022, Cawthorn was accused of particpating in a "pump and dump" investment
+    scheme with a brand of cryptocurrency where he acted on non-pubic information
+    to increase the currency price and then similarly to sell his shares before the
+    currency's value dropped to zero. In May 2022, the House Committee on Ethics announced
+    [they had impaneled an investigative subcommittee to review the allegations](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-64).
   allegation: participating in a investment "pump and dump" scheme
   consequences:
   - date: 2022-04-23
-    text: A news article suggested that Cawthorn had participated in a "pump and dump" scheme with a brand of cryptocurrency.
+    text: A news article suggested that Cawthorn had participated in a "pump and dump"
+      scheme with a brand of cryptocurrency.
     link: https://www.washingtonexaminer.com/news/house/madison-cawthorn-implicated-in-potential-insider-trading-scheme-experts-say
   - date: 2022-05-17
     text: Cawthorn lost his primary.
     link: https://www.npr.org/2022/05/17/1099502290/north-carolina-11th-congressional-district-results-madison-cawthorn
   - date: 2022-05-23
-    body: House Committee on Ethics 
+    body: House Committee on Ethics
     action: established an investigative subcommittee
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-64
   tags: crime unresolved
 - person: 456845
   name: Fallon
-  text: In 2022, the House Committee on Ethics announced it had extended the matter regarding [allegations that the representative had failed to disclose stock trades in the required time](https://www.forbes.com/sites/zacheverson/2022/04/20/house-ethics-committee-is-investigating-texas-republican-pat-fallon/?sh=21ea49f21c65). In May 2022, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-pat-0).
+  text: In 2022, the House Committee on Ethics announced it had extended the matter
+    regarding [allegations that the representative had failed to disclose stock trades
+    in the required time](https://www.forbes.com/sites/zacheverson/2022/04/20/house-ethics-committee-is-investigating-texas-republican-pat-fallon/?sh=21ea49f21c65).
+    In May 2022, the House Committee on Ethics [published the Office of Congressional
+    Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-pat-0).
   allegation: failing to disclose stock trades in the required time
   consequences:
   - date: 2022-03-02
@@ -59,12 +79,17 @@
     link: https://www.forbes.com/sites/zacheverson/2022/04/20/house-ethics-committee-is-investigating-texas-republican-pat-fallon/?sh=21ea49f21c65
   - date: 2022-05-31
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-pat-0
-  tags: ethics crime unresolved
+  tags: crime ethics unresolved
 - person: 412692
   name: Rutherford
-  text: In 2022, the House Committee on Ethics announced an investigation into the representative. In May 2022, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-66). It appears that the allegation relates to a [failure to report stock trades in 2021](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-66).
+  text: In 2022, the House Committee on Ethics announced an investigation into the
+    representative. In May 2022, the House Committee on Ethics [published the Office
+    of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-66).
+    It appears that the allegation relates to a [failure to report stock trades in
+    2021](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-66).
   allegation: failure to report stock trades
   consequences:
   - date: 2022-02-28
@@ -77,26 +102,29 @@
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-john
   - date: 2022-05-31
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-66
-  tags: ethics crime unresolved
+  tags: crime ethics unresolved
 - person: 412717
   name: Suozzi
-  text: In 2022, the House Committee on Ethics announced it would extend its investigation of allegations of [failing to disclose stock transactions](https://buffalonews.com/news/house-ethics-committee-extends-probe-of-suozzi-stock-trades/article_86899d28-bcca-11ec-b3ed-6f0957a47be0.html).
+  text: In 2022, the House Committee on Ethics announced it would extend its investigation
+    of allegations of [failing to disclose stock transactions](https://buffalonews.com/news/house-ethics-committee-extends-probe-of-suozzi-stock-trades/article_86899d28-bcca-11ec-b3ed-6f0957a47be0.html).
   allegation: failing to disclose stock transactions
   consequences:
   - date: 2022-02-28
     body: Office of Congressional Ethics
-    action: recommended further review by the House Committee on Ethics 
+    action: recommended further review by the House Committee on Ethics
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-61
   - date: 2022-04-14
     body: House Committee on Ethics
     action: extended the matter regarding the representative
     link: https://buffalonews.com/news/house-ethics-committee-extends-probe-of-suozzi-stock-trades/article_86899d28-bcca-11ec-b3ed-6f0957a47be0.html
-  tags: ethics crime unresolved
+  tags: crime ethics unresolved
 - person: 456847
   name: Jackson
-  text: In 2022, the House Committee on Ethics announced it would extend its investigation of allegations of [campaign finance violations](https://abc7amarillo.com/news/local/house-ethics-committee-investigating-us-rep-ronny-jacksons-campaign-spending).
+  text: In 2022, the House Committee on Ethics announced it would extend its investigation
+    of allegations of [campaign finance violations](https://abc7amarillo.com/news/local/house-ethics-committee-investigating-us-rep-ronny-jacksons-campaign-spending).
   allegation: campaign finance violations
   consequences:
   - date: 2021-12-22
@@ -108,18 +136,22 @@
     action: extended the matter regarding the representative
     link: https://ethics.house.gov/press-releases/ok
   - date: 2022-04-07
-    text: Jackson's office said that the investigation concerned alleged campaign finance violations.
+    text: Jackson's office said that the investigation concerned alleged campaign
+      finance violations.
     link: https://abc7amarillo.com/news/local/house-ethics-committee-investigating-us-rep-ronny-jacksons-campaign-spending
   - date: 2022-05-23
-    body: House Committee on Ethics 
-    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    body: House Committee on Ethics
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ronny
-  tags: ethics elections unresolved
+  tags: elections ethics unresolved
 - person: 456833
   name: Cawthorn
   text: In 2022, Rep. Cawthorn was cited for [driving with a revoked license and cited
     for speeding at least twice](https://www.citizen-times.com/story/news/2022/03/09/nc-rep-madison-cawthorn-charged-driving-revoked-license-court/9439056002/)
-    His court date is May 6, 2022. On May 17, 2022, Cawthorn lost his primary. On May 23, the House Committee on Ethics [reported that Cawthorn had paid relevant fines and closed the investigation](https://www.congress.gov/117/crpt/hrpt339/CRPT-117hrpt339.pdf).
+    His court date is May 6, 2022. On May 17, 2022, Cawthorn lost his primary. On
+    May 23, the House Committee on Ethics [reported that Cawthorn had paid relevant
+    fines and closed the investigation](https://www.congress.gov/117/crpt/hrpt339/CRPT-117hrpt339.pdf).
   allegation: driving on a revoked license as well as speeding
   consequences:
   - date: 2022-03-09
@@ -130,8 +162,9 @@
     text: Cawthorn lost his primary.
     link: https://www.npr.org/2022/05/17/1099502290/north-carolina-11th-congressional-district-results-madison-cawthorn
   - date: 2022-05-23
-    body: House Committee on Ethics 
-    action: published a report indicating that since the member had already paid one fine and intended to pay any additional ones, the committee would end it's investigation
+    body: House Committee on Ethics
+    action: published a report indicating that since the member had already paid one
+      fine and intended to pay any additional ones, the committee would end it's investigation
     link: https://www.congress.gov/117/crpt/hrpt339/CRPT-117hrpt339.pdf
     tags: fined
   tags: crime resolved
@@ -160,8 +193,8 @@
   tags: ethics resolved
 - person: 456805
   name: Boebert
-  text: Rep. Boebert was fined for failing to wear a mask on the House floor
-    during the COVID-19 pandemic.
+  text: Rep. Boebert was fined for failing to wear a mask on the House floor during
+    the COVID-19 pandemic.
   allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
   consequences:
   - date: 2022-03-21
@@ -207,12 +240,15 @@
   tags: ethics resolved
 - person: 412552
   name: Meadows
-  text: In December 2021, the [House of Representatives voted 220-208 to hold former Rep. Meadows in criminal contempt of Congress](https://www.govtrack.us/congress/votes/117-2021/h447) for refusing to comply with a subpoena to appear before the January 6 Committee.
+  text: In December 2021, the [House of Representatives voted 220-208 to hold former
+    Rep. Meadows in criminal contempt of Congress](https://www.govtrack.us/congress/votes/117-2021/h447)
+    for refusing to comply with a subpoena to appear before the January 6 Committee.
   allegation: being in criminal contempt of Congress
   consequences:
   - date: 2021-12-14
     body: House of Representatives
-    action: voted 220-208 to hold Meadows in criminal contempt of Congress for refusing to comply with a subpoena to appear before the January 6 Committee
+    action: voted 220-208 to hold Meadows in criminal contempt of Congress for refusing
+      to comply with a subpoena to appear before the January 6 Committee
     link: https://www.govtrack.us/congress/votes/117-2021/h447
     tags: contempt
   tags: crime resolved
@@ -224,8 +260,8 @@
   consequences:
   - date: 2021-11-30
     body: House Sergeant at Arms
-    action: fined Miller-Meeks for failing to wear a mask on the House floor during the COVID-19
-      pandemic
+    action: fined Miller-Meeks for failing to wear a mask on the House floor during
+      the COVID-19 pandemic
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-49
     tags: fined
   tags: ethics resolved
@@ -335,8 +371,8 @@
   tags: ethics resolved
 - person: 456813
   name: Clyde
-  text: Since 2021, Rep. Clyde was fined many times for failing to wear a mask on the
-    House floor during the COVID-19 pandemic. The Rep. appealed his fines several
+  text: Since 2021, Rep. Clyde was fined many times for failing to wear a mask on
+    the House floor during the COVID-19 pandemic. The Rep. appealed his fines several
     times, but all have been denied. With a $500 fine for the first time and a $2,500
     fine for each subsequent time, it is believed that, as of June 2022, Clyde has
     been fined at least $103,000, taken out of his congressional salary.
@@ -402,7 +438,7 @@
     action: fined Clyde seven additional times
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-67
   - date: 2022-05-31
-    body: House Committee on Ethics 
+    body: House Committee on Ethics
     action: denied Clyde's appeal
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-67
   - date: 2022-06-24
@@ -410,9 +446,9 @@
     action: fined Clyde three additional times
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-68
   - date: 2022-06-24
-    body: House Committee on Ethics 
+    body: House Committee on Ethics
     action: denied Clyde's appeal
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-68  
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-68
   tags: ethics resolved
 - person: 456814
   name: Greene
@@ -529,7 +565,9 @@
   text: Rep. Fortenberry was convicted on [three counts](https://journalstar.com/news/state-and-regional/govt-and-politics/with-closing-arguments-done-rep-fortenberrys-federal-trial-goes-to-the-jury/article_bc4a0240-3eb0-51f1-bf9c-9c28d974e994.html),
     one of scheming to falsify and conceal material facts and two of making false
     statements to federal investigators, in 2022, related to illegal campaign contributions
-    from a foreign national to his 2016 re-election campaign. On March 31, 2022, he resigned from Congress. On April 1st, the House Committee on Ethics [closed its investigation](https://ethics.house.gov/press-releases/statement-regarding-investigative-subcommittee-matter-representative-jeff-0).
+    from a foreign national to his 2016 re-election campaign. On March 31, 2022, he
+    resigned from Congress. On April 1st, the House Committee on Ethics [closed its
+    investigation](https://ethics.house.gov/press-releases/statement-regarding-investigative-subcommittee-matter-representative-jeff-0).
   allegation: scheming to falsify and conceal material facts and making false statements
     to federal investigators
   consequences:
@@ -737,7 +775,8 @@
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-56
   - date: 2022-05-23
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-63
   tags: elections unresolved
 - person: 412199
@@ -1027,7 +1066,9 @@
     to fully comply with security procedures before entering the House floor on January
     12, 2021](https://www.huffpost.com/entry/capitol-police-investigate-member-incidents-metal-detectors-house-chamber_n_602dd485c5b67c32961b2d8e?aod).
     That the Capitol Police were investigating became public when they interviewed
-    a Huffington Post reporter who'd witnessed the event as part of the investigation. Soon after, the U.S. Capitol Police sent a letter to Fulcher saying [there was no investigation at that time](https://www.kivitv.com/news/capitol-police-rep-fulcher-not-under-investigation).
+    a Huffington Post reporter who'd witnessed the event as part of the investigation.
+    Soon after, the U.S. Capitol Police sent a letter to Fulcher saying [there was
+    no investigation at that time](https://www.kivitv.com/news/capitol-police-rep-fulcher-not-under-investigation).
   allegation: assaulting a Capitol Police officer when refusing to fully comply with
     security procedures before entering the House floor on January 12, 2021
   consequences:
@@ -1078,7 +1119,9 @@
     House GOP conference rules, [Rep. Watkins stepped down from his committee positions](https://www.kansascity.com/news/politics-government/article244299452.html).
     In August 2020, Rep. Watkins [lost in the Kansas primary](https://www.politico.com/news/2020/07/14/kansas-gop-rep-watkins-indicted-for-voter-fraud-362072)
     and will leave Congress in January 2021. On August 14, the House Ethics Committee
-    [established an Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-steve). In January 2021, the House Committee on Ethics [reported that the end of the member's term ended the committee's jurisdiction](https://www.govinfo.gov/content/pkg/CRPT-116hrpt703/pdf/CRPT-116hrpt703.pdf#page=+34).
+    [established an Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-steve).
+    In January 2021, the House Committee on Ethics [reported that the end of the member's
+    term ended the committee's jurisdiction](https://www.govinfo.gov/content/pkg/CRPT-116hrpt703/pdf/CRPT-116hrpt703.pdf#page=+34).
   allegation: interfering with law enforcement by providing false information, voting
     without being qualified and unlawful advance voting
   consequences:
@@ -1147,7 +1190,9 @@
     On March 30, news reports indicated that the Federal Bureau of Investigations
     (FBI) and the Securities & Exchange Commission (SEC) [were investigating](https://www.charlotteobserver.com/news/politics-government/article241646666.html)
     Sen. Burr. On May 14, Sen. Burr stepped down as chair of the Senate Intelligence
-    Committee after it was reported that [the FBI had seized his mobile phone](https://www.usatoday.com/story/news/politics/2020/05/14/sen-richard-burrs-phone-seized-fbi-serves-warrant-stock-probe/5188726002/). In January 2021, the Department of Justice announced that [they would not charge Burr](https://www.cnbc.com/2021/01/19/doj-will-not-charge-sen-richard-burr-for-covid-stock-trades.html).
+    Committee after it was reported that [the FBI had seized his mobile phone](https://www.usatoday.com/story/news/politics/2020/05/14/sen-richard-burrs-phone-seized-fbi-serves-warrant-stock-probe/5188726002/).
+    In January 2021, the Department of Justice announced that [they would not charge
+    Burr](https://www.cnbc.com/2021/01/19/doj-will-not-charge-sen-richard-burr-for-covid-stock-trades.html).
   allegation: covid19 stock profiteering
   consequences:
   - date: 2020-03-17
@@ -1290,12 +1335,14 @@
   name: San Nicolas
   text: In 2019, San Nicolas was alleged to have engaged in a sexual relationship
     with a staff member, converted campaign funds to personal use and/or accepted
-    improper or excessive campaign contributions.
-    In 2020, the House Committee on Ethics[established an Investigative
-    Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-f-0)
+    improper or excessive campaign contributions. In 2020, the House Committee on
+    Ethics[established an Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-f-0)
     to further investigate the allegations following a referral from the Office of
-    Congressional Ethics. 
-    In 2022, the Investigative Subcommittee found that there was at least some evidence for all the allegations, but the most significant evidence was for the financial allegations. In light of Del. San Nicolas's planned retirement at the end of this Congress, [the Committee has referred its report to the Department of Justice](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-1).
+    Congressional Ethics. In 2022, the Investigative Subcommittee found that there
+    was at least some evidence for all the allegations, but the most significant evidence
+    was for the financial allegations. In light of Del. San Nicolas's planned retirement
+    at the end of this Congress, [the Committee has referred its report to the Department
+    of Justice](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-1).
   allegation: engaging in a sexual relationship with a staff member, converting campaign
     funds to personal use and/or accepting improper or excessive campaign contributions
   consequences:
@@ -1314,9 +1361,11 @@
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-0
   - date: 2022-06-24
     body: House Committee on Ethics
-    action: found substantial evidence for all of the allegations, but due to Del. San Nicolas's impending retirement, adopted the report, ended the investigation and referred to the Deparment of Justice
+    action: found substantial evidence for all of the allegations, but due to Del.
+      San Nicolas's impending retirement, adopted the report, ended the investigation
+      and referred to the Deparment of Justice
     link: https://www.congress.gov/117/crpt/hrpt387/CRPT-117hrpt387.pdf
-  tags: elections sexual-harassment-abuse resolved
+  tags: elections resolved sexual-harassment-abuse
 - person: 412756
   name: Hill
   text: In October 2019, nude photos of Rep. Hill were published by conservative websites
@@ -1634,7 +1683,10 @@
   name: Nunes
   text: In 2018, the [Federal Elections Commission (FEC) announced it was investigating
     Nunes](http://docquery.fec.gov/pdf/285/201803200300001285/201803200300001285.pdf)
-    for receiving campaign contributions in excess of limits and from prohibited entities. This and other investigations appear to have been resolved as issues of [inadequate accounting with a range of fines paid and revised disclosures](https://www.thedailybeast.com/who-messed-up-devin-nunes-campaign-records-this-bad-his-mom). Nunes resigned at the beginning of 2022.
+    for receiving campaign contributions in excess of limits and from prohibited entities.
+    This and other investigations appear to have been resolved as issues of [inadequate
+    accounting with a range of fines paid and revised disclosures](https://www.thedailybeast.com/who-messed-up-devin-nunes-campaign-records-this-bad-his-mom).
+    Nunes resigned at the beginning of 2022.
   allegation: receiving campaign contributions in excess of limits and from prohibited
     entities
   consequences:
@@ -1643,7 +1695,9 @@
     action: sent a letter to Nunes' campaign treasurer
     link: http://docquery.fec.gov/pdf/285/201803200300001285/201803200300001285.pdf
   - date: 2012-10-27
-    text: The FEC appears to have had many interactions with the Nunes campaign for over a decade, which as of late 2021, appear to have been resolved via fines and revised discloures.
+    text: The FEC appears to have had many interactions with the Nunes campaign for
+      over a decade, which as of late 2021, appear to have been resolved via fines
+      and revised discloures.
     link: https://www.thedailybeast.com/who-messed-up-devin-nunes-campaign-records-this-bad-his-mom
   - date: 2022-01-01
     text: Nunes resigned.
@@ -1656,7 +1710,9 @@
     a 2012 primary opponent to drop out of the race
   text: Brady faced an allegation of leading a criminal conspiracy to hide a $90,000
     payment made to persuade a 2012 primary opponent to drop out of the race. On Nov.
-    1, 2017, the Federal Bureau of Investigation [issued a search warrant for email](http://www.philly.com/philly/news/pennsylvania/philadelphia/bob-brady-search-warrant-emails-campaign-payoff-probe-20171121.html). Brady announced he would not run for re-election in January 2018. Brady has never been charged in the case.
+    1, 2017, the Federal Bureau of Investigation [issued a search warrant for email](http://www.philly.com/philly/news/pennsylvania/philadelphia/bob-brady-search-warrant-emails-campaign-payoff-probe-20171121.html).
+    Brady announced he would not run for re-election in January 2018. Brady has never
+    been charged in the case.
   consequences:
   - date: 2017-11-01
     body: Federal Bureau of Investigation
@@ -2271,7 +2327,11 @@
   text: In 2016 Brown was convicted for a range of mail violations, wire fraud, defrauding
     the IRS and related charges. In 2016, Brown lost in the primary and in 2017 she
     was [convicted of the charges against her](https://en.wikipedia.org/wiki/Corrine_Brown#Political_controversies).
-    In December 2017, she was sentenced to five years in prison. In May 2021, her conviction was [vacated](https://twitter.com/schindy/status/1390446925200171008). In May 2022, Brown [pleaded guilty to one count of lying on her tax returns](https://www.jacksonville.com/story/news/courts/2022/05/18/ex-u-s-rep-corrine-brown-pleads-guilty-1-charge-feds-drop-rest/9808489002/). In June 2022, she announced that she would be running for the FL-10 seat in the upcoming election](https://www.jacksonville.com/story/news/politics/2022/06/16/corrine-brown-running-again-congress-central-florida/7646594001/).
+    In December 2017, she was sentenced to five years in prison. In May 2021, her
+    conviction was [vacated](https://twitter.com/schindy/status/1390446925200171008).
+    In May 2022, Brown [pleaded guilty to one count of lying on her tax returns](https://www.jacksonville.com/story/news/courts/2022/05/18/ex-u-s-rep-corrine-brown-pleads-guilty-1-charge-feds-drop-rest/9808489002/).
+    In June 2022, she announced that she would be running for the FL-10 seat in the
+    upcoming election](https://www.jacksonville.com/story/news/politics/2022/06/16/corrine-brown-running-again-congress-central-florida/7646594001/).
   allegation: a range of mail violations, wire fraud, defrauding the IRS and related
     charges
   consequences:
@@ -4228,8 +4288,9 @@
   name: Craig
   text: In 2007 Craig pleaded guilty to using his status to receive special treatment
     and using campaign funds to pay legal expenses stemming from an arrest and guilty
-    plea on disorderly conduct at the Minneapolis-St. Paul airport (also in 2007). The Senate Select Committee on Ethics [admonished the senator on both counts](https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=ED41D9EA-3E36-4D89-9FAC-8CABA610D07A). He retired at the end
-    of his term in 2008 and [as of 2016](https://en.wikipedia.org/wiki/Larry_Craig#2007_arrest_and_consequences)
+    plea on disorderly conduct at the Minneapolis-St. Paul airport (also in 2007).
+    The Senate Select Committee on Ethics [admonished the senator on both counts](https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=ED41D9EA-3E36-4D89-9FAC-8CABA610D07A).
+    He retired at the end of his term in 2008 and [as of 2016](https://en.wikipedia.org/wiki/Larry_Craig#2007_arrest_and_consequences)
     has been ordered to personally pay for legal fees incurred that had previously
     been paid with campaign funds.
   allegation: using his status to receive special treatment and using campaign funds
@@ -4800,8 +4861,9 @@
   name: Torricelli
   text: In 1996, in an accusation made by Rep. Thomas, the House Committee on Standards
     of Official Conduct investigated Torricelli for using a congressional fax machine
-    to send a press release having a political purpose against his campaign rival Zimmer. On Mar. 29, 1996, the committee
-    [determined use of the fax machine violated applicable rules](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf#page=+27)
+    to send a press release having a political purpose against his campaign rival
+    Zimmer. On Mar. 29, 1996, the committee [determined use of the fax machine violated
+    applicable rules](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf#page=+27)
     on use of official resources and Torricelli reimbursed the use of the fax. On
     Nov. 5, 1996, Zimmer lost his bid for a New Jersey Senate seat to Torricelli.
   allegation: using congressional fax machine to send a press release having a political
@@ -4826,7 +4888,10 @@
     and subsequently re-submitted. The complaint was [dismissed](https://www.congress.gov/104/crpt/hrpt886/CRPT-104hrpt886.pdf#page=+27)
     on March 29, 1996 for lack of merit. On Nov. 5, 1996, Zimmer lost his bid for
     a New Jersey Senate seat to Torricelli.
-  allegation: using congressional fax machine for non-official purpose, specifically to send a press release entitled "Zimmer Wallops Torricelli in N.J. Congressional Softball Tourney" which was a personal attack and therefore violated usage rules (accusation made by Torricelli)
+  allegation: using congressional fax machine for non-official purpose, specifically
+    to send a press release entitled "Zimmer Wallops Torricelli in N.J. Congressional
+    Softball Tourney" which was a personal attack and therefore violated usage rules
+    (accusation made by Torricelli)
   consequences:
   - date: 1996-03-29
     body: House Committee on Standards of Official Conduct
@@ -5380,8 +5445,8 @@
 - person: 403669
   name: Durenberger
   text: Durenberger faced an allegation of a wide range of financial misconduct. On
-    Jul. 25, 1990, the Senate [voted to denounce him 96-0, which appears to have been intended
-    as a type of censure which acknowledges no ill intent](https://www.senate.gov/artandhistory/history/common/censure_cases/141DavidDurenberger.htm).
+    Jul. 25, 1990, the Senate [voted to denounce him 96-0, which appears to have been
+    intended as a type of censure which acknowledges no ill intent](https://www.senate.gov/artandhistory/history/common/censure_cases/141DavidDurenberger.htm).
   allegation: a wide range of financial misconduct
   consequences:
   - date: 1990-07-25
@@ -6463,7 +6528,7 @@
     of the 1970 election. In 1970, he was [defeated](http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000530).
     On Oct. 19, 1971, he [pleaded guilty to one count of failing to report income
     for tax purposes for the years 1964-1967](http://www.nytimes.com/1971/10/19/archives/exrepresentative-says-he-is-guilty-of-tax-evasion.html).
-  allegation: tax evasion revealed during the last month of the 1970 election 
+  allegation: tax evasion revealed during the last month of the 1970 election
   consequences:
   - date: 1970
     text: Defeated.
@@ -7042,8 +7107,9 @@
 - person: 401524
   name: Blanton
   text: Blanton faced an allegation of inserting a document in Congressional Record
-    containing indecent and obscene language on October 22, 1921. On Oct. 24, the House [voted to expunge the document from the Congressional Record](https://www.govinfo.gov/content/pkg/GPO-HPREC-CANNONS-V6/html/GPO-HPREC-CANNONS-V6-28.htm). On Oct. 27, 1921,
-    he was [censured (“resolution of reprimand and censure”), 293-0](https://www.govtrack.us/congress/votes/67-1/h120).
+    containing indecent and obscene language on October 22, 1921. On Oct. 24, the
+    House [voted to expunge the document from the Congressional Record](https://www.govinfo.gov/content/pkg/GPO-HPREC-CANNONS-V6/html/GPO-HPREC-CANNONS-V6-28.htm).
+    On Oct. 27, 1921, he was [censured (“resolution of reprimand and censure”), 293-0](https://www.govtrack.us/congress/votes/67-1/h120).
     On Oct. 28, 1921, [apologized](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   allegation: inserting a document in Congressional Record containing indecent and
     obscene language on October 22, 1921
@@ -8111,8 +8177,8 @@
 - person: 409126
   name: Reid
   text: Reid faced an allegation of taking up arms against the government of the United
-    States. On Dec. 2, 1861, the House of Representatives [expelled him, but no exact vote
-    recorded)](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj0593))).
+    States. On Dec. 2, 1861, the House of Representatives [expelled him, but no exact
+    vote recorded)](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj0593))).
   allegation: taking up arms against the government of the United States
   consequences:
   - date: 1861-12-02
@@ -8135,8 +8201,13 @@
   tags: crime resolved
 - person: 409911
   name: Simmons
-  text: Simmons faced an allegation of using his influence to obtain contracts for Rhode Island rifle manufacturers in exchange for payment. On Jul. 14, 1862, the Senate Committee on the Judiciary recommended that Senate take such action as it deemed appropriate, but also that the charges were all true. On Aug. 15, 1862, he [resigned](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=149).
-  allegation: using his influence to obtain contracts for Rhode Island rifle manufacturers in exchange for payment
+  text: Simmons faced an allegation of using his influence to obtain contracts for
+    Rhode Island rifle manufacturers in exchange for payment. On Jul. 14, 1862, the
+    Senate Committee on the Judiciary recommended that Senate take such action as
+    it deemed appropriate, but also that the charges were all true. On Aug. 15, 1862,
+    he [resigned](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=149).
+  allegation: using his influence to obtain contracts for Rhode Island rifle manufacturers
+    in exchange for payment
   consequences:
   - date: 1862-07-14
     body: Senate Committee on the Judiciary
@@ -8152,7 +8223,10 @@
   text: Stark faced an allegation of disloyalty to the Union. On Feb. 27, 1862, the
     Senate voted to seat him 26-19 since his public statements came before he was
     in the Senate. Stark requested another investigation, presumably to more fully
-    exonerate him, and on Apr. 22, a committee reported that based on his public statements, he supported the rebellion, and Charles Sumner introduced a resolution to expel him. On Jun. 6, the expulsion resolution was defeated 21-16, apparently because Stark had only a few more months to serve.
+    exonerate him, and on Apr. 22, a committee reported that based on his public statements,
+    he supported the rebellion, and Charles Sumner introduced a resolution to expel
+    him. On Jun. 6, the expulsion resolution was defeated 21-16, apparently because
+    Stark had only a few more months to serve.
   allegation: disloyalty to the Union
   consequences:
   - date: 1862-02-27
@@ -8636,7 +8710,8 @@
     him after-hours breakfast service for which he was arrested on May 8, 1856 and
     imprisoned prior to trial. On May. 15, 1856, the House of Representatives [tabled
     the resolution to refer the case to Judiciary Committee, 79-70](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05211))).
-    In Jan. 1856, he was [acquitted](https://www.washingtonpost.com/news/retropolis/wp/2018/06/23/a-hungry-congressman-didnt-get-the-breakfast-he-ordered-so-he-shot-the-waiter/) despite ample evidence that he did indeed murder the waiter.
+    In Jan. 1856, he was [acquitted](https://www.washingtonpost.com/news/retropolis/wp/2018/06/23/a-hungry-congressman-didnt-get-the-breakfast-he-ordered-so-he-shot-the-waiter/)
+    despite ample evidence that he did indeed murder the waiter.
   allegation: fatally shooting a hotel waiter who refused him after-hours breakfast
     service for which he was arrested on May 8, 1856 and imprisoned prior to trial
   consequences:
@@ -8681,7 +8756,9 @@
 - person: 412130
   name: Shields
   text: Shields faced an allegation of not yet being a United States citizen. On Mar.
-    15, 1849, the Senate [declared the election void based on the committee's recommendation since Shields was indeed six months short of the required period for residency and naturalization](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=88).
+    15, 1849, the Senate [declared the election void based on the committee's recommendation
+    since Shields was indeed six months short of the required period for residency
+    and naturalization](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=88).
   allegation: not yet being a United States citizen
   consequences:
   - date: 1849-03-15
@@ -8814,7 +8891,9 @@
 - person: 409461
   name: Ruggles
   text: Ruggles faced an allegation of corruption in using Senatorial influence to
-    secure positive outcomes for a patent application. On Apr. 12, 1838, Ruggles effectively discredited his accuser and the committee reported that the charges should be dismissed. On Apr. 25, 1838, the Senate [agreed with the committtee](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=76).
+    secure positive outcomes for a patent application. On Apr. 12, 1838, Ruggles effectively
+    discredited his accuser and the committee reported that the charges should be
+    dismissed. On Apr. 25, 1838, the Senate [agreed with the committtee](https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=76).
   allegation: corruption in using Senatorial influence to secure positive outcomes
     for a patent application
   consequences:
@@ -8848,11 +8927,13 @@
 - person: 411803
   name: Wise
   text: Wise faced an allegation of breach of the privileges of the House because
-    Wise acted as a second on February 24, 1838 when Rep. Graves killed Rep. Cilley in a duel over words spoken in debate. On Apr. 21, 1838, the Select Committee
+    Wise acted as a second on February 24, 1838 when Rep. Graves killed Rep. Cilley
+    in a duel over words spoken in debate. On Apr. 21, 1838, the Select Committee
     of Investigation recommended expulsion for Graves and censure for Wise. On May.
     10, 1838, the House of Representatives [tabled the censure resolution](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj032126))).
-  allegation: breach of the privileges of the House because Wise acted
-    as a second on February 24, 1838 when Rep. Graves killed Rep. Cilley in a duel over words spoken in debate 
+  allegation: breach of the privileges of the House because Wise acted as a second
+    on February 24, 1838 when Rep. Graves killed Rep. Cilley in a duel over words
+    spoken in debate
   consequences:
   - date: 1838-04-21
     body: Select Committee of Investigation
