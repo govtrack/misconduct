@@ -1290,12 +1290,12 @@
   name: San Nicolas
   text: In 2019, San Nicolas was alleged to have engaged in a sexual relationship
     with a staff member, converted campaign funds to personal use and/or accepted
-    improper or excessive campaign contributions. The House Committee on Ethics began
-    an investigation. In 2020, the House Committee on Ethics[established an Investigative
+    improper or excessive campaign contributions.
+    In 2020, the House Committee on Ethics[established an Investigative
     Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-f-0)
     to further investigate the allegations following a referral from the Office of
-    Congressional Ethics. In 2021, the [Investigative Subcommittee was reauthorized](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-0)
-    for the 117th Congress. In 2022, the Investigative Subcommittee found that there was at least some evidence for all the allegations, but the most significant evidence was for the financial allegations. In light of Del. San Nicolas's planned retirement at the end of this Congress, [the Committee has referred its report to the Department of Justice](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-1).
+    Congressional Ethics. 
+    In 2022, the Investigative Subcommittee found that there was at least some evidence for all the allegations, but the most significant evidence was for the financial allegations. In light of Del. San Nicolas's planned retirement at the end of this Congress, [the Committee has referred its report to the Department of Justice](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-1).
   allegation: engaging in a sexual relationship with a staff member, converting campaign
     funds to personal use and/or accepting improper or excessive campaign contributions
   consequences:
@@ -1316,8 +1316,7 @@
     body: House Committee on Ethics
     action: found substantial evidence for all of the allegations, but due to Del. San Nicolas's impending retirement, adopted the report, ended the investigation and referred to the Deparment of Justice
     link: https://www.congress.gov/117/crpt/hrpt387/CRPT-117hrpt387.pdf
-    tags: elections sexual-harassment-abuse
-  tags: resolved
+  tags: elections sexual-harassment-abuse resolved
 - person: 412756
   name: Hill
   text: In October 2019, nude photos of Rep. Hill were published by conservative websites
