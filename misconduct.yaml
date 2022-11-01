@@ -1,3 +1,36 @@
+- person: 400272
+  name: Menendez
+  text: The Senator is under investigation for unspecified corruption by the Department of Justice.
+  allegation: unspecified corruption
+  consequences:
+  - date: 2022-10-26
+    body: U.S. Department of Justice
+    action: initiated an investigation
+    link: https://www.semafor.com/article/10/25/2022/senator-robert-menendez-under-investigation-again
+  tags: unresolved corruption
+- person: 456815
+  name: Kahele
+  text: The Representative is accused of [sponsoring bills that benefit his other employer, Hawaii Airlines](https://www.hawaiinewsnow.com/2022/10/18/kahele-faces-house-ethics-probe-over-bills-he-co-sponsored-that-benefited-airlines/).
+  allegation: sponsoring bills that benefit his other employer, Hawaii Airlines
+  consequences:
+  - date: 2022-10-14
+    body: House Committee on Ethics
+    action: extended the matter regarding the representative
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-69
+  - date: 2022-10-18
+    text: Hawaii News Now reported that the investigation is about the Representative sponsoring bills that benefit his other employer, Hawaii Airlines.
+    link: https://www.hawaiinewsnow.com/2022/10/18/kahele-faces-house-ethics-probe-over-bills-he-co-sponsored-that-benefited-airlines/
+  tags: unresolved ethics
+- person: 400251
+  name: Maloney
+  text: The Representative is being investigated for allegations unstated by the House Committee on Ethics.
+  allegation: unstated by committee
+  consequences:
+  - date: 2022-10-07
+    body: House Committee on Ethics
+    action: extended the matter regarding the representative
+    link: https://ethics.house.gov/press-releases/statement-acting-chairwoman-and-acting-ranking-member-committee-ethics-regarding
+  tags: unresolved
 - person: 412785
   name: Levin
   text: Levin was arrested at a protest in front of the U.S. Capitol building on July, 20 2022. The same month the Committee published a committee report declaring they will pay a $50 fine.
