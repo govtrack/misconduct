@@ -1,3 +1,17 @@
+- person: 456815
+  name: Kahele
+  text: In 2022, the member was accused of misusing official resources for campaign or political social media purposes or used campaign funds to defray official expenses. In August 2022, the Office of Congressional Ethics recommended further review by the House Committee on Ethics. In November 2022, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-acting-chairwoman-and-acting-ranking-member-committee-ethics-regarding-1).
+  allegation: misusing official resources for campaign or political social media purposes or used campaign funds to defray official expenses
+  consequences:
+  - date: 2022-08-26
+    body: Office of Congressional Ethics
+    action: recommended further review by the House Committee on Ethics
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_15.pdf
+  - date: 2022-11-28
+    body: House Committee on Ethics
+    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    link: https://ethics.house.gov/press-releases/statement-acting-chairwoman-and-acting-ranking-member-committee-ethics-regarding-1
+  tags: unresolved ethics
 - person: 400272
   name: Menendez
   text: The Senator is under investigation for unspecified corruption by the Department of Justice.
@@ -10,7 +24,7 @@
   tags: unresolved corruption
 - person: 456815
   name: Kahele
-  text: The Representative is accused of [sponsoring bills that benefit his other employer, Hawaii Airlines](https://www.hawaiinewsnow.com/2022/10/18/kahele-faces-house-ethics-probe-over-bills-he-co-sponsored-that-benefited-airlines/).
+  text: The Representative is accused of [sponsoring bills that benefit his other employer, Hawaii Airlines](https://www.hawaiinewsnow.com/2022/10/18/kahele-faces-house-ethics-probe-over-bills-he-co-sponsored-that-benefited-airlines/). In November 2022, [the Office of Congressional Ethics voted to dismiss this allegation](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_15.pdf).
   allegation: sponsoring bills that benefit his other employer, Hawaii Airlines
   consequences:
   - date: 2022-10-14
@@ -20,17 +34,25 @@
   - date: 2022-10-18
     text: Hawaii News Now reported that the investigation is about the Representative sponsoring bills that benefit his other employer, Hawaii Airlines.
     link: https://www.hawaiinewsnow.com/2022/10/18/kahele-faces-house-ethics-probe-over-bills-he-co-sponsored-that-benefited-airlines/
-  tags: unresolved ethics
+  - date: 2022-11-28
+    body: Office of Congressional Ethics
+    action: dismissed the allegations
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_15.pdf
+  tags: resolved ethics
 - person: 400251
   name: Maloney
-  text: The Representative is being investigated for allegations unstated by the House Committee on Ethics.
-  allegation: unstated by committee
+  text: The Representative is being investigated for allegations og soliciting and/or accepting impermissible gifts with respect to the Met Gala by the House Committee on Ethics.
+  allegation: soliciting and/or accepting impermissible gifts with respect to the Met Gala 
   consequences:
   - date: 2022-10-07
     body: House Committee on Ethics
     action: extended the matter regarding the representative
     link: https://ethics.house.gov/press-releases/statement-acting-chairwoman-and-acting-ranking-member-committee-ethics-regarding
-  tags: unresolved
+  - date: 2022-11-21
+    body: House Committee on Ethics
+    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    link: https://ethics.house.gov/press-releases/statement-acting-chairwoman-and-acting-ranking-member-committee-ethics-regarding-0
+  tags: unresolved corruption
 - person: 412785
   name: Levin
   text: Levin was arrested at a protest in front of the U.S. Capitol building on July, 20 2022. The same month the Committee published a committee report declaring they will pay a $50 fine.
