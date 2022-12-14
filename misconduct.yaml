@@ -1,7 +1,13 @@
 - person: 456815
   name: Kahele
-  text: In 2022, the member was accused of misusing official resources for campaign or political social media purposes or used campaign funds to defray official expenses. In August 2022, the Office of Congressional Ethics recommended further review by the House Committee on Ethics. In November 2022, the House Committee on Ethics [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-acting-chairwoman-and-acting-ranking-member-committee-ethics-regarding-1).
-  allegation: misusing official resources for campaign or political social media purposes or used campaign funds to defray official expenses
+  text: In 2022, the member was accused of misusing official resources for campaign
+    or political social media purposes or used campaign funds to defray official expenses.
+    In August 2022, the Office of Congressional Ethics recommended further review
+    by the House Committee on Ethics. In November 2022, the House Committee on Ethics
+    [published the Office of Congressional Ethics Report and Findings and the member's
+    response](https://ethics.house.gov/press-releases/statement-acting-chairwoman-and-acting-ranking-member-committee-ethics-regarding-1).
+  allegation: misusing official resources for campaign or political social media purposes
+    or used campaign funds to defray official expenses
   consequences:
   - date: 2022-08-26
     body: Office of Congressional Ethics
@@ -9,22 +15,26 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_15.pdf
   - date: 2022-11-28
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response
     link: https://ethics.house.gov/press-releases/statement-acting-chairwoman-and-acting-ranking-member-committee-ethics-regarding-1
-  tags: unresolved ethics
+  tags: ethics unresolved
 - person: 400272
   name: Menendez
-  text: The Senator is under investigation for unspecified corruption by the Department of Justice.
+  text: The Senator is under investigation for unspecified corruption by the Department
+    of Justice.
   allegation: unspecified corruption
   consequences:
   - date: 2022-10-26
     body: U.S. Department of Justice
     action: initiated an investigation
     link: https://www.semafor.com/article/10/25/2022/senator-robert-menendez-under-investigation-again
-  tags: unresolved corruption
+  tags: corruption unresolved
 - person: 456815
   name: Kahele
-  text: The Representative is accused of [sponsoring bills that benefit his other employer, Hawaii Airlines](https://www.hawaiinewsnow.com/2022/10/18/kahele-faces-house-ethics-probe-over-bills-he-co-sponsored-that-benefited-airlines/). In November 2022, [the Office of Congressional Ethics voted to dismiss this allegation](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_15.pdf).
+  text: The Representative is accused of [sponsoring bills that benefit his other
+    employer, Hawaii Airlines](https://www.hawaiinewsnow.com/2022/10/18/kahele-faces-house-ethics-probe-over-bills-he-co-sponsored-that-benefited-airlines/).
+    In November 2022, [the Office of Congressional Ethics voted to dismiss this allegation](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_15.pdf).
   allegation: sponsoring bills that benefit his other employer, Hawaii Airlines
   consequences:
   - date: 2022-10-14
@@ -32,17 +42,21 @@
     action: extended the matter regarding the representative
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-69
   - date: 2022-10-18
-    text: Hawaii News Now reported that the investigation is about the Representative sponsoring bills that benefit his other employer, Hawaii Airlines.
+    text: Hawaii News Now reported that the investigation is about the Representative
+      sponsoring bills that benefit his other employer, Hawaii Airlines.
     link: https://www.hawaiinewsnow.com/2022/10/18/kahele-faces-house-ethics-probe-over-bills-he-co-sponsored-that-benefited-airlines/
   - date: 2022-11-28
     body: Office of Congressional Ethics
     action: dismissed the allegations
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_15.pdf
-  tags: resolved ethics
+  tags: ethics resolved
 - person: 400251
   name: Maloney
-  text: The Representative is being investigated for allegations og soliciting and/or accepting impermissible gifts with respect to the Met Gala by the House Committee on Ethics.
-  allegation: soliciting and/or accepting impermissible gifts with respect to the Met Gala 
+  text: The Representative is being investigated for allegations og soliciting and/or
+    accepting impermissible gifts with respect to the Met Gala by the House Committee
+    on Ethics.
+  allegation: soliciting and/or accepting impermissible gifts with respect to the
+    Met Gala
   consequences:
   - date: 2022-10-07
     body: House Committee on Ethics
@@ -50,12 +64,15 @@
     link: https://ethics.house.gov/press-releases/statement-acting-chairwoman-and-acting-ranking-member-committee-ethics-regarding
   - date: 2022-11-21
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    action: published the Office of Congressional Ethics Report and Findings and the
+      member's response
     link: https://ethics.house.gov/press-releases/statement-acting-chairwoman-and-acting-ranking-member-committee-ethics-regarding-0
-  tags: unresolved corruption
+  tags: corruption unresolved
 - person: 412785
   name: Levin
-  text: Levin was arrested at a protest in front of the U.S. Capitol building on July, 20 2022. The same month the Committee published a committee report declaring they will pay a $50 fine.
+  text: Levin was arrested at a protest in front of the U.S. Capitol building on July,
+    20 2022. The same month the Committee published a committee report declaring they
+    will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -65,7 +82,9 @@
   tags: crime resolved
 - person: 412607
   name: Adams
-  text: Adams was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Adams was arrested at a protest in front of the U.S. Supreme Court building
+    on July, 19 2022. The same month the Committee published a committee report delcaring
+    they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -75,7 +94,9 @@
   tags: crime resolved
 - person: 456829
   name: Bush
-  text: Bush was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Bush was arrested at a protest in front of the U.S. Supreme Court building
+    on July, 19 2022. The same month the Committee published a committee report delcaring
+    they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -85,7 +106,9 @@
   tags: crime resolved
 - person: 412600
   name: Clark
-  text: Clark was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Clark was arrested at a protest in front of the U.S. Supreme Court building
+    on July, 19 2022. The same month the Committee published a committee report delcaring
+    they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -95,7 +118,9 @@
   tags: crime resolved
 - person: 412809
   name: Dean
-  text: Dean was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Dean was arrested at a protest in front of the U.S. Supreme Court building
+    on July, 19 2022. The same month the Committee published a committee report delcaring
+    they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -105,7 +130,9 @@
   tags: crime resolved
 - person: 412825
   name: Escobar
-  text: Escobar was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Escobar was arrested at a protest in front of the U.S. Supreme Court building
+    on July, 19 2022. The same month the Committee published a committee report delcaring
+    they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -115,7 +142,9 @@
   tags: crime resolved
 - person: 456804
   name: Jacobs
-  text: Jacobs was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Jacobs was arrested at a protest in front of the U.S. Supreme Court building
+    on July, 19 2022. The same month the Committee published a committee report delcaring
+    they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -125,7 +154,9 @@
   tags: crime resolved
 - person: 400237
   name: Lee
-  text: Lee was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Lee was arrested at a protest in front of the U.S. Supreme Court building
+    on July, 19 2022. The same month the Committee published a committee report delcaring
+    they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -135,7 +166,9 @@
   tags: crime resolved
 - person: 412785
   name: Levin
-  text: Levin was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Levin was arrested at a protest in front of the U.S. Supreme Court building
+    on July, 19 2022. The same month the Committee published a committee report delcaring
+    they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -145,7 +178,9 @@
   tags: crime resolved
 - person: 400251
   name: Maloney
-  text: Maloney was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Maloney was arrested at a protest in front of the U.S. Supreme Court building
+    on July, 19 2022. The same month the Committee published a committee report delcaring
+    they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -155,7 +190,9 @@
   tags: crime resolved
 - person: 412804
   name: Ocasio-Cortez
-  text: Ocasio-Cortez was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Ocasio-Cortez was arrested at a protest in front of the U.S. Supreme Court
+    building on July, 19 2022. The same month the Committee published a committee
+    report delcaring they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -165,7 +202,9 @@
   tags: crime resolved
 - person: 412791
   name: Omar
-  text: Omar was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Omar was arrested at a protest in front of the U.S. Supreme Court building
+    on July, 19 2022. The same month the Committee published a committee report delcaring
+    they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -175,7 +214,9 @@
   tags: crime resolved
 - person: 412782
   name: Pressley
-  text: Pressley was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Pressley was arrested at a protest in front of the U.S. Supreme Court building
+    on July, 19 2022. The same month the Committee published a committee report delcaring
+    they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -185,7 +226,9 @@
   tags: crime resolved
 - person: 400360
   name: Schakowsky
-  text: Schakowsky was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Schakowsky was arrested at a protest in front of the U.S. Supreme Court building
+    on July, 19 2022. The same month the Committee published a committee report delcaring
+    they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -195,7 +238,9 @@
   tags: crime resolved
 - person: 412259
   name: Speier
-  text: Speier was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Speier was arrested at a protest in front of the U.S. Supreme Court building
+    on July, 19 2022. The same month the Committee published a committee report delcaring
+    they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -205,7 +250,9 @@
   tags: crime resolved
 - person: 412787
   name: Tlaib
-  text: Tlaib was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Tlaib was arrested at a protest in front of the U.S. Supreme Court building
+    on July, 19 2022. The same month the Committee published a committee report delcaring
+    they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -215,7 +262,9 @@
   tags: crime resolved
 - person: 400416
   name: Velázquez
-  text: Velázquez was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Velázquez was arrested at a protest in front of the U.S. Supreme Court building
+    on July, 19 2022. The same month the Committee published a committee report delcaring
+    they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -225,7 +274,9 @@
   tags: crime resolved
 - person: 412644
   name: Coleman
-  text: Coleman was arrested at a protest in front of the U.S. Supreme Court building on July, 19 2022. The same month the Committee published a committee report delcaring they will pay a $50 fine.
+  text: Coleman was arrested at a protest in front of the U.S. Supreme Court building
+    on July, 19 2022. The same month the Committee published a committee report delcaring
+    they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
@@ -264,8 +315,9 @@
 - person: 456793
   name: Jacobs
   text: In 2022, the House Committee on Ethics published the Office of Congressional
-    Ethics Report and Findings and Jacobs's response to allegations he failed
-    to report stock trades in accordance with the STOCK Act. In July of 2022, the Committee unanimously voted to dismiss the referral.
+    Ethics Report and Findings and Jacobs's response to allegations he failed to report
+    stock trades in accordance with the STOCK Act. In July of 2022, the Committee
+    unanimously voted to dismiss the referral.
   allegation: failure to report stock trades
   consequences:
   - date: 2022-05-31
@@ -276,7 +328,7 @@
   - date: 2022-07-29
     body: House Committee on Ethics
     action: dismissed the referral
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-pat-1 
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-pat-1
   tags: crime resolved
 - person: 456833
   name: Cawthorn
@@ -305,7 +357,8 @@
     regarding [allegations that the representative had failed to disclose stock trades
     in the required time](https://www.forbes.com/sites/zacheverson/2022/04/20/house-ethics-committee-is-investigating-texas-republican-pat-fallon/?sh=21ea49f21c65).
     In May 2022, the House Committee on Ethics [published the Office of Congressional
-    Ethics Report and Findings and Fallon's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-pat-0). In July of 2022, the Committee unanimously voted to dismiss the referral.
+    Ethics Report and Findings and Fallon's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-pat-0).
+    In July of 2022, the Committee unanimously voted to dismiss the referral.
   allegation: failing to disclose stock trades in the required time
   consequences:
   - date: 2022-03-02
@@ -318,13 +371,13 @@
     link: https://www.forbes.com/sites/zacheverson/2022/04/20/house-ethics-committee-is-investigating-texas-republican-pat-fallon/?sh=21ea49f21c65
   - date: 2022-05-31
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and
-      Fallon's response
+    action: published the Office of Congressional Ethics Report and Findings and Fallon's
+      response
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-pat-0
   - date: 2022-07-29
     body: House Committee on Ethics
     action: dismissed the referral
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-pat-1 
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-pat-1
   tags: crime ethics resolved
 - person: 412692
   name: Rutherford
@@ -332,7 +385,8 @@
     representative. In May 2022, the House Committee on Ethics [published the Office
     of Congressional Ethics Report and Findings and Rutherford's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-66).
     It appears that the allegation relates to a [failure to report stock trades in
-    2021](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-66). In August of 2022, the Committee unanimously voted to dismiss the referral.
+    2021](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-66).
+    In August of 2022, the Committee unanimously voted to dismiss the referral.
   allegation: failure to report stock trades
   consequences:
   - date: 2022-02-28
@@ -345,8 +399,8 @@
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-john
   - date: 2022-05-31
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and
-      Rutherford's response
+    action: published the Office of Congressional Ethics Report and Findings and Rutherford's
+      response
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-66
   - date: 2022-08-24
     body: House Committee on Ethics
@@ -356,7 +410,8 @@
 - person: 412717
   name: Suozzi
   text: In 2022, the House Committee on Ethics announced it would extend its investigation
-    of allegations of [failing to disclose stock transactions](https://buffalonews.com/news/house-ethics-committee-extends-probe-of-suozzi-stock-trades/article_86899d28-bcca-11ec-b3ed-6f0957a47be0.html). In July of 2022, the Committee unanimously voted to dismiss the referral.
+    of allegations of [failing to disclose stock transactions](https://buffalonews.com/news/house-ethics-committee-extends-probe-of-suozzi-stock-trades/article_86899d28-bcca-11ec-b3ed-6f0957a47be0.html).
+    In July of 2022, the Committee unanimously voted to dismiss the referral.
   allegation: failing to disclose stock transactions
   consequences:
   - date: 2022-02-28
@@ -370,7 +425,7 @@
   - date: 2022-07-29
     body: House Committee on Ethics
     action: dismissed the referral
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-pat-1 
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-pat-1
   tags: crime ethics resolved
 - person: 456847
   name: Jackson
@@ -392,8 +447,8 @@
     link: https://abc7amarillo.com/news/local/house-ethics-committee-investigating-us-rep-ronny-jacksons-campaign-spending
   - date: 2022-05-23
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and
-      Jackson's response
+    action: published the Office of Congressional Ethics Report and Findings and Jackson's
+      response
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ronny
   tags: elections ethics unresolved
 - person: 456833
@@ -414,8 +469,8 @@
     link: https://www.npr.org/2022/05/17/1099502290/north-carolina-11th-congressional-district-results-madison-cawthorn
   - date: 2022-05-23
     body: House Committee on Ethics
-    action: published a report indicating that since they had already paid one
-      fine and intended to pay any additional ones, the committee would end it's investigation
+    action: published a report indicating that since they had already paid one fine
+      and intended to pay any additional ones, the committee would end it's investigation
     link: https://www.congress.gov/117/crpt/hrpt339/CRPT-117hrpt339.pdf
     tags: fined
   tags: crime resolved
@@ -450,8 +505,8 @@
   consequences:
   - date: 2022-03-21
     body: House Sergeant at Arms
-    action: fined her for failing to wear a mask on the House floor during
-      the COVID-19 pandemic
+    action: fined her for failing to wear a mask on the House floor during the COVID-19
+      pandemic
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-59
     tags: fined
   - date: 2021-11-30
@@ -469,8 +524,8 @@
   consequences:
   - date: 2021-11-30
     body: House Sergeant at Arms
-    action: fined them for failing to wear a mask on the House floor during
-      the COVID-19 pandemic
+    action: fined them for failing to wear a mask on the House floor during the COVID-19
+      pandemic
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-randy
     tags: fined
   tags: ethics resolved
@@ -493,8 +548,8 @@
   name: Meadows
   text: In December 2021, the [House of Representatives voted 220-208 to hold former
     Rep. Meadows in criminal contempt of Congress](https://www.govtrack.us/congress/votes/117-2021/h447)
-    for refusing to comply with a subpoena to appear before the January 6 Committee, but the Department of Justice
-    [declined to prosecute](https://edition.cnn.com/2022/06/03/politics/justice-department-declines-charge-meadows-scavino-january-6/index.html).
+    for refusing to comply with a subpoena to appear before the January 6 Committee,
+    but the Department of Justice [declined to prosecute](https://edition.cnn.com/2022/06/03/politics/justice-department-declines-charge-meadows-scavino-january-6/index.html).
   allegation: being in criminal contempt of Congress
   consequences:
   - date: 2021-12-14
@@ -564,8 +619,8 @@
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-doug
   - date: 2022-01-24
     body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and
-      Lamborn's response
+    action: published the Office of Congressional Ethics Report and Findings and Lamborn's
+      response
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-53
   tags: ethics unresolved
 - person: 456853
