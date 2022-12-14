@@ -493,7 +493,8 @@
   name: Meadows
   text: In December 2021, the [House of Representatives voted 220-208 to hold former
     Rep. Meadows in criminal contempt of Congress](https://www.govtrack.us/congress/votes/117-2021/h447)
-    for refusing to comply with a subpoena to appear before the January 6 Committee.
+    for refusing to comply with a subpoena to appear before the January 6 Committee, but the Department of Justice
+    [declined to prosecute](https://edition.cnn.com/2022/06/03/politics/justice-department-declines-charge-meadows-scavino-january-6/index.html).
   allegation: being in criminal contempt of Congress
   consequences:
   - date: 2021-12-14
@@ -502,6 +503,10 @@
       to comply with a subpoena to appear before the January 6 Committee
     link: https://www.govtrack.us/congress/votes/117-2021/h447
     tags: contempt
+  - date: 2022-06-04
+    body: Department of Justice
+    action: declined to indict Meadows
+    link: https://edition.cnn.com/2022/06/03/politics/justice-department-declines-charge-meadows-scavino-january-6/index.html
   tags: crime resolved
 - person: 456817
   name: Miller-Meeks
