@@ -1,3 +1,13 @@
+- person: 412804
+  name: Ocasio-Cortez
+  text: unkown
+  allegation: For reasons not specified in the press release, the House Committee on Ethics extended the matter regarding the representative based on information transmitted to the Committee by the Office of Congressional Ethics on June 23, 2022. 
+  consequences:
+  - date: 2022-12-07
+    body: House Committee on Ethics
+    action: extended the matter regarding the representative
+    link: https://ethics.house.gov/press-releases/statement-acting-chairwoman-and-acting-ranking-member-committee-ethics-regarding-3
+  tags: ethics unresolved
 - person: 456815
   name: Kahele
   text: In 2022, the member was accused of misusing official resources for campaign
@@ -350,7 +360,11 @@
     body: House Committee on Ethics
     action: established an investigative subcommittee
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-64
-  tags: crime unresolved
+  - date: 2022-12-06
+    body: House Committee on Ethics
+    action: Committee accepted the investigative subcommittee's report indicating that the member had received cryptocurrency at rates not available to the public, had a conflict of interest with respect to the cryptocurrency company, failed to file timely financial disclosures and charged him with repaying the difference on the cryptocurrency and the late filing fees.
+    link: https://www.congress.gov/117/crpt/hrpt591/CRPT-117hrpt591.pdf
+  tags: crime resolved
 - person: 456845
   name: Fallon
   text: In 2022, the House Committee on Ethics announced it had extended the matter
