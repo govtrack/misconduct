@@ -1,26 +1,26 @@
 - person: 456921
   name: Santos
-  text: engaging in unlawful activity with respect to his 2022 congressional campaign; failing to properly disclose required information on statements filed with the House; violating federal conflict of interest laws in connection with his role in a firm providing fiduciary services; and/or engaging in sexual misconduct towards an individual seeking employment in his congressional office.
-  allegation: The member has been accused of engaging in unlawful activity with respect to his 2022 congressional campaign; failing to properly disclose required information on statements filed with the House; violating federal conflict of interest laws in connection with his role in a firm providing fiduciary services; and/or engaging in sexual misconduct towards an individual seeking employment in his congressional office. In February 2023, an Investigative Subcommittee was established to investigate the allegations.
+  allegation: engaging in unlawful activity with respect to his 2022 congressional campaign; failing to properly disclose required information on statements filed with the House; violating federal conflict of interest laws in connection with his role in a firm providing fiduciary services; and/or engaging in sexual misconduct towards an individual seeking employment in his congressional office.
+  text: The member has been accused of engaging in unlawful activity with respect to his 2022 congressional campaign; failing to properly disclose required information on statements filed with the House; violating federal conflict of interest laws in connection with his role in a firm providing fiduciary services; and/or engaging in sexual misconduct towards an individual seeking employment in his congressional office. In February 2023, an Investigative Subcommittee was established to investigate the allegations.
   consequences:
   - date: 2023-02-28
     body: House Committee on Ethics
     action: established an Investigative Subcommittee
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-71
-  tags: elections corruption crimes sexual-harassment-abuse unresolved
+  tags: elections corruption crime sexual-harassment-abuse unresolved
 - person: 412804
   name: Ocasio-Cortez
-  text: accepting impermissable gifts related to attendance at the Met Gala in 2021
-  allegation: For allegedly accepting impermissable gifts related to attendance at the Met Gala in 2021, the House Committee on Ethics extended the matter regarding the representative based on information transmitted to the Committee by the Office of Congressional Ethics on June 23, 2022. In 2023, the Committee [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-70).
+  allegation: accepting impermissable gifts related to attendance at the Met Gala in 2021
+  text: For allegedly accepting impermissable gifts related to attendance at the Met Gala in 2021, the House Committee on Ethics extended the matter regarding the representative based on information transmitted to the Committee by the Office of Congressional Ethics on June 23, 2022. In 2023, the Committee [published the Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-70).
   consequences:
   - date: 2022-12-07
     body: House Committee on Ethics
     action: extended the matter regarding the representative
     link: https://ethics.house.gov/press-releases/statement-acting-chairwoman-and-acting-ranking-member-committee-ethics-regarding-3
-  -date: 2023-03-02
-   body: House Committee on Ethics
-   action: published the Office of Congressional Ethics Report and Findings and the member's response
-   link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-70
+  - date: 2023-03-02
+    body: House Committee on Ethics
+    action: published the Office of Congressional Ethics Report and Findings and the member's response
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-70
   tags: ethics unresolved
 - person: 456815
   name: Kahele
