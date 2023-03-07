@@ -29,15 +29,14 @@
   name: Ocasio-Cortez
   allegation: accepting impermissable gifts related to attendance at the Met Gala
     in 2021
-  text: For allegedly accepting impermissable gifts related to attendance at the Met
-    Gala in 2021, the House Committee on Ethics extended the matter regarding the
-    representative based on information transmitted to the Committee by the Office
-    of Congressional Ethics on June 23, 2022. In 2023, the Committee [published the
-    Office of Congressional Ethics Report and Findings and the member's response](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-70).
+  text: The House Office of Congressional Ethics found "substantial reason to believe"
+    that Ocasio-Cortez accepted impermissible gifts associated with her attendance
+    at the Met Gala in 2021, which she paid for after the investigation began. The
+    matter is pending before the House Committee on Ethics.
   consequences:
-  - date: 2022-12-07
+  - date: 2022-06-23
     body: House Committee on Ethics
-    action: extended the matter regarding the representative
+    action: began an investigation
     link: https://ethics.house.gov/press-releases/statement-acting-chairwoman-and-acting-ranking-member-committee-ethics-regarding-3
   - date: 2023-03-02
     body: House Committee on Ethics
