@@ -5,14 +5,21 @@
     with the House; violating federal conflict of interest laws in connection with
     his role in a firm providing fiduciary services; and/or engaging in sexual misconduct
     towards an individual seeking employment in his congressional office.
-  text: Santos was accused of engaging in unlawful activity with respect
-    to his 2022 congressional campaign; failing to properly disclose required information
-    on statements filed with the House; violating federal conflict of interest laws
-    in connection with his role in a firm providing fiduciary services; and/or engaging
-    in sexual misconduct towards an individual seeking employment in his congressional
-    office. In February 2023, an Investigative Subcommittee was established to investigate
-    these allegations.
+  text: Santos was accused of engaging in unlawful activity with respect to his 2022
+    congressional campaign; failing to properly disclose required information on statements
+    filed with the House; violating federal conflict of interest laws in connection
+    with his role in a firm providing fiduciary services; and/or engaging in sexual
+    misconduct towards an individual seeking employment in his congressional office.
+    In February 2023, an Investigative Subcommittee was established to investigate
+    these allegations. The allegations followed reporting that Santos [fabricated
+    most of his life story](https://www.nbcnewyork.com/news/politics/list-of-george-santos-lies-all-the-mistruths-the-congressman-is-accused-of-telling/4043980/)
+    during his campaign, but the investigation is likely to focus on the potential
+    crime of [hiding the true source of his campaign funds](https://www.cnn.com/2023/01/27/politics/george-santos-campaign-finance-questions/index.html).
   consequences:
+  - date: 2023-01-13
+    text: Santos's constituents, local party leaders, and some of his Republican colleagues
+      in Congress call on Santos to resign.
+    link: https://www.washingtonpost.com/politics/2023/01/13/republicans-call-george-santos-resign/
   - date: 2023-02-28
     body: House Committee on Ethics
     action: established an Investigative Subcommittee
