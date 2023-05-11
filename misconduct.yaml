@@ -1,5 +1,15 @@
 - person: 456921
   name: Santos
+  allegation: engaging in wire fraud, money laundering, theft of public funds, and making materially false statements to the House of Representatives.
+  text: In 2023, Santos was indicted on charges of engaging in wire fraud, money laundering, theft of public funds, and making materially false statements to the House of Representatives by the Department of Justice. These charges include a scheme to fraudently induce political contributors to donate more money than was legal and then use those contributions for personal purposes. Santos was also accused of applying for and taking unemployment funds while employed in 2020. Lastly, he is accused of making false statements on his House financial disclosure forms. 
+  consequences: 
+  - date: 2023-05-10
+    body: Department of Justice
+    action: Santos indicted on charges of engaging in wire fraud, money laundering, theft of public funds, and making materially false statements to the House of Representatives
+    link: https://abcnews.go.com/US/rep-george-santos-criminally-charged-prosecutors/story?id=99227350
+  tags: corruption crime elections unresolved
+- person: 456921
+  name: Santos
   allegation: engaging in unlawful activity with respect to his 2022 congressional
     campaign; failing to properly disclose required information on statements filed
     with the House; violating federal conflict of interest laws in connection with
@@ -25,6 +35,21 @@
     action: established an Investigative Subcommittee
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-71
   tags: corruption crime elections sexual-harassment-abuse unresolved
+- person: 456833
+  name: Cawthorn
+  allegation: bringing a loaded handgun through a TSA checkpoint
+  text: In May 2023, Cawthorn pleaded guilty to bringing a loaded handgun through a TSA checkpoint in April 2022. He was fined $250 and his gun was returned to him.
+  consequences:
+  - date: 2022-04-26
+    text: Cawthorn attempted to bring a loaded handgun through a TSA checkpoint.
+    link: https://www.nytimes.com/2022/04/26/us/politics/madison-cawthorn-gun-airport.html
+  - date: 2022-05-17
+    text: Cawthorn lost his primary.
+    link: https://www.npr.org/2022/05/17/1099502290/north-carolina-11th-congressional-district-results-madison-cawthorn
+  - date: 2023-05-05
+    text: Cawthorn pleaded guilty to bringing a loaded handgun through a TSA checkpoint.
+    link: https://www.cnn.com/2023/05/05/politics/madison-cawthorn-loaded-handgun-airport/index.html
+  tags: crime resolved
 - person: 412804
   name: Ocasio-Cortez
   allegation: accepting impermissable gifts related to attendance at the Met Gala
