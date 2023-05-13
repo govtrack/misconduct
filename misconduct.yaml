@@ -5,7 +5,7 @@
   consequences: 
   - date: 2023-05-10
     body: Department of Justice
-    action: Santos indicted on charges of engaging in wire fraud, money laundering, theft of public funds, and making materially false statements to the House of Representatives
+    action: indicted Santos on charges of engaging in wire fraud, money laundering, theft of public funds, and making materially false statements to the House of Representatives
     link: https://abcnews.go.com/US/rep-george-santos-criminally-charged-prosecutors/story?id=99227350
   tags: corruption crime elections unresolved
 - person: 456921
@@ -15,17 +15,19 @@
     with the House; violating federal conflict of interest laws in connection with
     his role in a firm providing fiduciary services; and/or engaging in sexual misconduct
     towards an individual seeking employment in his congressional office.
-  text: Santos was accused of engaging in unlawful activity with respect to his 2022
+  text: Santos is under investigation by the House Committee on Ethics for allegedly engaging in unlawful activity with respect to his 2022
     congressional campaign; failing to properly disclose required information on statements
     filed with the House; violating federal conflict of interest laws in connection
     with his role in a firm providing fiduciary services; and/or engaging in sexual
     misconduct towards an individual seeking employment in his congressional office.
-    In February 2023, an Investigative Subcommittee was established to investigate
-    these allegations. The allegations followed reporting that Santos [fabricated
+    The allegations followed reporting that Santos [fabricated
     most of his life story](https://www.nbcnewyork.com/news/politics/list-of-george-santos-lies-all-the-mistruths-the-congressman-is-accused-of-telling/4043980/)
     during his campaign, but the investigation is likely to focus on the potential
     crime of [hiding the true source of his campaign funds](https://www.cnn.com/2023/01/27/politics/george-santos-campaign-finance-questions/index.html).
   consequences:
+  - date: 2022-09-01
+    text: "Local paper The North Shore Leader broke the story of Santos's \"inexplicable rise in his alleged net worth to $11 million\"."
+    link: http://web.archive.org/web/20221103221400/https://www.theleaderonline.com/single-post/santos-filings-now-claim-net-worth-of-11-million
   - date: 2023-01-13
     text: Santos's constituents, local party leaders, and some of his Republican colleagues
       in Congress call on Santos to resign.
@@ -49,6 +51,7 @@
   - date: 2023-05-05
     text: Cawthorn pleaded guilty to bringing a loaded handgun through a TSA checkpoint.
     link: https://www.cnn.com/2023/05/05/politics/madison-cawthorn-loaded-handgun-airport/index.html
+    tags: plea
   tags: crime resolved
 - person: 412804
   name: Ocasio-Cortez
@@ -96,18 +99,18 @@
   tags: ethics resolved
 - person: 400272
   name: Menendez
-  text: The Senator is under investigation for unspecified corruption by the Department
+  text: Menendez is under investigation for unspecified corruption by the Department
     of Justice.
   allegation: unspecified corruption
   consequences:
   - date: 2022-10-26
-    body: U.S. Department of Justice
+    body: Department of Justice
     action: initiated an investigation
     link: https://www.semafor.com/article/10/25/2022/senator-robert-menendez-under-investigation-again
   tags: corruption unresolved
 - person: 456815
   name: Kahele
-  text: The Representative is accused of [sponsoring bills that benefit his other
+  text: Kahele was accused of [sponsoring bills that benefit his other
     employer, Hawaii Airlines](https://www.hawaiinewsnow.com/2022/10/18/kahele-faces-house-ethics-probe-over-bills-he-co-sponsored-that-benefited-airlines/).
     In November 2022, [the Office of Congressional Ethics voted to dismiss this allegation](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_15.pdf).
   allegation: sponsoring bills that benefit his other employer, Hawaii Airlines
@@ -127,7 +130,7 @@
   tags: ethics resolved
 - person: 400251
   name: Maloney
-  text: The Representative is being investigated for allegations og soliciting and/or
+  text: Maloney was investigated for allegations of soliciting and/or
     accepting impermissible gifts with respect to the Met Gala by the House Committee
     on Ethics. Maloney lost the 2022 election and the Committee [reported that the end of the member's term ended the committee's jurisdiction](https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+34).
   allegation: soliciting and/or accepting impermissible gifts with respect to the
@@ -150,218 +153,236 @@
 - person: 412785
   name: Levin
   text: Levin was arrested at a protest in front of the U.S. Capitol building on July,
-    20 2022. The same month the Committee published a committee report declaring they
+    20 2022. The same month the Committee published a committee report indicating they
     will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt450/CRPT-117hrpt450.pdf
+    tags: fined
   tags: crime resolved
 - person: 412607
   name: Adams
   text: Adams was arrested at a protest in front of the U.S. Supreme Court building
-    on July, 19 2022. The same month the Committee published a committee report declaring
+    on July, 19 2022. The same month the Committee published a committee report indicating
     they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 456829
   name: Bush
   text: Bush was arrested at a protest in front of the U.S. Supreme Court building
-    on July, 19 2022. The same month the Committee published a committee report declaring
+    on July, 19 2022. The same month the Committee published a committee report indicating
     they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 412600
   name: Clark
   text: Clark was arrested at a protest in front of the U.S. Supreme Court building
-    on July, 19 2022. The same month the Committee published a committee report declaring
+    on July, 19 2022. The same month the Committee published a committee report indicating
     they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 412809
   name: Dean
   text: Dean was arrested at a protest in front of the U.S. Supreme Court building
-    on July, 19 2022. The same month the Committee published a committee report declaring
+    on July, 19 2022. The same month the Committee published a committee report indicating
     they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 412825
   name: Escobar
   text: Escobar was arrested at a protest in front of the U.S. Supreme Court building
-    on July, 19 2022. The same month the Committee published a committee report declaring
+    on July, 19 2022. The same month the Committee published a committee report indicating
     they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 456804
   name: Jacobs
   text: Jacobs was arrested at a protest in front of the U.S. Supreme Court building
-    on July, 19 2022. The same month the Committee published a committee report declaring
+    on July, 19 2022. The same month the Committee published a committee report indicating
     they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 400237
   name: Lee
   text: Lee was arrested at a protest in front of the U.S. Supreme Court building
-    on July, 19 2022. The same month the Committee published a committee report declaring
+    on July, 19 2022. The same month the Committee published a committee report indicating
     they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 412785
   name: Levin
   text: Levin was arrested at a protest in front of the U.S. Supreme Court building
-    on July, 19 2022. The same month the Committee published a committee report declaring
+    on July, 19 2022. The same month the Committee published a committee report indicating
     they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 400251
   name: Maloney
   text: Maloney was arrested at a protest in front of the U.S. Supreme Court building
-    on July, 19 2022. The same month the Committee published a committee report declaring
+    on July, 19 2022. The same month the Committee published a committee report indicating
     they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 412804
   name: Ocasio-Cortez
   text: Ocasio-Cortez was arrested at a protest in front of the U.S. Supreme Court
     building on July, 19 2022. The same month the Committee published a committee
-    report declaring they will pay a $50 fine.
+    report indicating they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 412791
   name: Omar
   text: Omar was arrested at a protest in front of the U.S. Supreme Court building
-    on July, 19 2022. The same month the Committee published a committee report declaring
+    on July, 19 2022. The same month the Committee published a committee report indicating
     they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 412782
   name: Pressley
   text: Pressley was arrested at a protest in front of the U.S. Supreme Court building
-    on July, 19 2022. The same month the Committee published a committee report declaring
+    on July, 19 2022. The same month the Committee published a committee report indicating
     they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 400360
   name: Schakowsky
   text: Schakowsky was arrested at a protest in front of the U.S. Supreme Court building
-    on July, 19 2022. The same month the Committee published a committee report declaring
+    on July, 19 2022. The same month the Committee published a committee report indicating
     they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 412259
   name: Speier
   text: Speier was arrested at a protest in front of the U.S. Supreme Court building
-    on July, 19 2022. The same month the Committee published a committee report declaring
+    on July, 19 2022. The same month the Committee published a committee report indicating
     they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 412787
   name: Tlaib
   text: Tlaib was arrested at a protest in front of the U.S. Supreme Court building
-    on July, 19 2022. The same month the Committee published a committee report declaring
+    on July, 19 2022. The same month the Committee published a committee report indicating
     they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 400416
   name: Velázquez
   text: Velázquez was arrested at a protest in front of the U.S. Supreme Court building
-    on July, 19 2022. The same month the Committee published a committee report declaring
+    on July, 19 2022. The same month the Committee published a committee report indicating
     they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 412644
   name: Coleman
   text: Coleman was arrested at a protest in front of the U.S. Supreme Court building
-    on July, 19 2022. The same month the Committee published a committee report declaring
+    on July, 19 2022. The same month the Committee published a committee report indicating
     they will pay a $50 fine.
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-29
     body: House Committee on Ethics
-    action: published a committee report declaring they will pay a $50 fine
+    action: published a committee report indicating they will pay a $50 fine
     link: https://www.congress.gov/117/crpt/hrpt449/CRPT-117hrpt449.pdf
+    tags: fined
   tags: crime resolved
 - person: 412379
   name: Chu
@@ -373,6 +394,7 @@
     body: House Committee on Ethics
     action: reported that she will pay a $50 fine
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_41.pdf
+    tags: fined
   tags: crime resolved
 - person: 408094
   name: Myers
@@ -437,6 +459,7 @@
       to file timely financial disclosures and charged him with repaying the difference
       on the cryptocurrency and the late filing fees.
     link: https://www.congress.gov/117/crpt/hrpt591/CRPT-117hrpt591.pdf
+    tags: confirmation
   tags: crime resolved
 - person: 456845
   name: Fallon
