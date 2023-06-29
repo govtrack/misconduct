@@ -32,7 +32,7 @@
     an individual seeking employment in his congressional office. The allegations
     followed reporting that Santos [fabricated most of his life story](https://www.nbcnewyork.com/news/politics/list-of-george-santos-lies-all-the-mistruths-the-congressman-is-accused-of-telling/4043980/)
     during his campaign, but the investigation is likely to focus on the potential
-    crime of [hiding the true source of his campaign funds](https://www.cnn.com/2023/01/27/politics/george-santos-campaign-finance-questions/index.html).
+    crime of [hiding the true source of his campaign funds](https://www.cnn.com/2023/01/27/politics/george-santos-campaign-finance-questions/index.html). On May 17, 2023, [the House referred an expulsion resolution](https://www.govtrack.us/congress/votes/118-2023/h217) to the House Committee on Ethics. On June 22, 2023, House Ethics announced that [it would continue its investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-72), even in areas that overlap with the Department of Justice's investigation. This is extremely rare as the House Committee on Ethics usually defers to Department of Justice Investigations.
   consequences:
   - date: 2022-09-01
     text: Local paper The North Shore Leader broke the story of Santos's "inexplicable
@@ -46,6 +46,14 @@
     body: House Committee on Ethics
     action: established an Investigative Subcommittee
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-71
+  - date: 2023-05-17
+    body: House of Representatives
+    action: referred a motion to expel Santos to the House Committee on Ethics
+    link: https://www.govtrack.us/congress/votes/118-2023/h217
+  - date: 2023-06-22
+    body: House Committee on Ethics
+    action: announced that they would continue overlapping with the Department of Justice Investigation
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-72
   tags: corruption crime elections sexual-harassment-abuse unresolved
 - person: 456833
   name: Cawthorn
@@ -1782,6 +1790,10 @@
     body: House Committee on Ethics
     action: reported that the end of the member's term ended the committee's jurisdiction
     link: https://www.congress.gov/116/crpt/hrpt703/CRPT-116hrpt703.pdf#page=+33
+  - date: 2023-05-02
+    body: Federal Elections Commission
+    action: fined Spano $30,000 for campaign finance violations
+    link: https://www.theledger.com/story/news/local/2023/05/02/fec-fines-former-polk-rep-ross-spano-30000-for-election-violations/70169072007/
   tags: crime elections resolved
 - person: 412437
   name: Huizenga
