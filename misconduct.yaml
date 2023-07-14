@@ -1,3 +1,13 @@
+- person: 400361
+  name: Schiff
+  allegation: bringing disrepute on the House by lying to or misleading the public
+  text: Schiff was [censured by the House of Representatives 213-209](https://www.govtrack.us/congress/votes/118-2023/h283) on June 21, 2023 for various statements and misstatements he made between 2017-2019 related to President Trump and Trump's presidential campaign. The misstatements include Schiff's reading of parts of the discredited Steele Dossier into the Congressional Record and claims of not having had contact with the whistleblower in the impeachment of Trump for withholding of aid to Ukraine in exchange for political favors. The censure resolution itself contains misstatements including denying that the 2016 Trump Campaign attempted to coordinate with Russia.
+  consequences:
+  - date: 2023-06-21
+    body: House of Representatives
+    action: censured 213-209
+    link: https://www.govtrack.us/congress/votes/118-2023/h283
+  tags: ethics censure resolved
 - person: 456921
   name: Santos
   allegation: engaging in wire fraud, money laundering, theft of public funds, and
