@@ -1,13 +1,27 @@
 - person: 412552
   name: Meadows
-  allegation: making false statements, facilitating Trump's efforts to change the PA election outcome, obstructing Congress on January 6th to prevent the counting of electoral votes, attempting to observe non-public ballot signature matching in GA, assisting Trump in making false statements to GA state elections officials, pressuring GA state election officials to work to Trump's schedule, and solicitation of the violation of oath of office of the GA Secretary of State.
-  text: In August 2023, [Fulton County DA Fani Willis indicted 19 people](https://www.nytimes.com/live/2023/08/15/us/trump-indictment-georgia), including Mark Meadows, former Congress member and Trump Chief of Staff, attempting to overturn the 2020 election results in GA and elsewhere in the US. The case is being brought under GA RICO statutes and Meadows' charges include making false statements, facilitating Trump's efforts to change the PA election outcome, obstructing Congress on January 6th to prevent the counting of electoral votes, attempting to observe non-public ballot signature matching in GA, assisting Trump in making false statements to GA state elections officials, pressuring GA state election officials to work to Trump's schedule, and solicitation of the violation of oath of office of the GA Secretary of State.
+  allegation: making false statements, facilitating Trump's efforts to change the
+    PA election outcome, obstructing Congress on January 6th to prevent the counting
+    of electoral votes, attempting to observe non-public ballot signature matching
+    in GA, assisting Trump in making false statements to GA state elections officials,
+    pressuring GA state election officials to work to Trump's schedule, and solicitation
+    of the violation of oath of office of the GA Secretary of State.
+  text: In August 2023, [Fulton County, Georgia indicted 19 people](https://www.nytimes.com/live/2023/08/15/us/trump-indictment-georgia),
+    including Mark Meadows, former Congress member and President Trump’s Chief of
+    Staff, on felony charges related to attempting to change the outcome of the 2020
+    election. Meadows' charges include making false statements, obstructing Congress
+    on January 6th to prevent the counting of electoral votes, attempting to observe
+    non-public ballot signature matching in Georgia, assisting Trump in making false
+    statements to state elections officials, pressuring state election officials to
+    work to Trump's schedule, and solicitation of the violation of oath of office
+    of the state’s Secretary of State.
   consequences:
   - date: 2023-08-14
-    body: Fulton County, GA District Attorney's Office
-    action: indicted Meadows, along with 18 others including former president Donald Trump, on a host of charges under GA RICO statutes.
+    body: Fulton County, Georgia District Attorney's Office
+    action: indicted Meadows, along with 18 others including former president Donald
+      Trump, on a host of felony charges
     link: https://www.nytimes.com/live/2023/08/15/us/trump-indictment-georgia
-  tags: elections crime unresolved
+  tags: crime elections unresolved
 - person: 400361
   name: Schiff
   allegation: bringing disrepute on the House by lying to or misleading the public
