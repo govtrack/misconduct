@@ -46,11 +46,12 @@
     making materially false statements to the House of Representatives.
   text: In 2023, Santos was indicted on charges of engaging in wire fraud, money laundering,
     theft of public funds, and making materially false statements to the House of
-    Representatives by the Department of Justice. These charges include a scheme to
-    fraudently induce political contributors to donate more money than was legal and
-    then use those contributions for personal purposes. Santos was also accused of
-    applying for and taking unemployment funds while employed in 2020. Lastly, he
-    is accused of making false statements on his House financial disclosure forms.
+    Representatives. The charges include a scheme to fraudently induce political contributors
+    to donate more money than was legal and then use those contributions for personal
+    purposes. Santos was also accused of applying for and taking unemployment funds
+    while employed in 2020. Lastly, he is accused of making false statements on his
+    House financial disclosure forms. A campaign aide was later charged with wire
+    fraud and identity theft for a scheme to raise funds for Santos.
   consequences:
   - date: 2023-05-10
     body: Department of Justice
@@ -58,6 +59,11 @@
       theft of public funds, and making materially false statements to the House of
       Representatives
     link: https://abcnews.go.com/US/rep-george-santos-criminally-charged-prosecutors/story?id=99227350
+  - date: 2023-06-16
+    body: Department of Justice
+    action: indicted campaign aide Samuel Miele on charges of wire fraud and identity
+      theft while soliciting donations for Santos
+    link: https://www.nytimes.com/2023/08/16/nyregion/sam-miele-charged-george-santos.html
   tags: corruption crime elections unresolved
 - person: 456921
   name: Santos
