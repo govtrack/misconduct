@@ -176,15 +176,19 @@
   tags: ethics resolved
 - person: 400272
   name: Menendez
-  text: Menendez is under investigation for unspecified corruption by the Department
+  text: Menendez is under investigation for [conspiracy to commit bribery, honest services fraud and extortion under the color of official right](https://www.nytimes.com/2023/09/22/nyregion/robert-menendez-indicted.html) by the Department
     of Justice.
-  allegation: unspecified corruption
+  allegation: conspiracy to commit bribery, honest services fraud and extortion under the color of official right
   consequences:
   - date: 2022-10-26
     body: Department of Justice
     action: initiated an investigation
     link: https://www.semafor.com/article/10/25/2022/senator-robert-menendez-under-investigation-again
-  tags: corruption unresolved
+  - date: 2023-09-22
+    body: Department of Justice
+    action: indicted Menendez
+    link: https://www.nytimes.com/2023/09/22/nyregion/robert-menendez-indicted.html
+  tags: corruption bribery unresolved
 - person: 456815
   name: Kahele
   text: Kahele was accused of [sponsoring bills that benefit his other employer, Hawaii
