@@ -1,4 +1,4 @@
-- person: 412552
+      - person: 412552
   name: Meadows
   allegation: making false statements, facilitating Trump's efforts to change the
     PA election outcome, obstructing Congress on January 6th to prevent the counting
@@ -42,8 +42,7 @@
   tags: ethics resolved
 - person: 456921
   name: Santos
-  allegation: engaging in wire fraud, money laundering, theft of public funds, and
-    making materially false statements to the House of Representatives.
+  allegation: engaging in wire fraud, money laundering, theft of public funds, making materially false statements to the House of Representatives, credit card fraud, identity fraud and conspiracy
   text: In 2023, Santos was indicted on charges of engaging in wire fraud, money laundering,
     theft of public funds, and making materially false statements to the House of
     Representatives. The charges include a scheme to fraudently induce political contributors
@@ -51,7 +50,7 @@
     purposes. Santos was also accused of applying for and taking unemployment funds
     while employed in 2020. Lastly, he is accused of making false statements on his
     House financial disclosure forms. A campaign aide was later charged with wire
-    fraud and identity theft for a scheme to raise funds for Santos.
+    fraud and identity theft for a scheme to raise funds for Santos and pleaded guilty. Santos's campaign treasurer was also indicted and pleaded guilty to additional charges related to the campaign. Based on information gained from the treasurer, [a superceding indictment was issued on Oct. 10, 2023](https://www.cbsnews.com/news/george-santos-charged-with-conspiracy-wire-fraud-and-more/). The new charges include identity theft, credit card fraud and conspiracy.
   consequences:
   - date: 2023-05-10
     body: Department of Justice
@@ -64,6 +63,10 @@
     action: indicted campaign aide Samuel Miele on charges of wire fraud and identity
       theft while soliciting donations for Santos
     link: https://www.nytimes.com/2023/08/16/nyregion/sam-miele-charged-george-santos.html
+  - date: 2023-10-10
+    body: Department of Justice
+    action: issued a superceding indictment including charges of credit card fraud, identity fraud and conspiracy based on information from Santos' campaign treasurer who had just pleaded guilty
+    link: https://www.cbsnews.com/news/george-santos-charged-with-conspiracy-wire-fraud-and-more/
   tags: corruption crime elections unresolved
 - person: 456921
   name: Santos
