@@ -189,9 +189,9 @@
   name: Menendez
   text: Menendez is under investigation for [conspiracy to commit bribery, honest
     services fraud and extortion under the color of official right](https://www.nytimes.com/2023/09/22/nyregion/robert-menendez-indicted.html)
-    by the Department of Justice.
-  allegation: conspiracy to commit bribery, honest services fraud and extortion under
-    the color of official right
+    by the Department of Justice (DOJ). On Oct. 12, 2023, the DOJ issued a superseding indictment adding the charge of [acting as an unregistered agent of a foreign power](https://apnews.com/article/bob-menendez-indictment-c1850764b8ce7c613fc50f0e4f495e87).
+  allegation: conspiracy to commit bribery, honest services fraud, extortion under
+    the color of official right and acting as an unregistered agent of a foreign power
   consequences:
   - date: 2022-10-26
     body: Department of Justice
@@ -201,6 +201,10 @@
     body: Department of Justice
     action: indicted Menendez
     link: https://www.nytimes.com/2023/09/22/nyregion/robert-menendez-indicted.html
+  - date: 2023-10-12
+    body: Department of Justice
+    action: issued a superseding indictment
+    link: https://apnews.com/article/bob-menendez-indictment-c1850764b8ce7c613fc50f0e4f495e87
   tags: corruption unresolved
 - person: 456815
   name: Kahele
