@@ -1,12 +1,16 @@
 - person: 456839
   name: Bowman
   allegation: false fire alarm
-  text: While trying to get to a vote on Saturday, Sept. 30, Rep. Bowman pulled a fire alarm next to a door that is unlocked during the week because he said he thought it would unlock the door. On Oct. 25, Rep. Bowman was charged with a misdemeanor and $1000 fine. He pleaded guilty on Oct. 26 and will pay the fine.
+  text: While trying to get to a vote on Saturday, Sept. 30, Rep. Bowman pulled a
+    fire alarm next to a door that is unlocked during the week because he said he
+    thought it would unlock the door. On Oct. 25, Rep. Bowman was charged with a misdemeanor
+    and $1000 fine. He pleaded guilty on Oct. 26 and will pay the fine.
   consequences:
   - date: 2023-10-26
-    body: District of Columbia Court
-    action: pleaded guilty to a misdemeanor charge of a false fire alarm and will pay $1000 fine
+    text: Bowman pleaded guilty to a misdemeanor charge of a false fire alarm and
+      will pay $1000 fine.
     link: https://www.nytimes.com/2023/10/25/us/politics/jamaal-bowman-fire-alarm.html
+    tags: plea
   tags: crime resolved
 - person: 412552
   name: Meadows
@@ -199,7 +203,9 @@
   name: Menendez
   text: Menendez is under investigation for [conspiracy to commit bribery, honest
     services fraud and extortion under the color of official right](https://www.nytimes.com/2023/09/22/nyregion/robert-menendez-indicted.html)
-    by the Department of Justice (DOJ). On Oct. 12, 2023, the DOJ issued a superseding indictment adding the charge of [acting as an unregistered agent of a foreign power](https://apnews.com/article/bob-menendez-indictment-c1850764b8ce7c613fc50f0e4f495e87).
+    by the Department of Justice (DOJ). On Oct. 12, 2023, the DOJ issued a superseding
+    indictment adding the charge of [acting as an unregistered agent of a foreign
+    power](https://apnews.com/article/bob-menendez-indictment-c1850764b8ce7c613fc50f0e4f495e87).
   allegation: conspiracy to commit bribery, honest services fraud, extortion under
     the color of official right and acting as an unregistered agent of a foreign power
   consequences:
