@@ -156,3 +156,12 @@ These additional tags may be used but don't indicate guilt:
 This project is dedicated to the public domain. Copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](http://creativecommons.org/publicdomain/zero/1.0/).
 
 All contributions to this project must be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of your copyright interest.
+
+## Local Testing
+
+Install circleci locally according to the [docs](https://circleci.com/docs/2.0/local-cli/).
+
+    brew install circleci
+    circleci config validate
+    pip install rtyaml
+    circleci local execute --job build
