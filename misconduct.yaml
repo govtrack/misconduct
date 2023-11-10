@@ -1,3 +1,27 @@
+- person: 456865
+  name: Cherfilus-McCormick
+  allegation: unknown
+  text: In Sept. 2023, the Office of Congressional Ethics recommended further review of unknown allegations by the House Committee on Ethics. In Nov. 2023, the House Committee on Ethics extended the unknown matter regarding the representative.
+  consequences:
+  - date: 2023-09-23
+    body: Office of Congressional Ethics
+    action: recommended further review by the House Committee on Ethics
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-74
+  - date: 2023-11-09
+    body: House Committee on Ethics
+    action: extended the matter regarding the representative
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-74
+  tags: unresolved
+- person: 412787
+  name: Tlaib
+  allegation: promoting false narratives regarding the October 7, 2023, Hamas attack on Israel and for calling for the destruction of the state of Israel
+  text: In Nov. 2023, Rep. Tlaib was [censured 234-188](https://www.govtrack.us/congress/votes/118-2023/h622) for promoting false narratives regarding the October 7, 2023, Hamas attack on Israel and for calling for the destruction of the state of Israel.
+  consequences:
+  - date: 2023-11-07
+    body: House of Representatives
+    action: censured 234-188
+    link: https://www.govtrack.us/congress/votes/118-2023/h622
+  tags: censure resolved
 - person: 456839
   name: Bowman
   allegation: false fire alarm
