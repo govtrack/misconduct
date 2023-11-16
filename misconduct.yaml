@@ -132,7 +132,7 @@
     its investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-72),
     even in areas that overlap with the Department of Justice's investigation. This
     is extremely rare as the House Committee on Ethics usually defers to Department
-    of Justice Investigations.
+    of Justice Investigations. In November 2023, the House Committee on Ethics [issued its report](https://ethics.house.gov/committee-reports/matter-allegations-relating-representative-george-santos-0) and finding of substantial evidence that Representative Santos violated federal criminal laws and other standards of conduct within the Committee’s jurisdiction. They did not find evidence to support the allegation that he had engaged in sexual misconduct with a staff member. Having released the Investigative Subcommittee report, the Ethics Committee has now deferred to the Department of Justice.
   consequences:
   - date: 2022-09-01
     text: Local paper The North Shore Leader broke the story of Santos's "inexplicable
@@ -160,6 +160,10 @@
     action: voted on whether to expel Santos, not reaching the two-thirds majority
       threshold
     link: https://www.govtrack.us/congress/votes/118-2023/h564
+  - date: 2023-11-16
+    body: House Committee on Ethics 
+    action: released their report and of substantial evidence that Representative Santos violated federal criminal laws and other standards of conduct within the Committee’s jurisdiction
+    link: https://ethics.house.gov/committee-reports/matter-allegations-relating-representative-george-santos-0
   tags: corruption crime elections sexual-harassment-abuse unresolved
 - person: 456833
   name: Cawthorn
