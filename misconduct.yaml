@@ -33,14 +33,17 @@
   allegation: false fire alarm
   text: While trying to get to a vote on Saturday, Sept. 30, Rep. Bowman pulled a
     fire alarm next to a door that is unlocked during the week because he said he
-    thought it would unlock the door. On Oct. 25, Rep. Bowman was charged with a misdemeanor
-    and $1000 fine. He pleaded guilty on Oct. 26 and will pay the fine.
+    thought it would unlock the door. On Oct. 25, Rep. Bowman was charged with a misdemeanor and $1000 fine. He pleaded guilty on Oct. 26 and will pay the fine. In Nov. 2023, a majority of the Ethics Committee did not agree to create an investigative subcommitee or issue a report and their work is now concluded.
   consequences:
   - date: 2023-10-26
     text: Bowman pleaded guilty to a misdemeanor charge of a false fire alarm and
       will pay $1000 fine.
     link: https://www.nytimes.com/2023/10/25/us/politics/jamaal-bowman-fire-alarm.html
     tags: plea
+  - date: 2023-11-22
+    body: Committee on Ethics
+    action: majority of the Members of the Committee did not agree to establish an investigative subcomittee or report to the House regarding Representative Bowman’s conduct
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-75
   tags: crime resolved
 - person: 412552
   name: Meadows
