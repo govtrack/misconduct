@@ -33,7 +33,10 @@
   allegation: false fire alarm
   text: While trying to get to a vote on Saturday, Sept. 30, Rep. Bowman pulled a
     fire alarm next to a door that is unlocked during the week because he said he
-    thought it would unlock the door. On Oct. 25, Rep. Bowman was charged with a misdemeanor and $1000 fine. He pleaded guilty on Oct. 26 and will pay the fine. In Nov. 2023, a majority of the Ethics Committee did not agree to create an investigative subcommitee or issue a report and their work is now concluded.
+    thought it would unlock the door. On Oct. 25, Rep. Bowman was charged with a misdemeanor
+    and $1000 fine. He pleaded guilty on Oct. 26 and will pay the fine. In Nov. 2023,
+    a majority of the Ethics Committee did not agree to create an investigative subcommitee
+    or issue a report and their work is now concluded.
   consequences:
   - date: 2023-10-26
     text: Bowman pleaded guilty to a misdemeanor charge of a false fire alarm and
@@ -42,7 +45,9 @@
     tags: plea
   - date: 2023-11-22
     body: Committee on Ethics
-    action: majority of the Members of the Committee did not agree to establish an investigative subcomittee or report to the House regarding Representative Bowman’s conduct
+    action: majority of the Members of the Committee did not agree to establish an
+      investigative subcomittee or report to the House regarding Representative Bowman’s
+      conduct
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-75
   tags: crime resolved
 - person: 412552
@@ -126,7 +131,17 @@
     with the House; violating federal conflict of interest laws in connection with
     his role in a firm providing fiduciary services; and/or engaging in sexual misconduct
     towards an individual seeking employment in his congressional office.
-  text: In November 2023, the House Committee on Ethics [found substantial evidence](https://ethics.house.gov/committee-reports/matter-allegations-relating-representative-george-santos-0) that Rep. Santos violated federal criminal laws and other standards of conduct including lying to campaign donors to get donations, creating fictitious campaign loans obscuring payments to himself, stealing campaign funds to support his personal expenses, and continuously falsifying financial disclosures over several years to hide these activities. His former campaign treasurer pleaded guilty to creating the fictitious loans earlier in the year. The Ethics Committee did not find supporting evidence that he had engaged in sexual misconduct with a staff member, which he had also been accused of. The Ethics Committee deferred to the Department of Justice and the House of Representatives as a whole for further action. The investigation began in early 2023.
+  text: In November 2023, the House Committee on Ethics [found substantial evidence](https://ethics.house.gov/committee-reports/matter-allegations-relating-representative-george-santos-0)
+    that Rep. Santos violated federal criminal laws and other standards of conduct
+    including lying to campaign donors, creating fictitious campaign loans obscuring
+    payments to himself, using campaign funds for personal expenses, and falsifying
+    financial disclosures. His campaign treasurer had previously pleaded guilty to
+    creating the fictitious loans. The Ethics Committee did not find evidence of alleged
+    sexual misconduct. It deferred to the Department of Justice and the House of Representatives
+    as a whole for further action. The investigation began in early 2023 after extensive
+    reporting that Santos [fabricated most of his life story](https://www.nbcnewyork.com/news/politics/list-of-george-santos-lies-all-the-mistruths-the-congressman-is-accused-of-telling/4043980/)
+    during his campaign as well as [demands from representatives to investigate](https://ethics.house.gov/sites/ethics.house.gov/files/documents/APPENDIX%20A_9.pdf)
+    and an [attempt to expel him](https://www.govtrack.us/congress/votes/118-2023/h217).
   consequences:
   - date: 2022-09-01
     text: Local paper The North Shore Leader broke the story of Santos's "inexplicable
@@ -155,8 +170,10 @@
       threshold
     link: https://www.govtrack.us/congress/votes/118-2023/h564
   - date: 2023-11-16
-    body: House Committee on Ethics 
-    action: released their report and of substantial evidence that Representative Santos violated federal criminal laws and other standards of conduct within the Committee’s jurisdiction
+    body: House Committee on Ethics
+    action: released their report and findings of substantial evidence that Rep. Santos
+      violated federal criminal laws and other standards of conduct within the Committee’s
+      jurisdiction
     link: https://ethics.house.gov/committee-reports/matter-allegations-relating-representative-george-santos-0
   tags: corruption crime elections sexual-harassment-abuse unresolved
 - person: 456833
