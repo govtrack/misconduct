@@ -36,7 +36,7 @@
     thought it would unlock the door. On Oct. 25, Rep. Bowman was charged with a misdemeanor
     and $1000 fine. He pleaded guilty on Oct. 26 and will pay the fine. In Nov. 2023,
     a majority of the Ethics Committee did not agree to create an investigative subcommitee
-    or issue a report and their work is now concluded.
+    or issue a report and their work is now concluded. In Dec. 2023, the House of Representatives [censured Bowman 214-91](https://www.govtrack.us/congress/votes/118-2023/h706).
   consequences:
   - date: 2023-10-26
     text: Bowman pleaded guilty to a misdemeanor charge of a false fire alarm and
@@ -49,6 +49,11 @@
       investigative subcomittee or report to the House regarding Representative Bowman’s
       conduct
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-75
+  - date: 2023-12-07
+    body: House of Representatives
+    action: censured Bowman 214-91
+    link: https://www.govtrack.us/congress/votes/118-2023/h706
+    tags: censure
   tags: crime resolved
 - person: 412552
   name: Meadows
