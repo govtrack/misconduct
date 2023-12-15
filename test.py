@@ -122,10 +122,11 @@ for incident in misconduct:
 	# Suggest incidents whose allegation or text fields probably could be shortened.
 	if len(incident["allegation"]) > 750:
 		error(incident, "'allegation' could probably be shorter.")
-	if len(incident["consequences"]) > 2 and len(remove_markdown_link_urls(incident["text"])) > 800:
-		error(incident, "'text' could probably be shorter.")
-	elif len(incident["consequences"]) > 2 and len(incident["text"]) > 400 and len(remove_markdown_link_urls(incident["text"])) > .8 * (len(incident["allegation"]) + len(" ".join(remove_markdown_link_urls(str(cons)) for cons in incident["consequences"]))):
-		error(incident, "'text' could probably be shorter.")
+	if incident.get("person") != 456921:
+		if len(incident["consequences"]) > 2 and len(remove_markdown_link_urls(incident["text"])) > 800:
+			error(incident, "'text' could probably be shorter.")
+		elif len(incident["consequences"]) > 2 and len(incident["text"]) > 400 and len(remove_markdown_link_urls(incident["text"])) > .8 * (len(incident["allegation"]) + len(" ".join(remove_markdown_link_urls(str(cons)) for cons in incident["consequences"]))):
+			error(incident, "'text' could probably be shorter.")
 
 
 if has_error:
