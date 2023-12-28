@@ -1,9 +1,9 @@
 - person: 456865
   name: Cherfilus-McCormick
-  allegation: unknown
+  allegation: violating campaign finance laws; failing to properly disclose required information on statements required to be filed with the House; and/or accepting voluntary services for official work from an individual not employed in her congressional office.
   text: In Sept. 2023, the Office of Congressional Ethics recommended further review
     of unknown allegations by the House Committee on Ethics. In Nov. 2023, the House
-    Committee on Ethics extended the unknown matter regarding the representative.
+    Committee on Ethics extended the unknown matter regarding the representative. In Dec. 2023, the House Committee on Ethics [established an Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-77) and stated the allegations of violating campaign finance laws; failing to properly disclose required information on statements required to be filed with the House; and/or accepting voluntary services for official work from an individual not employed in her congressional office.
   consequences:
   - date: 2023-09-23
     body: Office of Congressional Ethics
@@ -13,7 +13,11 @@
     body: House Committee on Ethics
     action: extended the matter regarding the representative
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-74
-  tags: unresolved
+  - date: 2023-12-27
+    body: House Committee on Ethics
+    action: established an Investigative Subcommittee
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-77
+  tags: unresolved elections
 - person: 412787
   name: Tlaib
   allegation: promoting false narratives regarding the October 7, 2023, Hamas attack
