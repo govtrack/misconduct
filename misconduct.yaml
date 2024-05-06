@@ -1,3 +1,13 @@
+- person: 400657 
+  name: Cuellar
+  allegation: accepting bribes from a Mexican bank and Azerbaijani oil company
+  text: Rep. Cuellar was indicted for allegedly accepting bribes from a Mexican bank and Azerbaijani oil company controlled by the nation's government.
+  consequences:
+  - date: 2024-05-03
+    body: Department of Justice
+    action: indicted Rep. Cuellar
+    link: https://www.nytimes.com/2024/05/03/us/politics/henry-cuellar-indictment.html
+  tags: corruption unresolved
 - person: 456865
   name: Cherfilus-McCormick
   allegation: violating campaign finance laws; failing to properly disclose required
