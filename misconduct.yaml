@@ -1,3 +1,17 @@
+- person: 456848
+  name: Nehls
+  allegation: making illegitmate campaing disbursements and expenditures and omitting required information on financial disclosure forms
+  text: 
+  consequences:
+  - date: 2023-12-11
+    body: Office of Congressional Ethics
+    action: recommended further review by the House Committee on Ethics
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-81
+  - date: 2024-05-10
+    body: House Committee on Ethics
+    action: extending the matter
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-81
+  tags: corruption unresolved
 - person: 400657 
   name: Cuellar
   allegation: accepting bribes from a Mexican bank and Azerbaijani oil company
@@ -1190,7 +1204,7 @@
     statements to federal investigators, in 2022, related to illegal campaign contributions
     from a foreign national to his 2016 re-election campaign. On March 31, 2022, he
     resigned from Congress. On April 1st, the House Committee on Ethics [closed its
-    investigation](https://ethics.house.gov/press-releases/statement-regarding-investigative-subcommittee-matter-representative-jeff-0).
+    investigation](https://ethics.house.gov/press-releases/statement-regarding-investigative-subcommittee-matter-representative-jeff-0). In December 2023, Fortenberry's conviction was overturned and in May 2024, the charges were re-issued in Washington, D.C.
   allegation: scheming to falsify and conceal material facts and making false statements
     to federal investigators
   consequences:
@@ -1223,7 +1237,15 @@
     body: House Committee on Ethics
     action: closed the investigation
     link: https://ethics.house.gov/press-releases/statement-regarding-investigative-subcommittee-matter-representative-jeff-0
-  tags: elections resolved
+  - date: 2023-12-26
+    body: U.S. Court of Appeals for the Ninth Circuit
+    action: reversed his conviction because he was not tried in the correct jurisdiction
+    link: https://apnews.com/article/jeff-fortenberry-nebraska-conviction-reversed-87ae8166a867b9f98f4c352748c6c521
+  - date: 2024-05-09
+    body: U.S. Department of Justice
+    action: re-issued charges in Washington, D.C.
+    link: https://www.politico.com/news/2024/05/09/jeff-fortenberry-criminal-charges-00157018
+  tags: elections unresolved
 - person: 412826
   name: Roy
   text: In the summer of 2021, Rep. Roy was fined for failing to wear a mask on the
