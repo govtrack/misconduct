@@ -1,21 +1,29 @@
 - person: 456848
   name: Nehls
-  allegation: making illegitmate campaing disbursements and expenditures and omitting required information on financial disclosure forms
-  text: 
+  allegation: making illegitmate campaing disbursements and expenditures and omitting
+    required information on financial disclosure forms
+  text: In late 2023, the Office of Congressional Ethics found that Rep. Nehls may
+    have made illegitmate campaing disbursements and expenditures and omitted required
+    information on financial disclosure forms. It also found that Nehls and his staff
+    and associates refused to cooperate with the investigation.
   consequences:
-  - date: 2023-12-11
+  - date: 2023-12-01
     body: Office of Congressional Ethics
-    action: recommended further review by the House Committee on Ethics
+    action: found probable cause to believe that Rep. Nehls may have converted campaign
+      committee funds to personal use and failed to disclose required nformation in
+      his annual House financial disclosure statements and recommended that the House
+      Committee on Ethics issue subpoenas.
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-81
   - date: 2024-05-10
     body: House Committee on Ethics
-    action: extending the matter
+    action: extended the matter
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-81
   tags: corruption unresolved
-- person: 400657 
+- person: 400657
   name: Cuellar
   allegation: accepting bribes from a Mexican bank and Azerbaijani oil company
-  text: Rep. Cuellar was indicted for allegedly accepting bribes from a Mexican bank and Azerbaijani oil company controlled by the nation's government.
+  text: Rep. Cuellar was indicted for allegedly accepting bribes from a Mexican bank
+    and Azerbaijani oil company controlled by the nation's government.
   consequences:
   - date: 2024-05-03
     body: Department of Justice
@@ -987,7 +995,8 @@
 - person: 412397
   name: Gosar
   text: On Nov. 7, 2021, Rep. Gosar posted on his official social media accounts a
-    video clip taken from the opening credits of an animated show called Attack on Titan. The clip was altered to add real people's faces to various characters.
+    video clip taken from the opening credits of an animated show called Attack on
+    Titan. The clip was altered to add real people's faces to various characters.
     The result was a character with his face killing one with Rep. Ocasio-Cortez's
     face and flying at one, armed with swords, with President Biden's face. On Nov.
     17, Rep. Gosar was [censured](https://www.govtrack.us/congress/bills/117/hres789/text)
@@ -1204,7 +1213,9 @@
     statements to federal investigators, in 2022, related to illegal campaign contributions
     from a foreign national to his 2016 re-election campaign. On March 31, 2022, he
     resigned from Congress. On April 1st, the House Committee on Ethics [closed its
-    investigation](https://ethics.house.gov/press-releases/statement-regarding-investigative-subcommittee-matter-representative-jeff-0). In December 2023, Fortenberry's conviction was overturned and in May 2024, the charges were re-issued in Washington, D.C.
+    investigation](https://ethics.house.gov/press-releases/statement-regarding-investigative-subcommittee-matter-representative-jeff-0).
+    In December 2023, Fortenberry's conviction was overturned and in May 2024, the
+    charges were re-issued in Washington, D.C.
   allegation: scheming to falsify and conceal material facts and making false statements
     to federal investigators
   consequences:
