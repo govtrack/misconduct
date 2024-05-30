@@ -23,12 +23,16 @@
   name: Cuellar
   allegation: accepting bribes from a Mexican bank and Azerbaijani oil company
   text: Rep. Cuellar was indicted for allegedly accepting bribes from a Mexican bank
-    and Azerbaijani oil company controlled by the nation's government.
+    and Azerbaijani oil company controlled by the nation's government. On May 29, 2024, the House Committee on Ethics [voted unanimously voted to establish an Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-henry).
   consequences:
   - date: 2024-05-03
     body: Department of Justice
     action: indicted Rep. Cuellar
     link: https://www.nytimes.com/2024/05/03/us/politics/henry-cuellar-indictment.html
+  - date: 2024-05-29
+    body: House Committee on Ethics
+    action: unanimously voted to establish an Investigative Subcommittee
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-henry
   tags: corruption unresolved
 - person: 456865
   name: Cherfilus-McCormick
