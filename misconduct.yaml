@@ -23,7 +23,9 @@
   name: Cuellar
   allegation: accepting bribes from a Mexican bank and Azerbaijani oil company
   text: Rep. Cuellar was indicted for allegedly accepting bribes from a Mexican bank
-    and Azerbaijani oil company controlled by the nation's government. On May 29, 2024, the House Committee on Ethics [voted unanimously voted to establish an Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-henry).
+    and Azerbaijani oil company controlled by the nation's government. On May 29,
+    2024, the House Committee on Ethics [voted unanimously voted to establish an Investigative
+    Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-henry).
   consequences:
   - date: 2024-05-03
     body: Department of Justice
@@ -1998,11 +2000,15 @@
 - person: 412437
   name: Huizenga
   text: In 2019, Huizenga was accused of accepting campaign contributions from staff
-    and making improper campaign expenditures. In August, the Office of Congressional
-    Ethics [recommended further review](https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-bill-huizenga)
-    by the House Committee on Ethics. In November, the House Committee on Ethics [published
-    the Office of Congressional Ethics Report](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-bill-2).
-    The House Committee on Ethics has [carried the investigation into the 118th Congress](https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+31). In 2024, the Committee [closed the matter](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_58.pdf) saying "Based on the totality of the circumstances, including the lack of any clear pattern of misspending or intentional circumvention of any standards of conduct, as well as Representative Huizenga’s consistent cooperation with this review, the significant remedial steps that his campaign has undertaken, and the widespread need for updated guidance on the personal use of campaign funds, the Committee determined that Representative Huizenga’s conduct did not merit a sanction. Accordingly, the Committee will close this matter by issuing this report, updating its guidance on personal use of campaign funds, and sending Representative Huizenga a private letter detailing its findings in his matter and conveying its expectation that he continue to employ appropriate safeguards to ensure proper spending and reporting of both official and campaign funds."
+    and making improper campaign expenditures. In August that year, the Office of
+    Congressional Ethics [recommended further review](https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-bill-huizenga)
+    by the House Committee on Ethics. In 2024, the Committee [closed the matter](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_58.pdf)
+    saying "Based on the totality of the circumstances, including the lack of any
+    clear pattern of misspending or intentional circumvention of any standards of
+    conduct, as well as Representative Huizenga’s consistent cooperation with this
+    review, the significant remedial steps that his campaign has undertaken, and the
+    widespread need for updated guidance on the personal use of campaign funds, the
+    Committee determined that Representative Huizenga’s conduct did not merit a sanction."
   allegation: accepting campaign contributions from staff and making improper campaign
     expenditures
   consequences:
@@ -2020,7 +2026,9 @@
     link: https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+31
   - date: 2024-06-05
     body: House Committee on Ethics
-    action: issued a report with no sanctions, new guidance for all members and a private letter to the member after finding that some expenditures fell into a gray area and that the member's reporting could have been better
+    action: issued a report with no sanctions, new guidance for all members and a
+      private letter to the member after finding that some expenditures fell into
+      a gray area and that the member's reporting could have been better
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_58.pdf
   tags: elections resolved
 - person: 400170
