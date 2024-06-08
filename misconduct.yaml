@@ -1,3 +1,13 @@
+- person: 412552
+  name: Meadows
+  allegation: committing nine counts of conspiracy, forgery and fraud in an effort to replace the real 2020 Arizona electors with fake ones that would vote for Trump 
+  text: In June 2024, former Trump Chief of Staff and Rep. Mark Meadows pleaded not guilty to allegations of committing nine counts of conspiracy, forgery and fraud in an effort to replace the real 2020 Arizona electors with fake ones that would vote for Trump. 
+  consequences:
+  - date: 2024-06-07
+    body: Arizona Attorney General's Office 
+    action: arraigned Meadows, along with 18 others, on nine felony charges of conspiracy, forgery and fraud in a 2020 fake electors scheme
+    link: https://www.azcentral.com/story/news/politics/elections/2024/06/07/fake-electors-mark-meadows-mike-roman-to-enter-pleas-in-court/73885309007/
+  tags: crime elections unresolved
 - person: 456848
   name: Nehls
   allegation: making illegitmate campaing disbursements and expenditures and omitting
