@@ -1,11 +1,16 @@
 - person: 412552
   name: Meadows
-  allegation: committing nine counts of conspiracy, forgery and fraud in an effort to replace the real 2020 Arizona electors with fake ones that would vote for Trump 
-  text: In June 2024, former Trump Chief of Staff and Rep. Mark Meadows pleaded not guilty to allegations of committing nine counts of conspiracy, forgery and fraud in an effort to replace the real 2020 Arizona electors with fake ones that would vote for Trump. 
+  allegation: committing nine counts of conspiracy, forgery and fraud in an effort
+    to replace the real 2020 Arizona electors with fake ones that would vote for Trump
+  text: In June 2024, former Trump Chief of Staff and Rep. Mark Meadows pleaded not
+    guilty to allegations of committing nine counts of conspiracy, forgery and fraud
+    in an effort to replace the real 2020 Arizona electors with fake ones that would
+    vote for Trump.
   consequences:
   - date: 2024-06-07
-    body: Arizona Attorney General's Office 
-    action: arraigned Meadows, along with 18 others, on nine felony charges of conspiracy, forgery and fraud in a 2020 fake electors scheme
+    body: Arizona Attorney General's Office
+    action: arraigned Meadows, along with 18 others, on nine felony charges of conspiracy,
+      forgery and fraud in a 2020 fake electors scheme
     link: https://www.azcentral.com/story/news/politics/elections/2024/06/07/fake-electors-mark-meadows-mike-roman-to-enter-pleas-in-court/73885309007/
   tags: crime elections unresolved
 - person: 456848
@@ -1694,18 +1699,18 @@
   name: Gaetz
   allegation: engaging in a sexual relationship with underage girl, using illicit
     drugs, sharing inappropriate images or videos on the House floor, misusing state
-    identification records, converting campaign funds to personal use, and/or accepting
+    identification records, converting campaign funds to personal use, and accepting
     a bribe, improper gratuity, or impermissible gift
-  text: On March 30, 2021, the New York Times reported that the Department of Justice
-    was investigating Rep. Matt Gaetz over allegedly engaging in a sexual relationship
-    with an underage girl. Over the ensuing two weeks, the allegations expanded signficantly
-    and on April 9 the House Committee on Ethics [opened an investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-22)
-    into allegations that Gaetz was engaging in a sexual relationship with underage
-    girl, using illicit drugs, sharing inappropriate images or videos on the House
-    floor, misusing state identification records, converting campaign funds to personal
-    use, and/or accepting a bribe, improper gratuity, or impermissible gift. The Committee
-    has [carried its investigation into the 118th Congress](https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+30).
-    In February 2023, [the Department of Justice announced it would not charge Gaetz](https://www.nytimes.com/2023/02/15/us/politics/matt-gaetz-sex-trafficking-justice-department.html). In May 2023, the Committee reauthorized the investigation and in June 2024 [announced that they will continue to investigate allegations of sexual misconduct, illicit drug use, accepting improper gifts, dispensing special privileges and favors to individuals with whom he had a personal relationship, and obstructing government investigations](https://ethics.house.gov/press-releases/statement-regarding-matter-representative-matt-gaetz), but also that they are dropping the allegations of sharing inappropriate images or videos on the House floor, misusing state identification records, converting campaign funds to personal use, and/or accepting a bribe or improper gratuity.
+  text: In March 2021, The New York Times reported that the Department of Justice
+    was investigating Rep. Matt Gaetz for allegedly engaging in a sexual relationship
+    with an underage girl. Over the ensuing weeks the allegations expanded, and the
+    House Committee on Ethics [opened an investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-22)
+    into it as well as allegations of using illicit drugs and accepting an impermissible
+    gift, as well as other allegations that were dropped in 2024 (see timeline). In
+    2023, [the Department of Justice announced it would not charge Gaetz](https://www.nytimes.com/2023/02/15/us/politics/matt-gaetz-sex-trafficking-justice-department.html).
+    However in June 2024 the Ethics Committee [announced that it is still investigating
+    those allegations (sexual misconduct, illicit drug use, improper gifts) as well
+    as special favors and obstructing government investigations](https://ethics.house.gov/press-releases/statement-regarding-matter-representative-matt-gaetz).
   consequences:
   - date: 2021-03-30
     text: The New York Times reported that the Department of Justice was investigating
@@ -1714,23 +1719,33 @@
     link: https://www.nytimes.com/2021/03/30/us/politics/matt-gaetz-sex-trafficking-investigation.html
   - date: 2021-04-09
     body: House Committee on Ethics
-    action: opened an investigation into Gaetz
+    action: opened an investigation into Gaetz for allegations of engaging in sexual
+      misconduct, illicit drug use, sharing inappropriate images or videos on the
+      House floor, misusing state identification records, using campaign funds for
+      personal use, and accepted a bribe, improper gratuity, or impermissible gift
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-22
   - date: 2023-01-03
     body: House Committee on Ethics
-    action: carried its investigation into the 118th Congress
+    action: carried its investigation into the 118th Congress, but reportedly having
+      deferred its investigation during the Department of Justice investigation
     link: https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+30
   - date: 2023-02-15
     body: Department of Justice
-    action: decided not to charge Gaetz
+    action: announced it would not charge Gaetz
     link: https://www.nytimes.com/2023/02/15/us/politics/matt-gaetz-sex-trafficking-justice-department.html
   - date: 2023-05
-    body: House Committee on Ethics 
+    body: House Committee on Ethics
     action: reauthorized its investigation
     link: https://ethics.house.gov/press-releases/statement-regarding-matter-representative-matt-gaetz
   - date: 2024-06-18
-    body: House Committee on Ethics 
-    action: announced that they will continue to investigate allegations of sexual misconduct, illicit drug use, accepting improper gifts, dispensing special privileges and favors to individuals with whom he had a personal relationship, and obstructing government investigations, but also that they are dropping the allegations of sharing inappropriate images or videos on the House floor, misusing state identification records, converting campaign funds to personal use, and/or accepting a bribe or improper gratuity. 
+    body: House Committee on Ethics
+    action: announced that it will continue to investigate allegations of sexual misconduct,
+      illicit drug use, accepting improper gifts, dispensing special privileges and
+      favors to individuals with whom he had a personal relationship, and obstructing
+      government investigations, while dropping the allegations of sharing inappropriate
+      images or videos on the House floor, misusing state identification records,
+      converting campaign funds to personal use, and accepting a bribe or improper
+      gratuity
     link: https://ethics.house.gov/press-releases/statement-regarding-matter-representative-matt-gaetz
   tags: corruption crime ethics sexual-harassment-abuse unresolved
 - person: 400651
@@ -2146,7 +2161,8 @@
     link: https://rollcall.com/2018/12/19/house-ethics-clears-rep-raul-grijalva-of-wrongdoing/
   - date: 2018-12-14
     body: House Committee on Ethics
-    action: reviewed further and, in agreement with the Office of Congressional Ethics, dismissed complaint
+    action: reviewed further and, in agreement with the Office of Congressional Ethics,
+      dismissed complaint
     link: https://rollcall.com/2018/12/19/house-ethics-clears-rep-raul-grijalva-of-wrongdoing/
   - date: 2019-06-17
     body: House Committee on Ethics
