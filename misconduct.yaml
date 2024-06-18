@@ -1692,6 +1692,10 @@
   tags: resolved sexual-harassment-abuse
 - person: 412690
   name: Gaetz
+  allegation: engaging in a sexual relationship with underage girl, using illicit
+    drugs, sharing inappropriate images or videos on the House floor, misusing state
+    identification records, converting campaign funds to personal use, and/or accepting
+    a bribe, improper gratuity, or impermissible gift
   text: On March 30, 2021, the New York Times reported that the Department of Justice
     was investigating Rep. Matt Gaetz over allegedly engaging in a sexual relationship
     with an underage girl. Over the ensuing two weeks, the allegations expanded signficantly
@@ -1701,11 +1705,7 @@
     floor, misusing state identification records, converting campaign funds to personal
     use, and/or accepting a bribe, improper gratuity, or impermissible gift. The Committee
     has [carried its investigation into the 118th Congress](https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+30).
-    In February 2023, [the Department of Justice announced it would not charge Gaetz](https://www.nytimes.com/2023/02/15/us/politics/matt-gaetz-sex-trafficking-justice-department.html).
-  allegation: engaging in a sexual relationship with underage girl, using illicit
-    drugs, sharing inappropriate images or videos on the House floor, misusing state
-    identification records, converting campaign funds to personal use, and/or accepting
-    a bribe, improper gratuity, or impermissible gift
+    In February 2023, [the Department of Justice announced it would not charge Gaetz](https://www.nytimes.com/2023/02/15/us/politics/matt-gaetz-sex-trafficking-justice-department.html). In May 2023, the Committee reauthorized the investigation and in June 2024 [announced that they will continue to investigate allegations of sexual misconduct, illicit drug use, accepting improper gifts, dispensing special privileges and favors to individuals with whom he had a personal relationship, and obstructing government investigations](https://ethics.house.gov/press-releases/statement-regarding-matter-representative-matt-gaetz), but also that they are dropping the allegations of sharing inappropriate images or videos on the House floor, misusing state identification records, converting campaign funds to personal use, and/or accepting a bribe or improper gratuity.
   consequences:
   - date: 2021-03-30
     text: The New York Times reported that the Department of Justice was investigating
@@ -1724,7 +1724,15 @@
     body: Department of Justice
     action: decided not to charge Gaetz
     link: https://www.nytimes.com/2023/02/15/us/politics/matt-gaetz-sex-trafficking-justice-department.html
-  tags: corruption crime elections ethics sexual-harassment-abuse unresolved
+  - date: 2023-05
+    body: House Committee on Ethics 
+    action: reauthorized its investigation
+    link: https://ethics.house.gov/press-releases/statement-regarding-matter-representative-matt-gaetz
+  - date: 2024-06-18
+    body: House Committee on Ethics 
+    action: announced that they will continue to investigate allegations of sexual misconduct, illicit drug use, accepting improper gifts, dispensing special privileges and favors to individuals with whom he had a personal relationship, and obstructing government investigations, but also that they are dropping the allegations of sharing inappropriate images or videos on the House floor, misusing state identification records, converting campaign funds to personal use, and/or accepting a bribe or improper gratuity. 
+    link: https://ethics.house.gov/press-releases/statement-regarding-matter-representative-matt-gaetz
+  tags: corruption crime ethics sexual-harassment-abuse unresolved
 - person: 400651
   name: Gohmert
   text: Rep. Gohmert [failed to complete security screening on February 4, 2021 and
