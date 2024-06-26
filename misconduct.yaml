@@ -1,3 +1,31 @@
+- person: 456946
+  name: Hunt
+  allegation: converting campaign funds to personal use
+  text: In 2024, the Office of Congressional Ethics recommended further review by the House Committee on Ethics on the allegation that Rep. Hunt had converted campaign funds to personal use by using them to pay for membership in a social club.
+  consequences:
+  - date: 2024-03-15
+    body: Office of Congressional Ethics
+    action: recommended further review by the House Committee on Ethics
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_20.pdf
+  - date: 2024-06-24
+    body: House Committee on Ethics
+    action: published the OCE report and the representative's response
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-84
+  tags: elections ethics unresolved
+- person: 456847
+  name: Jackson
+  allegation: ongoing campaign finance violations
+  text: In 2022, the House Ethics Committee announced an investigation into possible campaign finance violations because Rep. Jackson used campaign funds to pay for membership at an Amarillo social club. That investigation may be continuing. In June of 2024, the House Ethics Committee announced an apparent second separate investigation since the Office of Congressional Ethics [issued a second report recommending further review by House Ethics](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_19.pdf) in early 2024 on the same topic because Rep. Jackson has continued to use campaign funds all this time to pay the Amarillo Club. 
+  consequences:
+  - date: 2024-03-15
+    body: Office of Congressional Ethics
+    action: recommended further review by the House Committee on Ethics
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_19.pdf
+  - date: 2024-06-24
+    body: House Committee on Ethics
+    action: extended the matter regarding the representative
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-83
+  tags: elections ethics unresolved
 - person: 412552
   name: Meadows
   allegation: committing nine counts of conspiracy, forgery and fraud in an effort
@@ -64,7 +92,7 @@
     in her congressional office. In September 2023 the Office of Congressional Ethics
     recommended further review of unknown allegations by the House Committee on Ethics,
     and in December 2023 the House Committee on Ethics [established an Investigative
-    Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-77).
+    Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-77). In 2024, the Committee [expanded the jurisdiction of the Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-85) to include new allegations from a 2024 Office of Congressional Ethics report not yet made public.
   consequences:
   - date: 2023-09-23
     body: Office of Congressional Ethics
@@ -80,6 +108,10 @@
     action: established an Investigative Subcommittee and released a summary of the
       allegations
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-77
+  - date: 2024-06-25
+    body: House Committee on Ethics
+    action: expanded the jurisdiction of the Investigative Subcommittee to include new allegations from a 2024 Office of Congressional Ethics report not yet made public
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-85
   tags: elections unresolved
 - person: 412787
   name: Tlaib
@@ -9898,7 +9930,7 @@
     the House failed to expel Lyon for spitting tobacco juice at him in January and
     unsatisfied with Lyon's apology, Griswold attacked Lyon on February 15, 1798 with
     a cane while Lyon defended himself with a pair of fireplace tongs. On Feb. 23,
-    1798, the House of Representatives [failed to censure either member, 47-48](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003129))).
+    1798, the House of Representatives [failed to censure either member, 47-48](https://babel.hathitrust.org/cgi/pt?id=uc1.c121231375&seq=538).
   allegation: “disorderly behavior” when, incensed that the House failed to expel
     Lyon for spitting tobacco juice at him in January and unsatisfied with Lyon's
     apology, Griswold attacked Lyon on February 15, 1798 with a cane while Lyon defended
@@ -9906,22 +9938,22 @@
   consequences:
   - date: 1798-02-16
     text: Both members pledged to keep the peace.
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003124))
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c121231375&seq=526
   - date: 1798-02-20
     body: Committee on Privileges
     action: recommended against expulsion
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c121231375&seq=528
   - date: 1798-02-23
     body: House of Representatives
     action: failed to censure either member, 47-48
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003129))
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c121231375&seq=538
   tags: ethics resolved
 - person: 407029
   name: Lyon
-  text: Lyon faced an allegation of “disorderly behavior” when, incensed that the
-    House failed to expel Lyon for spitting tobacco juice at him in January and unsatisfied
-    with Lyon's apology, Griswold attacked Lyon on February 15, 1798 with a cane while
+  text: Lyon faced an allegation of “disorderly behavior” on February 16 1798 when Griswold, incensed that the House failed to expel Lyon for spitting tobacco juice at him in January and unsatisfied
+    with Lyon's apology, attacked Lyon on February 15, 1798 with a cane and
     Lyon defended himself with a pair of fireplace tongs. On Feb. 23, 1798, the House
-    of Representatives [failed to censure either member, 47-48](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003129))).
+    of Representatives [failed to censure either member, 47-48](https://babel.hathitrust.org/cgi/pt?id=uc1.c121231375&seq=538).
   allegation: “disorderly behavior” when, incensed that the House failed to expel
     Lyon for spitting tobacco juice at him in January and unsatisfied with Lyon's
     apology, Griswold attacked Lyon on February 15, 1798 with a cane while Lyon defended
@@ -9929,35 +9961,36 @@
   consequences:
   - date: 1798-02-16
     text: Both members pledged to keep the peace.
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003124))
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c121231375&seq=526
   - date: 1798-02-20
     body: Committee on Privileges
     action: recommended against expulsion
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c121231375&seq=528
   - date: 1798-02-23
     body: House of Representatives
     action: failed to censure either member, 47-48
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003129))
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c121231375&seq=538
   tags: ethics resolved
 - person: 407029
   name: Lyon
   text: Lyon faced an allegation of spitting tobacco juice at Griswold on January
-    30, 1798. On Feb. 2, 1798, the Committee on Privileges [recommended expulsion](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003114))).
-    On Feb. 1, 1798, he sent a [letter of apology](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003113))).
+    30, 1798. On Feb. 2, 1798, the Committee on Privileges [recommended expulsion](https://babel.hathitrust.org/cgi/pt?id=uc1.c121231375&seq=485).
+    On Feb. 1, 1798, he sent a [letter of apology](https://babel.hathitrust.org/cgi/pt?id=uc1.c121231375&seq=484).
     On Feb. 12, 1798, the House of Representatives [failed to censure him, 44-52 and
-    failed to expel him, 52-44](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003120))).
+    failed to expel him, 52-44](https://babel.hathitrust.org/cgi/pt?id=uc1.c121231375&seq=508).
   allegation: spitting tobacco juice at Griswold on January 30, 1798
   consequences:
+  - date: 1798-02-01
+    text: Letter of apology.
+    link:  https://babel.hathitrust.org/cgi/pt?id=uc1.c121231375&seq=484
   - date: 1798-02-02
     body: Committee on Privileges
     action: recommended expulsion
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003114))
-  - date: 1798-02-01
-    text: Letter of apology.
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003113))
-  - date: 1798-02-12
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c121231375&seq=485
+ - date: 1798-02-12
     body: House of Representatives
     action: failed to censure him, 44-52 and failed to expel him, 52-44
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj003120))
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c121231375&seq=508
   tags: ethics resolved
 - person: 407176
   name: Marshall
