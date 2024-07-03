@@ -1,3 +1,13 @@
+- person: 456822
+  name: Spartz
+  allegation: weapons violation
+  text: Rep. Spartz was charged with a [misdemeanor weapons violation at Dulles Airport](https://apnews.com/article/indiana-congresswoman-victoria-spartz-airport-firearm-charged-c0684e073b347f8ee5499c12675dc292) on June 28 when an unloaded handgun was found in her carry on luggage during security screening. 
+  consequences:
+  - date: 2024-06-28
+    body: Metropolitan Washington Airports Authority
+    action: charged with a Class 1 misdemeanor under Virginia law
+    link: https://apnews.com/article/indiana-congresswoman-victoria-spartz-airport-firearm-charged-c0684e073b347f8ee5499c12675dc292
+  tags: crimes unresolved
 - person: 456946
   name: Hunt
   allegation: converting campaign funds to personal use
