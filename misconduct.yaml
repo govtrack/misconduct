@@ -374,11 +374,7 @@
   tags: ethics resolved
 - person: 400272
   name: Menendez
-  text: Menendez is under investigation for [conspiracy to commit bribery, honest
-    services fraud and extortion under the color of official right](https://www.nytimes.com/2023/09/22/nyregion/robert-menendez-indicted.html)
-    by the Department of Justice (DOJ). On Oct. 12, 2023, the DOJ issued a superseding
-    indictment adding the charge of [acting as an unregistered agent of a foreign
-    power](https://apnews.com/article/bob-menendez-indictment-c1850764b8ce7c613fc50f0e4f495e87).
+  text: Menendez was [convicted on all charges of bribery and fraud](https://apnews.com/article/menendez-bribery-trial-jury-deliberations-bab89b99a77fc6ce95531c88ab26cc4d) on July 16, 2024. On July 22, 2024, the Senate Ethics Committee announced that they were ["initiating an adjudicatory review"](https://www.ethics.senate.gov/public/_cache/files/681eeb47-0917-4447-a661-d0c336000aad/select-committee-on-ethics---press-release-july-22-2024.pdf) as a prelude to a recommendation for and vote on a disciplinary measure such as censure or expulsion.
   allegation: conspiracy to commit bribery, honest services fraud, extortion under
     the color of official right and acting as an unregistered agent of a foreign power
   consequences:
@@ -394,7 +390,14 @@
     body: Department of Justice
     action: issued a superseding indictment
     link: https://apnews.com/article/bob-menendez-indictment-c1850764b8ce7c613fc50f0e4f495e87
-  tags: corruption unresolved
+  - date: 2024-07-16
+    text: Menendez convicted on all charges.
+    link: https://apnews.com/article/menendez-bribery-trial-jury-deliberations-bab89b99a77fc6ce95531c88ab26cc4d
+  - date: 2024-07-22
+    body: Senate Select Committee on Ethics
+    action: initiated an adjudicatory review as a prelude to a recommendation for and vote on a disciplinary measure such as censure or expulsion
+    link: https://www.ethics.senate.gov/public/_cache/files/681eeb47-0917-4447-a661-d0c336000aad/select-committee-on-ethics---press-release-july-22-2024.pdf
+  tags: corruption convicted unresolved
 - person: 456815
   name: Kahele
   text: Kahele was accused of [sponsoring bills that benefit his other employer, Hawaii
