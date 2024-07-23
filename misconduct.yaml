@@ -375,10 +375,10 @@
 - person: 400272
   name: Menendez
   text: Menendez was [convicted on all charges of bribery and fraud](https://apnews.com/article/menendez-bribery-trial-jury-deliberations-bab89b99a77fc6ce95531c88ab26cc4d)
-    on July 16, 2024. On July 22, 2024, the Senate Ethics Committee announced that
+    on July 16, 2024. Menendez had accepted cash, gold bars and a Mercedes car as gifts in exchange for various official acts, some on behalf of foreign governments. On July 22, 2024, the Senate Ethics Committee announced that
     they were ["initiating an adjudicatory review"](https://www.ethics.senate.gov/public/_cache/files/681eeb47-0917-4447-a661-d0c336000aad/select-committee-on-ethics---press-release-july-22-2024.pdf)
     as a prelude to a recommendation for and vote on a disciplinary measure such as
-    censure or expulsion.
+    censure or expulsion. On July 23, 2024, Menendez announced he would resign his Senate seat on August 20, 2024.
   allegation: conspiracy to commit bribery, honest services fraud, extortion under
     the color of official right and acting as an unregistered agent of a foreign power
   consequences:
@@ -388,11 +388,11 @@
     link: https://www.semafor.com/article/10/25/2022/senator-robert-menendez-under-investigation-again
   - date: 2023-09-22
     body: Department of Justice
-    action: indicted Menendez
+    action: indicted Menendez for bribery and corruption
     link: https://www.nytimes.com/2023/09/22/nyregion/robert-menendez-indicted.html
   - date: 2023-10-12
     body: Department of Justice
-    action: issued a superseding indictment
+    action: issued a superseding indictment adding that Menendez acted as an unregistered agent of a foreign power
     link: https://apnews.com/article/bob-menendez-indictment-c1850764b8ce7c613fc50f0e4f495e87
   - date: 2024-07-16
     text: Menendez was convicted on all charges.
@@ -403,6 +403,9 @@
     action: initiated an adjudicatory review as a prelude to a recommendation for
       and vote on a disciplinary measure such as censure or expulsion
     link: https://www.ethics.senate.gov/public/_cache/files/681eeb47-0917-4447-a661-d0c336000aad/select-committee-on-ethics---press-release-july-22-2024.pdf
+  - date: 2024-07-23
+    text: Menendez announced he would resign his Senate seat on August 20, 2024.
+    link: https://www.washingtonpost.com/politics/2024/07/23/senator-bob-menendez-resigns-senate/
   tags: corruption unresolved
 - person: 456815
   name: Kahele
@@ -2738,13 +2741,13 @@
   tags: resolved sexual-harassment-abuse
 - person: 400272
   name: Menendez
-  text: Menendez was investigated for unspecified misconduct in 2012. The Senate investigation
+  text: Menendez was investigated for accepting gifts in the form of campaign donations and lavish trips in exchange for official action and failing to disclose those gifts. The Senate investigation
     was halted during his investigation and trial for corruption and bribery which
     resulted in a mistrial. In April 2018, the Senate Select Committee on Ethics [admonished
     Senator Menendez](https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=49C12C75-7A26-4FE6-B070-19FCEF4D7532)
     for violating Senate rules and ordered him to repay any remaining outstanding
     value of impermissable gifts.
-  allegation: corruption and bribery
+  allegation: accepting gifts in exchange for official action and failing to disclose those gifts
   consequences:
   - date: 2017-11-16
     body: Senate Select Committee on Ethics
