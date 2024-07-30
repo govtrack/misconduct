@@ -9399,18 +9399,18 @@
 - person: 403762
   name: Edwards
   text: Edwards faced an allegation of accepting money for supporting legislation.
-    On Feb. 19, 1857, a [special committee recommended expulsion in the majority report](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05363))).
+    On Feb. 19, 1857, a [special committee recommended expulsion in the majority report](https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=848).
     On Feb. 28, 1857, the House of Representatives [expulsion resolution was tabled
-    after his resignation](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))).
+    after his resignation](https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=849).
   allegation: accepting money for supporting legislation
   consequences:
   - date: 1857-02-19
     text: Special committee recommended expulsion in the majority report.
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05363))
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=848
   - date: 1857-02-28
     body: House of Representatives
     action: expulsion resolution was tabled after his resignation
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=849
     tags: resignation
   tags: corruption resolved
 - person: 407269
@@ -9418,9 +9418,9 @@
   text: Matteson faced an allegation of “defam[ing] character of House” by accepting
     money in exchange for supporting the Minnesota land bill. On Feb. 19, 1857, a
     [special committee recommended expulsion in the majority report, but the minority
-    report found committee lacked jurisdiction](https://digital.library.unt.edu/ark:/67531/metadc30796/m1/280/?q=expulsion).
+    report found committee lacked jurisdiction](https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=848).
     On Feb. 27, 1857, the House of Representatives [censured him, 145-17 while the
-    expulsion resolution was tabled](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))).
+    expulsion resolution was tabled](https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=850).
     On Feb. 27, 1857, he resigned prior to House action; reelected later in 1857.
   allegation: “defam[ing] character of House” by accepting money in exchange for supporting
     the Minnesota land bill
@@ -9428,11 +9428,11 @@
   - date: 1857-02-19
     text: Special committee recommended expulsion in the majority report, but the
       minority report found committee lacked jurisdiction.
-    link: https://digital.library.unt.edu/ark:/67531/metadc30796/m1/280/?q=expulsion
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=848
   - date: 1857-02-27
     body: House of Representatives
     action: censured him, 145-17 while the expulsion resolution was tabled
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=850
     tags: censure
   - date: 1857-02-27
     text: Resigned prior to House action; reelected later in 1857.
@@ -9442,52 +9442,52 @@
   name: Gilbert
   text: Gilbert faced an allegation of accepting money for supporting the Minnesota
     land bill. On Feb. 19, 1857, a [special committee recommended expulsion in the
-    majority report](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05363))).
+    majority report](https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=848).
     On Feb. 28, 1857, in the House of Representatives the [expulsion resolution was
-    tabled after his resignation](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))).
+    tabled after his resignation](https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=849).
   allegation: accepting money for supporting the Minnesota land bill
   consequences:
   - date: 1857-02-19
     text: Special committee recommended expulsion in the majority report.
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05363))
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=848
   - date: 1857-02-28
     body: House of Representatives
     action: expulsion resolution was tabled after his resignation
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=849
     tags: resignation
   tags: corruption resolved
 - person: 411434
   name: Welch
   text: Welch faced an allegation of accepting money for supporting the Minnesota
     land bill. On Feb. 19, 1857, a [special committee recommended expulsion in the
-    majority report](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05363))).
+    majority report](https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=848).
     On Feb. 28, 1857, the House of Representatives [found insufficient evidence to
-    expel him, 119-42](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))).
+    expel him, 119-42](https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=849).
   allegation: accepting money for supporting the Minnesota land bill
   consequences:
   - date: 1857-02-19
     text: Special committee recommended expulsion in the majority report.
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05363))
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=848
   - date: 1857-02-28
     body: House of Representatives
     action: found insufficient evidence to expel, 119-42
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05370))
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=849
   tags: corruption resolved
 - person: 406224
   name: Keitt
   text: Keitt faced an allegation of complicity in the assault on Sumner. On Jun.
-    2, 1856, a [select committee recommended censure in a majority report](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05222))).
-    On Jul. 15, 1856, the House of Representatives [censured him,  106-96](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05255))).
+    2, 1856, a [select committee recommended censure in a majority report](https://babel.hathitrust.org/cgi/pt?id=njp.32101074835990&seq=1108).
+    On Jul. 15, 1856, the House of Representatives [censured him,  106-96](https://babel.hathitrust.org/cgi/pt?id=njp.32101074835990&seq=1110).
     On Jul. 16, 1856, he resigned after the vote. On Aug. 6, 1856, he was reelected.
   allegation: complicity in the assault on Sumner
   consequences:
   - date: 1856-06-02
     text: Select committee recommended censure in a majority report.
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05222))
+    link: https://babel.hathitrust.org/cgi/pt?id=njp.32101074835990&seq=1108
   - date: 1856-07-15
     body: House of Representatives
     action: censured 106-96
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05255))
+    link: https://babel.hathitrust.org/cgi/pt?id=njp.32101074835990&seq=1110
     tags: censure
   - date: 1856-07-16
     text: Resigned after the vote.
@@ -9498,24 +9498,24 @@
 - person: 403753
   name: Edmundson
   text: Edmundson faced an allegation of complicity in assault on Sumner. On Jun.
-    2, 1856, a [select committee recommended censure in a majority report](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05222))).
-    On Jul. 15, 1856, the House of Representatives [censure resolution failed, 60-136](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05255))).
+    2, 1856, a [select committee recommended censure in a majority report](https://babel.hathitrust.org/cgi/pt?id=njp.32101074835990&seq=1108).
+    On Jul. 15, 1856, the House of Representatives [censure resolution failed, 60-136](https://babel.hathitrust.org/cgi/pt?id=njp.32101074835990&seq=1110).
   allegation: complicity in the assault on Sumner
   consequences:
   - date: 1856-06-02
     text: Select committee recommended censure in a majority report.
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05222))
+    link: https://babel.hathitrust.org/cgi/pt?id=njp.32101074835990&seq=1108
   - date: 1856-07-15
     body: House of Representatives
     action: censure resolution failed, 60-136
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05255))
+    link: https://babel.hathitrust.org/cgi/pt?id=njp.32101074835990&seq=1110
   tags: crime resolved
 - person: 401842
   name: Brooks
   text: Brooks faced an allegation of assaulting Sen. Sumner on the Senate floor after
     the Senate had adjourned for the day. On Jun. 2, 1856, a [select committee recommended
-    expulsion](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05222))).
-    On Jul. 14, 1856, the House of Representatives [failed to expel him, 121-95](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05254))).
+    expulsion](https://babel.hathitrust.org/cgi/pt?id=njp.32101074835990&seq=1108).
+    On Jul. 14, 1856, the House of Representatives [failed to expel him, 121-95](https://babel.hathitrust.org/cgi/pt?id=njp.32101074835990&seq=1110).
     On Jul. 15, 1856, he [resigned after the expulsion vote](http://history.house.gov/People/Listing/B/BROOKS,-Preston-Smith-(B000885)/).
     On Aug. 1, 1856, he was [re-elected to fill the vacancy he created](http://history.house.gov/People/Listing/B/BROOKS,-Preston-Smith-(B000885)/).
   allegation: assaulting Sen. Sumner on the Senate floor after the Senate had adjourned
@@ -9523,11 +9523,11 @@
   consequences:
   - date: 1856-06-02
     text: Select committee recommended expulsion.
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05222))
+    link: https://babel.hathitrust.org/cgi/pt?id=njp.32101074835990&seq=1108
   - date: 1856-07-14
     body: House of Representatives
     action: failed to expel, 121-95
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05254))
+    link: https://babel.hathitrust.org/cgi/pt?id=njp.32101074835990&seq=1110
   - date: 1856-07-15
     text: Resigned after the expulsion vote.
     link: http://history.house.gov/People/Listing/B/BROOKS,-Preston-Smith-(B000885)/
@@ -9541,7 +9541,7 @@
   text: Herbert faced an allegation of fatally shooting a hotel waiter who refused
     him after-hours breakfast service for which he was arrested on May 8, 1856 and
     imprisoned prior to trial. On May. 15, 1856, the House of Representatives [tabled
-    the resolution to refer the case to Judiciary Committee, 79-70](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05211))).
+    the resolution to refer the case to Judiciary Committee, 79-70](https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=852).
     In Jan. 1856, he was [acquitted](https://www.washingtonpost.com/news/retropolis/wp/2018/06/23/a-hungry-congressman-didnt-get-the-breakfast-he-ordered-so-he-shot-the-waiter/)
     despite ample evidence that he did indeed murder the waiter.
   allegation: fatally shooting a hotel waiter who refused him after-hours breakfast
@@ -9550,7 +9550,7 @@
   - date: 1856-05-15
     body: House of Representatives
     action: tabled the resolution to refer the case to Judiciary Committee, 79-70
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj05211))
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=852
   - date: 1856-07
     text: Acquitted despite ample evidence that he did indeed murder the waiter.
     link: https://www.washingtonpost.com/news/retropolis/wp/2018/06/23/a-hungry-congressman-didnt-get-the-breakfast-he-ordered-so-he-shot-the-waiter/
@@ -9672,7 +9672,7 @@
   text: Giddings faced an allegation of violating House "gag rule" on slavery discussions
     by introducing a series of resolutions defending a slave rebellion aboard the
     Creole, a ship that had sailed from Virginia carrying 135 persons to be sold in
-    New Orleans. On Mar. 22, 1842, the House of Representatives [censured him, 125-69](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj03788))).
+    New Orleans. On Mar. 22, 1842, the House of Representatives [censured him, 125-69](https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=822).
     On Mar. 22, 1842, he [resigned](http://history.house.gov/HistoricalHighlight/Detail/36674?ret=True).
     On May. 5, 1842, he was [re-elected to fill the vacancy caused by his own resignation](http://history.house.gov/HistoricalHighlight/Detail/36674?ret=True).
   allegation: violating House "gag rule" on slavery discussions by introducing a series
@@ -9682,7 +9682,7 @@
   - date: 1842-03-22
     body: House of Representatives
     action: censured, 125-69
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj03788))
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=822
     tags: censure
   - date: 1842-03-22
     text: Resigned.
@@ -9697,7 +9697,7 @@
   text: Adams faced an allegation of breaching of privileges of the House by presenting
     a petition to the House from his constituents regarding dissolution of the Union
     on January 24, 1842. On Feb. 7, 1842, the House of Representatives [tabled the
-    censure resolution, 106-93](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj03751))).
+    censure resolution, 106-93](https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=821).
   allegation: breaching of privileges of the House by presenting a petition to the
     House from his constituents regarding dissolution of the Union on January 24,
     1842
@@ -9705,7 +9705,7 @@
   - date: 1842-02-07
     body: House of Representatives
     action: tabled the censure resolution, 106-93
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj03751))
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=821
   tags: ethics resolved
 - person: 403637
   name: Duncan
@@ -9743,7 +9743,7 @@
     on February 24, 1838 he killed Jonathan Cilley in a duel over words spoken in
     debate while Wise acted as a second. On Apr. 21, 1838, the Select Committee of
     Investigation recommended expulsion for Graves and censure for Wise. On May. 10,
-    1838, the House of Representatives [tabled the expulsion resolution ](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj032126))).
+    1838, the House of Representatives [tabled the expulsion resolution](https://babel.hathitrust.org/cgi/pt?id=njp.32101074835990&seq=1135).
   allegation: breach of the privileges of the House because on February 24, 1838 Graves
     killed Jonathan Cilley in a duel over words spoken in debate while Wise acted
     as a second
@@ -9754,7 +9754,7 @@
   - date: 1838-05-10
     body: House of Representatives
     action: tabled the expulsion resolution
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj032126))
+    link: https://babel.hathitrust.org/cgi/pt?id=njp.32101074835990&seq=1135
   tags: crime resolved
 - person: 411803
   name: Wise
@@ -9762,7 +9762,7 @@
     Wise acted as a second on February 24, 1838 when Rep. Graves killed Rep. Cilley
     in a duel over words spoken in debate. On Apr. 21, 1838, the Select Committee
     of Investigation recommended expulsion for Graves and censure for Wise. On May.
-    10, 1838, the House of Representatives [tabled the censure resolution](https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj032126))).
+    10, 1838, the House of Representatives [tabled the censure resolution](https://babel.hathitrust.org/cgi/pt?id=njp.32101074835990&seq=1135).
   allegation: breach of the privileges of the House because Wise acted as a second
     on February 24, 1838 when Rep. Graves killed Rep. Cilley in a duel over words
     spoken in debate
@@ -9773,7 +9773,7 @@
   - date: 1838-05-10
     body: House of Representatives
     action: tabled the censure resolution
-    link: https://memory.loc.gov/cgi-bin/query/r?ammem/hlaw:@field(DOCID+@lit(hj032126))
+    link: https://babel.hathitrust.org/cgi/pt?id=njp.32101074835990&seq=1135
   tags: crime resolved
 - person: 400702
   name: Adams
@@ -9782,7 +9782,7 @@
     a petition to the House purported to be from slaves. Adams knew a censure resolution
     would require debate for a vote and thus would provide a way around the gag rule.
     On Feb. 9, 1837, the House of Representatives [withdrew the censure resolution,
-    21-137](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    21-137](https://digital.library.unt.edu/ark:/67531/metadc29272/m1/186/?q=john%20quincy%20adams%201837).
   allegation: gross disrespect on February 6, 1837 because Adams violated the House
     "gag rule" on slavery discussions by requesting to present a petition to the House
     purported to be from slaves. Adams knew a censure resolution would require debate
@@ -9791,7 +9791,7 @@
   - date: 1837-02-09
     body: House of Representatives
     action: withdrew the censure resolution, 21-137
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://digital.library.unt.edu/ark:/67531/metadc29272/m1/186/?q=john%20quincy%20adams%201837
   tags: ethics resolved
 - person: 411692
   name: Williams
