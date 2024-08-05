@@ -23,7 +23,7 @@ def error(*args):
 	print(file=sys.stderr)
 
 def remove_markdown_link_urls(s):
-	return re.sub("\(http.*?\)", "", s)
+	return re.sub(r"\(http.*?\)", "", s)
 
 try:
 	misconduct = rtyaml.load(open("misconduct.yaml"))
