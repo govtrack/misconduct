@@ -1,3 +1,13 @@
+- person: 456939
+  name: Ogles
+  allegation: falsifying campaign finance reports
+  text: In 2024, Rep. Ogles was accused of falsifying campaign finance reports when his amended finance reports were compared to the originals. He claimed he had loaned his campaign $320,000 in 2022 and had not. It's unclear whether the the money came from elsewhere or was entirely made up. He also amended finance reports to remove both contributions and expenditures. There is no indication of a House Ethics Committee investigation even though this would also be a violation of House rules in addition to a possible crime. In the first week of August, 2024, a Department of Justice search was conducted and his cell phone seized.
+  consequences:
+  - date: 2024-08
+    body: FEderal Bureau of Investigation
+    action: executed a search warrant and seized Rep. Ogles' phone
+    link: https://www.newschannel5.com/news/newschannel-5-investigates/revealed/fbi-agents-execute-search-warrant-on-tennessee-congressman-andy-ogles-newschannel-5-confirms
+  tags: crime elections unresolved
 - person: 456822
   name: Spartz
   allegation: weapons violation
@@ -8322,12 +8332,12 @@
 - person: 409263
   name: Roach
   text: Roach faced an allegation of embezzlement. In 1893, he [was not expelled because
-    the embezzlement had occured 13 years earlier](https://www.senate.gov/artandhistory/history/common/briefing/Expulsion_Censure.htm).
+    the embezzlement had occured 13 years earlier](https://www.senate.gov/about/powers-procedures/expulsion.htm).
   allegation: embezzlement
   consequences:
   - date: 1893
     text: Was not expelled because the embezzlement had occured 13 years earlier.
-    link: https://www.senate.gov/artandhistory/history/common/briefing/Expulsion_Censure.htm
+    link: https://www.senate.gov/about/powers-procedures/expulsion.htm
   tags: crime resolved
 - person: 402146
   name: Bynum
@@ -8380,14 +8390,14 @@
   text: Kellogg faced an allegation of corruption for conduct that occurred prior
     to election to the House. On May. 23, 1884, [Kellogg asked the Department of Justice  to
     investigate and the resolution was referred to the Judiciary committee, 82-49;
-    but no report appears to have been made](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    but no report appears to have been made](https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=871).
   allegation: corruption for conduct that occurred prior to election to the House
   consequences:
   - date: 1884-05-23
     text: Kellogg asked the Department of Justice  to investigate and the resolution
       was referred to the Judiciary committee, 82-49; but no report appears to have
       been made.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=871
   tags: corruption resolved
 - person: 411105
   name: Voorhis
@@ -8503,13 +8513,14 @@
 - person: 401495
   name: Blaine
   text: Blaine faced an allegation of selling worthless bonds to Union Pacific Railroad
-    for $64,000. On Jun. 6, 1876, the House Committee on the Judiciary ordered a report.
+    for $64,000. On Jun. 6, 1876, the [House Committee on the Judiciary ordered a report](https://www.govinfo.gov/content/pkg/SERIALSET-01706_00_00-003-0176-0000/pdf/SERIALSET-01706_00_00-003-0176-0000.pdf).
     On Jul. 10, 1876, he [resigned](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   allegation: selling worthless bonds to Union Pacific Railroad for $64,000
   consequences:
   - date: 1876-06-06
     body: House Committee on the Judiciary
     action: ordered a report
+    link: https://www.govinfo.gov/content/pkg/SERIALSET-01706_00_00-003-0176-0000/pdf/SERIALSET-01706_00_00-003-0176-0000.pdf
   - date: 1876-07-10
     text: Resigned.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
@@ -8522,7 +8533,7 @@
     residency of the nominee. On Jul. 19, 1876, the committee recommended 4-2 that
     the House take no further action but concluded Hays' actions “excites grave suspicions,
     and shows in any possible view a carelessness which ought not to be tolerated”.
-    On Aug. 6, 1876, the [report of the Judiciary Committee was tabled](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    On Aug. 6, 1876, the [report of the Judiciary Committee was tabled](https://www.govinfo.gov/content/pkg/SERIALSET-01713_00_00-009-0792-0000/pdf/SERIALSET-01713_00_00-009-0792-0000.pdf).
   allegation: accepting money to nominate an individual not from his district to military
     academy and making false certification regarding residency of the nominee
   consequences:
@@ -8532,7 +8543,7 @@
       which ought not to be tolerated”.
   - date: 1876-08-06
     text: Report of the Judiciary Committee was tabled.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://www.govinfo.gov/content/pkg/SERIALSET-01713_00_00-009-0792-0000/pdf/SERIALSET-01713_00_00-009-0792-0000.pdf
   tags: corruption resolved
 - person: 406378
   name: King
