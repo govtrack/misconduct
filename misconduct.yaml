@@ -261,7 +261,7 @@
     began in early 2023 after extensive reporting that Santos [fabricated most of
     his life story](https://www.nbcnewyork.com/news/politics/list-of-george-santos-lies-all-the-mistruths-the-congressman-is-accused-of-telling/4043980/)
     during his campaign as well as [demands from representatives to investigate](https://ethics.house.gov/sites/ethics.house.gov/files/documents/APPENDIX%20A_9.pdf)
-    and an [attempt to expel him](https://www.govtrack.us/congress/votes/118-2023/h217).
+    and an [attempt to expel him](https://www.govtrack.us/congress/votes/118-2023/h217). On August 19, 2024, [Santos pleaded guilty](https://apnews.com/article/george-santos-plea-court-new-york-90741d068fd94090419fc0fd79be30cc) to wire fraud and identity theft.
   consequences:
   - date: 2022-09-01
     text: Local paper The North Shore Leader broke the story of Santos's "inexplicable
@@ -317,7 +317,11 @@
     action: expelled Santos 311-114
     link: https://www.govtrack.us/congress/votes/118-2023/h691
     tags: expulsion
-  tags: corruption crime elections sexual-harassment-abuse unresolved
+  - date: 2024-08-19
+    text: pleaded guilty to wire fraud and identity theft.
+    link: https://apnews.com/article/george-santos-plea-court-new-york-90741d068fd94090419fc0fd79be30cc
+    tags: plea
+  tags: corruption crime elections sexual-harassment-abuse resolved
 - person: 456833
   name: Cawthorn
   allegation: bringing a loaded handgun through a TSA checkpoint
