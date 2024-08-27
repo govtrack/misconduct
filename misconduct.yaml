@@ -4,7 +4,7 @@
   text: In 2024, Rep. Ogles was accused of falsifying campaign finance reports when his amended finance reports were compared to the originals. He claimed he had loaned his campaign $320,000 in 2022 and had not. It's unclear whether the the money came from elsewhere or was entirely made up. He also amended finance reports to remove both contributions and expenditures. There is no indication of a House Ethics Committee investigation even though this would also be a violation of House rules in addition to a possible crime. In the first week of August, 2024, a Department of Justice search was conducted and his cell phone seized.
   consequences:
   - date: 2024-08
-    body: FEderal Bureau of Investigation
+    body: Federal Bureau of Investigation
     action: executed a search warrant and seized Rep. Ogles' phone
     link: https://www.newschannel5.com/news/newschannel-5-investigates/revealed/fbi-agents-execute-search-warrant-on-tennessee-congressman-andy-ogles-newschannel-5-confirms
   tags: crime elections unresolved
@@ -6513,7 +6513,7 @@
     Conduct deferred at DOJ request. On Sep. 23, 1987, [Boner was elected mayor of
     Nashville](http://www.nytimes.com/1987/09/23/us/congressman-elected-mayor.html).
     On Oct. 5, 1987, he resigned from Congress. On Dec. 14, 1987, the House Committee
-    on Standards of Official Conduct [staff report was published](https://ethics.house.gov/committee-report/staff-report-matter-representative-william-h-boner).
+    on Standards of Official Conduct [staff report was published](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   allegation: violations of the gift rule, improper use of campaign funds, conflict
     of interest, and improper use of official resources
   consequences:
@@ -6532,7 +6532,7 @@
   - date: 1987-12-14
     body: House Committee on Standards of Official Conduct
     action: staff report published
-    link: https://ethics.house.gov/committee-report/staff-report-matter-representative-william-h-boner
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   tags: crime elections ethics resolved
 - person: 410251
   name: Stallings
@@ -6618,7 +6618,7 @@
   - date: 1986-02-05
     body: House Committee on Standards of Official Conduct
     action: Daniel made restitution and amended the financial disclosure statement
-    link: https://ethics.house.gov/committee-report/investigation-travel-corporate-aircraft-taken-representative-dan-daniel
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   tags: ethics resolved
 - person: 404046
   name: Ferraro
@@ -6633,7 +6633,7 @@
     action: complaint filed by outside organization (Aug. 7, 1984); preliminary inquiry
       voted (Sept. 12, 1984); found technical violations; no sanction recommended,
       12-2 (Dec. 3, 1984); filed its report (Dec. 4, 1984)
-    link: https://ethics.house.gov/committee-report/matter-representative-geraldine-ferraro
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   tags: ethics resolved
 - person: 405053
   name: Hansen
@@ -6642,14 +6642,14 @@
     and profits from 1978-81. On Jun. 20, 1984, the committee recommended reprimand,
     11-1. On Jul. 31, 1984, the House of Representatives [reprimanded Hansen, 354-52](https://www.govtrack.us/congress/votes/98-1984/h793).
     On Nov. 6, 1984, Hansen was [defeated in the election by Richard Stallings](http://www.nytimes.com/1984/11/09/us/justice-dept-rebuts-rep-hansen-of-idaho.html).
-    In 1985, the [conviction was vacated, U.S. v. Hansen, 906 F. Supp. 688 (1995)](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    In 1985, the [conviction was vacated, U.S. v. Hansen, 906 F. Supp. 688 (1995)](https://law.justia.com/cases/federal/district-courts/FSupp/906/688/2126647/).
   allegation: making false statements and failing to report nearly $334,000 in loans
     and profits from 1978-81
   consequences:
   - date: 1984-06-20
     body: House Committee on Standards of Official Conduct
     action: recommended reprimand, 11-1
-    link: https://ethics.house.gov/committee-report/matter-representative-george-v-hansen
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   - date: 1984-07-31
     body: House of Representatives
     action: reprimanded, 354-52
@@ -6660,7 +6660,7 @@
     link: http://www.nytimes.com/1984/11/09/us/justice-dept-rebuts-rep-hansen-of-idaho.html
   - date: 1985
     text: Conviction vacated, U.S. v. Hansen, 906 F. Supp. 688 (1995).
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://law.justia.com/cases/federal/district-courts/FSupp/906/688/2126647/
   tags: crime ethics resolved
 - person: 411725
   name: Wilson
@@ -6770,7 +6770,7 @@
   text: Williams faced an allegation of bribery connected with the ABSCAM sting. On
     May. 1, 1981, he was convicted and the Senate Select Committee on Ethics opened
     an inquiry. On Sep. 3, 1981, the Senate Select Committee on Ethics filed its report.
-    On Mar. 11, 1982, he [resigned to avoid an expulsion vote](https://www.senate.gov/artandhistory/history/common/expulsion_cases/140HarrisonWilliams_expulsion.htm).
+    On Mar. 11, 1982, he [resigned to avoid an expulsion vote](https://www.senate.gov/about/powers-procedures/expulsion/140HarrisonWilliams_expulsion.htm).
   allegation: bribery connected with the ABSCAM sting
   consequences:
   - date: 1981-05-01
@@ -6784,7 +6784,7 @@
     action: filed report
   - date: 1982-03-11
     text: Resigned to avoid an expulsion vote.
-    link: https://www.senate.gov/artandhistory/history/common/expulsion_cases/140HarrisonWilliams_expulsion.htm
+    link: https://www.senate.gov/about/powers-procedures/expulsion/140HarrisonWilliams_expulsion.htm
     tags: resignation
   tags: corruption resolved
 - person: 405496
@@ -6897,7 +6897,7 @@
   - date: 1980-12-16
     body: House Committee on Standards of Official Conduct
     action: sanction hearing terminated by resignation and filed the report
-    link: https://ethics.house.gov/committee-report/matter-representative-john-w-jenrette-jr
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   tags: corruption resolved
 - person: 408094
   name: Myers
@@ -6914,7 +6914,7 @@
   - date: 1980-09-24
     body: House Committee on Standards of Official Conduct
     action: recommended expulsion, 10-2 (Sept. 24, 1980)
-    link: https://ethics.house.gov/committee-report/matter-representative-michael-j-myers
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   - date: 1980-10-02
     body: House of Representatives
     action: expelled, 376-30
@@ -6982,14 +6982,13 @@
   name: Talmadge
   text: On Oct. 3, 1979, the Senate Select Committee on Ethics investigated Talmadge
     for financial misconduct and recommended that Talmadge be "denounced" (censured).
-    On Oct. 11, 1979, the Senate [censured him](https://www.govtrack.us/congress/votes/96-1979/s346).
-    On Nov. 4, 1980, lost the election.
+    On Oct. 11, 1979, the Senate [censured him](https://www.govtrack.us/congress/votes/96-1979/s346). On Nov. 4, 1980, lost the election.
   allegation: financial misconduct
   consequences:
   - date: 1979-10-03
     body: Senate Select Committee on Ethics
     action: recommended that Talmadge be "denounced" (censured)
-    link: https://www.senate.gov/artandhistory/history/common/censure_cases/139HermanTalmadge.htm
+    link: https://www.senate.gov/about/powers-procedures/censure/139HermanTalmadge.htm
   - date: 1979-10-11
     body: Senate
     action: censured
@@ -7012,11 +7011,11 @@
     tags: conviction
   - date: 1978-11-07
     text: Re-elected after conviction.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://www.nytimes.com/1998/08/26/us/charles-diggs-75-congressman-censured-over-kickbacks.html
   - date: 1979-07-31
     body: House Committee on Standards of Official Conduct
     action: recommended censure, 11-0
-    link: https://ethics.house.gov/committee-report/matter-representative-charles-c-diggs
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
   - date: 1979-07-31
     body: House of Representatives
     action: censured, 414-0
@@ -7032,7 +7031,7 @@
   text: On Sep. 13, 1978, the House Committee on Standards of Official Conduct investigated
     Eilberg for conflict of interest by helping a hospital receive a federal grant
     and conducted inquiry. On Oct. 24, 1978, he was indicted. On Nov. 7, 1978, he
-    lost the election.
+    lost the election. In 1979, [he pleaded guilty](https://jweekly.com/2004/04/09/former-congressman-joshua-eilberg-dies-at-83/) and was sentenced to five years probation and a fine.
   allegation: conflict of interest by helping a hospital receive a federal grant
   consequences:
   - date: 1978-09-13
@@ -7043,6 +7042,10 @@
     text: Indicted.
   - date: 1978-11-07
     text: Lost the election.
+  - date: 1979
+    text: Pleaded guilty.
+    link: https://jweekly.com/2004/04/09/former-congressman-joshua-eilberg-dies-at-83/
+    tags: plea 
   tags: ethics resolved
 - person: 411726
   name: Wilson
@@ -7218,8 +7221,8 @@
   text: In 1975, the House Committee on Standards of Official Conduct investigated
     Harrington for public disclosure of 1974 executive session testimony by the CIA
     Director to the House Armed Services Investigations Subcommittee. On Nov. 6, 1975,
-    the committee dismissed the complaint because the information had not been properly
-    classified.
+    the committee [dismissed the complaint because the information had not been properly
+    classified](https://www.nytimes.com/1975/11/07/archives/panel-drops-complaint-on-leaks-filed-against-rep-harrington-invalid.html).
   allegation: public disclosure of executive session testimony by the CIA Director
     to the House Armed Services Investigations Subcommittee (Apr. 22, 1974)
   consequences:
@@ -7288,14 +7291,14 @@
 - person: 404393
   name: Gallagher
   text: Gallagher faced an allegation of tax evasion and perjury. In 1972, he was
-    [defeated in the primary](http://www.nytimes.com/1973/06/16/archives/gallagher-gets-2-years-and-10000-fine-gallagher-gets-2year-sentence.html).
+    [defeated in the primary](https://www.washingtonpost.com/local/obituaries/cornelius-gallagher-new-jersey-congressman-jailed-for-tax-crimes-dies-at-97/2018/10/18/cf1e72fc-d227-11e8-b2d2-f397227b43f0_story.html).
     On Jun. 15, 1973, he [pleaded guilty and was sentenced to two years in prison
     and a $10,000 fine](http://www.nytimes.com/1973/06/16/archives/gallagher-gets-2-years-and-10000-fine-gallagher-gets-2year-sentence.html).
   allegation: tax evasion and perjury
   consequences:
   - date: 1972
     text: Defeated in the primary.
-    link: http://www.nytimes.com/1973/06/16/archives/gallagher-gets-2-years-and-10000-fine-gallagher-gets-2year-sentence.html
+    link: https://www.washingtonpost.com/local/obituaries/cornelius-gallagher-new-jersey-congressman-jailed-for-tax-crimes-dies-at-97/2018/10/18/cf1e72fc-d227-11e8-b2d2-f397227b43f0_story.html
   - date: 1973-06-15
     text: Pleaded guilty and was sentenced to two years in prison and a $10,000 fine.
     link: http://www.nytimes.com/1973/06/16/archives/gallagher-gets-2-years-and-10000-fine-gallagher-gets-2year-sentence.html
@@ -7318,13 +7321,13 @@
   name: Kennedy
   text: On July 18, 1969, Kennedy faced an allegation of leaving the scene of an accident
     after driving a car into the Poucha Pond inlet while his passenger Mary Jo Kopechne
-    drowned. On Jul. 25, 1969, he [pleaded guilty and received a suspended sentence](http://query.nytimes.com/gst/abstract.html?res=9506E5DD133CE73BBC4E51DFB1668382679EDE&legacy=true).
+    drowned. On Jul. 25, 1969, he [pleaded guilty and received a suspended sentence](https://www.nytimes.com/1969/07/26/archives/kennedy-weighs-quitting-seeks-advice-of-voters-pleads-guilty-to.html).
   allegation: on July 18, 1969, leaving the scene of an accident after driving a car
     into the Poucha Pond inlet while his passenger Mary Jo Kopechne drowned
   consequences:
   - date: 1969-07-25
     text: Pleaded guilty and received a suspended sentence.
-    link: http://query.nytimes.com/gst/abstract.html?res=9506E5DD133CE73BBC4E51DFB1668382679EDE&legacy=true
+    link: https://www.nytimes.com/1969/07/26/archives/kennedy-weighs-quitting-seeks-advice-of-voters-pleads-guilty-to.html
     tags: plea
   tags: crime resolved
 - person: 408862
@@ -7335,7 +7338,7 @@
     on Mar. 1, 1967, then [reelected in a special election but did not take the seat](https://en.wikipedia.org/wiki/Adam_Clayton_Powell_Jr.#Political_controversy),
     and on Jan. 3, 1969, he was [seated to the 91st Cong. and fined $25,000, 254-158](https://en.wikipedia.org/wiki/Adam_Clayton_Powell_Jr.#Political_controversy).
     In 1969, the [Supreme Court held the exclusion unconstitutional, see (Powell v.
-    McCormack, 395 U.S. 486](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    McCormack, 395 U.S. 486)](https://www.law.cornell.edu/supremecourt/text/395/486).
   allegation: using committee travel funds for personal travel while Chairman of Education
     and Labor committee, improperly authorizing clerk hire payments to his wife and
     contempt of court (failed to comply with four state court orders, including one
@@ -7358,8 +7361,8 @@
     link: https://en.wikipedia.org/wiki/Adam_Clayton_Powell_Jr.#Political_controversy
   - date: 1969
     text: Supreme Court held the exclusion unconstitutional, see (Powell v. McCormack,
-      395 U.S. 486.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+      395 U.S. 486).
+    link: https://www.law.cornell.edu/supremecourt/text/395/486
   - date: 1970
     text: Lost the primary to Charles Rangel.
     link: https://en.wikipedia.org/wiki/Adam_Clayton_Powell_Jr.#Political_controversy
@@ -7397,20 +7400,20 @@
 - person: 403505
   name: Dodd
   text: Dodd faced an allegation of personal use of campaign funds and unbecoming
-    conduct in a senator. On Feb. 23, 1966, he made a [request for committee investigation](https://www.senate.gov/artandhistory/history/common/censure_cases/135ThomasDodd.htm).
+    conduct in a senator. On Feb. 23, 1966, he made a [request for committee investigation](https://www.senate.gov/about/powers-procedures/censure/135ThomasDodd.htm).
     On Apr. 27, 1967, the Senate Select Committee on Standards and Conduct [recommended
-    censure](https://www.senate.gov/artandhistory/history/common/censure_cases/pdf/135DoddApril27_1967report.pdf).
+    censure](hhttps://www.senate.gov/about/powers-procedures/censure/pdf/135DoddApril27_1967report.pdf).
     On Jun. 23, 1967, the Senate [censured him, 92-5](https://www.govtrack.us/congress/votes/90-1967/s112).
-    In 1970, he [was not re-elected](https://www.senate.gov/artandhistory/history/common/censure_cases/pdf/135DoddApril27_1967report.pdf).
+    In 1970, he [was not re-elected](https://www.senate.gov/about/powers-procedures/censure/pdf/135DoddApril27_1967report.pdf).
   allegation: personal use of campaign funds and unbecoming conduct in a senator
   consequences:
   - date: 1966-02-23
     text: Request for committee investigation.
-    link: https://www.senate.gov/artandhistory/history/common/censure_cases/135ThomasDodd.htm
+    link: https://www.senate.gov/about/powers-procedures/censure/135ThomasDodd.htm
   - date: 1967-04-27
     body: Senate Select Committee on Standards and Conduct
     action: committee report was released with recommendation of censure
-    link: https://www.senate.gov/artandhistory/history/common/censure_cases/pdf/135DoddApril27_1967report.pdf
+    link: https://www.senate.gov/about/powers-procedures/censure/pdf/135DoddApril27_1967report.pdf
   - date: 1967-06-23
     body: Senate
     action: censured 92-5
@@ -7492,7 +7495,7 @@
   - date: 1954-11-08
     body: Select Committee to Study Censure Charges
     action: unanimously recommended censure
-    link: https://www.senate.gov/artandhistory/history/common/censure_cases/pdf/133McCarthyNov8_1954report.pdf
+    link: https://www.senate.gov/about/powers-procedures/censure/133Joseph_McCarthy.htm
   - date: 1954-12-02
     body: Senate
     action: censured, 67-22
