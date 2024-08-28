@@ -5090,7 +5090,7 @@
     tags: conviction
   - date: 2021-01-20
     text: Pardoned by President Trump.
-    link: https://twitter.com/CraigCaplan/status/1351774326631096320?s=20
+    link: https://apnews.com/article/donald-trump-business-arizona-phoenix-rick-renzi-17397dc277e8b58142f2dd1af521d72e
   tags: crime resolved
 - person: 400418
   name: Vitter
@@ -5159,7 +5159,7 @@
 - person: 300094
   name: Stevens
   text: In 2008 Stevens was convicted of making false statements. Prior to sentencing
-    in 2009, the indictment was dismissed. Stevens lost the 2008 election and died
+    in 2009, the indictment was [dismissed due to prosecutorial misconduct](https://www.cnn.com/2009/POLITICS/04/07/ted.stevens/). Stevens lost the 2008 election and died
     in 2010.
   allegation: making false statements
   consequences:
@@ -5167,7 +5167,8 @@
     text: Stevens was convicted and lost reelection.
     tags: conviction
   - date: 2009
-    text: Prior to sentencing in 2009, the indictment was dismissed.
+    text: Prior to sentencing in 2009, the indictment was dismissed due to prosecutorial misconduct.
+    link: https://www.cnn.com/2009/POLITICS/04/07/ted.stevens/
   - date: 2010
     text: Stevens died.
   tags: crime resolved
@@ -5225,7 +5226,7 @@
     re-election](https://en.wikipedia.org/wiki/Duke_Cunningham#Scandals_and_corruption).
     On Nov. 28, 2005, he [pleaded guilty](https://en.wikipedia.org/wiki/Duke_Cunningham#Plea_agreement).
     On Nov. 28, 2005, he [resigned](https://en.wikipedia.org/wiki/Duke_Cunningham#Resignation).
-    On January 20, 2021, Cunningham was [pardoned by President Trump](https://twitter.com/jameshohmann/status/1351845509154091010?s=20).
+    On January 20, 2021, Cunningham was [pardoned by President Trump](https://rollcall.com/2021/01/20/trump-pardons-former-congressman-whose-actions-helped-prompt-earmark-ban/).
   allegation: tax evasion, conspiracy to commit bribery, mail fraud and wire fraud
   consequences:
   - date: 2005-07-14
@@ -5241,7 +5242,7 @@
     tags: resignation
   - date: 2021-01-20
     text: Pardoned by President Trump.
-    link: https://twitter.com/jameshohmann/status/1351845509154091010?s=20
+    link: https://rollcall.com/2021/01/20/trump-pardons-former-congressman-whose-actions-helped-prompt-earmark-ban/
   tags: corruption resolved
 - person: 400262
   name: McDermott
@@ -5514,6 +5515,7 @@
   consequences:
   - date: 1997-08-11
     text: Pleaded guilty in federal court.
+    link: https://www.npr.org/1997/08/12/1028579/kim-pleads-guilty
     tags: plea
   - date: 1998-06-02
     text: Defeated in the primary.
@@ -5589,7 +5591,7 @@
     tags: reprimand
   tags: ethics resolved
 - person: 402762
-  name: Rose-Collins
+  name: Collins
   allegation: misuse official resources, campaign resources and scholarship funds
   text: On Jan. 2, 1997, the House Committee on Standards of Official Conduct investigated
     Rose-Collins for misuse of official resources, campaign resources, and scholarship
@@ -5809,7 +5811,7 @@
   consequences:
   - date: 1995-12-12
     body: House Committee on Standards of Official Conduct
-    action: investigated two member complaints filed (Mar. 8, 1995) and (May 15, 1995)(“Bonior
+    action: investigated two member complaints filed (Mar. 8, 1995) and (May 15, 1995) (“Bonior
       Complaints”); complaints dismissed in a public letter on Dec. 6, 1995 and a
       public report issued on Dec. 12, 1995
     link: https://www.congress.gov/104/crpt/hrpt401/CRPT-104hrpt401.pdf
@@ -5877,7 +5879,7 @@
   name: Packwood
   text: On Sep. 5, 1995, the Senate Select Committee on Ethics investigated Packwood
     for sexual misconduct and abuse of power and recommended expulsion from the Senate.
-    On Sep. 8, 1995, he [resigned](http://articles.latimes.com/1995-09-08/news/mn-43532_1_senator-packwood-resigns).
+    On Sep. 8, 1995, he [resigned](https://library.cqpress.com/cqalmanac//document.php?id=cqal95-1099527).
   allegation: sexual misconduct and abuse of power
   consequences:
   - date: 1995-09-05
@@ -5886,8 +5888,7 @@
     link: https://www.congress.gov/congressional-report/104th-congress/senate-report/137/1
   - date: 1995-09-08
     text: Resigned.
-    link: http://articles.latimes.com/1995-09-08/news/mn-43532_1_senator-packwood-resigns
-    tags: resignation
+    link: https://library.cqpress.com/cqalmanac//document.php?id=cqal95-1099527
   tags: resolved sexual-harassment-abuse
 - person: 411725
   name: Wilson
@@ -6130,7 +6131,7 @@
 - person: 408313
   name: Oakar
   text: Oakar faced an allegation of lying to the FBI, using the House Bank to convert
-    public money to her own use. On Sep. 30, 1997, she [pleaded guitly to two misdemeanors](http://articles.chicagotribune.com/1997-09-30/news/9709300278_1_plead-rep-mary-rose-oakar-false-names).
+    public money to her own use. On Sep. 30, 1997, she [pleaded guitly to two misdemeanors](https://www.justice.gov/archive/opa/pr/1997/September97/407crm.htm.html).
     In 1992, she was not re-elected.
   allegation: lying to the FBI, using the House Bank to convert public money to her
     own use
@@ -6139,7 +6140,7 @@
     text: Was not re-elected.
   - date: 1997-09-30
     text: Pleaded guitly to two misdemeanors.
-    link: http://articles.chicagotribune.com/1997-09-30/news/9709300278_1_plead-rep-mary-rose-oakar-false-names
+    link: https://www.justice.gov/archive/opa/pr/1997/September97/407crm.htm.html
     tags: plea
   tags: crime resolved
 - person: 403696
@@ -6286,38 +6287,39 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/comm_print_10241990.pdf
   - date: 1990-10-04
     text: Resigned.
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf#page+25
     tags: resignation
   tags: resolved sexual-harassment-abuse
 - person: 403669
   name: Durenberger
   text: Durenberger faced an allegation of a wide range of financial misconduct. On
     Jul. 25, 1990, the Senate [voted to denounce him 96-0, which appears to have been
-    intended as a type of censure which acknowledges no ill intent](https://www.senate.gov/artandhistory/history/common/censure_cases/141DavidDurenberger.htm).
+    intended as a type of censure which acknowledges no ill intent](https://www.senate.gov/about/powers-procedures/censure/141DavidDurenberger.htm).
   allegation: a wide range of financial misconduct
   consequences:
   - date: 1990-07-25
     body: Senate
     action: voted 96-0 to denounce, which appears to have been intended as a type
       of censure which acknowledges no ill intent.
-    link: https://www.senate.gov/artandhistory/history/common/censure_cases/141DavidDurenberger.htm
+    link: https://www.senate.gov/about/powers-procedures/censure/141DavidDurenberger.htm
     tags: censure
   tags: ethics resolved
 - person: 410574
   name: Swindall
   text: Swindall faced an allegation of money laundering and lying to the FBI. In
-    1989, he was [convicted](http://articles.latimes.com/1994-02-12/news/mn-21903_1_pat-swindall).
+    1989, he was [convicted](https://www.nytimes.com/2018/07/13/obituaries/pat-swindall-congressman-undone-by-scandal-is-dead-at-67.html).
     On Feb. 12, 1994, [started serving a one year prison sentence in a minimum-security
-    federal prison after remaining free on bond while his appeals were active](http://articles.latimes.com/1994-02-12/news/mn-21903_1_pat-swindall).
+    federal prison after remaining free on bond while his appeals were active](https://www.nytimes.com/2018/07/13/obituaries/pat-swindall-congressman-undone-by-scandal-is-dead-at-67.html).
   allegation: money laundering and lying to the FBI
   consequences:
   - date: 1989
     text: Convicted.
-    link: http://articles.latimes.com/1994-02-12/news/mn-21903_1_pat-swindall
+    link: https://www.nytimes.com/2018/07/13/obituaries/pat-swindall-congressman-undone-by-scandal-is-dead-at-67.html
     tags: conviction
   - date: 1994-02-12
     text: Started serving a one year prison sentence in a minimum-security federal
       prison after remaining free on bond while his appeals were active.
-    link: http://articles.latimes.com/1994-02-12/news/mn-21903_1_pat-swindall
+    link: https://www.nytimes.com/2018/07/13/obituaries/pat-swindall-congressman-undone-by-scandal-is-dead-at-67.html
   tags: crime resolved
 - person: 400140
   name: Frank
@@ -6385,7 +6387,7 @@
     Garcia for conspiracy and Travel Act violations (receipt of $170,000 in payments,
     loans, and a diamond necklace from a defense contractor), for which Garcia and
     his wife were convicted on Oct. 20, 1989, four counts of bribery and receipt of
-    illegal gratuities, for which he was acquitted. On Jan. 7, 1990, he [resigned](http://articles.latimes.com/1990-01-03/news/mn-190_1_robert-garcia).
+    illegal gratuities, for which he was acquitted. On Jan. 7, 1990, he [resigned](https://www.nytimes.com/2017/01/26/nyregion/robert-garcia-dead-bronx-congressman.html).
   allegation: conspiracy and Travel Act violations (receipt of $170,000 in payments,
     loan, and a diamond necklace from defense contractor), for which Garcia and his
     wife were convicted on Oct. 20, 1989, four counts of bribery and receipt of illegal
@@ -6396,7 +6398,7 @@
     action: preliminary inquiry voted
   - date: 1990-01-07
     text: Resigned.
-    link: http://articles.latimes.com/1990-01-03/news/mn-190_1_robert-garcia
+    link: https://www.nytimes.com/2017/01/26/nyregion/robert-garcia-dead-bronx-congressman.html
     tags: resignation
   tags: corruption resolved
 - person: 401231
@@ -6414,7 +6416,7 @@
     tags: reprimand
   - date: 1989
     text: Admitted to violations and wrote personal letter of apology.
-    link: https://www.rollcall.com/news/politics/congress-took-three-decades-come-far-sexual-harassment-victim-says
+    link: https://rollcall.com/2017/11/11/congress-took-three-decades-to-come-this-far-sexual-harassment-victim-says/
   tags: elections ethics resolved sexual-harassment-abuse
 - person: 411912
   name: Wright, Jr.
@@ -6444,7 +6446,7 @@
   - date: 1989-04-17
     body: House Committee on Standards of Official Conduct
     action: made the report of Special Outside Counsel public
-    link: https://ethics.house.gov/committee-report/matter-representative-james-c-wright
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf#page+22
   - date: 1989-06-30
     text: Wright resigned as Speaker on House floor after having announced his intent
       to do so in May.
@@ -6458,7 +6460,7 @@
     of the Travel Act on Sept. 22, 1987 because he accepted free vacations in exchange
     for using influence, for which he was convicted. On Feb. 17, 1988 the committee
     recommended expulsion, 12-0. On Aug. 5, 1988, he [resigned after an additional
-    conviction](http://articles.latimes.com/1988-08-05/news/mn-8579_1_mario-biaggi).
+    conviction](https://rollcall.com/2015/06/25/mario-biaggi-bronx-democrat-who-resigned-in-scandal-dies-at-97/).
   allegation: accepting illegal gratuities, obstruction of justice and violation of
     the Travel Act on Sept. 22, 1987 because he accepted free vacations in exchange
     for using influence, for which he was convicted
@@ -6469,7 +6471,7 @@
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt100-506.pdf
   - date: 1988-08-05
     text: Resigned after an additional conviction.
-    link: http://articles.latimes.com/1988-08-05/news/mn-8579_1_mario-biaggi
+    link: https://rollcall.com/2015/06/25/mario-biaggi-bronx-democrat-who-resigned-in-scandal-dies-at-97/
     tags: conviction resignation
   tags: corruption resolved
 - person: 409400
