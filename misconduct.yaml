@@ -113,20 +113,18 @@
 - person: 456865
   name: Cherfilus-McCormick
   allegation: violating campaign finance laws; failing to properly disclose required
-    information on statements required to be filed with the House; and/or accepting
+    information on statements required to be filed with the House; accepting
     voluntary services for official work from an individual not employed in her congressional
-    office.
+    office; engaging in improper conduct in connection with community project funding requests; misusing official funds for campaign purposes; and/or violating campaign finance laws and regulations in connection with her 2024 re-election campaign.
   text: Rep. Cherfilus-McCormick has been under investigation by the House Committee
-    on Ethics for allegations of violating campaign finance laws, failing to properly
-    disclose required information on statements required to be filed with the House,
-    and accepting voluntary services for official work from an individual not employed
+    on Ethics for allegations of violating campaign finance laws in her 2022 campaign, failing to properly disclose required information on statements required to be filed with the House, and accepting voluntary services for official work from an individual not employed
     in her congressional office. In September 2023 the Office of Congressional Ethics
-    recommended further review of unknown allegations by the House Committee on Ethics,
+    recommended further review the allegations by the House Committee on Ethics,
     and in December 2023 the House Committee on Ethics [established an Investigative
     Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-77).
     In 2024, the Committee [expanded the jurisdiction of the Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-85)
     to include new allegations from a 2024 Office of Congressional Ethics report not
-    yet made public.
+    yet made public. The allegations are that Cherfilus-McCormick was engaging in improper conduct in connection with community project funding requests; misusing official funds for campaign purposes; and/or violating campaign finance laws and regulations in connection with her 2024 re-election campaign In Sept. 2024, the [first Office of Congressional Ethics report](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report_7.pdf) was published.
   consequences:
   - date: 2023-09-23
     body: Office of Congressional Ethics
@@ -148,6 +146,10 @@
       new allegations from a 2024 Office of Congressional Ethics report not yet made
       public
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-85
+  - date: 2024-09-25
+    body: House Committee on Ethics
+    action: released the Office of Congressional Ethics' 2023 report
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report_7.pdf
   tags: elections unresolved
 - person: 412787
   name: Tlaib
@@ -1911,14 +1913,17 @@
   name: Ros-Lehtinen
   text: Former Rep. Ileana Ros-Lehtinen is under federal investigation by the Justice
     Department for allegedly spending campaign money on [personal trips](https://miami.cbslocal.com/2020/09/25/former-florida-representative-ileana-ros-lehtinen-federal-investigation/)
-    while in her final Congressional term.
+    while in her final Congressional term. The Department closed the investigation without charges in 2021.
   allegation: using campaign funds for personal expenses
   consequences:
   - date: 2020-09-25
     text: Former Rep. Ileana Ros-Lehtinen is under federal investigation by the Justice
       Department for allegedly spending campaign money on personal trips.
     link: https://miami.cbslocal.com/2020/09/25/former-florida-representative-ileana-ros-lehtinen-federal-investigation/
-  tags: elections unresolved
+  - date: 2021-05-21
+    text: The Department of Justice closed the investigation without charges.
+    link: https://www.cbsnews.com/miami/news/cbs4-exclusive-ileana-ros-lehtinens-attorney-says-justice-dept-has-closed-its-investigation/
+  tags: elections resolved
 - person: 412779
   name: Watkins
   text: In 2020, the district attorney of Shawnee County, KS, charged Rep. Watkins
@@ -1926,7 +1931,7 @@
     after he voted in the wrong city council district in a 2019 municipal election
     and subsequently lied to law enforcement. On July 17, 2020, in accordance with
     House GOP conference rules, [Rep. Watkins stepped down from his committee positions](https://www.kansascity.com/news/politics-government/article244299452.html).
-    In August 2020, Rep. Watkins [lost in the Kansas primary](https://www.politico.com/news/2020/07/14/kansas-gop-rep-watkins-indicted-for-voter-fraud-362072)
+    In August 2020, Rep. Watkins [lost in the Kansas primary](https://rollcall.com/2020/08/04/rep-steve-watkins-ousted-in-kansas-republican-primary/ww.politico.com/news/2020/07/14/kansas-gop-rep-watkins-indicted-for-voter-fraud-362072)
     and will leave Congress in January 2021. On August 14, the House Ethics Committee
     [established an Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-steve).
     In January 2021, the House Committee on Ethics [reported that the end of their
@@ -1944,7 +1949,7 @@
     link: https://www.kansascity.com/news/politics-government/article244299452.html
   - date: 2020-08-04
     text: Watkins lost in the Kansas Republican primary.
-    link: https://www.politico.com/news/2020/07/14/kansas-gop-rep-watkins-indicted-for-voter-fraud-362072
+    link: https://rollcall.com/2020/08/04/rep-steve-watkins-ousted-in-kansas-republican-primary/
   - date: 2020-08-14
     body: House Committee on Ethics
     action: established an Investigative Subcommittee
