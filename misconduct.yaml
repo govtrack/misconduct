@@ -19,7 +19,15 @@
     body: Metropolitan Washington Airports Authority
     action: charged with a Class 1 misdemeanor under Virginia law
     link: https://apnews.com/article/indiana-congresswoman-victoria-spartz-airport-firearm-charged-c0684e073b347f8ee5499c12675dc292
-  tags: crime unresolved
+  - date: 2024-09-20
+    body: Loudoun County General District Court
+    action: the charge was voluntarily dismissed through a nolle prosequi declaration, aka a dismissmal of the charges, after Rep. Spartz completed a gun safety training course.
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_64.pdf
+  - date: 2024-11-12
+    body: House Ethics Committee
+    action: closed the investigation with the issuance of its report
+    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_64.pdf
+  tags: crime resolved
 - person: 456946
   name: Hunt
   allegation: converting campaign funds to personal use
