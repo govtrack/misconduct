@@ -1,3 +1,13 @@
+- person: 400654
+  name: McCaul
+  allegation: public drunkenness
+  text: Rep. McCaul was [detained on suspicion of public drunkenness at Dulles International Airport](https://www.nbcnews.com/politics/congress/republican-rep-michael-mccaul-detained-police-alcohol-airport-rcna180028) on November 4, 2024. He was not charged and said he had [combined Ambien with "several alcoholic drinks"](https://www.nbcnews.com/politics/congress/republican-rep-michael-mccaul-detained-police-alcohol-airport-rcna180028). Rep. McCaul is chair of the House Foreign Affairs Committee. 
+  consequences:
+  - date: 2024-11-04
+    body: Metropolitan Washington Airport Authority police
+    action: detained on suspicion of public drunkenness at Dulles International Airport
+    link: https://www.nbcnews.com/politics/congress/republican-rep-michael-mccaul-detained-police-alcohol-airport-rcna180028
+  tags: crime resolved
 - person: 456939
   name: Ogles
   allegation: falsifying campaign finance reports
