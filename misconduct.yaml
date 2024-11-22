@@ -1889,10 +1889,11 @@
       gratuity
     link: https://ethics.house.gov/press-releases/statement-regarding-matter-representative-matt-gaetz
   - date: 2024-11-13
-    text: President-elect Trump names Gaetz to be his nominee for Attorney General.
-      Gaetz resigns from Congress and informs officials he will not serve the term
+    text: President-elect Trump named Gaetz to be his nominee for Attorney General.
+      Gaetz resigned from Congress and informs officials he will not serve the term
       starting in 2025 which he won in the 2024 election.
     link: https://www.wbal.com/matt-gaetz-ag-nomination-timeline/
+    tags: resignation
   - date: 2024-11-20
     body: House Ethics Committee
     action: declined to release report on Gaetz investigation
@@ -1901,7 +1902,7 @@
     text: After more details on allegations of paid sex with a minor became public,
       Gaetz withdrew from consideration for Attorney General.
     link: https://www.cnn.com/2024/11/21/politics/matt-gaetz-second-sexual-encounter-minor/index.html
-  tags: corruption crime ethics sexual-harassment-abuse unresolved
+  tags: corruption crime ethics sexual-harassment-abuse
 - person: 400651
   name: Gohmert
   text: Rep. Gohmert [failed to complete security screening on February 4, 2021 and
