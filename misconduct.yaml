@@ -1814,7 +1814,7 @@
     2023, [the Department of Justice announced it would not charge Gaetz](https://www.nytimes.com/2023/02/15/us/politics/matt-gaetz-sex-trafficking-justice-department.html).
     However in June 2024 the Ethics Committee [announced that it is still investigating
     those allegations (sexual misconduct, illicit drug use, improper gifts) as well
-    as special favors and obstructing government investigations](https://ethics.house.gov/press-releases/statement-regarding-matter-representative-matt-gaetz). Two weeks after the 2024 election, on Nov. 13, [President-elect Trump announced that he was nominating Gaetz for Attorney General](https://www.wbal.com/matt-gaetz-ag-nomination-timeline/). [Gaetz resigned](https://www.wbal.com/matt-gaetz-ag-nomination-timeline/) from Congress that day. On Nov. 21, [CNN published still more details about allegations that Gaetz paid for sex with a minor](https://www.cnn.com/2024/11/21/politics/matt-gaetz-second-sexual-encounter-minor/index.html). Later that day, he withdrew from consideration for Attorney General.
+    as special favors and obstructing government investigations](https://ethics.house.gov/press-releases/statement-regarding-matter-representative-matt-gaetz). Two weeks after the 2024 election, on Nov. 13, [President-elect Trump announced that he would be nominating Gaetz for Attorney General](https://www.wbal.com/matt-gaetz-ag-nomination-timeline/). [Gaetz resigned](https://www.wbal.com/matt-gaetz-ag-nomination-timeline/) from Congress that day. On Nov. 21, [CNN published still more details about allegations that Gaetz paid for sex with a minor](https://www.cnn.com/2024/11/21/politics/matt-gaetz-second-sexual-encounter-minor/index.html). Later that day, he withdrew from consideration for Attorney General.
   consequences:
   - date: 2021-03-30
     text: The New York Times reported that the Department of Justice was investigating
@@ -1852,20 +1852,14 @@
       gratuity
     link: https://ethics.house.gov/press-releases/statement-regarding-matter-representative-matt-gaetz
   - date: 2024-11-13
-    text: President-elect Trump nominates Gaetz for Attorney General.
-    link: https://www.wbal.com/matt-gaetz-ag-nomination-timeline/
-  - date: 2024-11-13
-    text: Gaetz resigns from the 118th Congress.
+    text: President-elect Trump names Gaetz to be his nominee for Attorney General. Gaetz resigns from Congress and informs officials he will not serve the term starting in 2025 which he won in the 2024 election.
     link: https://www.wbal.com/matt-gaetz-ag-nomination-timeline/
   - date: 2024-11-20
     body: House Ethics Committee
-    action: majority does not agree to release report on Gaetz investigation 
+    action: declined to release report on Gaetz investigation
     link: https://www.nbcnews.com/politics/congress/house-ethics-committee-meet-whether-release-matt-gaetz-report-rcna180808
   - date: 2024-11-21
-    text: Still more details on allegations of paid sex with a minor becomes public.
-    link: https://www.cnn.com/2024/11/21/politics/matt-gaetz-second-sexual-encounter-minor/index.html
-  - date: 2024-11-21
-    text: After CNN requested comment from Gaetz on the newest allegations, he withdrew from consideration for Attorney General.
+    text: After more details on allegations of paid sex with a minor became public, Gaetz withdrew from consideration for Attorney General.
     link: https://www.cnn.com/2024/11/21/politics/matt-gaetz-second-sexual-encounter-minor/index.html
   tags: corruption crime ethics sexual-harassment-abuse unresolved
 - person: 400651
