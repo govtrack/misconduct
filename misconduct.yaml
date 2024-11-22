@@ -1,7 +1,11 @@
 - person: 400654
   name: McCaul
   allegation: public drunkenness
-  text: Rep. McCaul was [detained on suspicion of public drunkenness at Dulles International Airport](https://www.nbcnews.com/politics/congress/republican-rep-michael-mccaul-detained-police-alcohol-airport-rcna180028) on November 4, 2024. He was not charged and said he had [combined Ambien with "several alcoholic drinks"](https://www.nbcnews.com/politics/congress/republican-rep-michael-mccaul-detained-police-alcohol-airport-rcna180028). Rep. McCaul is chair of the House Foreign Affairs Committee. 
+  text: Rep. McCaul was [detained on suspicion of public drunkenness at Dulles International
+    Airport](https://www.nbcnews.com/politics/congress/republican-rep-michael-mccaul-detained-police-alcohol-airport-rcna180028)
+    on November 4, 2024. He was not charged and said he had [combined Ambien with
+    "several alcoholic drinks"](https://www.nbcnews.com/politics/congress/republican-rep-michael-mccaul-detained-police-alcohol-airport-rcna180028).
+    Rep. McCaul is chair of the House Foreign Affairs Committee.
   consequences:
   - date: 2024-11-04
     body: Metropolitan Washington Airport Authority police
@@ -11,7 +15,14 @@
 - person: 456939
   name: Ogles
   allegation: falsifying campaign finance reports
-  text: In 2024, Rep. Ogles was accused of falsifying campaign finance reports when his amended finance reports were compared to the originals. He claimed he had loaned his campaign $320,000 in 2022 and had not. It's unclear whether the the money came from elsewhere or was entirely made up. He also amended finance reports to remove both contributions and expenditures. There is no indication of a House Ethics Committee investigation even though this would also be a violation of House rules in addition to a possible crime. In the first week of August, 2024, a Department of Justice search was conducted and his cell phone seized.
+  text: In 2024, Rep. Ogles was accused of falsifying campaign finance reports when
+    his amended finance reports were compared to the originals. He claimed he had
+    loaned his campaign $320,000 in 2022 and had not. It's unclear whether the the
+    money came from elsewhere or was entirely made up. He also amended finance reports
+    to remove both contributions and expenditures. There is no indication of a House
+    Ethics Committee investigation even though this would also be a violation of House
+    rules in addition to a possible crime. In the first week of August, 2024, a Department
+    of Justice search was conducted and his cell phone seized.
   consequences:
   - date: 2024-08
     body: Federal Bureau of Investigation
@@ -23,7 +34,10 @@
   allegation: weapons violation
   text: Rep. Spartz was charged with a [misdemeanor weapons violation at Dulles Airport](https://apnews.com/article/indiana-congresswoman-victoria-spartz-airport-firearm-charged-c0684e073b347f8ee5499c12675dc292)
     on June 28 when an unloaded handgun was found in her carry on luggage during security
-    screening. Charges were dismissed in September 2024 when Rep. Spartz completed a gun safety training course. The House Committee on Ethics [issued its report and closed the investigation](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_65.pdf) in November 2024.
+    screening. Charges were dismissed in September 2024 when Rep. Spartz completed
+    a gun safety training course. The House Committee on Ethics [issued its report
+    and closed the investigation](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_65.pdf)
+    in November 2024.
   consequences:
   - date: 2024-06-28
     body: Metropolitan Washington Airports Authority
@@ -31,7 +45,9 @@
     link: https://apnews.com/article/indiana-congresswoman-victoria-spartz-airport-firearm-charged-c0684e073b347f8ee5499c12675dc292
   - date: 2024-09-20
     body: Loudoun County General District Court
-    action: the charge was voluntarily dismissed through a nolle prosequi declaration, aka a dismissmal of the charges, after Rep. Spartz completed a gun safety training course.
+    action: the charge was voluntarily dismissed through a nolle prosequi declaration,
+      aka a dismissmal of the charges, after Rep. Spartz completed a gun safety training
+      course.
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_64.pdf
   - date: 2024-11-12
     body: House Ethics Committee
@@ -131,18 +147,27 @@
 - person: 456865
   name: Cherfilus-McCormick
   allegation: violating campaign finance laws; failing to properly disclose required
-    information on statements required to be filed with the House; accepting
-    voluntary services for official work from an individual not employed in her congressional
-    office; engaging in improper conduct in connection with community project funding requests; misusing official funds for campaign purposes; and/or violating campaign finance laws and regulations in connection with her 2024 re-election campaign.
+    information on statements required to be filed with the House; accepting voluntary
+    services for official work from an individual not employed in her congressional
+    office; engaging in improper conduct in connection with community project funding
+    requests; misusing official funds for campaign purposes; and/or violating campaign
+    finance laws and regulations in connection with her 2024 re-election campaign.
   text: Rep. Cherfilus-McCormick has been under investigation by the House Committee
-    on Ethics for allegations of violating campaign finance laws in her 2022 campaign, failing to properly disclose required information on statements required to be filed with the House, and accepting voluntary services for official work from an individual not employed
-    in her congressional office. In September 2023 the Office of Congressional Ethics
-    recommended further review the allegations by the House Committee on Ethics,
-    and in December 2023 the House Committee on Ethics [established an Investigative
-    Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-77).
+    on Ethics for allegations of violating campaign finance laws in her 2022 campaign,
+    failing to properly disclose required information on statements required to be
+    filed with the House, and accepting voluntary services for official work from
+    an individual not employed in her congressional office. In September 2023 the
+    Office of Congressional Ethics recommended further review the allegations by the
+    House Committee on Ethics, and in December 2023 the House Committee on Ethics
+    [established an Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-77).
     In 2024, the Committee [expanded the jurisdiction of the Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-85)
     to include new allegations from a 2024 Office of Congressional Ethics report not
-    yet made public. The allegations are that Cherfilus-McCormick was engaging in improper conduct in connection with community project funding requests; misusing official funds for campaign purposes; and/or violating campaign finance laws and regulations in connection with her 2024 re-election campaign In Sept. 2024, the [first Office of Congressional Ethics report](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report_7.pdf) was published.
+    yet made public. The allegations are that Cherfilus-McCormick was engaging in
+    improper conduct in connection with community project funding requests; misusing
+    official funds for campaign purposes; and/or violating campaign finance laws and
+    regulations in connection with her 2024 re-election campaign In Sept. 2024, the
+    [first Office of Congressional Ethics report](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report_7.pdf)
+    was published.
   consequences:
   - date: 2023-09-23
     body: Office of Congressional Ethics
@@ -281,7 +306,9 @@
     began in early 2023 after extensive reporting that Santos [fabricated most of
     his life story](https://www.nbcnewyork.com/news/politics/list-of-george-santos-lies-all-the-mistruths-the-congressman-is-accused-of-telling/4043980/)
     during his campaign as well as [demands from representatives to investigate](https://ethics.house.gov/sites/ethics.house.gov/files/documents/APPENDIX%20A_9.pdf)
-    and an [attempt to expel him](https://www.govtrack.us/congress/votes/118-2023/h217). On August 19, 2024, [Santos pleaded guilty](https://apnews.com/article/george-santos-plea-court-new-york-90741d068fd94090419fc0fd79be30cc) to wire fraud and identity theft.
+    and an [attempt to expel him](https://www.govtrack.us/congress/votes/118-2023/h217).
+    On August 19, 2024, [Santos pleaded guilty](https://apnews.com/article/george-santos-plea-court-new-york-90741d068fd94090419fc0fd79be30cc)
+    to wire fraud and identity theft.
   consequences:
   - date: 2022-09-01
     text: Local paper The North Shore Leader broke the story of Santos's "inexplicable
@@ -341,7 +368,7 @@
     text: Pleaded guilty to wire fraud and identity theft.
     link: https://apnews.com/article/george-santos-plea-court-new-york-90741d068fd94090419fc0fd79be30cc
     tags: plea
-  tags: corruption crime elections sexual-harassment-abuse resolved
+  tags: corruption crime elections resolved sexual-harassment-abuse
 - person: 456833
   name: Cawthorn
   allegation: bringing a loaded handgun through a TSA checkpoint
@@ -409,10 +436,13 @@
 - person: 400272
   name: Menendez
   text: Menendez was [convicted on all charges of bribery and fraud](https://apnews.com/article/menendez-bribery-trial-jury-deliberations-bab89b99a77fc6ce95531c88ab26cc4d)
-    on July 16, 2024. Menendez had accepted cash, gold bars and a Mercedes car as gifts in exchange for various official acts, some on behalf of foreign governments. On July 22, 2024, the Senate Ethics Committee announced that
-    they were ["initiating an adjudicatory review"](https://www.ethics.senate.gov/public/_cache/files/681eeb47-0917-4447-a661-d0c336000aad/select-committee-on-ethics---press-release-july-22-2024.pdf)
+    on July 16, 2024. Menendez had accepted cash, gold bars and a Mercedes car as
+    gifts in exchange for various official acts, some on behalf of foreign governments.
+    On July 22, 2024, the Senate Ethics Committee announced that they were ["initiating
+    an adjudicatory review"](https://www.ethics.senate.gov/public/_cache/files/681eeb47-0917-4447-a661-d0c336000aad/select-committee-on-ethics---press-release-july-22-2024.pdf)
     as a prelude to a recommendation for and vote on a disciplinary measure such as
-    censure or expulsion. On July 23, 2024, Menendez announced he would resign his Senate seat on August 20, 2024.
+    censure or expulsion. On July 23, 2024, Menendez announced he would resign his
+    Senate seat on August 20, 2024.
   allegation: conspiracy to commit bribery, honest services fraud, extortion under
     the color of official right and acting as an unregistered agent of a foreign power
   consequences:
@@ -426,7 +456,8 @@
     link: https://www.nytimes.com/2023/09/22/nyregion/robert-menendez-indicted.html
   - date: 2023-10-12
     body: Department of Justice
-    action: issued a superseding indictment adding that Menendez acted as an unregistered agent of a foreign power
+    action: issued a superseding indictment adding that Menendez acted as an unregistered
+      agent of a foreign power
     link: https://apnews.com/article/bob-menendez-indictment-c1850764b8ce7c613fc50f0e4f495e87
   - date: 2024-07-16
     text: Menendez was convicted on all charges.
@@ -1814,7 +1845,13 @@
     2023, [the Department of Justice announced it would not charge Gaetz](https://www.nytimes.com/2023/02/15/us/politics/matt-gaetz-sex-trafficking-justice-department.html).
     However in June 2024 the Ethics Committee [announced that it is still investigating
     those allegations (sexual misconduct, illicit drug use, improper gifts) as well
-    as special favors and obstructing government investigations](https://ethics.house.gov/press-releases/statement-regarding-matter-representative-matt-gaetz). Two weeks after the 2024 election, on Nov. 13, [President-elect Trump announced that he would be nominating Gaetz for Attorney General](https://www.wbal.com/matt-gaetz-ag-nomination-timeline/). [Gaetz resigned](https://www.wbal.com/matt-gaetz-ag-nomination-timeline/) from Congress that day. On Nov. 21, [CNN published still more details about allegations that Gaetz paid for sex with a minor](https://www.cnn.com/2024/11/21/politics/matt-gaetz-second-sexual-encounter-minor/index.html). Later that day, he withdrew from consideration for Attorney General.
+    as special favors and obstructing government investigations](https://ethics.house.gov/press-releases/statement-regarding-matter-representative-matt-gaetz).
+    Two weeks after the 2024 election, on Nov. 13, [President-elect Trump announced
+    that he would be nominating Gaetz for Attorney General](https://www.wbal.com/matt-gaetz-ag-nomination-timeline/).
+    [Gaetz resigned](https://www.wbal.com/matt-gaetz-ag-nomination-timeline/) from
+    Congress that day. On Nov. 21, [CNN published still more details about allegations
+    that Gaetz paid for sex with a minor](https://www.cnn.com/2024/11/21/politics/matt-gaetz-second-sexual-encounter-minor/index.html).
+    Later that day, he withdrew from consideration for Attorney General.
   consequences:
   - date: 2021-03-30
     text: The New York Times reported that the Department of Justice was investigating
@@ -1852,14 +1889,17 @@
       gratuity
     link: https://ethics.house.gov/press-releases/statement-regarding-matter-representative-matt-gaetz
   - date: 2024-11-13
-    text: President-elect Trump names Gaetz to be his nominee for Attorney General. Gaetz resigns from Congress and informs officials he will not serve the term starting in 2025 which he won in the 2024 election.
+    text: President-elect Trump names Gaetz to be his nominee for Attorney General.
+      Gaetz resigns from Congress and informs officials he will not serve the term
+      starting in 2025 which he won in the 2024 election.
     link: https://www.wbal.com/matt-gaetz-ag-nomination-timeline/
   - date: 2024-11-20
     body: House Ethics Committee
     action: declined to release report on Gaetz investigation
     link: https://www.nbcnews.com/politics/congress/house-ethics-committee-meet-whether-release-matt-gaetz-report-rcna180808
   - date: 2024-11-21
-    text: After more details on allegations of paid sex with a minor became public, Gaetz withdrew from consideration for Attorney General.
+    text: After more details on allegations of paid sex with a minor became public,
+      Gaetz withdrew from consideration for Attorney General.
     link: https://www.cnn.com/2024/11/21/politics/matt-gaetz-second-sexual-encounter-minor/index.html
   tags: corruption crime ethics sexual-harassment-abuse unresolved
 - person: 400651
@@ -1941,7 +1981,8 @@
   name: Ros-Lehtinen
   text: Former Rep. Ileana Ros-Lehtinen is under federal investigation by the Justice
     Department for allegedly spending campaign money on [personal trips](https://miami.cbslocal.com/2020/09/25/former-florida-representative-ileana-ros-lehtinen-federal-investigation/)
-    while in her final Congressional term. The Department closed the investigation without charges in 2021.
+    while in her final Congressional term. The Department closed the investigation
+    without charges in 2021.
   allegation: using campaign funds for personal expenses
   consequences:
   - date: 2020-09-25
@@ -2789,13 +2830,15 @@
   tags: resolved sexual-harassment-abuse
 - person: 400272
   name: Menendez
-  text: Menendez was investigated for accepting gifts in the form of campaign donations and lavish trips in exchange for official action and failing to disclose those gifts. The Senate investigation
-    was halted during his investigation and trial for corruption and bribery which
-    resulted in a mistrial. In April 2018, the Senate Select Committee on Ethics [admonished
-    Senator Menendez](https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=49C12C75-7A26-4FE6-B070-19FCEF4D7532)
+  text: Menendez was investigated for accepting gifts in the form of campaign donations
+    and lavish trips in exchange for official action and failing to disclose those
+    gifts. The Senate investigation was halted during his investigation and trial
+    for corruption and bribery which resulted in a mistrial. In April 2018, the Senate
+    Select Committee on Ethics [admonished Senator Menendez](https://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=49C12C75-7A26-4FE6-B070-19FCEF4D7532)
     for violating Senate rules and ordered him to repay any remaining outstanding
     value of impermissable gifts.
-  allegation: accepting gifts in exchange for official action and failing to disclose those gifts
+  allegation: accepting gifts in exchange for official action and failing to disclose
+    those gifts
   consequences:
   - date: 2017-11-16
     body: Senate Select Committee on Ethics
@@ -3294,10 +3337,10 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-mark-0
   - date: 2018-11-16
     body: House Committee on Ethics
-    action: unanimously voted to issue this Report, which will serve
-      as a reproval of Representative Meadows’ conduct, and to require Representative
-      Meadows to reimburse the U.S. Treasury for the overpayment of Mr. West, in the
-      amount of $40,625.02
+    action: unanimously voted to issue this Report, which will serve as a reproval
+      of Representative Meadows’ conduct, and to require Representative Meadows to
+      reimburse the U.S. Treasury for the overpayment of Mr. West, in the amount of
+      $40,625.02
     link: https://ethics.house.gov/sites/ethics.house.gov/files/Meadows%20Report%20FINAL%20with%20sigs.pdf
     tags: reprimand
   tags: ethics resolved sexual-harassment-abuse
@@ -3410,11 +3453,11 @@
 - person: 412482
   name: Farenthold
   text: In 2015 Farenthold was investigated for sexual harassment on the basis of
-    a 2014 lawsuit filed against him alleging sexual harassment. The lawsuit was
-    resolved in 2015 with a [taxpayer-funded settlement](https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458)
+    a 2014 lawsuit filed against him alleging sexual harassment. The lawsuit was resolved
+    in 2015 with a [taxpayer-funded settlement](https://www.politico.com/story/2017/12/01/blake-farenthold-taxpayer-funds-sexual-harassment-274458)
     that was revealed in 2017, and the House Committee on Ethics investigation was
-    re-opened. On April 6, 2018, Farenthold resigned. On April 12, 2018, the House Committee
-    on Ethics [closed the investigation due to loss of jurisdiction](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-17).
+    re-opened. On April 6, 2018, Farenthold resigned. On April 12, 2018, the House
+    Committee on Ethics [closed the investigation due to loss of jurisdiction](https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-17).
   allegation: sexual harassment on the basis of a 2014 lawsuit filed against him alleging
     sexual harassment
   consequences:
@@ -3630,9 +3673,12 @@
   tags: ethics resolved
 - person: 412314
   name: Schock
-  text: In 2019 Schock settled with the federal government in a [deferred prosecution agreement in which he repaid a little over $100,000 to the government](https://rollcall.com/2019/09/04/ex-rep-aaron-schock-off-the-hook-after-concluding-deal-with-feds-over-fund-misuse/). In 2013, the House Committee on Ethics [published
-    the Office of Congressional Ethics Report and Findings and Rep. Schock's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-aaro-0).
-    In 2015, Schock resigned [amid a host of allegations](https://en.wikipedia.org/wiki/Aaron_Schock#Use_of_funds_scandal) of improper use of campaign funds.
+  text: In 2019 Schock settled with the federal government in a [deferred prosecution
+    agreement in which he repaid a little over $100,000 to the government](https://rollcall.com/2019/09/04/ex-rep-aaron-schock-off-the-hook-after-concluding-deal-with-feds-over-fund-misuse/).
+    In 2013, the House Committee on Ethics [published the Office of Congressional
+    Ethics Report and Findings and Rep. Schock's response](https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-aaro-0).
+    In 2015, Schock resigned [amid a host of allegations](https://en.wikipedia.org/wiki/Aaron_Schock#Use_of_funds_scandal)
+    of improper use of campaign funds.
   allegation: soliciting campaign contributions in excess of legally allowed amounts
   consequences:
   - date: 2012-08-30
@@ -3652,7 +3698,8 @@
     action: reported that Schock's resignation ended the committee's jurisdiction
     link: https://www.congress.gov/114/crpt/hrpt910/CRPT-114hrpt910.pdf#page=+34
   - date: 2019-09-04
-    text: Schock agreed to a deferred prosecution agreement in which he repaid a little over $100,000 to the government.
+    text: Schock agreed to a deferred prosecution agreement in which he repaid a little
+      over $100,000 to the government.
     link: https://rollcall.com/2019/09/04/ex-rep-aaron-schock-off-the-hook-after-concluding-deal-with-feds-over-fund-misuse/
   tags: crime elections ethics resolved
 - person: 412252
@@ -3851,8 +3898,8 @@
     link: https://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-bobb-0
   - date: 2018-03-22
     body: House Committee on Ethics
-    action: with publication of its report, reproved Rush for accepting
-      a gift of rent-free office space even if it did not amount to a campaign contribution
+    action: with publication of its report, reproved Rush for accepting a gift of
+      rent-free office space even if it did not amount to a campaign contribution
       and ordered him to repay the value of the gift
     link: https://www.congress.gov/115/crpt/hrpt618/CRPT-115hrpt618.pdf
     tags: reprimand
@@ -3966,7 +4013,8 @@
   text: In 2013 Rodgers was investigated for using official resources, including staff,
     for campaign activities, paying a consultant for official services with funds
     from political committees, and combining official resources and campaign resources
-    in furtherance of a campaign for a House leadership office from 2010 to 2012. In December 2019, the Committee completed its review. It ordered Rodgers to [reimburse
+    in furtherance of a campaign for a House leadership office from 2010 to 2012.
+    In December 2019, the Committee completed its review. It ordered Rodgers to [reimburse
     the House $7575.95 and reproved her for her sloppiness in managing her funds](https://www.congress.gov/116/crpt/hrpt359/CRPT-116hrpt359.pdf).
   allegation: using official resources, including staff, for campaign activities;
     paying a consultant for official services with funds from political committees;
@@ -5193,15 +5241,16 @@
 - person: 300094
   name: Stevens
   text: In 2008 Stevens was convicted of making false statements. Prior to sentencing
-    in 2009, the indictment was [dismissed due to prosecutorial misconduct](https://www.cnn.com/2009/POLITICS/04/07/ted.stevens/). Stevens lost the 2008 election and died
-    in 2010.
+    in 2009, the indictment was [dismissed due to prosecutorial misconduct](https://www.cnn.com/2009/POLITICS/04/07/ted.stevens/).
+    Stevens lost the 2008 election and died in 2010.
   allegation: making false statements
   consequences:
   - date: 2008
     text: Stevens was convicted and lost reelection.
     tags: conviction
   - date: 2009
-    text: Prior to sentencing in 2009, the indictment was dismissed due to prosecutorial misconduct.
+    text: Prior to sentencing in 2009, the indictment was dismissed due to prosecutorial
+      misconduct.
     link: https://www.cnn.com/2009/POLITICS/04/07/ted.stevens/
   - date: 2010
     text: Stevens died.
@@ -5631,8 +5680,7 @@
     Collins for misuse of official resources, campaign resources, and scholarship
     funds. On Sept. 12, 1996 11-count statement of alleged violation was adopted,
     but the [subcommittee recommended that no further action be taken](https://www.congress.gov/104/crpt/hrpt876/CRPT-104hrpt876.pdf#page=+26)
-    due to pending loss of jurisdiction since Collins was defeated in the August
-    primary.
+    due to pending loss of jurisdiction since Collins was defeated in the August primary.
   consequences:
   - date: 1996-08-06
     text: Defeated in the primary.
@@ -5845,9 +5893,9 @@
   consequences:
   - date: 1995-12-12
     body: House Committee on Standards of Official Conduct
-    action: investigated two member complaints filed (Mar. 8, 1995) and (May 15, 1995) (“Bonior
-      Complaints”); complaints dismissed in a public letter on Dec. 6, 1995 and a
-      public report issued on Dec. 12, 1995
+    action: investigated two member complaints filed (Mar. 8, 1995) and (May 15, 1995)
+      (“Bonior Complaints”); complaints dismissed in a public letter on Dec. 6, 1995
+      and a public report issued on Dec. 12, 1995
     link: https://www.congress.gov/104/crpt/hrpt401/CRPT-104hrpt401.pdf
   tags: ethics resolved
 - person: 404587
@@ -7022,7 +7070,8 @@
   name: Talmadge
   text: On Oct. 3, 1979, the Senate Select Committee on Ethics investigated Talmadge
     for financial misconduct and recommended that Talmadge be "denounced" (censured).
-    On Oct. 11, 1979, the Senate [censured him](https://www.govtrack.us/congress/votes/96-1979/s346). On Nov. 4, 1980, lost the election.
+    On Oct. 11, 1979, the Senate [censured him](https://www.govtrack.us/congress/votes/96-1979/s346).
+    On Nov. 4, 1980, lost the election.
   allegation: financial misconduct
   consequences:
   - date: 1979-10-03
@@ -7071,7 +7120,8 @@
   text: On Sep. 13, 1978, the House Committee on Standards of Official Conduct investigated
     Eilberg for conflict of interest by helping a hospital receive a federal grant
     and conducted inquiry. On Oct. 24, 1978, he was indicted. On Nov. 7, 1978, he
-    lost the election. In 1979, [he pleaded guilty](https://jweekly.com/2004/04/09/former-congressman-joshua-eilberg-dies-at-83/) and was sentenced to five years probation and a fine.
+    lost the election. In 1979, [he pleaded guilty](https://jweekly.com/2004/04/09/former-congressman-joshua-eilberg-dies-at-83/)
+    and was sentenced to five years probation and a fine.
   allegation: conflict of interest by helping a hospital receive a federal grant
   consequences:
   - date: 1978-09-13
@@ -7085,7 +7135,7 @@
   - date: 1979
     text: Pleaded guilty.
     link: https://jweekly.com/2004/04/09/former-congressman-joshua-eilberg-dies-at-83/
-    tags: plea 
+    tags: plea
   tags: ethics resolved
 - person: 411726
   name: Wilson
@@ -7791,9 +7841,13 @@
   tags: ethics resolved
 - person: 410017
   name: Smith
-  text: On May. 19, 1926, Smith admitted excessive campaign contributions from a
-    utility company he regulated. Smith won election to the Senate (he was previously in the House) anyway in 1926. In the meantime, a sitting Senator died. Smith was appointed
-    to fill that vacancy before being seated. The Senate refused to seat Smith. He resigned and the Governor again appointed him to fill a vacancy, this time the one he created. However, Smith did not claim the seat. In the special election shortly thereafter, Smith lost in the primary.
+  text: On May. 19, 1926, Smith admitted excessive campaign contributions from a utility
+    company he regulated. Smith won election to the Senate (he was previously in the
+    House) anyway in 1926. In the meantime, a sitting Senator died. Smith was appointed
+    to fill that vacancy before being seated. The Senate refused to seat Smith. He
+    resigned and the Governor again appointed him to fill a vacancy, this time the
+    one he created. However, Smith did not claim the seat. In the special election
+    shortly thereafter, Smith lost in the primary.
   allegation: corrupt campaign practices in both the primary and general election
     to the Senate that should preclude him from being seated
   consequences:
@@ -7993,8 +8047,8 @@
 - person: 401524
   name: Blanton
   text: Blanton faced an allegation of [inserting a document in Congressional Record
-    containing indecent and obscene language on October 22, 1921](https://en.wikipedia.org/wiki/Thomas_L._Blanton). On Oct. 24, the
-    House [voted to expunge the document from the Congressional Record](https://babel.hathitrust.org/cgi/pt?id=umn.31951p010934280&seq=428).
+    containing indecent and obscene language on October 22, 1921](https://en.wikipedia.org/wiki/Thomas_L._Blanton).
+    On Oct. 24, the House [voted to expunge the document from the Congressional Record](https://babel.hathitrust.org/cgi/pt?id=umn.31951p010934280&seq=428).
     On Oct. 27, 1921, he was [censured (“resolution of reprimand and censure”), 293-0](https://www.govtrack.us/congress/votes/67-1/h120).
     On Oct. 28, 1921, [apologized](https://babel.hathitrust.org/cgi/pt?id=umn.31951p010934280&seq=431).
   allegation: inserting a document in Congressional Record containing indecent and
@@ -8167,8 +8221,8 @@
   text: Lilley faced an allegation of contempt of House for making false charges of
     corruption regarding another member. On May. 20, 1908, the [Select Committee concluded
     Lilley made false allegations against another member and acted in contempt of
-    House](https://babel.hathitrust.org/cgi/pt?id=umn.31951p010934280&seq=600).
-    On May. 20, 1908, the House of Representatives [approved the report and conclusions
+    House](https://babel.hathitrust.org/cgi/pt?id=umn.31951p010934280&seq=600). On
+    May. 20, 1908, the House of Representatives [approved the report and conclusions
     of Select committee, 159- 82](https://www.govtrack.us/congress/votes/60-1/h191).
   allegation: contempt of House for making false charges of corruption regarding another
     member
@@ -8539,7 +8593,8 @@
 - person: 401495
   name: Blaine
   text: Blaine faced an allegation of selling worthless bonds to Union Pacific Railroad
-    for $64,000. On Jun. 6, 1876, the [House Committee on the Judiciary ordered a report](https://www.govinfo.gov/content/pkg/SERIALSET-01706_00_00-003-0176-0000/pdf/SERIALSET-01706_00_00-003-0176-0000.pdf).
+    for $64,000. On Jun. 6, 1876, the [House Committee on the Judiciary ordered a
+    report](https://www.govinfo.gov/content/pkg/SERIALSET-01706_00_00-003-0176-0000/pdf/SERIALSET-01706_00_00-003-0176-0000.pdf).
     On Jul. 10, 1876, he [resigned](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
   allegation: selling worthless bonds to Union Pacific Railroad for $64,000
   consequences:
