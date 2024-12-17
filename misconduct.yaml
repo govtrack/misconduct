@@ -1,3 +1,13 @@
+- person: 456889
+  name: Mills
+  allegation: unknown
+  text: The Office of Congressional Ethics referred a matter to the House Committee on Ethics in August 2024. On Dec. 16, 2024, the House Ethics Committee extended the matter and will announce its course of action after the organizational meeting of the 119th Congress's Ethics Committee.
+  consequences:
+  - date: 2024-12-16
+    body: House Committee on Ethics
+    action: anounced an investigation exists
+    link: https://ethics.house.gov/press-releases/statement-committee-ethics-regarding-representative-cory-mills
+  tags: ethics unresolved
 - person: 400654
   name: McCaul
   allegation: public drunkenness
