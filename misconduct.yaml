@@ -44,15 +44,21 @@
     his amended finance reports were compared to the originals. He claimed he had
     loaned his campaign $320,000 in 2022 and had not. It's unclear whether the the
     money came from elsewhere or was entirely made up. He also amended finance reports
-    to remove both contributions and expenditures. There is no indication of a House
-    Ethics Committee investigation even though this would also be a violation of House
-    rules in addition to a possible crime. In the first week of August, 2024, a Department
-    of Justice search was conducted and his cell phone seized.
+    to remove both contributions and expenditures. In the first week of August, 2024, a Department
+    of Justice search was conducted and his cell phone seized. The House Ethics Committee began an investigation in 2024 and extended the matter into the 119th Congress.
   consequences:
   - date: 2024-08
     body: Federal Bureau of Investigation
     action: executed a search warrant and seized Rep. Ogles' phone
     link: https://www.newschannel5.com/news/newschannel-5-investigates/revealed/fbi-agents-execute-search-warrant-on-tennessee-congressman-andy-ogles-newschannel-5-confirms
+  - date: 2024-08-02
+    body: Office of Congressional Ethics
+    action: recommended further review by the House Committee on Ethics
+    link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-andy-ogles
+  - date: 2025-01-02
+    body: House Committee on Ethics
+    action: published the OCE report
+    link: https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-representative-andy-ogles/
   tags: crime elections unresolved
 - person: 456822
   name: Spartz
@@ -504,7 +510,10 @@
   - date: 2024-07-23
     text: Menendez announced he would resign his Senate seat on August 20, 2024.
     link: https://www.washingtonpost.com/politics/2024/07/23/senator-bob-menendez-resigns-senate/
-  tags: corruption unresolved
+  - date: 2025-01-29
+    text: Menendez was sentenced to 11 years in prison.
+    link: https://apnews.com/article/bob-menendez-sentencing-new-jersey-bribery-fc8720f8b74fd431b40b1f7b4dcd5ac7
+  tags: corruption resolved
 - person: 456815
   name: Kahele
   text: Kahele was accused of [sponsoring bills that benefit his other employer, Hawaii
@@ -1445,7 +1454,11 @@
     body: U.S. Department of Justice
     action: re-issued charges in Washington, D.C.
     link: https://www.politico.com/news/2024/05/09/jeff-fortenberry-criminal-charges-00157018
-  tags: elections unresolved
+  - date: 2025-01-29
+    body: U.S. Department of Justice
+    action: dropping charges
+    link: https://www.politico.com/news/2025/01/29/jeff-fortenberry-dismiss-charges-00201274
+  tags: elections resolved
 - person: 412826
   name: Roy
   text: In the summer of 2021, Rep. Roy was fined for failing to wear a mask on the
