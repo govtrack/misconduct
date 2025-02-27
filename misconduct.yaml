@@ -1,4 +1,12 @@
-
+- person: 456889
+  name: Mills
+  allegation: assaulted a woman in his home and encouraged her to lie to the police about it
+  text: On Feb. 19th, Rep. Mills assaulted a woman in his home. The Metropolitan D.C. Police were called to the scene. The police have issued several reports on the incident, in increasingly less detail each time. The first report indicated that the victim said she was assaulted by Mills and she let police listen to a conversation with him in which he encouraged her to lie to the police. Subsequent reports have much less detail. An internal investigation of the handling of the matter is underway. An arrest warrant sent to the U. S. Attorney has not yet been signed.
+  consequences:
+  - date: 2024-02-19
+    text: Metropolitan Police of Washington, D.C. responded to a call about an assault at Rep. Mills home.
+    link: https://www.nbcwashington.com/news/local/florida-congressman-investigated-by-dc-police-for-alleged-assault/3850013/
+  tags: crime unresolved sexual-harassment-abuse
 - person: 412415
   name: Rivera
   allegation: for acting as an unregistered agent of a Venezuelan national and to launder funds to conceal and promote his criminal conduct
@@ -8,7 +16,7 @@
     body: Department of Justice
     action: indicted former FL Rep. David Rivera for for acting as an unregistered agent of a Venezuelan national and to launder funds to conceal and promote his criminal conduct
     link: https://www.justice.gov/opa/pr/former-member-congress-charged-acting-unregistered-agent-venezuelan-national
-  tags: 
+  tags: unresolved ethics corruption
 - person: 456889
   name: Mills
   allegation: unknown
