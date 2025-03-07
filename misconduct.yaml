@@ -1,36 +1,56 @@
 - person: 400653
   name: Green
-  allegation: disrupting the proceedings of the joint address and breaching proper conduct
-  text: At the President's Joint Address to Congress on March 4, Rep. Green repeatedly objected to various statements by the President. He was removed from the chamber and on March 6, he was censured [224-198](https://www.govtrack.us/congress/votes/119-2025/h62).
+  allegation: disrupting the proceedings of the joint address and breaching proper
+    conduct
+  text: At the President's Joint Address to Congress on March 4, Rep. Green repeatedly
+    objected to various statements by the President. He was removed from the chamber
+    and on March 6, he was censured [224-198](https://www.govtrack.us/congress/votes/119-2025/h62).
   consequences:
   - date: 2025-03-06
     body: House of Representatives
     action: censured Rep. Green 224-198
     link: https://www.govtrack.us/congress/votes/119-2025/h62
-  tags: censure resolved
+    tags: censure
+  tags: resolved
 - person: 456889
   name: Mills
-  allegation: assaulted a woman in his home and encouraged her to lie to the police about it
-  text: On Feb. 19th, Rep. Mills assaulted a woman in his home. The Metropolitan D.C. Police were called to the scene. The police have issued several reports on the incident, in increasingly less detail each time. The first report indicated that the victim said she was assaulted by Mills and she let police listen to a conversation with him in which he encouraged her to lie to the police. Subsequent reports have much less detail. An internal investigation of the handling of the matter is underway. An arrest warrant sent to the U. S. Attorney has not yet been signed.
+  allegation: assaulted a woman in his home and encouraged her to lie to the police
+    about it
+  text: On Feb. 19th, Rep. Mills assaulted a woman in his home. The Metropolitan D.C.
+    Police were called to the scene. The police have issued several reports on the
+    incident, in increasingly less detail each time. The first report indicated that
+    the victim said she was assaulted by Mills and she let police listen to a conversation
+    with him in which he encouraged her to lie to the police. Subsequent reports have
+    much less detail. An internal investigation of the handling of the matter is underway.
+    An arrest warrant sent to the U. S. Attorney has not yet been signed.
   consequences:
   - date: 2024-02-19
-    text: Metropolitan Police of Washington, D.C. responded to a call about an assault at Rep. Mills home.
+    text: Metropolitan Police of Washington, D.C. responded to a call about an assault
+      at Rep. Mills home.
     link: https://www.nbcwashington.com/news/local/florida-congressman-investigated-by-dc-police-for-alleged-assault/3850013/
-  tags: crime unresolved sexual-harassment-abuse
+  tags: crime sexual-harassment-abuse unresolved
 - person: 412415
   name: Rivera
-  allegation: for acting as an unregistered agent of a Venezuelan national and to launder funds to conceal and promote his criminal conduct
-  text: Former FL Rep. David Rivera was indicted for acting as an unregistered agent of a Venezuelan national and to launder funds to conceal and promote his criminal conduct.
+  allegation: for acting as an unregistered agent of a Venezuelan national and to
+    launder funds to conceal and promote his criminal conduct
+  text: Former FL Rep. David Rivera was indicted for acting as an unregistered agent
+    of a Venezuelan national and to launder funds to conceal and promote his criminal
+    conduct.
   consequences:
   - date: 2024-12-18
     body: Department of Justice
-    action: indicted former FL Rep. David Rivera for for acting as an unregistered agent of a Venezuelan national and to launder funds to conceal and promote his criminal conduct
+    action: indicted former FL Rep. David Rivera for for acting as an unregistered
+      agent of a Venezuelan national and to launder funds to conceal and promote his
+      criminal conduct
     link: https://www.justice.gov/opa/pr/former-member-congress-charged-acting-unregistered-agent-venezuelan-national
-  tags: unresolved ethics corruption
+  tags: corruption ethics unresolved
 - person: 456889
   name: Mills
   allegation: unknown
-  text: The Office of Congressional Ethics referred a matter to the House Committee on Ethics in August 2024. On Dec. 16, 2024, the House Ethics Committee extended the matter and will announce its course of action after the organizational meeting of the 119th Congress's Ethics Committee.
+  text: The Office of Congressional Ethics referred a matter to the House Committee
+    on Ethics in August 2024. On Dec. 16, 2024, the House Ethics Committee extended
+    the matter and will announce its course of action after the organizational meeting
+    of the 119th Congress's Ethics Committee.
   consequences:
   - date: 2024-12-16
     body: House Committee on Ethics
@@ -44,7 +64,10 @@
     Airport](https://www.nbcnews.com/politics/congress/republican-rep-michael-mccaul-detained-police-alcohol-airport-rcna180028)
     on November 4, 2024. He was not charged and said he had [combined Ambien with
     "several alcoholic drinks"](https://www.nbcnews.com/politics/congress/republican-rep-michael-mccaul-detained-police-alcohol-airport-rcna180028).
-    Rep. McCaul is chair of the House Foreign Affairs Committee. On Dec. 23, 2024, [the Committee released their report](https://ethics.house.gov/wp-content/uploads/2024/12/Committee-Report-1.pdf) indicating that Rep. McCaul said the charges had been dropped and the Committee was therefore closing the investigation
+    Rep. McCaul is chair of the House Foreign Affairs Committee. On Dec. 23, 2024,
+    [the Committee released their report](https://ethics.house.gov/wp-content/uploads/2024/12/Committee-Report-1.pdf)
+    indicating that Rep. McCaul said the charges had been dropped and the Committee
+    was therefore closing the investigation
   consequences:
   - date: 2024-11-04
     body: Metropolitan Washington Airport Authority police
@@ -52,7 +75,8 @@
     link: https://www.nbcnews.com/politics/congress/republican-rep-michael-mccaul-detained-police-alcohol-airport-rcna180028
   - date: 2024-12-23
     body: House Committee on Ethics
-    action: released their report indicating that Rep. McCaul said the charges had been dropped and the Committee was therefore closing the investigation
+    action: released their report indicating that Rep. McCaul said the charges had
+      been dropped and the Committee was therefore closing the investigation
     link: https://ethics.house.gov/wp-content/uploads/2024/12/Committee-Report-1.pdf
   tags: crime resolved
 - person: 456939
@@ -62,8 +86,10 @@
     his amended finance reports were compared to the originals. He claimed he had
     loaned his campaign $320,000 in 2022 and had not. It's unclear whether the the
     money came from elsewhere or was entirely made up. He also amended finance reports
-    to remove both contributions and expenditures. In the first week of August, 2024, a Department
-    of Justice search was conducted and his cell phone seized. The House Ethics Committee began an investigation in 2024 and extended the matter into the 119th Congress.
+    to remove both contributions and expenditures. In the first week of August, 2024,
+    a Department of Justice search was conducted and his cell phone seized. The House
+    Ethics Committee began an investigation in 2024 and extended the matter into the
+    119th Congress.
   consequences:
   - date: 2024-08
     body: Federal Bureau of Investigation
@@ -108,7 +134,12 @@
   allegation: converting campaign funds to personal use
   text: In 2024, the Office of Congressional Ethics recommended further review by
     the House Committee on Ethics on the allegation that Rep. Hunt had converted campaign
-    funds to personal use by using them to pay for membership in a social club. On Dec. 30, 2024, [the Committee announced](https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-certain-investigative-matters-involving-allegations-of-personal-use-of-campaign-funds/) that while "there was evidence that the Member’s campaign did not fully comply with the applicable standards relating to personal use of campaign funds, as well as reporting or recordkeeping requirements for campaign expenditures", the member did not do so intentionally. The investigation has been ended.
+    funds to personal use by using them to pay for membership in a social club. On
+    Dec. 30, 2024, [the Committee announced](https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-certain-investigative-matters-involving-allegations-of-personal-use-of-campaign-funds/)
+    that while "there was evidence that the Member’s campaign did not fully comply
+    with the applicable standards relating to personal use of campaign funds, as well
+    as reporting or recordkeeping requirements for campaign expenditures", the member
+    did not do so intentionally. The investigation has been ended.
   consequences:
   - date: 2024-03-15
     body: Office of Congressional Ethics
@@ -131,9 +162,14 @@
     membership at an Amarillo social club. That investigation may be continuing. In
     June of 2024, the House Ethics Committee announced an apparent second separate
     investigation since the Office of Congressional Ethics [issued a second report
-    recommending further review by House Ethics](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_19.pdf). On Dec. 30, 2024, [the Committee announced](https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-certain-investigative-matters-involving-allegations-of-personal-use-of-campaign-funds/) that while "there was evidence that the Member’s campaign did not fully comply with the applicable standards relating to personal use of campaign funds, as well as reporting or recordkeeping requirements for campaign expenditures", the member did not do so intentionally. The investigation has been ended.
-    in early 2024 on the same topic because Rep. Jackson has continued to use campaign
-    funds all this time to pay the Amarillo Club.
+    recommending further review by House Ethics](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_19.pdf).
+    On Dec. 30, 2024, [the Committee announced](https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-certain-investigative-matters-involving-allegations-of-personal-use-of-campaign-funds/)
+    that while "there was evidence that the Member’s campaign did not fully comply
+    with the applicable standards relating to personal use of campaign funds, as well
+    as reporting or recordkeeping requirements for campaign expenditures", the member
+    did not do so intentionally. The investigation has been ended. in early 2024 on
+    the same topic because Rep. Jackson has continued to use campaign funds all this
+    time to pay the Amarillo Club.
   consequences:
   - date: 2024-03-15
     body: Office of Congressional Ethics
@@ -1636,7 +1672,12 @@
   name: Mooney
   text: Rep. Mooney is accused of using campaign funds for personal purposes and for
     failing to properly report reimbursements to himself. The Committee has [carried
-    the investigation into the 118th Congress](https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+35). On Dec. 30, 2024, [the Committee announced](https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-certain-investigative-matters-involving-allegations-of-personal-use-of-campaign-funds/) that while "there was evidence that the Member’s campaign did not fully comply with the applicable standards relating to personal use of campaign funds, as well as reporting or recordkeeping requirements for campaign expenditures", the member did not do so intentionally. The investigation has been ended.
+    the investigation into the 118th Congress](https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+35).
+    On Dec. 30, 2024, [the Committee announced](https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-certain-investigative-matters-involving-allegations-of-personal-use-of-campaign-funds/)
+    that while "there was evidence that the Member’s campaign did not fully comply
+    with the applicable standards relating to personal use of campaign funds, as well
+    as reporting or recordkeeping requirements for campaign expenditures", the member
+    did not do so intentionally. The investigation has been ended.
   allegation: using campaign funds for personal purposes and failing to properly report
     reimbursements to himself
   consequences:
@@ -1919,7 +1960,10 @@
     [Gaetz resigned](https://www.wbal.com/matt-gaetz-ag-nomination-timeline/) from
     Congress that day. On Nov. 21, [CNN published still more details about allegations
     that Gaetz paid for sex with a minor](https://www.cnn.com/2024/11/21/politics/matt-gaetz-second-sexual-encounter-minor/index.html).
-    Later that day, he withdrew from consideration for Attorney General. On Dec. 23, 2024, the Ethics Committee [released the report of their investigation into Gaetz](https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-representative-matt-gaetz-2/) in which they concluded there was substantial reason to believe that he had used illegal drugs, paid for sex and, under FL law, committed statutory rape.
+    Later that day, he withdrew from consideration for Attorney General. On Dec. 23,
+    2024, the Ethics Committee [released the report of their investigation into Gaetz](https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-representative-matt-gaetz-2/)
+    in which they concluded there was substantial reason to believe that he had used
+    illegal drugs, paid for sex and, under FL law, committed statutory rape.
   consequences:
   - date: 2021-03-30
     text: The New York Times reported that the Department of Justice was investigating
@@ -2123,7 +2167,12 @@
   name: Bishop
   text: Rep. Bishop was investigated for spending both House office funds and campaign
     funds for personal use, including on annual holiday gatherings and tuition. The
-    investigation [has been carried into the 118th Congress](https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+28). On Dec. 30, 2024, [the Committee announced](https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-certain-investigative-matters-involving-allegations-of-personal-use-of-campaign-funds/) that while "there was evidence that the Member’s campaign did not fully comply with the applicable standards relating to personal use of campaign funds, as well as reporting or recordkeeping requirements for campaign expenditures", the member did not do so intentionally. The investigation has been ended.
+    investigation [has been carried into the 118th Congress](https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+28).
+    On Dec. 30, 2024, [the Committee announced](https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-certain-investigative-matters-involving-allegations-of-personal-use-of-campaign-funds/)
+    that while "there was evidence that the Member’s campaign did not fully comply
+    with the applicable standards relating to personal use of campaign funds, as well
+    as reporting or recordkeeping requirements for campaign expenditures", the member
+    did not do so intentionally. The investigation has been ended.
   allegation: spending Members’ Representational Allowance (MRA) funds on holiday
     events in his district and converting campaign funds to personal use
   consequences:
