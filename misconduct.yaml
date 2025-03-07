@@ -1,3 +1,13 @@
+- person: 400653
+  name: Green
+  allegation: disrupting the proceedings of the joint address and breaching proper conduct
+  text: At the President's Joint Address to Congress on March 4, Rep. Green repeatedly objected to various statements by the President. He was removed from the chamber and on March 6, he was censured [224-198](https://www.govtrack.us/congress/votes/119-2025/h62).
+  consequences:
+  - date: 2025-03-06
+    body: House of Representatives
+    action: censured Rep. Green 224-198
+    link: https://www.govtrack.us/congress/votes/119-2025/h62
+  tags: censure resolved
 - person: 456889
   name: Mills
   allegation: assaulted a woman in his home and encouraged her to lie to the police about it
