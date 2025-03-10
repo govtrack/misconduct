@@ -55,7 +55,7 @@
   - date: 2024-12-16
     body: House Committee on Ethics
     action: anounced an investigation exists
-    link: https://ethics.house.gov/press-releases/statement-committee-ethics-regarding-representative-cory-mills
+    link: https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-representative-cory-mills/
   tags: ethics unresolved
 - person: 400654
   name: McCaul
@@ -111,7 +111,7 @@
     on June 28 when an unloaded handgun was found in her carry on luggage during security
     screening. Charges were dismissed in September 2024 when Rep. Spartz completed
     a gun safety training course. The House Committee on Ethics [issued its report
-    and closed the investigation](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_65.pdf)
+    and closed the investigation](https://www.congress.gov/118/crpt/hrpt731/CRPT-118hrpt731.pdf)
     in November 2024.
   consequences:
   - date: 2024-06-28
@@ -127,7 +127,7 @@
   - date: 2024-11-12
     body: House Ethics Committee
     action: closed the investigation with the issuance of its report
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_64.pdf
+    link: https://www.congress.gov/118/crpt/hrpt731/CRPT-118hrpt731.pdf
   tags: crime resolved
 - person: 456946
   name: Hunt
@@ -141,14 +141,14 @@
     as reporting or recordkeeping requirements for campaign expenditures", the member
     did not do so intentionally. The investigation has been ended.
   consequences:
-  - date: 2024-03-15
+  - date: 2024-03-25
     body: Office of Congressional Ethics
     action: recommended further review by the House Committee on Ethics
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_20.pdf
+    link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-wesley-hunt
   - date: 2024-06-24
     body: House Committee on Ethics
     action: published the OCE report and the representative's response
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-84
+    link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-wesley-hunt/
   - date: 2024-12-30
     body: House Committee on Ethics
     action: ended the investigation despite evidence that rules were violated
@@ -229,17 +229,17 @@
     information on financial disclosure forms. It also found that Nehls and his staff
     and associates refused to cooperate with the investigation.
   consequences:
-  - date: 2023-12-01
+  - date: 2023-12-11
     body: Office of Congressional Ethics
     action: found probable cause to believe that Rep. Nehls may have converted campaign
       committee funds to personal use and failed to disclose required nformation in
       his annual House financial disclosure statements and recommended that the House
       Committee on Ethics issue subpoenas.
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-81
+    link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-troy-nehls
   - date: 2024-05-10
     body: House Committee on Ethics
     action: extended the matter
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-81
+    link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-troy-e-nehls/
   tags: corruption unresolved
 - person: 400657
   name: Cuellar
@@ -247,7 +247,7 @@
   text: Rep. Cuellar was indicted for allegedly accepting bribes from a Mexican bank
     and Azerbaijani oil company controlled by the nation's government. On May 29,
     2024, the House Committee on Ethics [voted unanimously voted to establish an Investigative
-    Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-henry).
+    Subcommittee](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar/).
   consequences:
   - date: 2024-05-03
     body: Department of Justice
@@ -256,7 +256,7 @@
   - date: 2024-05-29
     body: House Committee on Ethics
     action: unanimously voted to establish an Investigative Subcommittee
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-henry
+    link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar/
   tags: corruption unresolved
 - person: 456865
   name: Cherfilus-McCormick
@@ -419,7 +419,7 @@
     misconduct. It deferred everything else to the Department of Justice. The investigation
     began in early 2023 after extensive reporting that Santos [fabricated most of
     his life story](https://www.nbcnewyork.com/news/politics/list-of-george-santos-lies-all-the-mistruths-the-congressman-is-accused-of-telling/4043980/)
-    during his campaign as well as [demands from representatives to investigate](https://ethics.house.gov/sites/ethics.house.gov/files/documents/APPENDIX%20A_9.pdf)
+    during his campaign as well as [demands from representatives to investigate](https://web.archive.org/web/20240309233949/https://ethics.house.gov/sites/ethics.house.gov/files/documents/APPENDIX%20A_9.pdf)
     and an [attempt to expel him](https://www.govtrack.us/congress/votes/118-2023/h217).
     On August 19, 2024, [Santos pleaded guilty](https://apnews.com/article/george-santos-plea-court-new-york-90741d068fd94090419fc0fd79be30cc)
     to wire fraud and identity theft.
@@ -536,7 +536,7 @@
   - date: 2022-08-26
     body: Office of Congressional Ethics
     action: recommended further review by the House Committee on Ethics
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_15.pdf
+    link: https://oce.house.gov/investigation/22-9485
   - date: 2022-11-28
     body: House Committee on Ethics
     action: published the Office of Congressional Ethics Report and Findings and the
@@ -593,7 +593,7 @@
   name: Kahele
   text: Kahele was accused of [sponsoring bills that benefit his other employer, Hawaii
     Airlines](https://www.hawaiinewsnow.com/2022/10/18/kahele-faces-house-ethics-probe-over-bills-he-co-sponsored-that-benefited-airlines/).
-    In November 2022, [the Office of Congressional Ethics voted to dismiss this allegation](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_15.pdf).
+    Kahele did not seek re-election and in January 2023, [the committee lost jurisdiction](https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+33).
   allegation: sponsoring bills that benefit his other employer, Hawaii Airlines
   consequences:
   - date: 2022-10-14
@@ -605,9 +605,9 @@
       sponsoring bills that benefit his other employer, Hawaii Airlines.
     link: https://www.hawaiinewsnow.com/2022/10/18/kahele-faces-house-ethics-probe-over-bills-he-co-sponsored-that-benefited-airlines/
   - date: 2022-11-28
-    body: Office of Congressional Ethics
-    action: dismissed the allegations
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_15.pdf
+    body: House Committee on Ethics
+    action: lost jurisdiction when Kahele did not run for re-election
+    link: https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+33
   tags: ethics resolved
 - person: 400251
   name: Maloney
@@ -869,13 +869,13 @@
 - person: 412379
   name: Chu
   text: Rep. Chu was arrested in a protest at the Capitol on June 30, 2022. The House
-    Committee on Ethics [released a report indicating she will pay the $50 fine](https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_41.pdf).
+    Committee on Ethics [released a report indicating she will pay the $50 fine](https://www.congress.gov/congressional-report/117th-congress/house-report/433/1?outputFormat=pdf&q=%7B%22search%22%3A%22ethics+chu%22%7D&s=7&r=1).
   allegation: arrested at a protest at the Capitol
   consequences:
   - date: 2022-07-22
     body: House Committee on Ethics
     action: reported that she will pay a $50 fine
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Committee%20Report_41.pdf
+    link: https://www.congress.gov/congressional-report/117th-congress/house-report/433/1?outputFormat=pdf&q=%7B%22search%22%3A%22ethics+chu%22%7D&s=7&r=1
     tags: fined
   tags: crime resolved
 - person: 408094
@@ -919,7 +919,8 @@
     scheme with a brand of cryptocurrency where he acted on non-public information
     to increase the currency price and then similarly to sell his shares before the
     currency's value dropped to zero. In May 2022, the House Committee on Ethics announced
-    [they had impaneled an investigative subcommittee to review the allegations](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-64).
+    [they had impaneled an investigative subcommittee to review the allegations](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-64). In December the Committee accepted the Investigative Subcommittee's report that concluded that Cawthorn had engaged in a pump and dump scheme and [charged him with repaying the difference
+      on the cryptocurrency and the late filing fees](https://www.congress.gov/117/crpt/hrpt591/CRPT-117hrpt591.pdf).
   allegation: participating in a investment "pump and dump" scheme
   consequences:
   - date: 2022-04-23
@@ -935,7 +936,7 @@
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-64
   - date: 2022-12-06
     body: House Committee on Ethics
-    action: Committee accepted the investigative subcommittee's report indicating
+    action: accepted the investigative subcommittee's report indicating
       that Cawthorn had received cryptocurrency at rates not available to the public,
       had a conflict of interest with respect to the cryptocurrency company, failed
       to file timely financial disclosures and charged him with repaying the difference
@@ -1038,7 +1039,7 @@
   - date: 2022-05-23
     body: House Committee on Ethics
     action: published a report indicating that since they had already paid one fine
-      and intended to pay any additional ones, the committee would end it's investigation
+      and intended to pay any additional ones, the committee would end its investigation
     link: https://www.congress.gov/117/crpt/hrpt339/CRPT-117hrpt339.pdf
     tags: fined
   tags: crime resolved
@@ -1047,10 +1048,10 @@
   text: In 2021, Rep. Omar was accused of ommitting required financial disclosures
     and accepting an advance on her memoir. The Office of Congressional Ethics [voted
     unanimously in December 2021 to recommend that the House Committee on Ethics dismiss
-    the case](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report_5.pdf)
+    the case](https://oce.house.gov/reports/investigations/oce-report-regarding-rep-ilhan-omar)
     for lack of evidence. In 2022, two of the four House Committee on Ethics members
     did not vote to dismiss, but House rules have no guidelines for how to proceed
-    in this situation so [no further action will be taken](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ilhan).
+    in this situation so [no further action will be taken](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ilhan/).
   allegation: ommitting required financial disclosures and accepting an advance on
     her memoir
   consequences:
@@ -1058,12 +1059,12 @@
     body: Office of Congressional Ethics
     action: voted unanimously to recommend that the House Committee on Ethics dismiss
       the case for lack of evidence
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report_5.pdf
+    link: https://oce.house.gov/reports/investigations/oce-report-regarding-rep-ilhan-omar
   - date: 2022-03-22
     body: House Committee on Ethics
     action: did not dismiss the case because a majority did not agree to that, but
       will not pursue further action based on the Office of Congressional Ethics recommendation
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ilhan
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ilhan/
   tags: ethics resolved
 - person: 456805
   name: Boebert
@@ -1084,19 +1085,6 @@
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-46
     tags: fined
   tags: ethics resolved
-- person: 412574
-  name: Weber
-  text: In 2021, Rep. Weber was fined for failing to wear a mask on the House floor
-    during the COVID-19 pandemic.
-  allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
-  consequences:
-  - date: 2021-11-30
-    body: House Sergeant at Arms
-    action: fined them for failing to wear a mask on the House floor during the COVID-19
-      pandemic
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-randy
-    tags: fined
-  tags: ethics resolved
 - person: 456839
   name: Bowman
   text: In January 2022, Rep. Bowman was arrested while protesting at the Capitol.
@@ -1111,6 +1099,19 @@
       be taken by the Committee
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-55
     tags: plea
+  tags: ethics resolved
+- person: 412574
+  name: Weber
+  text: In 2021, Rep. Weber was fined for failing to wear a mask on the House floor
+    during the COVID-19 pandemic.
+  allegation: failing to wear a mask on the House floor during the COVID-19 pandemic
+  consequences:
+  - date: 2021-11-30
+    body: House Sergeant at Arms
+    action: fined them for failing to wear a mask on the House floor during the COVID-19
+      pandemic
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-randy
+    tags: fined
   tags: ethics resolved
 - person: 412552
   name: Meadows
@@ -1201,7 +1202,11 @@
     body: House Committee on Ethics
     action: carried its investigation into the 118th Congress
     link: https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+33
-  tags: ethics unresolved
+  - date: 2025-01-02
+    body: House Committee on Ethics
+    action: ceased investigating as Lamborn did not run for re-election and the Committee's juridiction has ended.
+    link: https://ethics.house.gov/wp-content/uploads/2025/01/Committee-Report.pdf#page=+34
+  tags: ethics resolved
 - person: 456853
   name: Good
   text: In 2021, Rep. Good was fined for failing to wear a mask on the House floor
