@@ -159,26 +159,47 @@
   allegation: ongoing campaign finance violations
   text: In 2022, the House Ethics Committee announced an investigation into possible
     campaign finance violations because Rep. Jackson used campaign funds to pay for
-    membership at an Amarillo social club. That investigation may be continuing. In
+    membership at an Amarillo social club. In
     June of 2024, the House Ethics Committee announced an apparent second separate
-    investigation since the Office of Congressional Ethics [issued a second report
-    recommending further review by House Ethics](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_19.pdf).
+    investigation (that was subsequently combined with the first one) since the Office of Congressional Ethics [issued a second report
+    recommending further review by House Ethics](https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-ronny-jackson-0) on
+    the same topic because Rep. Jackson has continued to use campaign funds all this
+    time to pay the Amarillo Club.
     On Dec. 30, 2024, [the Committee announced](https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-certain-investigative-matters-involving-allegations-of-personal-use-of-campaign-funds/)
     that while "there was evidence that the Member’s campaign did not fully comply
     with the applicable standards relating to personal use of campaign funds, as well
     as reporting or recordkeeping requirements for campaign expenditures", the member
-    did not do so intentionally. The investigation has been ended. in early 2024 on
-    the same topic because Rep. Jackson has continued to use campaign funds all this
-    time to pay the Amarillo Club.
+    did not do so intentionally. The investigation has been ended. 
   consequences:
+  - date: 2021-12-22
+    body: Office of Congressional Ethics
+    action: recommended further review by the House Committee on Ethics
+    link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-ronny-jackson
+  - date: 2022-04-07
+    body: House Committee on Ethics
+    action: extended the matter regarding the representative
+    link: https://ethics.house.gov/press-releases/ok
+  - date: 2022-04-07
+    text: Jackson's office said that the investigation concerned alleged campaign
+      finance violations.
+    link: https://abc7amarillo.com/news/local/house-ethics-committee-investigating-us-rep-ronny-jacksons-campaign-spending
+  - date: 2022-05-23
+    body: House Committee on Ethics
+    action: published the Office of Congressional Ethics Report and Findings and Jackson's
+      response
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ronny
+  - date: 2023-01-03
+    body: House Committee on Ethics
+    action: carried the investigation into the 118th Congress
+    link: https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+31
   - date: 2024-03-15
     body: Office of Congressional Ethics
     action: recommended further review by the House Committee on Ethics
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report%20and%20Findings_19.pdf
+    link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-ronny-jackson-0
   - date: 2024-06-24
     body: House Committee on Ethics
     action: extended the matter regarding the representative
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-83
+    link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-ronny-jackson/
   - date: 2024-12-30
     body: House Committee on Ethics
     action: ended the investigation despite evidence that rules were violated
@@ -998,35 +1019,6 @@
     action: dismissed the referral
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-pat-1
   tags: crime ethics resolved
-- person: 456847
-  name: Jackson
-  text: In 2022, the House Committee on Ethics announced it would extend its investigation
-    of allegations of [campaign finance violations](https://abc7amarillo.com/news/local/house-ethics-committee-investigating-us-rep-ronny-jacksons-campaign-spending).
-    The Committee [carried its investigation into the 118th Congress](https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+31).
-  allegation: campaign finance violations
-  consequences:
-  - date: 2021-12-22
-    body: Office of Congressional Ethics
-    action: recommended further review by the House Committee on Ethics
-    link: https://ethics.house.gov/press-releases/ok
-  - date: 2022-04-07
-    body: House Committee on Ethics
-    action: extended the matter regarding the representative
-    link: https://ethics.house.gov/press-releases/ok
-  - date: 2022-04-07
-    text: Jackson's office said that the investigation concerned alleged campaign
-      finance violations.
-    link: https://abc7amarillo.com/news/local/house-ethics-committee-investigating-us-rep-ronny-jacksons-campaign-spending
-  - date: 2022-05-23
-    body: House Committee on Ethics
-    action: published the Office of Congressional Ethics Report and Findings and Jackson's
-      response
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-ronny
-  - date: 2023-01-03
-    body: House Committee on Ethics
-    action: carried the investigation into the 118th Congress
-    link: https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+31
-  tags: elections ethics unresolved
 - person: 456833
   name: Cawthorn
   text: In 2022, Rep. Cawthorn was cited for [driving with a revoked license and cited
