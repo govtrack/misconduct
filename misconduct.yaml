@@ -46,16 +46,17 @@
   tags: corruption ethics unresolved
 - person: 456889
   name: Mills
-  allegation: unknown
-  text: The Office of Congressional Ethics referred a matter to the House Committee
-    on Ethics in August 2024. On Dec. 16, 2024, the House Ethics Committee extended
-    the matter and will announce its course of action after the organizational meeting
-    of the 119th Congress's Ethics Committee.
+  allegation: ommitting or misrepresenting financial disclosure information and benefiting from federal contracts while in office
+  text: The former Office of Congressional Ethics, now Office of Congressional Conduct (OCC), referred a matter to the House Committee on Ethics in August 2024. On Dec. 16, 2024, the House Ethics Committee extended the matter and will announce its course of action after the organizational meeting of the 119th Congress's Ethics Committee. In March 2025, the [Committee published the OCC's report and response from Rep. Mills](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-cory-mills/). Mills is accused of ommitting or misrepresenting contributions to his campaign in financial disclosure documents, benefiting from federal contracts while in office and failing to properly disclose that as well.
   consequences:
   - date: 2024-12-16
     body: House Committee on Ethics
     action: anounced an investigation exists
     link: https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-representative-cory-mills/
+  - date: 2025-03-27
+    body: House Committee on Ethics
+    action: published the OCC's report and response from Rep. Mills
+    link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-cory-mills/
   tags: ethics unresolved
 - person: 400654
   name: McCaul
