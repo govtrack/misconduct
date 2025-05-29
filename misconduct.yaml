@@ -3982,7 +3982,7 @@
     campaign contributions in exchange for offering to use his official position to
     assist that individual in obtaining a green card. This plea came three years after
     the Office of Congressional Ethics began an investigation of the allegations.
-    Grimm resigned in January 2015 and served seven months in prison.
+    Grimm resigned in January 2015 and served seven months in prison. In 2025, Grimm was pardoned by President Trump.
   allegation: violating federal campaign finance laws by soliciting and accepting
     prohibited campaign contributions, causing false information to be included in
     campaign finance reports, and improperly seeking assistance from a foreign national
@@ -4001,6 +4001,9 @@
   - date: 2015
     text: Resigned and served seven months in prison.
     tags: resignation
+  - date: 2025-05-28
+    text: Grimm pardoned by President Trump.
+    link: https://www.cbsnews.com/news/trump-pardons-former-rep-michael-grimm/
   tags: crime elections resolved
 - person: 400350
   name: Rush
