@@ -1,3 +1,13 @@
+- person: 456962
+  name: McIver
+  allegation: assaulting, impeding, and interfering with law enforcement
+  text: On May 9, 2025, [Newark Mayor Ras Baraka was handcuffed and arrested](https://www.nytimes.com/2025/06/03/nyregion/ras-baraka-alina-habba-lawsuit-ice.html) while standing outside of an Immigration and Customs Enforcement (ICE) detention center in Newark. He had been waiting on three members of Congress to finish their inspection of the facility. When they came back out and ICE began to try to arrest him, the Congress members tried to block ICE from doing so. They did not succeed, but the charges were dropped a few hours later. Nonetheless, one of the members of Congress, [Rep. McIver, has been charged with assaulting, impeding, and interfering with law enforcement](https://abcnews.go.com/Politics/rep-lamonica-mciver-charged-doj-incident-ice-agents/story?id=121971746) because she pushed against ICE officers in body armor with her unarmored arms.
+  consequences:
+  - date: 2025-05-19
+    body: Department of Justice
+    action: charged Rep. McIver with assaulting, impeding, and interfering with law enforcement
+    link: https://abcnews.go.com/Politics/rep-lamonica-mciver-charged-doj-incident-ice-agents/story?id=121971746
+  tags: crime unresolved
 - person: 400653
   name: Green
   allegation: disrupting the proceedings of the joint address and breaching proper
