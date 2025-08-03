@@ -258,7 +258,7 @@
   text: Rep. Cuellar was indicted for allegedly accepting bribes from a Mexican bank
     and Azerbaijani oil company controlled by the nation's government. On May 29,
     2024, the House Committee on Ethics [voted unanimously voted to establish an Investigative
-    Subcommittee](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar/).
+    Subcommittee](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar/). In 2025, the Committee [reauthorized the Investigative Subcommittee for the 119th Congress](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar-2/).
   consequences:
   - date: 2024-05-03
     body: Department of Justice
@@ -268,6 +268,10 @@
     body: House Committee on Ethics
     action: unanimously voted to establish an Investigative Subcommittee
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar/
+  - date: 2025-07-25
+    body: House Committee on Ethics
+    action: reauthorized the Investigative Subcommittee for the 119th Congress
+    link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar-2/
   tags: corruption unresolved
 - person: 456865
   name: Cherfilus-McCormick
@@ -276,7 +280,7 @@
     services for official work from an individual not employed in her congressional
     office; engaging in improper conduct in connection with community project funding
     requests; misusing official funds for campaign purposes; and/or violating campaign
-    finance laws and regulations in connection with her 2024 re-election campaign.
+    finance laws and regulations in connection with her 2024 re-election campaign. 
   text: Rep. Cherfilus-McCormick has been under investigation by the House Committee
     on Ethics for allegations of violating campaign finance laws in her 2022 campaign,
     failing to properly disclose required information on statements required to be
@@ -292,7 +296,7 @@
     official funds for campaign purposes; and/or violating campaign finance laws and
     regulations in connection with her 2024 re-election campaign In Sept. 2024, the
     [first Office of Congressional Ethics report](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report_7.pdf)
-    was published.
+    was published. In 2025, the Committee [reauthorized the Investigative Subcommittee for the 119th Congress](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-6/).
   consequences:
   - date: 2023-09-23
     body: Office of Congressional Ethics
@@ -318,6 +322,10 @@
     body: House Committee on Ethics
     action: released the Office of Congressional Ethics' 2023 report
     link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report_7.pdf
+  - date: 2025-07-25
+    body: House Committee on Ethics
+    action: reauthorized the Investigative Subcommittee for the 119th Congress
+    link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-6/
   tags: elections unresolved
 - person: 412787
   name: Tlaib
@@ -518,8 +526,7 @@
     in 2021
   text: The House Office of Congressional Ethics found "substantial reason to believe"
     that Ocasio-Cortez accepted impermissible gifts associated with her attendance
-    at the Met Gala in 2021, which she paid for after the investigation began. The
-    matter is pending before the House Committee on Ethics.
+    at the Met Gala in 2021, which she paid for after the investigation began. In 2025, the House Committee on Ethics [published its report finding that while Ocasio-Cortez tried to accurately assess the value of the items received and pay in advance, the amounts were too low and she was assessed to owe additonal sums to the vendors involved](https://ethics.house.gov/wp-content/uploads/2025/07/Committee-Report-20250725-Rep.-Ocasio-Cortez-1.pdf).
   consequences:
   - date: 2022-06-23
     body: House Committee on Ethics
@@ -530,7 +537,11 @@
     action: published the Office of Congressional Ethics Report and Findings and the
       member's response
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-70
-  tags: ethics unresolved
+  - date: 2025-07-25
+    body: House Committee on Ethics
+    action: published its report finding that while Ocasio-Cortez tried to accurately assess the value of the items received and pay in advance, the amounts were too low and she was assessed to owe additonal sums to the vendors involved
+    link: https://ethics.house.gov/wp-content/uploads/2025/07/Committee-Report-20250725-Rep.-Ocasio-Cortez-1.pdf
+  tags: ethics resolved
 - person: 456815
   name: Kahele
   text: In 2022, Kahele was accused of misusing official resources for campaign or
@@ -1630,7 +1641,7 @@
   name: Kelly
   text: Rep. Mike Kelly is accused of making a stock purchase, through his wife, based
     on nonpublic information he learned in his official duties. The Committee [carried
-    its investigation into the 118th Congress](https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+33).
+    its investigation into the 118th Congress](https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+33). In 2025, the Committee [released its report](https://ethics.house.gov/wp-content/uploads/2025/07/20250725-Committee-Report.pdf) finding that Kelly did not violate rules related to insider trading and conflicts of interest.
   allegation: insider trading
   consequences:
   - date: 2021-07-23
@@ -1650,7 +1661,11 @@
     body: House Committee on Ethics
     action: carried its investigation into the 118th Congress
     link: https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+33
-  tags: corruption unresolved
+  - date: 2025-07-25
+    body: House Committee on Ethics
+    action: released its report and found that Kelly did not violate rules related to insider trading and conflicts of interest
+    link: https://ethics.house.gov/wp-content/uploads/2025/07/20250725-Committee-Report.pdf
+  tags: corruption resolved
 - person: 412798
   name: Malinowski
   text: Rep. Malinowski is accused of failing to disclose stock transactions made
