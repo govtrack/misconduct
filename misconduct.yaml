@@ -26,18 +26,21 @@
   name: Mills
   allegation: assaulted a woman in his home and encouraged her to lie to the police
     about it
-  text: On Feb. 19th, Rep. Mills assaulted a woman in his home. The Metropolitan D.C.
+  text: On Feb. 19th 2024, Rep. Mills assaulted a woman in his home. The Metropolitan D.C.
     Police were called to the scene. The police have issued several reports on the
     incident, in increasingly less detail each time. The first report indicated that
     the victim said she was assaulted by Mills and she let police listen to a conversation
     with him in which he encouraged her to lie to the police. Subsequent reports have
     much less detail. An internal investigation of the handling of the matter is underway.
-    An arrest warrant sent to the U. S. Attorney has not yet been signed.
+    An arrest warrant sent to the U. S. Attorney has not yet been signed. In October 2025, [a judge issued a restraining order against Mills](https://www.politico.com/news/2025/10/14/cory-mills-restraining-order-florida-00608307) to protect a different ex-girlfriend who broke up with him when the news of the above alleged assault became public.
   consequences:
   - date: 2024-02-19
     text: Metropolitan Police of Washington, D.C. responded to a call about an assault
       at Rep. Mills home.
     link: https://www.nbcwashington.com/news/local/florida-congressman-investigated-by-dc-police-for-alleged-assault/3850013/
+  - date: 2025-10-14
+    text: In October 2025, a judge issued a restraining order against Mills to protect a different ex-girlfriend who broke up with him when the news of the above alleged assault became public.
+    link: https://www.politico.com/news/2025/10/14/cory-mills-restraining-order-florida-00608307
   tags: crime sexual-harassment-abuse unresolved
 - person: 412415
   name: Rivera
@@ -441,7 +444,7 @@
     during his campaign as well as [demands from representatives to investigate](https://web.archive.org/web/20240309233949/https://ethics.house.gov/sites/ethics.house.gov/files/documents/APPENDIX%20A_9.pdf)
     and an [attempt to expel him](https://www.govtrack.us/congress/votes/118-2023/h217).
     On August 19, 2024, [Santos pleaded guilty](https://apnews.com/article/george-santos-plea-court-new-york-90741d068fd94090419fc0fd79be30cc)
-    to wire fraud and identity theft.
+    to wire fraud and identity theft. In October 2025, President Trump commuted Santos's sentence.
   consequences:
   - date: 2022-09-01
     text: Local paper The North Shore Leader broke the story of Santos's "inexplicable
@@ -501,6 +504,9 @@
     text: Pleaded guilty to wire fraud and identity theft.
     link: https://apnews.com/article/george-santos-plea-court-new-york-90741d068fd94090419fc0fd79be30cc
     tags: plea
+  - date: 2025-10-20
+    text: President Trump commuted Santos's sentence.
+    link: https://apnews.com/article/trump-george-santos-commutation-pardon-8ae46d6351cefe01d79f74920521b7a2
   tags: corruption crime elections resolved sexual-harassment-abuse
 - person: 456833
   name: Cawthorn
