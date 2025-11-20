@@ -1,3 +1,23 @@
+- person: 456889
+  name: Mills
+  allegation: failing to properly disclose required information on statements required to be filed with the House; violated campaign finance laws and regulations in connection with his 2022 and 2024 election campaigns; improperly solicited and/or received gifts, including in connection with privately sponsored officially-connected travel; received special favors by virtue of his position; engaged in misconduct with respect to allegations of sexual misconduct and/or dating violence; and/or misused congressional resources or status
+  text: The House Committee on Ethics opened a new investigation on Mills after the House voted [310-303](https://www.govtrack.us/congress/votes/119-2025/h302) to refer a [resolution of censure](https://www.govtrack.us/congress/bills/119/hres893/text) to the Ethics Committee.
+  consequences:
+  - date: 2025-11-19
+    body: House Committee on Ethics
+    action: opened an investigation and will be establishing an Investigative Subcommittee
+    link: https://ethics.house.gov/wp-content/uploads/2025/11/Press-Release-Rep.-Mills-11.19.25.pdf
+  tags: unresolved sexual-harassment-abuse elections ethics
+- person: 412774
+  name: Garciá
+  allegation: imporoperly timed his retirement announcement to ensure his preferred successor was the only entrant in the upcoming Democratic primary
+  text: [Rep. Garciá chose to time his retirement announcement until after his preferred successor had submitted her own petition to get on the primary ballot](https://www.politico.com/live-updates/2025/11/18/congress/chuy-garcia-ballot-petitions-00656890) and near the deadline for submitting petitions to be on the ballot. The end result is that his preferred successor is now the only person in 2026 Democratic primary for his seat. Another Democratic representative, Rep. Gluesenkamp Perez (D-WA3) filed a resolution of disapproval which passed [236-183](https://www.govtrack.us/congress/votes/119-2025/h292)
+  consequences:
+  - date: 2025-11-18
+    body: House of Representatives
+    action: approved a resolution of disapproval 236-183
+    link: https://www.govtrack.us/congress/votes/119-2025/h292
+  tags: reprimand resolved
 - person: 456962
   name: McIver
   allegation: assaulting, impeding, and interfering with law enforcement
@@ -276,7 +296,7 @@
     action: reauthorized the Investigative Subcommittee for the 119th Congress
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar-2/
   tags: corruption unresolved
-- person: 456865
+  - person: 456865
   name: Cherfilus-McCormick
   allegation: violating campaign finance laws; failing to properly disclose required
     information on statements required to be filed with the House; accepting voluntary
@@ -299,7 +319,7 @@
     official funds for campaign purposes; and/or violating campaign finance laws and
     regulations in connection with her 2024 re-election campaign In Sept. 2024, the
     [first Office of Congressional Ethics report](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report_7.pdf)
-    was published. In 2025, the Committee [reauthorized the Investigative Subcommittee for the 119th Congress](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-6/).
+    was published. In 2025, the Committee [reauthorized the Investigative Subcommittee for the 119th Congress](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-6/). In November 2025, [Cherfilus-McCormick was indicted for keeping overpayments from COVID era progams and then using the extra money to fund her 2022 Congressional campaign](https://www.huffpost.com/entry/sheila-cherfilus-mccormick-indicted-fema-funds_n_691e5d0fe4b0b763ab8dace8?bbc).
   consequences:
   - date: 2023-09-23
     body: Office of Congressional Ethics
@@ -329,6 +349,10 @@
     body: House Committee on Ethics
     action: reauthorized the Investigative Subcommittee for the 119th Congress
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-6/
+  - date: 2025-11-19
+    body: Department of Justice
+    action: indicted for keeping overpayments from COVID era progams and then using the extra money to fund her 2022 Congressional campaign
+    link: https://www.huffpost.com/entry/sheila-cherfilus-mccormick-indicted-fema-funds_n_691e5d0fe4b0b763ab8dace8?bbc
   tags: elections unresolved
 - person: 412787
   name: Tlaib
