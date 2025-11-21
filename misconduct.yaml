@@ -1,18 +1,33 @@
 - person: 456889
   name: Mills
-  allegation: failing to properly disclose required information on statements required to be filed with the House; violated campaign finance laws and regulations in connection with his 2022 and 2024 election campaigns; improperly solicited and/or received gifts, including in connection with privately sponsored officially-connected travel; received special favors by virtue of his position; engaged in misconduct with respect to allegations of sexual misconduct and/or dating violence; and/or misused congressional resources or status
-  text: The House Committee on Ethics opened a new investigation on Mills after the House voted [310-303](https://www.govtrack.us/congress/votes/119-2025/h302) to refer a [resolution of censure](https://www.govtrack.us/congress/bills/119/hres893/text) to the Ethics Committee.
+  allegation: failing to properly disclose required information on statements required
+    to be filed with the House; violated campaign finance laws and regulations in
+    connection with his 2022 and 2024 election campaigns; improperly solicited and/or
+    received gifts, including in connection with privately sponsored officially-connected
+    travel; received special favors by virtue of his position; engaged in misconduct
+    with respect to allegations of sexual misconduct and/or dating violence; and/or
+    misused congressional resources or status
+  text: The House Committee on Ethics opened a new investigation on Mills after the
+    House voted [310-303](https://www.govtrack.us/congress/votes/119-2025/h302) to
+    refer a [resolution of censure](https://www.govtrack.us/congress/bills/119/hres893/text)
+    to the Ethics Committee.
   consequences:
   - date: 2025-11-19
     body: House Committee on Ethics
     action: opened an investigation and will be establishing an Investigative Subcommittee
     link: https://ethics.house.gov/wp-content/uploads/2025/11/Press-Release-Rep.-Mills-11.19.25.pdf
-  tags: unresolved sexual-harassment-abuse elections ethics
+  tags: elections ethics sexual-harassment-abuse unresolved
 - person: 412774
   name: Garciá
-  allegation: imporoperly timed his retirement announcement to ensure his preferred successor was the only entrant in the upcoming Democratic primary
-  text: |
-    [Rep. Garciá chose to time his retirement announcement until after his preferred successor had submitted her own petition to get on the primary ballot](https://www.politico.com/live-updates/2025/11/18/congress/chuy-garcia-ballot-petitions-00656890) and near the deadline for submitting petitions to be on the ballot. The end result is that his preferred successor is now the only person in 2026 Democratic primary for his seat. Another Democratic representative, Rep. Gluesenkamp Perez (D-WA3) filed a resolution of disapproval which passed [236-183](https://www.govtrack.us/congress/votes/119-2025/h292)
+  allegation: imporoperly timed his retirement announcement to ensure his preferred
+    successor was the only entrant in the upcoming Democratic primary
+  text: >
+    [Rep. Garciá chose to time his retirement announcement until after his preferred
+    successor had submitted her own petition to get on the primary ballot](https://www.politico.com/live-updates/2025/11/18/congress/chuy-garcia-ballot-petitions-00656890)
+    and near the deadline for submitting petitions to be on the ballot. The end result
+    is that his preferred successor is now the only person in 2026 Democratic primary
+    for his seat. Another Democratic representative, Rep. Gluesenkamp Perez (D-WA3)
+    filed a resolution of disapproval which passed [236-183](https://www.govtrack.us/congress/votes/119-2025/h292)
   consequences:
   - date: 2025-11-18
     body: House of Representatives
@@ -23,11 +38,20 @@
 - person: 456962
   name: McIver
   allegation: assaulting, impeding, and interfering with law enforcement
-  text: On May 9, 2025, [Newark Mayor Ras Baraka was handcuffed and arrested](https://www.nytimes.com/2025/06/03/nyregion/ras-baraka-alina-habba-lawsuit-ice.html) while standing outside of an Immigration and Customs Enforcement (ICE) detention center in Newark. He had been waiting on three members of Congress to finish their inspection of the facility. When they came back out and ICE began to try to arrest him, the Congress members tried to block ICE from doing so. They did not succeed, but the charges were dropped a few hours later. Nonetheless, one of the members of Congress, [Rep. McIver, has been charged with assaulting, impeding, and interfering with law enforcement](https://abcnews.go.com/Politics/rep-lamonica-mciver-charged-doj-incident-ice-agents/story?id=121971746) because she pushed against ICE officers in body armor with her unarmored arms.
+  text: On May 9, 2025, [Newark Mayor Ras Baraka was handcuffed and arrested](https://www.nytimes.com/2025/06/03/nyregion/ras-baraka-alina-habba-lawsuit-ice.html)
+    while standing outside of an Immigration and Customs Enforcement (ICE) detention
+    center in Newark. He had been waiting on three members of Congress to finish their
+    inspection of the facility. When they came back out and ICE began to try to arrest
+    him, the Congress members tried to block ICE from doing so. They did not succeed,
+    but the charges were dropped a few hours later. Nonetheless, one of the members
+    of Congress, [Rep. McIver, has been charged with assaulting, impeding, and interfering
+    with law enforcement](https://abcnews.go.com/Politics/rep-lamonica-mciver-charged-doj-incident-ice-agents/story?id=121971746)
+    because she pushed against ICE officers in body armor with her unarmored arms.
   consequences:
   - date: 2025-05-19
     body: Department of Justice
-    action: charged Rep. McIver with assaulting, impeding, and interfering with law enforcement
+    action: charged Rep. McIver with assaulting, impeding, and interfering with law
+      enforcement
     link: https://abcnews.go.com/Politics/rep-lamonica-mciver-charged-doj-incident-ice-agents/story?id=121971746
   tags: crime unresolved
 - person: 400653
@@ -48,20 +72,25 @@
   name: Mills
   allegation: assaulted a woman in his home and encouraged her to lie to the police
     about it
-  text: On Feb. 19th 2024, Rep. Mills assaulted a woman in his home. The Metropolitan D.C.
-    Police were called to the scene. The police have issued several reports on the
-    incident, in increasingly less detail each time. The first report indicated that
-    the victim said she was assaulted by Mills and she let police listen to a conversation
-    with him in which he encouraged her to lie to the police. Subsequent reports have
-    much less detail. An internal investigation of the handling of the matter is underway.
-    An arrest warrant sent to the U. S. Attorney has not yet been signed. In October 2025, [a judge issued a restraining order against Mills](https://www.politico.com/news/2025/10/14/cory-mills-restraining-order-florida-00608307) to protect a different ex-girlfriend who broke up with him when the news of the above alleged assault became public.
+  text: On Feb. 19th 2024, Rep. Mills assaulted a woman in his home. The Metropolitan
+    D.C. Police were called to the scene. The police have issued several reports on
+    the incident, in increasingly less detail each time. The first report indicated
+    that the victim said she was assaulted by Mills and she let police listen to a
+    conversation with him in which he encouraged her to lie to the police. Subsequent
+    reports have much less detail. An internal investigation of the handling of the
+    matter is underway. An arrest warrant sent to the U. S. Attorney has not yet been
+    signed. In October 2025, [a judge issued a restraining order against Mills](https://www.politico.com/news/2025/10/14/cory-mills-restraining-order-florida-00608307)
+    to protect a different ex-girlfriend who broke up with him when the news of the
+    above alleged assault became public.
   consequences:
   - date: 2024-02-19
     text: Metropolitan Police of Washington, D.C. responded to a call about an assault
       at Rep. Mills home.
     link: https://www.nbcwashington.com/news/local/florida-congressman-investigated-by-dc-police-for-alleged-assault/3850013/
   - date: 2025-10-14
-    text: In October 2025, a judge issued a restraining order against Mills to protect a different ex-girlfriend who broke up with him when the news of the above alleged assault became public.
+    text: In October 2025, a judge issued a restraining order against Mills to protect
+      a different ex-girlfriend who broke up with him when the news of the above alleged
+      assault became public.
     link: https://www.politico.com/news/2025/10/14/cory-mills-restraining-order-florida-00608307
   tags: crime sexual-harassment-abuse unresolved
 - person: 412415
@@ -81,8 +110,17 @@
   tags: corruption ethics unresolved
 - person: 456889
   name: Mills
-  allegation: ommitting or misrepresenting financial disclosure information and benefiting from federal contracts while in office
-  text: The former Office of Congressional Ethics, now Office of Congressional Conduct (OCC), referred a matter to the House Committee on Ethics in August 2024. On Dec. 16, 2024, the House Ethics Committee extended the matter and will announce its course of action after the organizational meeting of the 119th Congress's Ethics Committee. In March 2025, the [Committee published the OCC's report and response from Rep. Mills](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-cory-mills/). Mills is accused of ommitting or misrepresenting contributions to his campaign in financial disclosure documents, benefiting from federal contracts while in office and failing to properly disclose that as well.
+  allegation: ommitting or misrepresenting financial disclosure information and benefiting
+    from federal contracts while in office
+  text: The former Office of Congressional Ethics, now Office of Congressional Conduct
+    (OCC), referred a matter to the House Committee on Ethics in August 2024. On Dec.
+    16, 2024, the House Ethics Committee extended the matter and will announce its
+    course of action after the organizational meeting of the 119th Congress's Ethics
+    Committee. In March 2025, the [Committee published the OCC's report and response
+    from Rep. Mills](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-cory-mills/).
+    Mills is accused of ommitting or misrepresenting contributions to his campaign
+    in financial disclosure documents, benefiting from federal contracts while in
+    office and failing to properly disclose that as well.
   consequences:
   - date: 2024-12-16
     body: House Committee on Ethics
@@ -195,17 +233,16 @@
   allegation: ongoing campaign finance violations
   text: In 2022, the House Ethics Committee announced an investigation into possible
     campaign finance violations because Rep. Jackson used campaign funds to pay for
-    membership at an Amarillo social club. In
-    June of 2024, the House Ethics Committee announced an apparent second separate
-    investigation (that was subsequently combined with the first one) since the Office of Congressional Ethics [issued a second report
-    recommending further review by House Ethics](https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-ronny-jackson-0) on
-    the same topic because Rep. Jackson has continued to use campaign funds all this
-    time to pay the Amarillo Club.
-    On Dec. 30, 2024, [the Committee announced](https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-certain-investigative-matters-involving-allegations-of-personal-use-of-campaign-funds/)
+    membership at an Amarillo social club. In June of 2024, the House Ethics Committee
+    announced an apparent second separate investigation (that was subsequently combined
+    with the first one) since the Office of Congressional Ethics [issued a second
+    report recommending further review by House Ethics](https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-ronny-jackson-0)
+    on the same topic because Rep. Jackson has continued to use campaign funds all
+    this time to pay the Amarillo Club. On Dec. 30, 2024, [the Committee announced](https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-certain-investigative-matters-involving-allegations-of-personal-use-of-campaign-funds/)
     that while "there was evidence that the Member’s campaign did not fully comply
     with the applicable standards relating to personal use of campaign funds, as well
     as reporting or recordkeeping requirements for campaign expenditures", the member
-    did not do so intentionally. The investigation has been ended. 
+    did not do so intentionally. The investigation has been ended.
   consequences:
   - date: 2021-12-22
     body: Office of Congressional Ethics
@@ -283,7 +320,9 @@
   text: Rep. Cuellar was indicted for allegedly accepting bribes from a Mexican bank
     and Azerbaijani oil company controlled by the nation's government. On May 29,
     2024, the House Committee on Ethics [voted unanimously voted to establish an Investigative
-    Subcommittee](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar/). In 2025, the Committee [reauthorized the Investigative Subcommittee for the 119th Congress](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar-2/).
+    Subcommittee](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar/).
+    In 2025, the Committee [reauthorized the Investigative Subcommittee for the 119th
+    Congress](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar-2/).
   consequences:
   - date: 2024-05-03
     body: Department of Justice
@@ -305,7 +344,7 @@
     services for official work from an individual not employed in her congressional
     office; engaging in improper conduct in connection with community project funding
     requests; misusing official funds for campaign purposes; and/or violating campaign
-    finance laws and regulations in connection with her 2024 re-election campaign. 
+    finance laws and regulations in connection with her 2024 re-election campaign.
   text: Rep. Cherfilus-McCormick has been under investigation by the House Committee
     on Ethics for allegations of violating campaign finance laws in her 2022 campaign,
     failing to properly disclose required information on statements required to be
@@ -321,7 +360,11 @@
     official funds for campaign purposes; and/or violating campaign finance laws and
     regulations in connection with her 2024 re-election campaign In Sept. 2024, the
     [first Office of Congressional Ethics report](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report_7.pdf)
-    was published. In 2025, the Committee [reauthorized the Investigative Subcommittee for the 119th Congress](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-6/). In November 2025, [Cherfilus-McCormick was indicted for keeping overpayments from COVID era progams and then using the extra money to fund her 2022 Congressional campaign](https://www.huffpost.com/entry/sheila-cherfilus-mccormick-indicted-fema-funds_n_691e5d0fe4b0b763ab8dace8?bbc).
+    was published. In 2025, the Committee [reauthorized the Investigative Subcommittee
+    for the 119th Congress](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-6/).
+    In November 2025, [Cherfilus-McCormick was indicted for keeping overpayments from
+    COVID era progams and then using the extra money to fund her 2022 Congressional
+    campaign](https://www.huffpost.com/entry/sheila-cherfilus-mccormick-indicted-fema-funds_n_691e5d0fe4b0b763ab8dace8?bbc).
   consequences:
   - date: 2023-09-23
     body: Office of Congressional Ethics
@@ -353,7 +396,8 @@
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-6/
   - date: 2025-11-19
     body: Department of Justice
-    action: indicted for keeping overpayments from COVID era progams and then using the extra money to fund her 2022 Congressional campaign
+    action: indicted for keeping overpayments from COVID era progams and then using
+      the extra money to fund her 2022 Congressional campaign
     link: https://www.huffpost.com/entry/sheila-cherfilus-mccormick-indicted-fema-funds_n_691e5d0fe4b0b763ab8dace8?bbc
   tags: elections unresolved
 - person: 412787
@@ -470,7 +514,8 @@
     during his campaign as well as [demands from representatives to investigate](https://web.archive.org/web/20240309233949/https://ethics.house.gov/sites/ethics.house.gov/files/documents/APPENDIX%20A_9.pdf)
     and an [attempt to expel him](https://www.govtrack.us/congress/votes/118-2023/h217).
     On August 19, 2024, [Santos pleaded guilty](https://apnews.com/article/george-santos-plea-court-new-york-90741d068fd94090419fc0fd79be30cc)
-    to wire fraud and identity theft. In October 2025, President Trump commuted Santos's sentence.
+    to wire fraud and identity theft. In October 2025, President Trump commuted Santos's
+    sentence.
   consequences:
   - date: 2022-09-01
     text: Local paper The North Shore Leader broke the story of Santos's "inexplicable
@@ -558,7 +603,11 @@
     in 2021
   text: The House Office of Congressional Ethics found "substantial reason to believe"
     that Ocasio-Cortez accepted impermissible gifts associated with her attendance
-    at the Met Gala in 2021, which she paid for after the investigation began. In 2025, the House Committee on Ethics [published its report finding that while Ocasio-Cortez tried to accurately assess the value of the items received and pay in advance, the amounts were too low and she was assessed to owe additonal sums to the vendors involved](https://ethics.house.gov/wp-content/uploads/2025/07/Committee-Report-20250725-Rep.-Ocasio-Cortez-1.pdf).
+    at the Met Gala in 2021, which she paid for after the investigation began. In
+    2025, the House Committee on Ethics [published its report finding that while Ocasio-Cortez
+    tried to accurately assess the value of the items received and pay in advance,
+    the amounts were too low and she was assessed to owe additonal sums to the vendors
+    involved](https://ethics.house.gov/wp-content/uploads/2025/07/Committee-Report-20250725-Rep.-Ocasio-Cortez-1.pdf).
   consequences:
   - date: 2022-06-23
     body: House Committee on Ethics
@@ -571,7 +620,9 @@
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-70
   - date: 2025-07-25
     body: House Committee on Ethics
-    action: published its report finding that while Ocasio-Cortez tried to accurately assess the value of the items received and pay in advance, the amounts were too low and she was assessed to owe additonal sums to the vendors involved
+    action: published its report finding that while Ocasio-Cortez tried to accurately
+      assess the value of the items received and pay in advance, the amounts were
+      too low and she was assessed to owe additonal sums to the vendors involved
     link: https://ethics.house.gov/wp-content/uploads/2025/07/Committee-Report-20250725-Rep.-Ocasio-Cortez-1.pdf
   tags: ethics resolved
 - person: 456815
@@ -973,8 +1024,10 @@
     scheme with a brand of cryptocurrency where he acted on non-public information
     to increase the currency price and then similarly to sell his shares before the
     currency's value dropped to zero. In May 2022, the House Committee on Ethics announced
-    [they had impaneled an investigative subcommittee to review the allegations](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-64). In December the Committee accepted the Investigative Subcommittee's report that concluded that Cawthorn had engaged in a pump and dump scheme and [charged him with repaying the difference
-      on the cryptocurrency and the late filing fees](https://www.congress.gov/117/crpt/hrpt591/CRPT-117hrpt591.pdf).
+    [they had impaneled an investigative subcommittee to review the allegations](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-64).
+    In December the Committee accepted the Investigative Subcommittee's report that
+    concluded that Cawthorn had engaged in a pump and dump scheme and [charged him
+    with repaying the difference on the cryptocurrency and the late filing fees](https://www.congress.gov/117/crpt/hrpt591/CRPT-117hrpt591.pdf).
   allegation: participating in a investment "pump and dump" scheme
   consequences:
   - date: 2022-04-23
@@ -990,11 +1043,11 @@
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-64
   - date: 2022-12-06
     body: House Committee on Ethics
-    action: accepted the investigative subcommittee's report indicating
-      that Cawthorn had received cryptocurrency at rates not available to the public,
-      had a conflict of interest with respect to the cryptocurrency company, failed
-      to file timely financial disclosures and charged him with repaying the difference
-      on the cryptocurrency and the late filing fees.
+    action: accepted the investigative subcommittee's report indicating that Cawthorn
+      had received cryptocurrency at rates not available to the public, had a conflict
+      of interest with respect to the cryptocurrency company, failed to file timely
+      financial disclosures and charged him with repaying the difference on the cryptocurrency
+      and the late filing fees.
     link: https://www.congress.gov/117/crpt/hrpt591/CRPT-117hrpt591.pdf
     tags: confirmation
   tags: crime resolved
@@ -1258,7 +1311,8 @@
     link: https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+33
   - date: 2025-01-02
     body: House Committee on Ethics
-    action: ceased investigating as Lamborn did not run for re-election and the Committee's juridiction has ended.
+    action: ceased investigating as Lamborn did not run for re-election and the Committee's
+      juridiction has ended.
     link: https://ethics.house.gov/wp-content/uploads/2025/01/Committee-Report.pdf#page=+34
   tags: ethics resolved
 - person: 456853
@@ -1673,7 +1727,10 @@
   name: Kelly
   text: Rep. Mike Kelly is accused of making a stock purchase, through his wife, based
     on nonpublic information he learned in his official duties. The Committee [carried
-    its investigation into the 118th Congress](https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+33). In 2025, the Committee [released its report](https://ethics.house.gov/wp-content/uploads/2025/07/20250725-Committee-Report.pdf) finding that Kelly did not violate rules related to insider trading and conflicts of interest.
+    its investigation into the 118th Congress](https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+33).
+    In 2025, the Committee [released its report](https://ethics.house.gov/wp-content/uploads/2025/07/20250725-Committee-Report.pdf)
+    finding that Kelly did not violate rules related to insider trading and conflicts
+    of interest.
   allegation: insider trading
   consequences:
   - date: 2021-07-23
@@ -1695,7 +1752,8 @@
     link: https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+33
   - date: 2025-07-25
     body: House Committee on Ethics
-    action: released its report and found that Kelly did not violate rules related to insider trading and conflicts of interest
+    action: released its report and found that Kelly did not violate rules related
+      to insider trading and conflicts of interest
     link: https://ethics.house.gov/wp-content/uploads/2025/07/20250725-Committee-Report.pdf
   tags: corruption resolved
 - person: 412798
@@ -4039,7 +4097,8 @@
     campaign contributions in exchange for offering to use his official position to
     assist that individual in obtaining a green card. This plea came three years after
     the Office of Congressional Ethics began an investigation of the allegations.
-    Grimm resigned in January 2015 and served seven months in prison. In 2025, Grimm was pardoned by President Trump.
+    Grimm resigned in January 2015 and served seven months in prison. In 2025, Grimm
+    was pardoned by President Trump.
   allegation: violating federal campaign finance laws by soliciting and accepting
     prohibited campaign contributions, causing false information to be included in
     campaign finance reports, and improperly seeking assistance from a foreign national
