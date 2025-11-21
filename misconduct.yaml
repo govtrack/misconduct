@@ -11,13 +11,15 @@
 - person: 412774
   name: Garciá
   allegation: imporoperly timed his retirement announcement to ensure his preferred successor was the only entrant in the upcoming Democratic primary
-  text: [Rep. Garciá chose to time his retirement announcement until after his preferred successor had submitted her own petition to get on the primary ballot](https://www.politico.com/live-updates/2025/11/18/congress/chuy-garcia-ballot-petitions-00656890) and near the deadline for submitting petitions to be on the ballot. The end result is that his preferred successor is now the only person in 2026 Democratic primary for his seat. Another Democratic representative, Rep. Gluesenkamp Perez (D-WA3) filed a resolution of disapproval which passed [236-183](https://www.govtrack.us/congress/votes/119-2025/h292)
+  text: |
+    [Rep. Garciá chose to time his retirement announcement until after his preferred successor had submitted her own petition to get on the primary ballot](https://www.politico.com/live-updates/2025/11/18/congress/chuy-garcia-ballot-petitions-00656890) and near the deadline for submitting petitions to be on the ballot. The end result is that his preferred successor is now the only person in 2026 Democratic primary for his seat. Another Democratic representative, Rep. Gluesenkamp Perez (D-WA3) filed a resolution of disapproval which passed [236-183](https://www.govtrack.us/congress/votes/119-2025/h292)
   consequences:
   - date: 2025-11-18
     body: House of Representatives
     action: approved a resolution of disapproval 236-183
     link: https://www.govtrack.us/congress/votes/119-2025/h292
-  tags: reprimand resolved
+    tags: reprimand
+  tags: resolved
 - person: 456962
   name: McIver
   allegation: assaulting, impeding, and interfering with law enforcement
@@ -296,7 +298,7 @@
     action: reauthorized the Investigative Subcommittee for the 119th Congress
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar-2/
   tags: corruption unresolved
-  - person: 456865
+- person: 456865
   name: Cherfilus-McCormick
   allegation: violating campaign finance laws; failing to properly disclose required
     information on statements required to be filed with the House; accepting voluntary
