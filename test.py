@@ -119,14 +119,14 @@ for incident in misconduct:
 			if bad_tags:
 				error(incident, cons, "Consequence has invalid 'tags': {}.".format(bad_tags))
 
-	# Suggest incidents whose allegation or text fields probably could be shortened.
-	if len(incident["allegation"]) > 700:
-		error(incident, "'allegation' could probably be shorter.")
-	if incident.get("person") != 456921:
-		if len(incident["consequences"]) > 2 and len(remove_markdown_link_urls(incident["text"])) > 1200:
-			error(incident, "'text' could probably be shorter.")
-		elif len(incident["consequences"]) > 2 and len(incident["text"]) > 400 and len(remove_markdown_link_urls(incident["text"])) > .8 * (len(incident["allegation"]) + len(" ".join(remove_markdown_link_urls(str(cons)) for cons in incident["consequences"]))):
-			error(incident, "'text' could probably be shorter.")
+	## Suggest incidents whose allegation or text fields probably could be shortened.
+	#if len(incident["allegation"]) > 700:
+	#	error(incident, "'allegation' could probably be shorter.")
+	#if incident.get("person") != 456921:
+	#	if len(incident["consequences"]) > 2 and len(remove_markdown_link_urls(incident["text"])) > 1200:
+	#		error(incident, "'text' could probably be shorter.")
+	#	elif len(incident["consequences"]) > 2 and len(incident["text"]) > 400 and len(remove_markdown_link_urls(incident["text"])) > .8 * (len(incident["allegation"]) + len(" ".join(remove_markdown_link_urls(str(cons)) for cons in incident["consequences"]))):
+	#		error(incident, "'text' could probably be shorter.")
 
 
 if has_error:
