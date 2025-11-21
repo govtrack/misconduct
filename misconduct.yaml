@@ -10,8 +10,14 @@
   text: The House Committee on Ethics opened a new investigation on Mills after the
     House voted [310-303](https://www.govtrack.us/congress/votes/119-2025/h302) to
     refer a [resolution of censure](https://www.govtrack.us/congress/bills/119/hres893/text)
-    to the Ethics Committee.
+    to the House Ethics Committee over a range of allegations, some of which were
+    already being investigated. New allegations include a dispute over Mills's claims
+    of holding a Bronze Star for his military service.
   consequences:
+  - date: 2025-11-19
+    body: House of Representatives
+    action: voted 310-303 to refer a resolution of censure to the House Ethics Committee
+    link: https://www.govtrack.us/congress/votes/119-2025/h302
   - date: 2025-11-19
     body: House Committee on Ethics
     action: opened an investigation and will be establishing an Investigative Subcommittee
@@ -27,7 +33,7 @@
     and near the deadline for submitting petitions to be on the ballot. The end result
     is that his preferred successor is now the only person in 2026 Democratic primary
     for his seat. Another Democratic representative, Rep. Gluesenkamp Perez (D-WA3)
-    filed a resolution of disapproval which passed [236-183](https://www.govtrack.us/congress/votes/119-2025/h292)
+    filed a resolution of disapproval which passed [236-183](https://www.govtrack.us/congress/votes/119-2025/h292).
   consequences:
   - date: 2025-11-18
     body: House of Representatives
@@ -72,7 +78,7 @@
   name: Mills
   allegation: assaulted a woman in his home and encouraged her to lie to the police
     about it
-  text: On Feb. 19th 2024, Rep. Mills assaulted a woman in his home. The Metropolitan
+  text: On Feb. 19, 2024, Rep. Mills assaulted a woman in his home. The Metropolitan
     D.C. Police were called to the scene. The police have issued several reports on
     the incident, in increasingly less detail each time. The first report indicated
     that the victim said she was assaulted by Mills and she let police listen to a
@@ -81,7 +87,9 @@
     matter is underway. An arrest warrant sent to the U. S. Attorney has not yet been
     signed. In October 2025, [a judge issued a restraining order against Mills](https://www.politico.com/news/2025/10/14/cory-mills-restraining-order-florida-00608307)
     to protect a different ex-girlfriend who broke up with him when the news of the
-    above alleged assault became public.
+    above alleged assault became public. A [resolution to censure Mills](https://www.govtrack.us/congress/bills/119/hres893/text)
+    for this and other conduct was referred to the House Committee on Ethics in November
+    2025.
   consequences:
   - date: 2024-02-19
     text: Metropolitan Police of Washington, D.C. responded to a call about an assault
@@ -92,6 +100,10 @@
       a different ex-girlfriend who broke up with him when the news of the above alleged
       assault became public.
     link: https://www.politico.com/news/2025/10/14/cory-mills-restraining-order-florida-00608307
+  - date: 2025-11-19
+    body: House of Representatives
+    action: voted 310-303 to refer a resolution of censure to the House Ethics Committee
+    link: https://www.govtrack.us/congress/votes/119-2025/h302
   tags: crime sexual-harassment-abuse unresolved
 - person: 412415
   name: Rivera
@@ -112,15 +124,13 @@
   name: Mills
   allegation: ommitting or misrepresenting financial disclosure information and benefiting
     from federal contracts while in office
-  text: The former Office of Congressional Ethics, now Office of Congressional Conduct
-    (OCC), referred a matter to the House Committee on Ethics in August 2024. On Dec.
-    16, 2024, the House Ethics Committee extended the matter and will announce its
-    course of action after the organizational meeting of the 119th Congress's Ethics
-    Committee. In March 2025, the [Committee published the OCC's report and response
-    from Rep. Mills](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-cory-mills/).
-    Mills is accused of ommitting or misrepresenting contributions to his campaign
-    in financial disclosure documents, benefiting from federal contracts while in
-    office and failing to properly disclose that as well.
+  text: Rep. Mills was accused of ommitting or misrepresenting contributions to his
+    campaign in financial disclosure documents, benefiting from federal contracts
+    while in office and failing to properly disclose that as well, according to an
+    August 2024 [Office of Congressional Ethics report](https://ethics.house.gov/wp-content/uploads/2025/03/OCC-Report-and-Findings.pdf)
+    which was made public in 2025. A [resolution to censure Mills](https://www.govtrack.us/congress/bills/119/hres893/text)
+    for this and other conduct was referred to the House Committee on Ethics in November
+    2025.
   consequences:
   - date: 2024-12-16
     body: House Committee on Ethics
@@ -128,8 +138,12 @@
     link: https://ethics.house.gov/press-releases/statement-of-the-committee-on-ethics-regarding-representative-cory-mills/
   - date: 2025-03-27
     body: House Committee on Ethics
-    action: published the OCC's report and response from Rep. Mills
+    action: published the OCE's report and response from Rep. Mills
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-cory-mills/
+  - date: 2025-11-19
+    body: House of Representatives
+    action: voted 310-303 to refer a resolution of censure to the House Ethics Committee
+    link: https://www.govtrack.us/congress/votes/119-2025/h302
   tags: ethics unresolved
 - person: 400654
   name: McCaul
@@ -345,32 +359,26 @@
     office; engaging in improper conduct in connection with community project funding
     requests; misusing official funds for campaign purposes; and/or violating campaign
     finance laws and regulations in connection with her 2024 re-election campaign.
-  text: Rep. Cherfilus-McCormick has been under investigation by the House Committee
-    on Ethics for allegations of violating campaign finance laws in her 2022 campaign,
-    failing to properly disclose required information on statements required to be
-    filed with the House, and accepting voluntary services for official work from
-    an individual not employed in her congressional office. In September 2023 the
-    Office of Congressional Ethics recommended further review the allegations by the
-    House Committee on Ethics, and in December 2023 the House Committee on Ethics
-    [established an Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-77).
-    In 2024, the Committee [expanded the jurisdiction of the Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-85)
-    to include new allegations from a 2024 Office of Congressional Ethics report not
-    yet made public. The allegations are that Cherfilus-McCormick was engaging in
-    improper conduct in connection with community project funding requests; misusing
-    official funds for campaign purposes; and/or violating campaign finance laws and
-    regulations in connection with her 2024 re-election campaign In Sept. 2024, the
-    [first Office of Congressional Ethics report](https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report_7.pdf)
-    was published. In 2025, the Committee [reauthorized the Investigative Subcommittee
-    for the 119th Congress](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-6/).
-    In November 2025, [Cherfilus-McCormick was indicted for keeping overpayments from
-    COVID era progams and then using the extra money to fund her 2022 Congressional
-    campaign](https://www.huffpost.com/entry/sheila-cherfilus-mccormick-indicted-fema-funds_n_691e5d0fe4b0b763ab8dace8?bbc).
+  text: Rep. Cherfilus-McCormick was indicted by the Department of Justice in 2025
+    for violating campaign finance laws by [using overpayments to her business from
+    COVID-era progams for her 2022 congressional campaign](https://www.huffpost.com/entry/sheila-cherfilus-mccormick-indicted-fema-funds_n_691e5d0fe4b0b763ab8dace8).
+    She has been under investigation since 2023 by the Office of Congressional Ethics
+    and the House Committee on Ethics for that as well as allegations of failing to
+    properly disclose required information on statements required to be filed with
+    the House and accepting voluntary services for official work from an individual
+    not employed in her congressional office. In 2024, the Ethics Committee [expanded
+    the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-85)
+    to include new allegations in a 2024 Office of Congressional Ethics report not
+    yet made public that Cherfilus-McCormick was engaging in improper conduct in connection
+    with community project funding requests; misusing official funds for campaign
+    purposes; and/or violating campaign finance laws and regulations in connection
+    with her 2024 re-election campaign.
   consequences:
   - date: 2023-09-23
     body: Office of Congressional Ethics
     action: recommended further review by the House Committee on Ethics of allegations
-      that were not yet publicly known
-    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-74
+      in a report not made public until 2024
+    link: https://ethics.house.gov/wp-content/uploads/2024/11/OCE-Report_7.pdf
   - date: 2023-11-09
     body: House Committee on Ethics
     action: extended the matter
@@ -389,7 +397,7 @@
   - date: 2024-09-25
     body: House Committee on Ethics
     action: released the Office of Congressional Ethics' 2023 report
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/OCE%20Report_7.pdf
+    link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-4/
   - date: 2025-07-25
     body: House Committee on Ethics
     action: reauthorized the Investigative Subcommittee for the 119th Congress
