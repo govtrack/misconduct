@@ -336,7 +336,7 @@
     2024, the House Committee on Ethics [voted unanimously voted to establish an Investigative
     Subcommittee](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar/).
     In 2025, the Committee [reauthorized the Investigative Subcommittee for the 119th
-    Congress](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar-2/).
+    Congress](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar-2/). [In December 2025, President Trump pardoned Cuellar](https://www.politico.com/live-updates/2025/12/03/congress/henry-cuellar-pardon-reelection-party-00674518) even though he had so far only been indicted, but not tried or convicted, on charges of corruption.
   consequences:
   - date: 2024-05-03
     body: Department of Justice
@@ -350,6 +350,9 @@
     body: House Committee on Ethics
     action: reauthorized the Investigative Subcommittee for the 119th Congress
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar-2/
+  - date: 2025-12-03
+    text: President Trump pardoned Cuellar even though he had so far only been indicted, but not tried or convicted, on charges of corruption.
+    link: https://www.politico.com/live-updates/2025/12/03/congress/henry-cuellar-pardon-reelection-party-00674518
   tags: corruption unresolved
 - person: 456865
   name: Cherfilus-McCormick
