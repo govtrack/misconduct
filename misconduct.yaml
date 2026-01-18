@@ -1,3 +1,23 @@
+- person: 456843
+  name: Mace
+  allegation: unknown
+  text: In January 2026, the House Committee on Ethics announced it was investigating Rep. Mace, but did not say why.
+  consequences:
+  - date: 2026-01-16
+    body: House Committee on Ethics
+    action: announced it was investigating Rep. Mace, but did not say why
+    link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-nancy-mace/
+  tags: unresolved
+- person: 456895
+  name: Collins
+  allegation: using Congressional resources for unofficial or otherwise unauthorized purposes, retaining an employee who did not perform duties commensurate with the compensation received, and dispensing special favors or privileges
+  text: In January 2026, [the House Committee on Ethics announced it was publishing the Office of Congressional Conduct (OCC) referral in the case of Rep. Mike Collins](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-mike-collins-2/). The OCC found substantial reason to believe that Rep. Collins had been using Congressional resources for unofficial or otherwise unauthorized purposes, retaining an employee who did not perform duties commensurate with the compensation received, and dispensing special favors or privileges by employing a district intern who had a preexisting personal romantic relationship with the office chief of staff and who did not perform duties commensurate with her compensation.
+  consequences:
+  - date: 2026-01-05
+    body: House Committee on Ethics
+    action: announced it was publishing the Office of Congressional Conduct (OCC) referral in the case of Rep. Mike Collins
+    link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-mike-collins-2/
+  tags: ethics unresolved
 - person: 456889
   name: Mills
   allegation: failing to properly disclose required information on statements required
@@ -12,7 +32,7 @@
     refer a [resolution of censure](https://www.govtrack.us/congress/bills/119/hres893/text)
     to the House Ethics Committee over a range of allegations, some of which were
     already being investigated. New allegations include a dispute over Mills's claims
-    of holding a Bronze Star for his military service.
+    of holding a Bronze Star for his military service. In January 2026, the Committee established an [Investigative Subcommittee with members Garbarino, Subramanyam, Yakym and Pressley](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-cory-mills-3/).
   consequences:
   - date: 2025-11-19
     body: House of Representatives
@@ -22,6 +42,10 @@
     body: House Committee on Ethics
     action: opened an investigation and will be establishing an Investigative Subcommittee
     link: https://ethics.house.gov/wp-content/uploads/2025/11/Press-Release-Rep.-Mills-11.19.25.pdf
+  - date: 2026-01-09
+    body: House Committee on Ethics
+    action: established an Investigative Subcommittee with members Garbarino, Subramanyam, Yakym and Pressley
+    link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-cory-mills-3/
   tags: elections ethics sexual-harassment-abuse unresolved
 - person: 412774
   name: Garciá
