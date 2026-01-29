@@ -378,6 +378,7 @@
     text: President Trump pardoned Cuellar even though he had so far only been indicted, but not tried or convicted, on charges of corruption.
     link: https://www.politico.com/live-updates/2025/12/03/congress/henry-cuellar-pardon-reelection-party-00674518
   tags: corruption unresolved
+updated Mills
 - person: 456865
   name: Cherfilus-McCormick
   allegation: violating campaign finance laws; failing to properly disclose required
@@ -395,11 +396,8 @@
     the House and accepting voluntary services for official work from an individual
     not employed in her congressional office. In 2024, the Ethics Committee [expanded
     the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-85)
-    to include new allegations in a 2024 Office of Congressional Ethics report not
-    yet made public that Cherfilus-McCormick was engaging in improper conduct in connection
-    with community project funding requests; misusing official funds for campaign
-    purposes; and/or violating campaign finance laws and regulations in connection
-    with her 2024 re-election campaign.
+    to include new allegations in a [2024 Office of Congressional Ethics report](https://ethics.house.gov/wp-content/uploads/2026/01/OCC-Report-and-Findings-1.29.26.pdf) that Cherfilus-McCormick was engaging in improper conduct in connection with community project funding requests; misusing official funds for campaign purposes; and/or violating campaign finance laws and regulations in connection
+    with her 2024 re-election campaign. In November 2025, [Cherfilus-McCormick was indicted](https://www.huffpost.com/entry/sheila-cherfilus-mccormick-indicted-fema-funds_n_691e5d0fe4b0b763ab8dace8?bbc). In January 2026, the House Committee on Ethics [announced the creation of an Adjudicatory Committee to assess the Investigative Subcommittee's formal Statement of Alleged Violations](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-7/), made public the 2024 report of the Office of Congressional Conduct (previously Office of Congressional Ethics) and published Rep. Cherfilus-McCormick's response.
   consequences:
   - date: 2023-09-23
     body: Office of Congressional Ethics
@@ -434,6 +432,10 @@
     action: indicted for keeping overpayments from COVID era progams and then using
       the extra money to fund her 2022 Congressional campaign
     link: https://www.huffpost.com/entry/sheila-cherfilus-mccormick-indicted-fema-funds_n_691e5d0fe4b0b763ab8dace8?bbc
+  - date: 2026-01-29
+    body: House Committee on Ethics
+    action: announced the creation of an Adjudicatory Committee to assess the Investigative Subcommittee's formal Statement of Alleged Violations, made public the 2024 report of the Office of Congressional Conduct (previously Office of Congressional Ethics) and published Rep. Cherfilus-McCormick's response
+    link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-7/
   tags: elections unresolved
 - person: 412787
   name: Tlaib
