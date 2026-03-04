@@ -1,13 +1,27 @@
 - person: 456843
   name: Mace
-  allegation: unknown
-  text: In January 2026, the House Committee on Ethics announced it was investigating Rep. Mace, but did not say why.
+  allegation: seeking reimbursements that exceeded her reimbursable expenses incurred
+  text: Rep. Mace is accused of seeking reimbursements that exceeded her reimbursable expenses incurred for housing for a total of $9,485.46.
   consequences:
   - date: 2026-01-16
     body: House Committee on Ethics
     action: announced it was investigating Rep. Mace, but did not say why
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-nancy-mace/
-  tags: unresolved
+  - date: 2026-03-02
+    body: House Committee on Ethics
+    action: House Committee on Ethics published the OCE's report and response from Rep. Mace
+    link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-nancy-mace-2/
+  tags: unresolved ethics
+- person: 456849
+  name: Gonzales
+  allegation: engaging in sexual misconduct towards an individual employed in his congressional office; and/or discriminating unfairly by dispensing special favors or privileges
+  text: Rep. Gonzales is accused of engaging in sexual misconduct towards an individual employed in his congressional office; and/or discriminating unfairly by dispensing special favors or privileges. Gonzales is alleged to have sent inappropriate texts (the texts were published by [the San Antonio Express News](https://www.expressnews.com/news/article/tony-gonzales-texts-regina-santos-aviles-pictures-21362068.php) which requires sign in to view) to a staffer. He is alleged to have later [had an affair with that staffer and she appeared to have also recieved extra financial compensation in the same year](https://www.texastribune.org/2026/03/04/tony-gonzales-house-ethics-investigation-affair/). The staffer subsequently committed suicide. In March 2026, the House Committee on Ethics opened an investigation.
+  consequences:
+  - date: 2026-03-04
+    body: House Committee on Ethics
+    action: opened an investigation
+    link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-tony-gonzales/
+  tags: unresolved sexual-harassment-abuse
 - person: 456895
   name: Collins
   allegation: using Congressional resources for unofficial or otherwise unauthorized purposes, retaining an employee who did not perform duties commensurate with the compensation received, and dispensing special favors or privileges
