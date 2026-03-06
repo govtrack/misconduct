@@ -15,12 +15,15 @@
 - person: 456849
   name: Gonzales
   allegation: engaging in sexual misconduct towards an individual employed in his congressional office; and/or discriminating unfairly by dispensing special favors or privileges
-  text: Rep. Gonzales is accused of engaging in sexual misconduct towards an individual employed in his congressional office; and/or discriminating unfairly by dispensing special favors or privileges. Gonzales is alleged to have sent inappropriate texts (the texts were published by [the San Antonio Express News](https://www.expressnews.com/news/article/tony-gonzales-texts-regina-santos-aviles-pictures-21362068.php) which requires sign in to view) to a staffer. He is alleged to have later [had an affair with that staffer and she appeared to have also recieved extra financial compensation in the same year](https://www.texastribune.org/2026/03/04/tony-gonzales-house-ethics-investigation-affair/). The staffer subsequently committed suicide. In March 2026, the House Committee on Ethics opened an investigation.
+  text: Rep. Gonzales is accused of engaging in sexual misconduct towards an individual employed in his congressional office; and/or discriminating unfairly by dispensing special favors or privileges. Gonzales is alleged to have sent inappropriate texts (the texts were published by [the San Antonio Express News](https://www.expressnews.com/news/article/tony-gonzales-texts-regina-santos-aviles-pictures-21362068.php) which requires sign in to view) to a staffer. He is alleged to have later [had an affair with that staffer and she appeared to have also recieved extra financial compensation in the same year](https://www.texastribune.org/2026/03/04/tony-gonzales-house-ethics-investigation-affair/). The staffer subsequently died by suicide. In March 2026, the House Committee on Ethics opened an investigation. On March 5, 2026, [Rep. Gonzales announced he was ending his re-election campaign, but intended to stay in office for the rest of this term](Rep. Gonzales announced he was ending his re-election campaign, but intended to stay in office for the rest of this term.).
   consequences:
   - date: 2026-03-04
     body: House Committee on Ethics
     action: opened an investigation
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-tony-gonzales/
+  - date: 2026-03-05
+    text: Rep. Gonzales announced he was ending his re-election campaign, but intended to stay in office for the rest of this term.
+    link: https://jamiedupree.substack.com/p/under-pressure-over-affair-gonzales?triedRedirect=true&_src_ref=go.bsky.app
   tags: unresolved sexual-harassment-abuse
 - person: 456895
   name: Collins
