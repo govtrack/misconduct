@@ -1,3 +1,13 @@
+- person: 412514
+  name: Swalwell
+  allegation: sexual harrassment
+  text: On April 10, 2026, [CNN reported that four women reported being sexually harassed, and in one case, twice raped by Rep. Swalwell](https://www.cnn.com/2026/04/10/us/eric-swalwell-sexual-misconduct-allegations-invs). On Monday April 13, 2026, the House Committee on Ethics announced it was opening an investigation into the allegations.
+  consequences:
+  - date: 2026-04-13
+    body: House Committee on Ethics
+    action: opened an investigation into the allegations presented by CNN on the previous Friday (April 10)
+    link: https://www.cnn.com/2026/04/10/us/eric-swalwell-sexual-misconduct-allegations-invs
+  tags: unresolved sexual-harassment-abuse crime
 - person: 456843
   name: Mace
   allegation: seeking reimbursements that exceeded her reimbursable expenses incurred
