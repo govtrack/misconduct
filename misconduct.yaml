@@ -1,17 +1,22 @@
 - person: 412514
   name: Swalwell
   allegation: sexual harrassment
-  text: On April 10, 2026, [CNN reported that four women reported being sexually harassed, and in one case, twice raped by Rep. Swalwell](https://www.cnn.com/2026/04/10/us/eric-swalwell-sexual-misconduct-allegations-invs). On Monday April 13, 2026, the House Committee on Ethics announced it was opening an investigation into the allegations.
+  text: On April 10, 2026, [CNN reported that four women reported being sexually harassed,
+    and in one case, twice raped by Rep. Swalwell](https://www.cnn.com/2026/04/10/us/eric-swalwell-sexual-misconduct-allegations-invs).
+    On Monday April 13, 2026, the House Committee on Ethics announced it was opening
+    an investigation into the allegations.
   consequences:
   - date: 2026-04-13
     body: House Committee on Ethics
-    action: opened an investigation into the allegations presented by CNN on the previous Friday (April 10)
+    action: opened an investigation into the allegations presented by CNN on the previous
+      Friday (April 10)
     link: https://www.cnn.com/2026/04/10/us/eric-swalwell-sexual-misconduct-allegations-invs
-  tags: unresolved sexual-harassment-abuse crime
+  tags: crime sexual-harassment-abuse unresolved
 - person: 456843
   name: Mace
   allegation: seeking reimbursements that exceeded her reimbursable expenses incurred
-  text: Rep. Mace is accused of seeking reimbursements that exceeded her reimbursable expenses incurred for housing for a total of $9,485.46.
+  text: Rep. Mace is accused of seeking reimbursements that exceeded her reimbursable
+    expenses incurred for housing for a total of $9,485.46.
   consequences:
   - date: 2026-01-16
     body: House Committee on Ethics
@@ -19,30 +24,55 @@
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-nancy-mace/
   - date: 2026-03-02
     body: House Committee on Ethics
-    action: House Committee on Ethics published the OCE's report and response from Rep. Mace
+    action: House Committee on Ethics published the OCE's report and response from
+      Rep. Mace
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-nancy-mace-2/
-  tags: unresolved ethics
+  tags: ethics unresolved
 - person: 456849
   name: Gonzales
-  allegation: engaging in sexual misconduct towards an individual employed in his congressional office; and/or discriminating unfairly by dispensing special favors or privileges
-  text: Rep. Gonzales is accused of engaging in sexual misconduct towards an individual employed in his congressional office; and/or discriminating unfairly by dispensing special favors or privileges. Gonzales is alleged to have sent inappropriate texts (the texts were published by [the San Antonio Express News](https://www.expressnews.com/news/article/tony-gonzales-texts-regina-santos-aviles-pictures-21362068.php) which requires sign in to view) to a staffer. He is alleged to have later [had an affair with that staffer and she appeared to have also recieved extra financial compensation in the same year](https://www.texastribune.org/2026/03/04/tony-gonzales-house-ethics-investigation-affair/). The staffer subsequently died by suicide. In March 2026, the House Committee on Ethics opened an investigation. On March 5, 2026, [Rep. Gonzales announced he was ending his re-election campaign, but intended to stay in office for the rest of this term](Rep. Gonzales announced he was ending his re-election campaign, but intended to stay in office for the rest of this term.).
+  allegation: engaging in sexual misconduct towards an individual employed in his
+    congressional office; and/or discriminating unfairly by dispensing special favors
+    or privileges
+  text: Rep. Gonzales is accused of engaging in sexual misconduct towards an individual
+    employed in his congressional office; and/or discriminating unfairly by dispensing
+    special favors or privileges. Gonzales is alleged to have sent inappropriate texts
+    (the texts were published by [the San Antonio Express News](https://www.expressnews.com/news/article/tony-gonzales-texts-regina-santos-aviles-pictures-21362068.php)
+    which requires sign in to view) to a staffer. He is alleged to have later [had
+    an affair with that staffer and she appeared to have also recieved extra financial
+    compensation in the same year](https://www.texastribune.org/2026/03/04/tony-gonzales-house-ethics-investigation-affair/).
+    The staffer subsequently died by suicide. In March 2026, the House Committee on
+    Ethics opened an investigation. On March 5, 2026, [Rep. Gonzales announced he
+    was ending his re-election campaign, but intended to stay in office for the rest
+    of this term](Rep. Gonzales announced he was ending his re-election campaign,
+    but intended to stay in office for the rest of this term.).
   consequences:
   - date: 2026-03-04
     body: House Committee on Ethics
     action: opened an investigation
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-tony-gonzales/
   - date: 2026-03-05
-    text: Rep. Gonzales announced he was ending his re-election campaign, but intended to stay in office for the rest of this term.
+    text: Rep. Gonzales announced he was ending his re-election campaign, but intended
+      to stay in office for the rest of this term.
     link: https://jamiedupree.substack.com/p/under-pressure-over-affair-gonzales?triedRedirect=true&_src_ref=go.bsky.app
-  tags: unresolved sexual-harassment-abuse
+  tags: sexual-harassment-abuse unresolved
 - person: 456895
   name: Collins
-  allegation: using Congressional resources for unofficial or otherwise unauthorized purposes, retaining an employee who did not perform duties commensurate with the compensation received, and dispensing special favors or privileges
-  text: In January 2026, [the House Committee on Ethics announced it was publishing the Office of Congressional Conduct (OCC) referral in the case of Rep. Mike Collins](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-mike-collins-2/). The OCC found substantial reason to believe that Rep. Collins had been using Congressional resources for unofficial or otherwise unauthorized purposes, retaining an employee who did not perform duties commensurate with the compensation received, and dispensing special favors or privileges by employing a district intern who had a preexisting personal romantic relationship with the office chief of staff and who did not perform duties commensurate with her compensation.
+  allegation: using Congressional resources for unofficial or otherwise unauthorized
+    purposes, retaining an employee who did not perform duties commensurate with the
+    compensation received, and dispensing special favors or privileges
+  text: In January 2026, [the House Committee on Ethics announced it was publishing
+    the Office of Congressional Conduct (OCC) referral in the case of Rep. Mike Collins](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-mike-collins-2/).
+    The OCC found substantial reason to believe that Rep. Collins had been using Congressional
+    resources for unofficial or otherwise unauthorized purposes, retaining an employee
+    who did not perform duties commensurate with the compensation received, and dispensing
+    special favors or privileges by employing a district intern who had a preexisting
+    personal romantic relationship with the office chief of staff and who did not
+    perform duties commensurate with her compensation.
   consequences:
   - date: 2026-01-05
     body: House Committee on Ethics
-    action: announced it was publishing the Office of Congressional Conduct (OCC) referral in the case of Rep. Mike Collins
+    action: announced it was publishing the Office of Congressional Conduct (OCC)
+      referral in the case of Rep. Mike Collins
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-mike-collins-2/
   tags: ethics unresolved
 - person: 456889
@@ -59,7 +89,9 @@
     refer a [resolution of censure](https://www.govtrack.us/congress/bills/119/hres893/text)
     to the House Ethics Committee over a range of allegations, some of which were
     already being investigated. New allegations include a dispute over Mills's claims
-    of holding a Bronze Star for his military service. In January 2026, the Committee established an [Investigative Subcommittee with members Garbarino, Subramanyam, Yakym and Pressley](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-cory-mills-3/).
+    of holding a Bronze Star for his military service. In January 2026, the Committee
+    established an [Investigative Subcommittee with members Garbarino, Subramanyam,
+    Yakym and Pressley](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-cory-mills-3/).
   consequences:
   - date: 2025-11-19
     body: House of Representatives
@@ -71,7 +103,8 @@
     link: https://ethics.house.gov/wp-content/uploads/2025/11/Press-Release-Rep.-Mills-11.19.25.pdf
   - date: 2026-01-09
     body: House Committee on Ethics
-    action: established an Investigative Subcommittee with members Garbarino, Subramanyam, Yakym and Pressley
+    action: established an Investigative Subcommittee with members Garbarino, Subramanyam,
+      Yakym and Pressley
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-cory-mills-3/
   tags: elections ethics sexual-harassment-abuse unresolved
 - person: 412774
@@ -370,9 +403,9 @@
   - date: 2023-12-11
     body: Office of Congressional Ethics
     action: found probable cause to believe that Rep. Nehls may have converted campaign
-      committee funds to personal use and failed to disclose required information in
-      his annual House financial disclosure statements and recommended that the House
-      Committee on Ethics issue subpoenas.
+      committee funds to personal use and failed to disclose required information
+      in his annual House financial disclosure statements and recommended that the
+      House Committee on Ethics issue subpoenas.
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-troy-nehls
   - date: 2024-05-10
     body: House Committee on Ethics
@@ -387,7 +420,10 @@
     2024, the House Committee on Ethics [voted unanimously voted to establish an Investigative
     Subcommittee](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar/).
     In 2025, the Committee [reauthorized the Investigative Subcommittee for the 119th
-    Congress](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar-2/). [In December 2025, President Trump pardoned Cuellar](https://www.politico.com/live-updates/2025/12/03/congress/henry-cuellar-pardon-reelection-party-00674518) even though he had so far only been indicted, but not tried or convicted, on charges of corruption.
+    Congress](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar-2/).
+    [In December 2025, President Trump pardoned Cuellar](https://www.politico.com/live-updates/2025/12/03/congress/henry-cuellar-pardon-reelection-party-00674518)
+    even though he had so far only been indicted, but not tried or convicted, on charges
+    of corruption.
   consequences:
   - date: 2024-05-03
     body: Department of Justice
@@ -402,7 +438,8 @@
     action: reauthorized the Investigative Subcommittee for the 119th Congress
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-henry-cuellar-2/
   - date: 2025-12-03
-    text: President Trump pardoned Cuellar even though he had so far only been indicted, but not tried or convicted, on charges of corruption.
+    text: President Trump pardoned Cuellar even though he had so far only been indicted,
+      but not tried or convicted, on charges of corruption.
     link: https://www.politico.com/live-updates/2025/12/03/congress/henry-cuellar-pardon-reelection-party-00674518
   tags: corruption unresolved
 - person: 456865
@@ -422,8 +459,16 @@
     the House and accepting voluntary services for official work from an individual
     not employed in her congressional office. In 2024, the Ethics Committee [expanded
     the investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-85)
-    to include new allegations in a [2024 Office of Congressional Ethics report](https://ethics.house.gov/wp-content/uploads/2026/01/OCC-Report-and-Findings-1.29.26.pdf) that Cherfilus-McCormick was engaging in improper conduct in connection with community project funding requests; misusing official funds for campaign purposes; and/or violating campaign finance laws and regulations in connection
-    with her 2024 re-election campaign. In November 2025, [Cherfilus-McCormick was indicted](https://www.huffpost.com/entry/sheila-cherfilus-mccormick-indicted-fema-funds_n_691e5d0fe4b0b763ab8dace8?bbc). In January 2026, the House Committee on Ethics [announced the creation of an Adjudicatory Committee to assess the Investigative Subcommittee's formal Statement of Alleged Violations](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-7/), made public the 2024 report of the Office of Congressional Conduct (previously Office of Congressional Ethics) and published Rep. Cherfilus-McCormick's response.
+    to include new allegations in a [2024 Office of Congressional Ethics report](https://ethics.house.gov/wp-content/uploads/2026/01/OCC-Report-and-Findings-1.29.26.pdf)
+    that Cherfilus-McCormick was engaging in improper conduct in connection with community
+    project funding requests; misusing official funds for campaign purposes; and/or
+    violating campaign finance laws and regulations in connection with her 2024 re-election
+    campaign. In November 2025, [Cherfilus-McCormick was indicted](https://www.huffpost.com/entry/sheila-cherfilus-mccormick-indicted-fema-funds_n_691e5d0fe4b0b763ab8dace8?bbc).
+    In January 2026, the House Committee on Ethics [announced the creation of an Adjudicatory
+    Committee to assess the Investigative Subcommittee's formal Statement of Alleged
+    Violations](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-7/),
+    made public the 2024 report of the Office of Congressional Conduct (previously
+    Office of Congressional Ethics) and published Rep. Cherfilus-McCormick's response.
   consequences:
   - date: 2023-09-23
     body: Office of Congressional Ethics
@@ -460,7 +505,10 @@
     link: https://www.huffpost.com/entry/sheila-cherfilus-mccormick-indicted-fema-funds_n_691e5d0fe4b0b763ab8dace8?bbc
   - date: 2026-01-29
     body: House Committee on Ethics
-    action: announced the creation of an Adjudicatory Committee to assess the Investigative Subcommittee's formal Statement of Alleged Violations, made public the 2024 report of the Office of Congressional Conduct (previously Office of Congressional Ethics) and published Rep. Cherfilus-McCormick's response
+    action: announced the creation of an Adjudicatory Committee to assess the Investigative
+      Subcommittee's formal Statement of Alleged Violations, made public the 2024
+      report of the Office of Congressional Conduct (previously Office of Congressional
+      Ethics) and published Rep. Cherfilus-McCormick's response
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-7/
   tags: elections unresolved
 - person: 412787
