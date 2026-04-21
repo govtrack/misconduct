@@ -468,7 +468,7 @@
     Committee to assess the Investigative Subcommittee's formal Statement of Alleged
     Violations](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-7/),
     made public the 2024 report of the Office of Congressional Conduct (previously
-    Office of Congressional Ethics) and published Rep. Cherfilus-McCormick's response.
+    Office of Congressional Ethics) and published Rep. Cherfilus-McCormick's response. On April 21, 2026, r[ight before an Ethics Committee hearing scheduled to decide the exact punishment she would face for ethics violations](https://www.cnn.com/2026/04/21/politics/sheila-cherfilus-mccormick-resigns-house-congress), Cherfilus-McCormick resigned from Congress. The hearing convened, her resignation letter was read, the chair declared it no longer had jurisdiction since the resignation was immediate and the hearing ended.
   consequences:
   - date: 2023-09-23
     body: Office of Congressional Ethics
@@ -510,7 +510,14 @@
       report of the Office of Congressional Conduct (previously Office of Congressional
       Ethics) and published Rep. Cherfilus-McCormick's response
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-sheila-cherfilus-mccormick-7/
-  tags: elections unresolved
+  - date: 2026-04-21
+    text: On April 21, 2026, right before an Ethics Committee hearing scheduled to decide the exact punishment she would face for ethics violations, Cherfilus-McCormick resigned from Congress. 
+    link: https://www.cnn.com/2026/04/21/politics/sheila-cherfilus-mccormick-resigns-house-congress
+  - date: 2026-04-21
+    body: Adjudicatory Subcommitee of the House Committee on Ethics
+    action: declared a loss of jurisdiction with Cherfilus-McCormick's immediate resignation
+    link: https://www.cnn.com/2026/04/21/politics/sheila-cherfilus-mccormick-resigns-house-congress
+  tags: elections resolved
 - person: 412787
   name: Tlaib
   allegation: promoting false narratives regarding the October 7, 2023, Hamas attack
