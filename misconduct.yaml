@@ -1,3 +1,13 @@
+- person: 412607
+  name: Adams
+  allegation: inappropriate relationship with staff member
+  text: In 2023 the House Committee on Ethics investigated whether Adams had had an inappropriate relationship with a staff member. Ethics apparently concluded no such relationship existed because they ended the investigation without ever making its existence, or any reports it generated, public.
+  consequences:
+  - date: 2026-04-23
+    body: House Committee on Ethics
+    action: investigated, but closed investigation and did not disclose the investigation's existence or any reports it might have generated after concluding no inappropriate relationship existed
+    link: https://www.notus.org/congress/alma-adams-ethics-committee-investigation
+  tags: resolved sexual-harassment-abuse
 - person: 412514
   name: Swalwell
   allegation: sexual harrassment
@@ -3060,7 +3070,7 @@
   name: Kihuen
   text: On Dec. 15, 2017, the House Committee on Ethics announced that it had begun
     an investigation into allegations of sexual harassment by Kihuen. On November
-    16, 2018, the Committee the Committee found that Representative Kihuen made persistent
+    16, 2018, the Committee found that Representative Kihuen made persistent
     and unwanted advances towards women who were required to interact with him as
     part of their professional responsibilities. As a result, the Committee voted
     to adopt the Investigative Subcommittee's report, which along with the Committee's
