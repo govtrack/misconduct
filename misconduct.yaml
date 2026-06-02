@@ -19,14 +19,17 @@
   text: On April 10, 2026, [CNN reported that four women reported being sexually harassed,
     and in one case, twice raped by Rep. Swalwell](https://www.cnn.com/2026/04/10/us/eric-swalwell-sexual-misconduct-allegations-invs).
     On Monday April 13, 2026, the House Committee on Ethics announced it was opening
-    an investigation into the allegations.
+    an investigation into the allegations. On Tuesday April 14, 2026, he resigned from Congress.
   consequences:
   - date: 2026-04-13
     body: House Committee on Ethics
     action: opened an investigation into the allegations presented by CNN on the previous
       Friday (April 10)
     link: https://www.cnn.com/2026/04/10/us/eric-swalwell-sexual-misconduct-allegations-invs
-  tags: crime sexual-harassment-abuse unresolved
+  - date: 2026-04-14
+    text: Swalwell resigned from Congress.
+    link: https://www.bbc.com/news/articles/c0700pd0xx1o
+  tags: crime sexual-harassment-abuse resolved
 - person: 456843
   name: Mace
   allegation: seeking reimbursements that exceeded her reimbursable expenses incurred
@@ -59,7 +62,7 @@
     Ethics opened an investigation. On March 5, 2026, [Rep. Gonzales announced he
     was ending his re-election campaign, but intended to stay in office for the rest
     of this term](Rep. Gonzales announced he was ending his re-election campaign,
-    but intended to stay in office for the rest of this term.).
+    but intended to stay in office for the rest of this term.). On Tuesday April 14, 2026, he resigned from Congress.
   consequences:
   - date: 2026-03-04
     body: House Committee on Ethics
@@ -69,7 +72,10 @@
     text: Rep. Gonzales announced he was ending his re-election campaign, but intended
       to stay in office for the rest of this term.
     link: https://jamiedupree.substack.com/p/under-pressure-over-affair-gonzales?triedRedirect=true&_src_ref=go.bsky.app
-  tags: sexual-harassment-abuse unresolved
+  - date: 2026-04-14
+    text: Gonzales resigned from Congress.
+    link: https://www.bbc.com/news/articles/c0700pd0xx1o
+  tags: sexual-harassment-abuse resolved
 - person: 456895
   name: Collins
   allegation: using Congressional resources for unofficial or otherwise unauthorized
@@ -210,7 +216,7 @@
     launder funds to conceal and promote his criminal conduct
   text: Former FL Rep. David Rivera was indicted for acting as an unregistered agent
     of a Venezuelan national and to launder funds to conceal and promote his criminal
-    conduct.
+    conduct. He was convicted in May 2026.
   consequences:
   - date: 2024-12-18
     body: Department of Justice
@@ -218,7 +224,10 @@
       agent of a Venezuelan national and to launder funds to conceal and promote his
       criminal conduct
     link: https://www.justice.gov/opa/pr/former-member-congress-charged-acting-unregistered-agent-venezuelan-national
-  tags: corruption ethics unresolved
+  - date: 2026-05-01
+    text: Rivera was convicted.
+    link: https://www.nbcnews.com/politics/politics-news/ex-gop-rep-david-rivera-convicted-secretly-lobbying-us-officials-behal-rcna343117
+  tags: corruption ethics resolved
 - person: 456889
   name: Mills
   allegation: ommitting or misrepresenting financial disclosure information and benefiting
@@ -2173,7 +2182,7 @@
     link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-hal-0
   tags: ethics resolved
 - person: 412393
-  name: Tom Reed
+  name: Reed
   text: On April 9, 2021, the House Committee on Ethics [opened an investigation](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-tom)
     into allegations that Reed was engaging in sexual misconduct. In 2022, Reed resigned
     and [the Committee's jurisdiction ended](https://www.congress.gov/117/crpt/hrpt706/CRPT-117hrpt706.pdf#page=+36).
@@ -2628,7 +2637,7 @@
   text: In 2019, San Nicolas was alleged to have engaged in a sexual relationship
     with a staff member, converted campaign funds to personal use and/or accepted
     improper or excessive campaign contributions. In 2020, the House Committee on
-    Ethics[established an Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-f-0)
+    Ethics [established an Investigative Subcommittee](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-delegate-michael-f-0)
     to further investigate the allegations following a referral from the Office of
     Congressional Ethics. In 2022, the Investigative Subcommittee found that there
     was at least some evidence for all the allegations, but the most significant evidence
@@ -2958,7 +2967,7 @@
     she admitted that she had [failed to address sexual harassment](https://www.cnn.com/2018/04/02/politics/elizabeth-esty-expedited-ethics-review/index.html)
     by one staffer against another in a timely manner. She said she had also asked
     for a review of her office's actions by the House Committee on Ethics. In December
-    of 2018, the House Committee on Ethics [found that Esty had broken no House rules](https://ethics.house.gov/sites/ethics.house.gov/files/Esty%20Report%20FINAL%20with%20Signatures.pdf)
+    of 2018, the House Committee on Ethics [found that Esty had broken no House rules](https://www.govinfo.gov/content/pkg/CRPT-115hrpt1093/pdf/CRPT-115hrpt1093.pdf)
     but that she could have handled the situation better.
   allegation: failed to address sexual harassment by one staffer against another in
     a timely manner
@@ -2970,8 +2979,7 @@
     body: House Committee on Ethics
     action: found that Esty had not acted quickly to remove the staffer as she should
       have, but that she did not break any rules
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Esty%20Report%20FINAL%20with%20Signatures.pdf
-  tags: resolved sexual-harassment-abuse
+    link: https://www.govinfo.gov/content/pkg/CRPT-115hrpt1093/pdf/CRPT-115hrpt1093.pdf
 - person: 400297
   name: Nunes
   text: In 2018, the [Federal Elections Commission (FEC) announced it was investigating
@@ -3510,7 +3518,7 @@
     body: House Committee on Ethics
     action: established an Investigative Subcommittee and simultaneously deferred
       further investigation to the Department of Justice
-    link: https://ethics.house.gov/press-release/statement-chairwoman-and-ranking-member-committee-ethics-regarding-representative-23
+    link: https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-9-2/
   - date: 2018-11-06
     text: Hunter was reelected.
     link: https://www.latimes.com/politics/la-na-pol-duncan-hunter-reelected-indicted-20181107-story.html
@@ -3632,7 +3640,7 @@
     In December 2017, she was sentenced to five years in prison. In May 2021, her
     conviction was [vacated](https://en.wikipedia.org/wiki/Corrine_Brown#Conviction_overturned).
     In May 2022, Brown [pleaded guilty to one count of lying on her tax returns](https://www.jacksonville.com/story/news/courts/2022/05/18/ex-u-s-rep-corrine-brown-pleads-guilty-1-charge-feds-drop-rest/9808489002/).
-    In June 2022, she announced that she would be running for the FL-10 seat in the
+    In June 2022, she announced that she would be [running for the FL-10 seat in the
     upcoming election](https://www.jacksonville.com/story/news/politics/2022/06/16/corrine-brown-running-again-congress-central-florida/7646594001/).
   allegation: a range of mail violations, wire fraud, defrauding the IRS and related
     charges
@@ -4169,12 +4177,13 @@
     body: House Office of Congressional Ethics
     action: recommended that the Committee on Ethics further review the allegation
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-thomas-petri
+  - date: 2014-04-14
+    text: Petri announced he would not seek reelection.
+    link: https://archive.jsonline.com/news/statepolitics/petri-wont-seek-re-election-b99246212z1-254945921.html
   - date: 2014-12-11
     body: House Committee on Ethics
     action: recommended no further action
     link: https://www.congress.gov/113/crpt/hrpt666/CRPT-113hrpt666.pdf
-  - date: 2014-11
-    text: Petri announced he would not seek reelection.
   tags: ethics resolved
 - person: 400170
   name: Hastings
@@ -4620,13 +4629,13 @@
     body: House Office of Congressional Ethics
     action: recommended the Committee further review the allegations
     link: https://oce.house.gov/reports/investigations/oce-referral-regarding-rep-shelley-berkley
+  - date: 2012-11-06
+    text: Berkley lost reelection.
   - date: 2012-12-20
     body: House Committee on Ethics
     action: concluded in a report that the representative had indeed advocated for
       some programs in which she had a financial interest
     link: https://www.congress.gov/112/crpt/hrpt716/CRPT-112hrpt716.pdf
-  - date: 2012-11-06
-    text: Berkley lost reelection.
   tags: ethics resolved
 - person: 400271
   name: Meeks
@@ -4698,7 +4707,7 @@
   allegation: sexual assault
   consequences:
   - date: 2011-07-22
-    text: A newspaper reported allegations that Wu forced her into non-consensual
+    text: A newspaper reported allegations that Wu forced a woman into non-consensual
       sex.
     link: http://www.oregonlive.com/politics/index.ssf/2011/07/rep_david_wu_accused_of_aggres.html
   - date: 2011-08-04
@@ -5743,7 +5752,7 @@
   - date: 2004-11-18
     body: House Committee on Standards of Official Conduct
     action: resolved the matter by a public letter
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/November%2018%202004%20COE%20to%20Rep%20Bell.pdf
+    link: https://ethics.house.gov/press-releases/statement-of-the-committee-on-standards-of-official-conduct-regarding-the-complaint-filed-by-representative-bell-against-representative-delay/
   tags: ethics resolved
 - person: 400258
   name: McCarthy
@@ -5758,7 +5767,7 @@
     body: House Committee on Standards of Official Conduct
     action: issued a public statement finding McCarthy to be at fault, but did not
       pursue further when she resigned
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Press2%2011-18-04.pdf
+    link: https://ethics.house.gov/press-releases/statement-of-chairman-joel-hefley-and-ranking-minority-member-alan-b-mollohan-on-their-determinations-regarding-the-conduct-of-representative-karen-mccarthy/
   - date: 2004
     text: McCarthy did not seek reelection after acknowledging that she had untreated
       alcoholism.
@@ -5894,7 +5903,7 @@
   - date: 2001-08-01
     body: House Committee on Standards of Official Conduct
     action: dismissed complaint unanimously and public letter sent to Buyer
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Press%20Statement%20Steve%20Buyer.pdf
+    link: https://ethics.house.gov/press-releases/press-statement-regarding-representative-steve-buyer/;
   tags: ethics resolved
 - person: 400502
   name: Hilliard
@@ -6437,7 +6446,7 @@
     action: the complaint was dismissed and a public letter was released indicating
       that the committee found a technical violation of campaign regulations. Frost
       agreed to appropriate reimbursement
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
   tags: elections ethics resolved
 - person: 403669
   name: Durenberger
@@ -6741,7 +6750,7 @@
     a misdemeanor; and of improper sexual advances to a Capitol elevator operator
     on Oct. 17, 1990.  On Oct. 4, 1990, he resigned. On Oct. 24, 1990, the preliminary
     inquiry resolution was amended to include the assertion of additional charges
-    from Oct. 22, 1990. [The staff report was published on Oct. 24, 1990](https://ethics.house.gov/sites/ethics.house.gov/files/comm_print_10241990.pdf).
+    from Oct. 22, 1990. [The staff report was published on Oct. 24, 1990](https://ethics.house.gov/wp-content/uploads/1990/10/19901024-Representative-Donald-E.-Lukens-Report.pdf).
   allegation: contributing to the unruliness of a female minor, e.g. sex with an underage
     girl on May 26, 1989, for which he was convicted as a misdemeanor; improper sexual
     advances to Capitol elevator operator on Oct. 17, 1990
@@ -6749,10 +6758,10 @@
   - date: 1990-10-24
     text: Preliminary inquiry resolution amended to include assertion of additional
       charges on Oct. 22, 1990; staff report published on Oct. 24, 1990.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/comm_print_10241990.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1990/10/19901024-Representative-Donald-E.-Lukens-Report.pdf
   - date: 1990-10-04
     text: Resigned.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf#page=+25
+    link: https://ethics.house.gov/wp-content/uploads/1990/10/19901024-Representative-Donald-E.-Lukens-Report.pdf
     tags: resignation
   tags: resolved sexual-harassment-abuse
 - person: 403669
@@ -6861,6 +6870,7 @@
   - date: 1989-10-31
     body: House Committee on Standards of Official Conduct
     action: preliminary inquiry voted
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
   - date: 1990-01-07
     text: Resigned.
     link: https://www.nytimes.com/2017/01/26/nyregion/robert-garcia-dead-bronx-congressman.html
@@ -6877,7 +6887,7 @@
   - date: 1989-10-18
     body: House Committee on Standards of Official Conduct
     action: adopted a public letter of reproval
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt101-293.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1989/10/19891018-Representative-Jim-Bates-Report.pdf
     tags: reprimand
   - date: 1989
     text: Admitted to violations and wrote personal letter of apology.
@@ -6911,7 +6921,7 @@
   - date: 1989-04-17
     body: House Committee on Standards of Official Conduct
     action: made the report of Special Outside Counsel public
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf#page=+22
+    link: https://ethics.house.gov/wp-content/uploads/1989/04/19890417-Representative-James-C.-Wright-Report.pdf
   - date: 1989-06-30
     text: Wright resigned as Speaker on House floor after having announced his intent
       to do so in May.
@@ -6933,7 +6943,7 @@
   - date: 1988-02-17
     body: House Committee on Standards of Official Conduct
     action: recommended expulsion, 12-0
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt100-506.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1988/02/19880218-Biaggi-Report.pdf
   - date: 1988-08-05
     text: Resigned after an additional conviction.
     link: https://rollcall.com/2015/06/25/mario-biaggi-bronx-democrat-who-resigned-in-scandal-dies-at-97/
@@ -6944,17 +6954,17 @@
   text: In 1988, the House Committee on Standards of Official Conduct investigated
     Rose for borrowing campaign funds for personal use and inadequate financial disclosure.
     On Mar. 23, 1988, the committee adopted a public letter of reproval, 9-3. In 1994,
-    he [paid civil fine of $12,500](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    he [paid civil fine of $12,500](https://ethics.house.gov/wp-content/uploads/1988/03/19880323-Representative-Rose-Report.pdf).
   allegation: borrowing campaign funds for personal use and inadequate financial disclosure
   consequences:
   - date: 1988-03-23
     body: House Committee on Standards of Official Conduct
     action: adopted a public letter of reproval, 9-3
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt100-526.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1988/03/19880323-Representative-Rose-Report.pdf
     tags: reprimand
   - date: 1994
     text: Paid civil fine of $12,500.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
   tags: elections resolved
 - person: 408052
   name: Murphy
@@ -6968,7 +6978,7 @@
   - date: 1987-12-16
     body: House Committee on Standards of Official Conduct
     action: recommended reprimand, 11-0
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt100-485.pdf
+    link: hthttps://ethics.house.gov/wp-content/uploads/1987/12/19871216-Representative-Austin-Murphy-Report.pdf
   - date: 1987-12-18
     body: House of Representatives
     action: reprimanded, 324-68
@@ -6984,7 +6994,7 @@
     Conduct deferred at DOJ request. On Sep. 23, 1987, [Boner was elected mayor of
     Nashville](http://www.nytimes.com/1987/09/23/us/congressman-elected-mayor.html).
     On Oct. 5, 1987, he resigned from Congress. On Dec. 14, 1987, the House Committee
-    on Standards of Official Conduct [staff report was published](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    on Standards of Official Conduct [staff report was published](https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf).
   allegation: violations of the gift rule, improper use of campaign funds, conflict
     of interest, and improper use of official resources
   consequences:
@@ -7003,7 +7013,7 @@
   - date: 1987-12-14
     body: House Committee on Standards of Official Conduct
     action: staff report published
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
   tags: crime elections ethics resolved
 - person: 410251
   name: Stallings
@@ -7015,7 +7025,7 @@
   - date: 1987-10-15
     body: House Committee on Standards of Official Conduct
     action: adopted a public letter of reproval, 12-0
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt100-382.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1987/10/19871020-Representative-Stallings-Report.pdf
     tags: reprimand
   tags: elections resolved
 - person: 410231
@@ -7031,7 +7041,7 @@
   - date: 1987-04-09
     body: House Committee on Standards of Official Conduct
     action: recommended no sanction, report approved and filed
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/documents/Hrpt100-46.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1987/04/Hrpt100-46.pdf
   tags: ethics resolved
 - person: 408313
   name: Oakar
@@ -7061,7 +7071,7 @@
   - date: 1986-09-30
     body: House Committee on Standards of Official Conduct
     action: recommended no sanction, report approved and filed, 12-0
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt99-933.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1986/09/19860930-Rep.-James-Weaver-Report.pdf
   tags: elections resolved
 - person: 410553
   name: Sweeney
@@ -7077,7 +7087,7 @@
     body: House Committee on Standards of Official Conduct
     action: determined that the campaign activities occurred in the district office
       with no evidence Sweeney directed or condoned the improper activities
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
   tags: elections ethics resolved
 - person: 403178
   name: Daniel
@@ -7089,7 +7099,7 @@
   - date: 1986-02-05
     body: House Committee on Standards of Official Conduct
     action: Daniel made restitution and amended the financial disclosure statement
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1986/02/19860205-Representative-Dan-Daniel.pdf
   tags: ethics resolved
 - person: 404046
   name: Ferraro
@@ -7104,7 +7114,7 @@
     action: complaint filed by outside organization (Aug. 7, 1984); preliminary inquiry
       voted (Sept. 12, 1984); found technical violations; no sanction recommended,
       12-2 (Dec. 3, 1984); filed its report (Dec. 4, 1984)
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/committee-reports/matter-representative-geraldine-ferraro/
   tags: ethics resolved
 - person: 405053
   name: Hansen
@@ -7120,7 +7130,7 @@
   - date: 1984-06-20
     body: House Committee on Standards of Official Conduct
     action: recommended reprimand, 11-1
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/committee-reports/matter-representative-george-v-hansen/
   - date: 1984-07-31
     body: House of Representatives
     action: reprimanded, 354-52
@@ -7145,7 +7155,7 @@
     body: House Committee on Standards of Official Conduct
     action: preliminary inquiry voted; Special Counsel investigated and found no basis
       for statement of alleged violation; committee took no further action
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt98-559%20pt.%201.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
   tags: crime resolved
 - person: 403364
   name: Dellums
@@ -7159,7 +7169,7 @@
     body: House Committee on Standards of Official Conduct
     action: preliminary inquiry voted; Special Counsel investigated and found no basis
       for statement of alleged violation; committee took no further action
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt98-559%20pt.%201.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
   tags: crime resolved
 - person: 410496
   name: Studds
@@ -7174,7 +7184,7 @@
   - date: 1983-07-14
     body: House Committee on Standards of Official Conduct
     action: recommended reprimand and filed report, 11-1
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt98-295.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1983/07/19830714-Representative-Gary-E.-Studds-Report.pdf
   - date: 1983-07-20
     body: House of Representatives
     action: rejected the reprimand recommendation, 289-136; censured Studds instead,
@@ -7194,7 +7204,7 @@
   - date: 1983-07-14
     body: House Committee on Standards of Official Conduct
     action: recommended reprimand, 11-1
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt98-296.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1983/07/19830714-Representative-Daniel-B.-Crane-Report.pdf
   - date: 1983-07-20
     body: House of Representatives
     action: rejected the reprimand recommendation, 289-136; censured him instead,
@@ -7217,7 +7227,7 @@
   - date: 1982-05-12
     body: House Committee on Standards of Official Conduct
     action: deferred its investigation at the request of the Department of Justice
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
   - date: 1982-08-25
     text: Resigned.
     link: https://www.upi.com/Archives/1982/08/25/Millionaire-Congressman-Fred-Richmond-pleaded-guilty-to-tax-and/6183399096000/
@@ -7308,7 +7318,7 @@
 - person: 406690
   name: Lederer
   text: Lederer resigned April 29, 1981 after the House Committee on Standards of
-    Official Conduct [recommended expulsion](https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt97-110.pdf),
+    Official Conduct [recommended expulsion](https://ethics.house.gov/wp-content/uploads/1981/05/19810520-Representative-Raymond-F.-Lederer-Report-Part-1.pdf),
     10-2, following his conviction on charges of bribery. He was accused of bribery,
     acceptance of an unlawful gratuity, conspiracy and Travel Act violations.
   allegation: bribery, acceptance of an unlawful gratuity, conspiracy and Travel Act
@@ -7321,7 +7331,7 @@
   - date: 1981-04-28
     body: House Committee on Standards of Official Conduct
     action: recommended expulsion, 10-2
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt97-110.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1981/05/19810520-Representative-Raymond-F.-Lederer-Report-Part-1.pdf
   - date: 1981-04-29
     text: Resigned.
     link: http://www.nytimes.com/1981/04/30/us/lederer-quits-congress-over-conviction-in-abscam.html
@@ -7329,7 +7339,7 @@
   - date: 1981-05-20
     body: House Committee on Standards of Official Conduct
     action: filed its report
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt97-110.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1981/05/19810520-Representative-Raymond-F.-Lederer-Report-Part-1.pdf
   tags: corruption resolved
 - person: 410779
   name: Thompson
@@ -7368,7 +7378,7 @@
   - date: 1980-12-16
     body: House Committee on Standards of Official Conduct
     action: sanction hearing terminated by resignation and filed the report
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1980/12/19801216-Representative-John-W.-Jenrette-Jr.-Report.pdf
   tags: corruption resolved
 - person: 408094
   name: Myers
@@ -7385,7 +7395,7 @@
   - date: 1980-09-24
     body: House Committee on Standards of Official Conduct
     action: recommended expulsion, 10-2 (Sept. 24, 1980)
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/committee-reports/matter-representative-michael-j-myers/
   - date: 1980-10-02
     body: House of Representatives
     action: expelled, 376-30
@@ -7398,7 +7408,7 @@
     Wilson for accepting money from a person with direct interest in legislation;
     maintaining a person on payroll not performing duties commensurate with pay; personal
     use of campaign funds and recommended censure and denial of chairmanship, 10-2.
-    On Jun. 3, 1980, Wilson was [defeated in the primary](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    On Jun. 3, 1980, Wilson was [defeated in the primary](https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf).
     On Jun. 10, 1980, the House of Representatives [agreed to an amendment deleting
     denial of chairmanship from sanction, 261-148; and censured Wilson by voice vote](https://www.govtrack.us/congress/votes/96-1980/h949).
   allegation: accepting money from a person with direct interest in legislation; maintaining
@@ -7408,10 +7418,10 @@
   - date: 1980-04-24
     body: House Committee on Standards of Official Conduct
     action: recommended censure and denial of chairmanship, 10-2
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt96-930.pdf
+    link: https://ethics.house.gov/committee-reports/matter-representative-charles-h-wilson/
   - date: 1980-06-03
     text: Defeated in the primary.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
   - date: 1980-06-10
     body: House of Representatives
     action: agreed to an amendment deleting denial of chairmanship from sanction,
@@ -7424,10 +7434,10 @@
   text: On Dec. 12, 1979, the House Committee on Standards of Official Conduct investigated
     Flood for using official influence on behalf of private parties and foreign governments
     in return for unlawful payments and disciplinary hearing deferred due to hospitalization.
-    On Jan. 31, 1980, he [resigned](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    On Jan. 31, 1980, he [resigned](https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf).
     On Feb. 26, 1980, he pleaded guilty to misdemeanor of conspiracy to defraud government.
     On Mar. 26, 1980, the House Committee on Standards of Official Conduct [filed
-    its report](https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt96-856.pdf).
+    its report](https://ethics.house.gov/wp-content/uploads/1980/03/19800326-Representative-Daniel-J.-Flood-Report.pdf).
   allegation: using official influence on behalf of private parties and foreign governments
     in return for unlawful payments
   consequences:
@@ -7436,10 +7446,10 @@
     action: Special Counsel appointed, Investigative subcommittee established (April
       19, 1978); statement of alleged violation adopted (June 7, 1979); disciplinary
       hearing deferred due to hospitalization (Dec. 12, 1979)
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt96-856.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1980/03/19800326-Representative-Daniel-J.-Flood-Report.pdf
   - date: 1980-01-31
     text: Resigned.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
     tags: resignation
   - date: 1980-02-26
     text: Pleaded guilty to misdemeanor of conspiracy to defraud government.
@@ -7447,7 +7457,7 @@
   - date: 1980-03-26
     body: House Committee on Standards of Official Conduct
     action: filed its report
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt96-856.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1980/03/19800326-Representative-Daniel-J.-Flood-Report.pdf
   tags: corruption resolved
 - person: 410624
   name: Talmadge
@@ -7473,7 +7483,7 @@
   name: Diggs, Jr.
   text: In October 1978, Diggs was convicted of taking kickbacks. He was re-elected
     the next month, but on July 31, 1979, the House of Representatives [censured him](https://www.govtrack.us/congress/votes/96-1979/h366)
-    in a 414-0 vote and in 1980 he [resigned after losing the criminal appeal](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    in a 414-0 vote and in 1980 he [resigned after losing the criminal appeal](https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf).
   allegation: mail fraud and false statements
   consequences:
   - date: 1978-10
@@ -7487,7 +7497,7 @@
   - date: 1979-07-31
     body: House Committee on Standards of Official Conduct
     action: recommended censure, 11-0
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/committee-reports/matter-representative-charles-c-diggs/
   - date: 1979-07-31
     body: House of Representatives
     action: censured, 414-0
@@ -7495,7 +7505,7 @@
     tags: censure
   - date: 1980-06-03
     text: Resigned after losing criminal appeal.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
     tags: resignation
   tags: ethics resolved
 - person: 403787
@@ -7510,7 +7520,7 @@
   - date: 1978-09-13
     body: House Committee on Standards of Official Conduct
     action: conducted inquiry
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
   - date: 1978-10-24
     text: Indicted.
   - date: 1978-11-07
@@ -7532,7 +7542,7 @@
   - date: 1978-09-27
     body: House Committee on Standards of Official Conduct
     action: conducted inquiry and recommended reprimand, 8-1
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt95-1741.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
   - date: 1978-10-13
     body: House of Representatives
     action: reprimanded, 329-41
@@ -7544,20 +7554,20 @@
   text: On Oct. 4, 1978, the House Committee on Standards of Official Conduct investigated
     McFall for failing to report $3,000 campaign contribution in 1974 and recommended
     reprimand, 8-2. On Oct. 13, 1978, the House of Representatives reprimanded him
-    by voice vote On Dec. 31, 1978, he [resigned](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    by voice vote On Dec. 31, 1978, he [resigned](https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf).
   allegation: failing to report $3,000 campaign contribution in 1974
   consequences:
   - date: 1978-10-04
     body: House Committee on Standards of Official Conduct
     action: conducted inquiry and recommended reprimand, 8-2
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt95-1742.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1978/10/19781006-Representative-John-J.-McFall-Report.pdf
   - date: 1978-10-13
     body: House of Representatives
     action: reprimanded, voice vote
     tags: reprimand
   - date: 1978-12-31
     text: Resigned.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
     tags: resignation
   tags: elections resolved
 - person: 409446
@@ -7573,7 +7583,7 @@
   - date: 1978-09-27
     body: House Committee on Standards of Official Conduct
     action: conducted inquiry and recommended censure
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt95-1743_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1978/10/19781006-Representative-Edward-R.-Roybal-Report.pdf
   - date: 1978-10-13
     body: House of Representatives
     action: rejected the censure recommendation, 219-170; reprimanded, voice vote
@@ -7590,7 +7600,7 @@
   - date: 1978-10-04
     body: House Committee on Standards of Official Conduct
     action: conducted inquiry and dismissed the charges, 8-0
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Hrpt95-1740.pdf#page=+5
+    link: https://ethics.house.gov/wp-content/uploads/1978/10/19781006-Representative-Edward-J.-Patten-Report.pdf
   tags: crime elections resolved
 - person: 405493
   name: Hinshaw
@@ -7606,22 +7616,22 @@
     tags: conviction
   - date: 1976-06-08
     text: Lost the primary.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
   - date: 1976-09-01
     body: House Committee on Standards of Official Conduct
     action: recommended against expulsion due to lack of jurisdiction for actions
       committed prior to service in House, 10-2
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Rep.Hinshaw.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1976/09/19760907-Representative-Andrew-J.-Hinshaw-Report.pdf
   - date: 1976-10-01
     body: House of Representatives
     action: expulsion resolution was tabled
   tags: corruption resolved
 - person: 405275
-  name: Hayes
+  name: Hays
   text: On Jun. 2, 1976, the House Committee on Standards of Official Conduct investigated
     Hayes for retaining an employee on public payroll for immoral purposes (1974-76)
     after Hays and other members requested an investigation of the press allegations.
-    On Sep. 1, 1976, he [resigned prior to hearings](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    On Sep. 1, 1976, he [resigned prior to hearings](https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf).
   allegation: retaining employee on public payroll for immoral purposes (1974-76)
   consequences:
   - date: 1976-06-02
@@ -7630,7 +7640,7 @@
       of the press allegations
   - date: 1976-09-01
     text: Resigned prior to hearings.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
     tags: resignation
   tags: ethics resolved
 - person: 402037
@@ -7679,7 +7689,7 @@
   - date: 1976-07-21
     body: House Committee on Standards of Official Conduct
     action: recommended reprimand, 10-2
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/94-1364.pdf
+    link: https://ethics.house.gov/wp-content/uploads/1976/07/19760723-Complaint-Against-Representative-Robert-L.F.-Sikes-Report.pdf
   - date: 1976-07-29
     body: House of Representatives
     action: reprimanded, 381-3
@@ -7703,7 +7713,7 @@
     body: House Committee on Standards of Official Conduct
     action: dismissed the complaint, 7-3 because the information had not been properly
       classified
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
   tags: ethics resolved
 - person: 403577
   name: Dowdy
@@ -7726,7 +7736,7 @@
   - date: 1975-03-12
     body: House Committee on Standards of Official Conduct
     action: unanimously adopted H. Res. 46
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://www.congress.gov/bill/94th-congress/house-resolution/46
   - date: 1975-04-16
     body: House of Representatives
     action: passed H. Res. 46, 360-37 adding clause 10 to the Code of Official Conduct,
@@ -8866,14 +8876,14 @@
   name: Voorhis
   text: Voorhis faced an allegation of insulting another member during debate on March
     1, 1883. Voorhis apologized prior to a censure vote and on Mar. 1, 1883, the House
-    of Representatives [failed to censure him, 66-78](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    of Representatives [failed to censure him, 66-78](https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf).
   allegation: insulting another member during debate on March 1, 1883
   consequences:
   - date: 1883-03-01
     body: House of Representatives
     action: Voorhis apologized prior to a censure vote and the censure vote failed,
       66-78
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
   tags: ethics resolved
 - person: 406600
   name: Lapham
@@ -8955,7 +8965,7 @@
     appeal. On Jan. 25, 1878, the House Committee on the Judiciary investigated the
     circumstances of the conviction and determined that arrest by state authorities
     for an alleged state crime and detention for trial did not violate any right or
-    privilege of the House. On Apr. 23, 1879, he was [pardoned by governor](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    privilege of the House. On Apr. 23, 1879, he was [pardoned by governor](https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf).
   allegation: accepting a bribe while a state legislator in 1872
   consequences:
   - date: 1877-11-11
@@ -8971,14 +8981,14 @@
       not violate any right or privilege of the House
   - date: 1879-04-23
     text: Pardoned by governor.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
   tags: corruption resolved
 - person: 401495
   name: Blaine
   text: Blaine faced an allegation of selling worthless bonds to Union Pacific Railroad
     for $64,000. On Jun. 6, 1876, the [House Committee on the Judiciary ordered a
     report](https://www.govinfo.gov/content/pkg/SERIALSET-01706_00_00-003-0176-0000/pdf/SERIALSET-01706_00_00-003-0176-0000.pdf).
-    On Jul. 10, 1876, he [resigned](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    On Jul. 10, 1876, he [resigned](https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf).
   allegation: selling worthless bonds to Union Pacific Railroad for $64,000
   consequences:
   - date: 1876-06-06
@@ -8987,7 +8997,7 @@
     link: https://www.govinfo.gov/content/pkg/SERIALSET-01706_00_00-003-0176-0000/pdf/SERIALSET-01706_00_00-003-0176-0000.pdf
   - date: 1876-07-10
     text: Resigned.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
     tags: resignation
   tags: crime resolved
 - person: 405269
@@ -9312,14 +9322,14 @@
 - person: 403416
   name: Deweese
   text: Deweese faced an allegation of accepting money for recommending appointment
-    to military academy. On Feb. 28, 1870, he [resigned](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    to military academy. On Feb. 28, 1870, he [resigned](https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf).
     On Mar. 1, 1870, the Committee on Military Affairs recommended censure and the
     House of Representatives [censured him, 170-0](https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=810).
   allegation: accepting money for recommending appointment to military academy
   consequences:
   - date: 1870-02-28
     text: Resigned.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
     tags: resignation
   - date: 1870-03-01
     text: Committee on Military Affairs recommended censure.
@@ -9353,7 +9363,7 @@
     On Feb. 21, 1870, the Committee on Military Affairs recommended expulsion. On
     Feb. 24, 1870, the House of Representatives [censured him, 187-0](https://babel.hathitrust.org/cgi/pt?id=uc1.c3241707&seq=846).
     On Jun. 21, 1870, he resigned prior to censure, but then was reelected to the
-    same session of the House and then excluded from the House again, [130-76](https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf).
+    same session of the House and then excluded from the House again, [130-76](https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf).
   allegation: selling appointments to military academies
   consequences:
   - date: 1870-02-21
@@ -9367,7 +9377,7 @@
   - date: 1870-06-21
     text: Resigned prior to censure, but then was reelected to the same session of
       the House and then excluded from the House again, 130-76.
-    link: https://ethics.house.gov/sites/ethics.house.gov/files/Historical_Chart_Final_Version%20in%20Word_0.pdf
+    link: https://ethics.house.gov/wp-content/uploads/2024/01/Historical_Chart_Final_Version-in-Word_0.pdf
     tags: exclusion resignation
   tags: corruption resolved
 - person: 405563
