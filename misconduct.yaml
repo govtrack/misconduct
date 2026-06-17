@@ -19,7 +19,8 @@
   text: On April 10, 2026, [CNN reported that four women reported being sexually harassed,
     and in one case, twice raped by Rep. Swalwell](https://www.cnn.com/2026/04/10/us/eric-swalwell-sexual-misconduct-allegations-invs).
     On Monday April 13, 2026, the House Committee on Ethics announced it was opening
-    an investigation into the allegations. On Tuesday April 14, 2026, he resigned from Congress.
+    an investigation into the allegations. On Tuesday April 14, 2026, he resigned
+    from Congress.
   consequences:
   - date: 2026-04-13
     body: House Committee on Ethics
@@ -29,7 +30,8 @@
   - date: 2026-04-14
     text: Swalwell resigned from Congress.
     link: https://www.bbc.com/news/articles/c0700pd0xx1o
-  tags: crime sexual-harassment-abuse resolved
+    tags: resignation
+  tags: crime resolved sexual-harassment-abuse
 - person: 456843
   name: Mace
   allegation: seeking reimbursements that exceeded her reimbursable expenses incurred
@@ -62,7 +64,8 @@
     Ethics opened an investigation. On March 5, 2026, [Rep. Gonzales announced he
     was ending his re-election campaign, but intended to stay in office for the rest
     of this term](Rep. Gonzales announced he was ending his re-election campaign,
-    but intended to stay in office for the rest of this term.). On Tuesday April 14, 2026, he resigned from Congress.
+    but intended to stay in office for the rest of this term.). On Tuesday April 14,
+    2026, he resigned from Congress.
   consequences:
   - date: 2026-03-04
     body: House Committee on Ethics
@@ -75,7 +78,8 @@
   - date: 2026-04-14
     text: Gonzales resigned from Congress.
     link: https://www.bbc.com/news/articles/c0700pd0xx1o
-  tags: sexual-harassment-abuse resolved
+    tags: resignation
+  tags: resolved sexual-harassment-abuse
 - person: 456895
   name: Collins
   allegation: using Congressional resources for unofficial or otherwise unauthorized
@@ -544,6 +548,7 @@
       decide the exact punishment she would face for ethics violations, Cherfilus-McCormick
       resigned from Congress.
     link: https://www.cnn.com/2026/04/21/politics/sheila-cherfilus-mccormick-resigns-house-congress
+    tags: resignation
   - date: 2026-04-21
     body: Adjudicatory Subcommitee of the House Committee on Ethics
     action: declared a loss of jurisdiction with Cherfilus-McCormick's immediate resignation
@@ -2980,6 +2985,7 @@
     action: found that Esty had not acted quickly to remove the staffer as she should
       have, but that she did not break any rules
     link: https://www.govinfo.gov/content/pkg/CRPT-115hrpt1093/pdf/CRPT-115hrpt1093.pdf
+  tags: resolved sexual-harassment-abuse
 - person: 400297
   name: Nunes
   text: In 2018, the [Federal Elections Commission (FEC) announced it was investigating
