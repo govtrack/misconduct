@@ -8104,6 +8104,20 @@
     link: https://hdl.handle.net/2027/umn.31951p00933065r?urlappend=%3Bseq=413
   tags: corruption elections resolved
 - person: 401404
+  name: Berry 
+  allegation: irregularities in union and business activities prior to appointment to the Senate
+  text: Berry faced allegations in May 1937 from a private citizen of Tennesee of irregularities in union and business activities prior to appointment to the Senate. In June of 1937, the Committee on Privileges and Elections reported that it found the allegations without merit and the same day the Senate agreed by voice vote. Berry retained his seat. 
+  consequences:
+  - date: 1937-05-10
+    body: Committee on Privileges and Elections
+    action: opened an investigation into allegations from a private citizen
+    link: https://babel.hathitrust.org/cgi/pt?id=umn.31951p00933065r&seq=396
+  - date: 1937-06-14
+    body: Senate
+    action: voice vote agreeing to let Berry retain his seat
+    link: https://babel.hathitrust.org/cgi/pt?id=umn.31951p00933065r&seq=397
+  tags: resolved elections ethics crimes
+- person: 406579
   name: Langer
   text: Langer faced an allegation of bribery, receiving kickbacks, collecting fees
     for fictitious services and converting proceeds from litigation settlements. On
