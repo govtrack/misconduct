@@ -30,14 +30,18 @@
   tags: unresolved sexual-harassment-abuse
 - person: 412822
   name: Gooden
-  allegation: unknown misconduct
-  text: In July 2026, the House Committee on Ethics announced that they have extended the matter regarding Representative Lance Gooden, which was transmitted to the Committee by the Office of Congressional Conduct on June 10, 2026. However, they have not said what it is he's being investigated for.
+  allegation: misuse of campaign funds for travel
+  text: In July 2026, the House Committee on Ethics announced that they have extended the matter regarding Representative Lance Gooden, which was transmitted to the Committee by the Office of Congressional Conduct on June 10, 2026. On November 9, 2026, [the House Committee on Ethics released the Office of Congressional Conduct report on Gooden and his response](https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-lance-gooden-2/). The Office of Congressional Conduct says Rep. Gooden "[may have misreported or falsified campaign disbursements that may not have been attributable to bona fide campaign or political purposes](https://conduct.house.gov/reports/investigations/occ-referral-regarding-rep-lance-gooden)." The House Committee on Ethics will continue to investigate. 
   consequences:
   - date: 2026-07-26
     body: House Committee on Ethics
     action: announced they have extended the matter regarding Representative Lance Gooden, which was transmitted to the Committee by the Office of Congressional Conduct on June 10, 2026
     link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-lance-gooden/
-  tags: unresolved ethics
+  - date: 2026-11-09
+    body: House Committee on Ethics
+    action: released the Office of Congressional Conduct report and Gooden's response
+    link: https://ethics.house.gov/press-releases/statement-of-the-chairman-and-ranking-member-of-the-committee-on-ethics-regarding-representative-lance-gooden-2/
+  tags: unresolved elections
 - person: 412607
   name: Adams
   allegation: inappropriate relationship with staff member
