@@ -1,3 +1,13 @@
+- person: 456969
+  name: Justice
+  allegation: failure to file a timely annual financial disclosure report for the calendar year 2025
+  text: Sen. Justice was [admonished for failure to file a timely annual financial disclosure report for the calendar year 2025](https://www.ethics.senate.gov/public/_cache/files/15357116-fc28-41a1-954d-a6e52167d7b8/justice---public-letter-of-admonition.pdf) with a public letter from the Senate Select Committee on Ethics.
+  consequences:
+  - date: 2026-11-10
+    body: Senate Select Committee on Ethics
+    action: public letter of admonishment
+    link: https://www.ethics.senate.gov/public/_cache/files/15357116-fc28-41a1-954d-a6e52167d7b8/justice---public-letter-of-admonition.pdf
+  tags: resolved ethics
 - person: 412739
   name: Gomez
   allegation: sexual misconduct 
